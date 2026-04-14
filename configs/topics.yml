@@ -1,0 +1,143 @@
+topics:
+  auto_sales:
+    display: 汽車銷量
+    keywords:
+    - auto sales
+    - 汽車銷量
+    - vehicle sales
+    - car sales
+    - 新車掛牌
+    - 掛牌數
+    - deliveries
+    - 交車
+    - SAAR
+    - seasonally adjusted annual rate
+    sentiment_keywords:
+      positive:
+      - 銷量成長
+      - sales increase
+      - 掛牌成長
+      - 交車量增
+      negative:
+      - 銷量下滑
+      - sales decline
+      - 掛牌衰退
+      - 交車量減
+  ev_penetration:
+    display: 電動車滲透率
+    keywords:
+    - EV penetration
+    - 電動車滲透率
+    - electric vehicle
+    - EV sales
+    - 電動車銷量
+    - BEV
+    - PHEV
+    - 新能源車
+    - NEV
+    - 電動化
+    - charging station
+    - 充電樁
+    sentiment_keywords:
+      positive:
+      - 滲透率提升
+      - penetration increase
+      - 電動車成長
+      negative:
+      - 滲透率下降
+      - penetration decline
+      - 電動車放緩
+  parts_price:
+    display: 零件價格
+    keywords:
+    - parts price
+    - 零件價格
+    - component cost
+    - steel price
+    - 鋼價
+    - rubber price
+    - 橡膠價格
+    - 半導體缺貨
+    - chip shortage
+    - 原材料成本
+    - raw material cost
+    sentiment_keywords:
+      positive:
+      - 成本下降
+      - price decrease
+      - 價格回穩
+      negative:
+      - 成本上漲
+      - price increase
+      - 缺料
+      - 漲價
+  inventory_days:
+    display: 庫存天數
+    keywords:
+    - inventory days
+    - 庫存天數
+    - days supply
+    - dealer inventory
+    - 經銷商庫存
+    - channel inventory
+    - 庫存水位
+    - 去化
+    - destocking
+    sentiment_keywords:
+      positive:
+      - 庫存健康
+      - inventory normal
+      - 去化順利
+      negative:
+      - 庫存偏高
+      - inventory build
+      - 庫存壓力
+  auto_tariff_trade:
+    display: 汽車關稅與貿易
+    keywords:
+    - auto tariff
+    - 汽車關稅
+    - trade war
+    - 貿易戰
+    - import duty
+    - 進口稅
+    - 關稅壁壘
+    - local content
+    - 在地化
+    - USMCA
+    - EU tariff
+    sentiment_keywords:
+      positive:
+      - 關稅降低
+      - tariff reduction
+      - 貿易協定
+      negative:
+      - 關稅提高
+      - tariff increase
+      - 貿易制裁
+  earnings:
+    display: 財報
+    keywords:
+    - 財報
+    - earnings
+    - quarterly results
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+    - 營收
+    - revenue
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin
+  guidance:
+    display: 展望
+    keywords:
+    - 展望
+    - guidance
+    - outlook
+    - forecast
+    - 預測
+    - 下季預估
+    - production forecast

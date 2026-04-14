@@ -1,0 +1,663 @@
+{
+  "companies": [
+    {
+      "id": "nippon_steel",
+      "name": "日本製鐵",
+      "short_name": "新日鐵",
+      "position": "upstream",
+      "role": "鋼鐵",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "posco",
+      "name": "POSCO",
+      "short_name": "浦項鋼鐵",
+      "position": "upstream",
+      "role": "鋼鐵",
+      "x": 0.083,
+      "y": 0.34
+    },
+    {
+      "id": "arcelormittal",
+      "name": "ArcelorMittal",
+      "short_name": "安賽樂米塔爾",
+      "position": "upstream",
+      "role": "鋼鐵",
+      "x": 0.117,
+      "y": 0.34
+    },
+    {
+      "id": "bridgestone",
+      "name": "普利司通",
+      "short_name": "普利司通",
+      "position": "upstream",
+      "role": "輪胎",
+      "x": 0.15,
+      "y": 0.34
+    },
+    {
+      "id": "cheng_shin",
+      "name": "正新橡膠",
+      "short_name": "正新",
+      "position": "upstream",
+      "role": "輪胎",
+      "x": 0.183,
+      "y": 0.34
+    },
+    {
+      "id": "kenda",
+      "name": "建大工業",
+      "short_name": "建大",
+      "position": "upstream",
+      "role": "輪胎",
+      "x": 0.217,
+      "y": 0.34
+    },
+    {
+      "id": "fuyao",
+      "name": "福耀玻璃",
+      "short_name": "福耀",
+      "position": "upstream",
+      "role": "汽車玻璃",
+      "x": 0.25,
+      "y": 0.34
+    },
+    {
+      "id": "saint_gobain",
+      "name": "Saint-Gobain",
+      "short_name": "聖戈班",
+      "position": "upstream",
+      "role": "汽車材料",
+      "x": 0.283,
+      "y": 0.34
+    },
+    {
+      "id": "3m",
+      "name": "3M",
+      "short_name": "明尼蘇達礦業",
+      "position": "upstream",
+      "role": "汽車材料",
+      "x": 0.317,
+      "y": 0.34
+    },
+    {
+      "id": "denso",
+      "name": "電裝",
+      "short_name": "電裝",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.35,
+      "y": 0.34
+    },
+    {
+      "id": "continental",
+      "name": "Continental",
+      "short_name": "大陸集團",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.383,
+      "y": 0.34
+    },
+    {
+      "id": "aptiv",
+      "name": "Aptiv",
+      "short_name": "安波福",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.417,
+      "y": 0.34
+    },
+    {
+      "id": "magna",
+      "name": "Magna International",
+      "short_name": "麥格納",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.45,
+      "y": 0.34
+    },
+    {
+      "id": "hyundai_mobis",
+      "name": "現代摩比斯",
+      "short_name": "現代摩比斯",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.483,
+      "y": 0.34
+    },
+    {
+      "id": "valeo",
+      "name": "Valeo",
+      "short_name": "法雷奧",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.517,
+      "y": 0.34
+    },
+    {
+      "id": "hota",
+      "name": "和大工業",
+      "short_name": "和大",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.55,
+      "y": 0.34
+    },
+    {
+      "id": "tyc",
+      "name": "東陽實業",
+      "short_name": "東陽",
+      "position": "midstream",
+      "role": "汽車零件",
+      "x": 0.583,
+      "y": 0.34
+    },
+    {
+      "id": "toyota",
+      "name": "豐田汽車",
+      "short_name": "豐田汽車",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.617,
+      "y": 0.34
+    },
+    {
+      "id": "volkswagen",
+      "name": "福斯汽車",
+      "short_name": "大眾",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.65,
+      "y": 0.34
+    },
+    {
+      "id": "gm",
+      "name": "General Motors",
+      "short_name": "通用汽車",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.683,
+      "y": 0.34
+    },
+    {
+      "id": "ford",
+      "name": "Ford Motor",
+      "short_name": "福特",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.717,
+      "y": 0.34
+    },
+    {
+      "id": "hyundai",
+      "name": "現代汽車",
+      "short_name": "現代汽車",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.75,
+      "y": 0.34
+    },
+    {
+      "id": "byd",
+      "name": "比亞迪",
+      "short_name": "比亚迪",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.783,
+      "y": 0.34
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "short_name": "特斯拉",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.817,
+      "y": 0.34
+    },
+    {
+      "id": "stellantis",
+      "name": "Stellantis",
+      "short_name": "斯泰蘭蒂斯",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.85,
+      "y": 0.34
+    },
+    {
+      "id": "honda",
+      "name": "本田汽車",
+      "short_name": "本田汽車",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.883,
+      "y": 0.34
+    },
+    {
+      "id": "yulon",
+      "name": "裕隆汽車",
+      "short_name": "裕隆",
+      "position": "downstream",
+      "role": "車廠",
+      "x": 0.917,
+      "y": 0.34
+    },
+    {
+      "id": "hotai",
+      "name": "和泰汽車",
+      "short_name": "和泰",
+      "position": "downstream",
+      "role": "汽車經銷",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "nippon_steel",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "honda",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "nippon_steel",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "posco",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "posco",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "posco",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "posco",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "posco",
+      "target": "byd",
+      "strength": 2
+    },
+    {
+      "source": "arcelormittal",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "arcelormittal",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "arcelormittal",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "arcelormittal",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "arcelormittal",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "bridgestone",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "bridgestone",
+      "target": "honda",
+      "strength": 2
+    },
+    {
+      "source": "bridgestone",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "bridgestone",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "bridgestone",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "bridgestone",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "bridgestone",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "cheng_shin",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "cheng_shin",
+      "target": "honda",
+      "strength": 2
+    },
+    {
+      "source": "cheng_shin",
+      "target": "yulon",
+      "strength": 2
+    },
+    {
+      "source": "cheng_shin",
+      "target": "hotai",
+      "strength": 2
+    },
+    {
+      "source": "kenda",
+      "target": "yulon",
+      "strength": 2
+    },
+    {
+      "source": "kenda",
+      "target": "hotai",
+      "strength": 2
+    },
+    {
+      "source": "fuyao",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "fuyao",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "fuyao",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "fuyao",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "fuyao",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "fuyao",
+      "target": "byd",
+      "strength": 2
+    },
+    {
+      "source": "fuyao",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "saint_gobain",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "3m",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "3m",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "3m",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "3m",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "3m",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "3m",
+      "target": "byd",
+      "strength": 2
+    },
+    {
+      "source": "denso",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "denso",
+      "target": "honda",
+      "strength": 2
+    },
+    {
+      "source": "denso",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "denso",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "continental",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "continental",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "continental",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "continental",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "continental",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "aptiv",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "aptiv",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "aptiv",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "aptiv",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "aptiv",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "magna",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "magna",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "magna",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "magna",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "magna",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "magna",
+      "target": "byd",
+      "strength": 2
+    },
+    {
+      "source": "hyundai_mobis",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "valeo",
+      "target": "volkswagen",
+      "strength": 2
+    },
+    {
+      "source": "valeo",
+      "target": "stellantis",
+      "strength": 2
+    },
+    {
+      "source": "valeo",
+      "target": "toyota",
+      "strength": 2
+    },
+    {
+      "source": "valeo",
+      "target": "hyundai",
+      "strength": 2
+    },
+    {
+      "source": "hota",
+      "target": "tesla",
+      "strength": 2
+    },
+    {
+      "source": "hota",
+      "target": "gm",
+      "strength": 2
+    },
+    {
+      "source": "hota",
+      "target": "ford",
+      "strength": 2
+    },
+    {
+      "source": "tyc",
+      "target": "yulon",
+      "strength": 2
+    },
+    {
+      "source": "tyc",
+      "target": "hotai",
+      "strength": 2
+    },
+    {
+      "source": "tyc",
+      "target": "toyota",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_carz_etf",
+      "name": "First Trust S-Network Future Vehicles & Technology ETF",
+      "ticker": "CARZ",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "全球汽車與未來交通科技 ETF"
+    }
+  ]
+}

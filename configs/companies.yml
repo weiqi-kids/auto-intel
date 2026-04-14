@@ -1,0 +1,549 @@
+companies:
+- id: nippon_steel
+  name: 日本製鐵
+  aliases:
+  - Nippon Steel
+  - 新日鐵
+  ticker: 5401.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 鋼鐵
+  description: 全球最大鋼鐵製造商之一，車用鋼板主要供應商
+  ir_url: https://www.nipponsteel.com/ir/
+  downstream:
+  - toyota
+  - honda
+  - hyundai
+  - volkswagen
+  - gm
+  - ford
+  - stellantis
+- id: posco
+  name: POSCO
+  aliases:
+  - 浦項鋼鐵
+  - 포스코
+  ticker: 005490.KS
+  market: KRX
+  currency: KRW
+  position: upstream
+  role: 鋼鐵
+  description: 韓國最大鋼鐵製造商，車用鋼板與電池材料
+  ir_url: https://www.posco.co.kr/homepage/docs/eng6/jsp/ir/
+  downstream:
+  - hyundai
+  - toyota
+  - gm
+  - ford
+  - byd
+- id: arcelormittal
+  name: ArcelorMittal
+  aliases:
+  - 安賽樂米塔爾
+  ticker: MT
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 鋼鐵
+  description: 全球最大鋼鐵製造商
+  ir_url: https://corporate.arcelormittal.com/investors
+  downstream:
+  - gm
+  - ford
+  - stellantis
+  - volkswagen
+  - toyota
+- id: bridgestone
+  name: 普利司通
+  aliases:
+  - Bridgestone
+  - ブリヂストン
+  ticker: 5108.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 輪胎
+  description: 全球最大輪胎製造商
+  ir_url: https://www.bridgestone.com/ir/
+  downstream:
+  - toyota
+  - honda
+  - gm
+  - ford
+  - volkswagen
+  - hyundai
+  - stellantis
+- id: cheng_shin
+  name: 正新橡膠
+  aliases:
+  - Cheng Shin Rubber
+  - 正新
+  - Maxxis
+  ticker: 2105.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 輪胎
+  description: 台灣最大輪胎廠，Maxxis 品牌
+  ir_url: null
+  downstream:
+  - toyota
+  - honda
+  - yulon
+  - hotai
+- id: kenda
+  name: 建大工業
+  aliases:
+  - Kenda Rubber
+  - 建大
+  ticker: 2106.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 輪胎
+  description: 台灣輪胎製造商
+  ir_url: null
+  downstream:
+  - yulon
+  - hotai
+- id: fuyao
+  name: 福耀玻璃
+  aliases:
+  - Fuyao Glass
+  - 福耀
+  ticker: 600660.SS
+  market: SSE
+  currency: CNY
+  position: upstream
+  role: 汽車玻璃
+  description: 全球最大汽車玻璃製造商
+  ir_url: null
+  downstream:
+  - toyota
+  - volkswagen
+  - gm
+  - ford
+  - hyundai
+  - byd
+  - tesla
+- id: saint_gobain
+  name: Saint-Gobain
+  aliases:
+  - 聖戈班
+  ticker: SGO.PA
+  market: Euronext
+  currency: EUR
+  position: upstream
+  role: 汽車材料
+  description: 高性能材料與汽車玻璃供應商
+  ir_url: https://www.saint-gobain.com/en/investors
+  downstream:
+  - volkswagen
+  - stellantis
+  - gm
+  - ford
+  - toyota
+- id: 3m
+  name: 3M
+  aliases:
+  - 明尼蘇達礦業
+  ticker: MMM
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 汽車材料
+  description: 多元化材料公司，供應汽車用膠帶、隔熱材料等
+  ir_url: https://investors.3m.com/
+  downstream:
+  - gm
+  - ford
+  - toyota
+  - volkswagen
+  - tesla
+  - byd
+- id: denso
+  name: 電裝
+  aliases:
+  - Denso
+  - デンソー
+  ticker: 6902.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 汽車零件
+  description: 全球最大汽車零件供應商，豐田系
+  ir_url: https://www.denso.com/global/en/investors/
+  upstream:
+  - nippon_steel
+  - bridgestone
+  downstream:
+  - toyota
+  - honda
+  - gm
+  - ford
+- id: continental
+  name: Continental
+  aliases:
+  - 大陸集團
+  - 馬牌
+  ticker: CON.DE
+  market: XETRA
+  currency: EUR
+  position: midstream
+  role: 汽車零件
+  description: 德國汽車零件與輪胎大廠
+  ir_url: https://www.continental.com/en/investors/
+  upstream:
+  - nippon_steel
+  - arcelormittal
+  downstream:
+  - volkswagen
+  - stellantis
+  - gm
+  - ford
+  - toyota
+- id: aptiv
+  name: Aptiv
+  aliases:
+  - 安波福
+  - Delphi
+  ticker: APTV
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 汽車零件
+  description: 汽車電氣化與自動駕駛零件
+  ir_url: https://ir.aptiv.com/
+  upstream:
+  - nippon_steel
+  downstream:
+  - gm
+  - ford
+  - volkswagen
+  - stellantis
+  - toyota
+- id: magna
+  name: Magna International
+  aliases:
+  - 麥格納
+  ticker: MGA
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 汽車零件
+  description: 全球最大汽車零件代工商
+  ir_url: https://www.magna.com/investors
+  upstream:
+  - nippon_steel
+  - arcelormittal
+  downstream:
+  - gm
+  - ford
+  - volkswagen
+  - stellantis
+  - toyota
+  - byd
+- id: hyundai_mobis
+  name: 現代摩比斯
+  aliases:
+  - Hyundai Mobis
+  - 현대모비스
+  ticker: 012330.KS
+  market: KRX
+  currency: KRW
+  position: midstream
+  role: 汽車零件
+  description: 現代集團汽車模組與零件供應商
+  ir_url: https://www.mobis.co.kr/en/ir/
+  upstream:
+  - posco
+  downstream:
+  - hyundai
+- id: valeo
+  name: Valeo
+  aliases:
+  - 法雷奧
+  ticker: FR.PA
+  market: Euronext
+  currency: EUR
+  position: midstream
+  role: 汽車零件
+  description: 法國汽車零件供應商，專注電氣化與ADAS
+  ir_url: https://www.valeo.com/en/investors/
+  upstream:
+  - arcelormittal
+  downstream:
+  - volkswagen
+  - stellantis
+  - toyota
+  - hyundai
+- id: hota
+  name: 和大工業
+  aliases:
+  - Hota Industrial
+  - 和大
+  ticker: 1536.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 汽車零件
+  description: 台灣汽車傳動零件廠，Tesla 供應鏈
+  ir_url: null
+  upstream:
+  - nippon_steel
+  downstream:
+  - tesla
+  - gm
+  - ford
+- id: tyc
+  name: 東陽實業
+  aliases:
+  - TYC Brother
+  - 東陽
+  ticker: 1319.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 汽車零件
+  description: 台灣汽車塑膠零件大廠
+  ir_url: null
+  upstream: []
+  downstream:
+  - yulon
+  - hotai
+  - toyota
+- id: toyota
+  name: 豐田汽車
+  aliases:
+  - Toyota
+  - トヨタ
+  ticker: 7203.T
+  market: TSE
+  currency: JPY
+  position: downstream
+  role: 車廠
+  description: 全球最大汽車製造商
+  ir_url: https://global.toyota/en/ir/
+  upstream:
+  - nippon_steel
+  - bridgestone
+  - cheng_shin
+  - fuyao
+  - saint_gobain
+  - 3m
+  - denso
+  - continental
+  - aptiv
+  - magna
+  - valeo
+  - tyc
+- id: volkswagen
+  name: 福斯汽車
+  aliases:
+  - Volkswagen
+  - VW
+  - 大眾
+  ticker: VOW3.DE
+  market: XETRA
+  currency: EUR
+  position: downstream
+  role: 車廠
+  description: 歐洲最大汽車集團
+  ir_url: https://www.volkswagen-group.com/en/investors
+  upstream:
+  - nippon_steel
+  - arcelormittal
+  - fuyao
+  - saint_gobain
+  - 3m
+  - continental
+  - aptiv
+  - magna
+  - valeo
+- id: gm
+  name: General Motors
+  aliases:
+  - GM
+  - 通用汽車
+  ticker: GM
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 車廠
+  description: 美國最大汽車製造商
+  ir_url: https://investor.gm.com/
+  upstream:
+  - nippon_steel
+  - posco
+  - arcelormittal
+  - bridgestone
+  - fuyao
+  - saint_gobain
+  - 3m
+  - denso
+  - continental
+  - aptiv
+  - magna
+  - hota
+- id: ford
+  name: Ford Motor
+  aliases:
+  - Ford
+  - 福特
+  ticker: F
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 車廠
+  description: 美國第二大汽車製造商
+  ir_url: https://shareholder.ford.com/
+  upstream:
+  - nippon_steel
+  - arcelormittal
+  - bridgestone
+  - fuyao
+  - saint_gobain
+  - 3m
+  - denso
+  - continental
+  - aptiv
+  - magna
+  - hota
+- id: hyundai
+  name: 現代汽車
+  aliases:
+  - Hyundai Motor
+  - 현대자동차
+  ticker: 005380.KS
+  market: KRX
+  currency: KRW
+  position: downstream
+  role: 車廠
+  description: 韓國最大汽車製造商
+  ir_url: https://www.hyundai.com/worldwide/en/company/ir
+  upstream:
+  - posco
+  - bridgestone
+  - fuyao
+  - hyundai_mobis
+  - valeo
+- id: byd
+  name: 比亞迪
+  aliases:
+  - BYD
+  - 比亚迪
+  ticker: 1211.HK
+  market: HKEX
+  currency: HKD
+  position: downstream
+  role: 車廠
+  description: 中國最大電動車製造商
+  ir_url: https://www.byd.com/en/InvestorRelations.html
+  upstream:
+  - posco
+  - fuyao
+  - 3m
+  - magna
+- id: tesla
+  name: Tesla
+  aliases:
+  - 特斯拉
+  ticker: TSLA
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 車廠
+  description: 全球電動車領導品牌
+  ir_url: https://ir.tesla.com/
+  upstream:
+  - fuyao
+  - 3m
+  - hota
+- id: stellantis
+  name: Stellantis
+  aliases:
+  - 斯泰蘭蒂斯
+  ticker: STLA
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 車廠
+  description: 全球第四大汽車集團（FCA+PSA）
+  ir_url: https://www.stellantis.com/en/investors
+  upstream:
+  - nippon_steel
+  - arcelormittal
+  - bridgestone
+  - saint_gobain
+  - continental
+  - aptiv
+  - magna
+  - valeo
+- id: honda
+  name: 本田汽車
+  aliases:
+  - Honda
+  - ホンダ
+  ticker: 7267.T
+  market: TSE
+  currency: JPY
+  position: downstream
+  role: 車廠
+  description: 日本第二大汽車製造商
+  ir_url: https://www.honda.co.jp/investors/
+  upstream:
+  - nippon_steel
+  - bridgestone
+  - cheng_shin
+  - denso
+- id: yulon
+  name: 裕隆汽車
+  aliases:
+  - Yulon Motor
+  - 裕隆
+  ticker: 2201.TW
+  market: TWSE
+  currency: TWD
+  position: downstream
+  role: 車廠
+  description: 台灣汽車製造商，納智捷品牌
+  ir_url: null
+  upstream:
+  - cheng_shin
+  - kenda
+  - tyc
+- id: hotai
+  name: 和泰汽車
+  aliases:
+  - Hotai Motor
+  - 和泰
+  ticker: 2207.TW
+  market: TWSE
+  currency: TWD
+  position: downstream
+  role: 汽車經銷
+  description: 台灣 Toyota 總代理
+  ir_url: null
+  upstream:
+  - cheng_shin
+  - kenda
+  - tyc
+etfs:
+- id: carz_etf
+  name: First Trust S-Network Future Vehicles & Technology ETF
+  ticker: CARZ
+  market: NASDAQ
+  currency: USD
+  description: 全球汽車與未來交通科技 ETF
+supply_chain_positions:
+  upstream:
+  - 鋼鐵
+  - 輪胎
+  - 汽車玻璃
+  - 汽車材料
+  midstream:
+  - 汽車零件
+  downstream:
+  - 車廠
+  - 汽車經銷
