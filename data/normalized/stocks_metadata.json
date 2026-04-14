@@ -1,147 +1,147 @@
 {
   "nippon_steel": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 240
   },
   "posco": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 238
   },
   "arcelormittal": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "bridgestone": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 240
   },
   "cheng_shin": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 176
+    "count": 238
   },
   "kenda": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 176
+    "count": 238
   },
   "fuyao": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 178
+    "count": 238
   },
   "saint_gobain": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-22",
     "latest": "2026-04-14",
-    "count": 188
+    "count": 250
   },
   "3m": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "denso": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 240
   },
   "continental": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-22",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 248
   },
   "aptiv": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "magna": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "hyundai_mobis": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 238
   },
   "valeo": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-22",
     "latest": "2026-04-14",
-    "count": 188
+    "count": 250
   },
   "hota": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 176
+    "count": 238
   },
   "tyc": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 176
+    "count": 238
   },
   "toyota": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 240
   },
   "volkswagen": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-22",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 248
   },
   "gm": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "ford": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "hyundai": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 238
   },
   "byd": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-22",
     "latest": "2026-04-14",
-    "count": 181
+    "count": 241
   },
   "tesla": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "stellantis": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   },
   "honda": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 179
+    "count": 240
   },
   "yulon": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 176
+    "count": 238
   },
   "hotai": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 176
+    "count": 238
   },
   "etf_carz_etf": {
-    "earliest": "2025-07-18",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 186
+    "count": 247
   }
 }
