@@ -1,0 +1,156 @@
+{
+  "company_count": 28,
+  "topic_count": 7,
+  "alias_count": 73,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "nippon_steel",
+      "short_name": "日本製鐵",
+      "tier": ""
+    },
+    {
+      "id": "posco",
+      "short_name": "POSCO",
+      "tier": ""
+    },
+    {
+      "id": "arcelormittal",
+      "short_name": "ArcelorMittal",
+      "tier": ""
+    },
+    {
+      "id": "bridgestone",
+      "short_name": "普利司通",
+      "tier": ""
+    },
+    {
+      "id": "cheng_shin",
+      "short_name": "正新橡膠",
+      "tier": ""
+    },
+    {
+      "id": "kenda",
+      "short_name": "建大工業",
+      "tier": ""
+    },
+    {
+      "id": "fuyao",
+      "short_name": "福耀玻璃",
+      "tier": ""
+    },
+    {
+      "id": "saint_gobain",
+      "short_name": "Saint-Gobain",
+      "tier": ""
+    },
+    {
+      "id": "3m",
+      "short_name": "3M",
+      "tier": ""
+    },
+    {
+      "id": "denso",
+      "short_name": "電裝",
+      "tier": ""
+    },
+    {
+      "id": "continental",
+      "short_name": "Continental",
+      "tier": ""
+    },
+    {
+      "id": "aptiv",
+      "short_name": "Aptiv",
+      "tier": ""
+    },
+    {
+      "id": "magna",
+      "short_name": "Magna International",
+      "tier": ""
+    },
+    {
+      "id": "hyundai_mobis",
+      "short_name": "現代摩比斯",
+      "tier": ""
+    },
+    {
+      "id": "valeo",
+      "short_name": "Valeo",
+      "tier": ""
+    },
+    {
+      "id": "hota",
+      "short_name": "和大工業",
+      "tier": ""
+    },
+    {
+      "id": "tyc",
+      "short_name": "東陽實業",
+      "tier": ""
+    },
+    {
+      "id": "toyota",
+      "short_name": "豐田汽車",
+      "tier": ""
+    },
+    {
+      "id": "volkswagen",
+      "short_name": "福斯汽車",
+      "tier": ""
+    },
+    {
+      "id": "gm",
+      "short_name": "General Motors",
+      "tier": ""
+    },
+    {
+      "id": "ford",
+      "short_name": "Ford Motor",
+      "tier": ""
+    },
+    {
+      "id": "hyundai",
+      "short_name": "現代汽車",
+      "tier": ""
+    },
+    {
+      "id": "byd",
+      "short_name": "比亞迪",
+      "tier": ""
+    },
+    {
+      "id": "tesla",
+      "short_name": "Tesla",
+      "tier": ""
+    },
+    {
+      "id": "stellantis",
+      "short_name": "Stellantis",
+      "tier": ""
+    },
+    {
+      "id": "honda",
+      "short_name": "本田汽車",
+      "tier": ""
+    },
+    {
+      "id": "yulon",
+      "short_name": "裕隆汽車",
+      "tier": ""
+    },
+    {
+      "id": "hotai",
+      "short_name": "和泰汽車",
+      "tier": ""
+    }
+  ]
+}
