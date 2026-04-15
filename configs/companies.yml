@@ -373,6 +373,7 @@ companies:
   role: 車廠
   description: 美國最大汽車製造商
   ir_url: https://investor.gm.com/
+  rss_url: https://investor.gm.com/rss/news-releases.xml
   upstream:
   - nippon_steel
   - posco
