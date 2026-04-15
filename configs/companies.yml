@@ -11,6 +11,7 @@ companies:
   role: 鋼鐵
   description: 全球最大鋼鐵製造商之一，車用鋼板主要供應商
   ir_url: https://www.nipponsteel.com/ir/
+  rss_url: https://news.google.com/rss/search?q="Nippon+Steel"&hl=en&gl=US&ceid=US:en
   downstream:
   - toyota
   - honda
@@ -31,6 +32,7 @@ companies:
   role: 鋼鐵
   description: 韓國最大鋼鐵製造商，車用鋼板與電池材料
   ir_url: https://www.posco.co.kr/homepage/docs/eng6/jsp/ir/
+  rss_url: https://news.google.com/rss/search?q="POSCO"+steel&hl=en&gl=US&ceid=US:en
   downstream:
   - hyundai
   - toyota
@@ -48,6 +50,7 @@ companies:
   role: 鋼鐵
   description: 全球最大鋼鐵製造商
   ir_url: https://corporate.arcelormittal.com/investors
+  rss_url: https://news.google.com/rss/search?q="ArcelorMittal"&hl=en&gl=US&ceid=US:en
   downstream:
   - gm
   - ford
@@ -66,6 +69,7 @@ companies:
   role: 輪胎
   description: 全球最大輪胎製造商
   ir_url: https://www.bridgestone.com/ir/
+  rss_url: https://news.google.com/rss/search?q="Bridgestone"&hl=en&gl=US&ceid=US:en
   downstream:
   - toyota
   - honda
@@ -87,6 +91,7 @@ companies:
   role: 輪胎
   description: 台灣最大輪胎廠，Maxxis 品牌
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Cheng+Shin+Rubber"&hl=en&gl=US&ceid=US:en
   downstream:
   - toyota
   - honda
@@ -104,6 +109,7 @@ companies:
   role: 輪胎
   description: 台灣輪胎製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Kenda+Rubber"&hl=en&gl=US&ceid=US:en
   downstream:
   - yulon
   - hotai
@@ -119,6 +125,7 @@ companies:
   role: 汽車玻璃
   description: 全球最大汽車玻璃製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Fuyao+Glass"&hl=en&gl=US&ceid=US:en
   downstream:
   - toyota
   - volkswagen
@@ -138,6 +145,7 @@ companies:
   role: 汽車材料
   description: 高性能材料與汽車玻璃供應商
   ir_url: https://www.saint-gobain.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Saint-Gobain"&hl=en&gl=US&ceid=US:en
   downstream:
   - volkswagen
   - stellantis
@@ -155,6 +163,7 @@ companies:
   role: 汽車材料
   description: 多元化材料公司，供應汽車用膠帶、隔熱材料等
   ir_url: https://investors.3m.com/
+  rss_url: https://news.google.com/rss/search?q="3M"+automotive+materials&hl=en&gl=US&ceid=US:en
   downstream:
   - gm
   - ford
@@ -174,6 +183,7 @@ companies:
   role: 汽車零件
   description: 全球最大汽車零件供應商，豐田系
   ir_url: https://www.denso.com/global/en/investors/
+  rss_url: https://news.google.com/rss/search?q="Denso"+auto+parts&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - bridgestone
@@ -194,6 +204,7 @@ companies:
   role: 汽車零件
   description: 德國汽車零件與輪胎大廠
   ir_url: https://www.continental.com/en/investors/
+  rss_url: https://news.google.com/rss/search?q="Continental"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - arcelormittal
@@ -215,6 +226,7 @@ companies:
   role: 汽車零件
   description: 汽車電氣化與自動駕駛零件
   ir_url: https://ir.aptiv.com/
+  rss_url: https://news.google.com/rss/search?q="Aptiv"+auto+parts&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   downstream:
@@ -234,6 +246,7 @@ companies:
   role: 汽車零件
   description: 全球最大汽車零件代工商
   ir_url: https://www.magna.com/investors
+  rss_url: https://news.google.com/rss/search?q="Magna+International"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - arcelormittal
@@ -256,6 +269,7 @@ companies:
   role: 汽車零件
   description: 現代集團汽車模組與零件供應商
   ir_url: https://www.mobis.co.kr/en/ir/
+  rss_url: https://news.google.com/rss/search?q="Hyundai+Mobis"&hl=en&gl=US&ceid=US:en
   upstream:
   - posco
   downstream:
@@ -271,6 +285,7 @@ companies:
   role: 汽車零件
   description: 法國汽車零件供應商，專注電氣化與ADAS
   ir_url: https://www.valeo.com/en/investors/
+  rss_url: https://news.google.com/rss/search?q="Valeo"+auto+parts&hl=en&gl=US&ceid=US:en
   upstream:
   - arcelormittal
   downstream:
@@ -290,6 +305,7 @@ companies:
   role: 汽車零件
   description: 台灣汽車傳動零件廠，Tesla 供應鏈
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Hota+Industrial"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   downstream:
@@ -308,6 +324,7 @@ companies:
   role: 汽車零件
   description: 台灣汽車塑膠零件大廠
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="TYC+Brother"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream:
   - yulon
@@ -325,6 +342,7 @@ companies:
   role: 車廠
   description: 全球最大汽車製造商
   ir_url: https://global.toyota/en/ir/
+  rss_url: https://news.google.com/rss/search?q="Toyota"+automaker&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - bridgestone
@@ -351,6 +369,7 @@ companies:
   role: 車廠
   description: 歐洲最大汽車集團
   ir_url: https://www.volkswagen-group.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Volkswagen"+automaker&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - arcelormittal
@@ -399,6 +418,7 @@ companies:
   role: 車廠
   description: 美國第二大汽車製造商
   ir_url: https://shareholder.ford.com/
+  rss_url: https://news.google.com/rss/search?q="Ford+Motor"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - arcelormittal
@@ -423,6 +443,7 @@ companies:
   role: 車廠
   description: 韓國最大汽車製造商
   ir_url: https://www.hyundai.com/worldwide/en/company/ir
+  rss_url: https://news.google.com/rss/search?q="Hyundai+Motor"&hl=en&gl=US&ceid=US:en
   upstream:
   - posco
   - bridgestone
@@ -441,6 +462,7 @@ companies:
   role: 車廠
   description: 中國最大電動車製造商
   ir_url: https://www.byd.com/en/InvestorRelations.html
+  rss_url: https://news.google.com/rss/search?q="BYD"+automaker&hl=en&gl=US&ceid=US:en
   upstream:
   - posco
   - fuyao
@@ -457,6 +479,7 @@ companies:
   role: 車廠
   description: 全球電動車領導品牌
   ir_url: https://ir.tesla.com/
+  rss_url: https://news.google.com/rss/search?q="Tesla"+automaker&hl=en&gl=US&ceid=US:en
   upstream:
   - fuyao
   - 3m
@@ -472,6 +495,7 @@ companies:
   role: 車廠
   description: 全球第四大汽車集團（FCA+PSA）
   ir_url: https://www.stellantis.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Stellantis"&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - arcelormittal
@@ -493,6 +517,7 @@ companies:
   role: 車廠
   description: 日本第二大汽車製造商
   ir_url: https://www.honda.co.jp/investors/
+  rss_url: https://news.google.com/rss/search?q="Honda"+automaker&hl=en&gl=US&ceid=US:en
   upstream:
   - nippon_steel
   - bridgestone
@@ -510,6 +535,7 @@ companies:
   role: 車廠
   description: 台灣汽車製造商，納智捷品牌
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Yulon+Motor"&hl=en&gl=US&ceid=US:en
   upstream:
   - cheng_shin
   - kenda
@@ -526,6 +552,7 @@ companies:
   role: 汽車經銷
   description: 台灣 Toyota 總代理
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Hotai+Motor"&hl=en&gl=US&ceid=US:en
   upstream:
   - cheng_shin
   - kenda
