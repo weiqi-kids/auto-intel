@@ -1,15 +1,60 @@
 {
   "date": "2026-04-15",
-  "total_events": 3,
-  "by_company": {},
-  "by_topic": {
-    "earnings": {
-      "count": 2,
+  "total_events": 44,
+  "by_company": {
+    "nippon_steel": {
+      "count": 1,
       "sentiment_avg": 0.0
     },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 11,
+      "sentiment_avg": -0.09
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 40,
+      "sentiment_avg": -0.03
+    },
     "ev_penetration": {
+      "count": 9,
+      "sentiment_avg": 0.22
+    },
+    "auto_sales": {
       "count": 2,
-      "sentiment_avg": 0.5
+      "sentiment_avg": 0.0
     }
   },
   "baselines_used": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:27:03.516821+00:00",
+  "updated_at": "2026-04-15T12:01:59.988368+00:00",
   "companies": {
     "nippon_steel": {
       "name": "日本製鐵",
@@ -208,7 +208,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 152991,
           "pct_held": 0.08,
-          "value": 9877098
+          "value": 9843440
         }
       ]
     },
@@ -355,7 +355,7 @@
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 1798,
           "pct_held": 0.0,
-          "value": 20119
+          "value": 20011
         }
       ]
     },
@@ -387,7 +387,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 376,
           "pct_held": 0.0,
-          "value": 34208
+          "value": 34163
         }
       ]
     },
