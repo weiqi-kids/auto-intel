@@ -6,8 +6,8 @@
       "short_name": "新日鐵",
       "position": "upstream",
       "role": "鋼鐵",
-      "x": 0.08,
-      "y": 0.06
+      "x": 0.05,
+      "y": 0.04
     },
     {
       "id": "posco",
@@ -15,8 +15,8 @@
       "short_name": "浦項鋼鐵",
       "position": "upstream",
       "role": "鋼鐵",
-      "x": 0.248,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.04
     },
     {
       "id": "arcelormittal",
@@ -24,8 +24,8 @@
       "short_name": "安賽樂米塔爾",
       "position": "upstream",
       "role": "鋼鐵",
-      "x": 0.416,
-      "y": 0.06
+      "x": 0.95,
+      "y": 0.04
     },
     {
       "id": "bridgestone",
@@ -33,8 +33,8 @@
       "short_name": "普利司通",
       "position": "upstream",
       "role": "輪胎",
-      "x": 0.584,
-      "y": 0.06
+      "x": 0.05,
+      "y": 0.13
     },
     {
       "id": "cheng_shin",
@@ -42,8 +42,8 @@
       "short_name": "正新",
       "position": "upstream",
       "role": "輪胎",
-      "x": 0.752,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.13
     },
     {
       "id": "kenda",
@@ -51,8 +51,8 @@
       "short_name": "建大",
       "position": "upstream",
       "role": "輪胎",
-      "x": 0.92,
-      "y": 0.06
+      "x": 0.95,
+      "y": 0.13
     },
     {
       "id": "fuyao",
@@ -60,8 +60,8 @@
       "short_name": "福耀",
       "position": "upstream",
       "role": "汽車玻璃",
-      "x": 0.08,
-      "y": 0.28
+      "x": 0.5,
+      "y": 0.21
     },
     {
       "id": "saint_gobain",
@@ -69,8 +69,8 @@
       "short_name": "聖戈班",
       "position": "upstream",
       "role": "汽車材料",
-      "x": 0.5,
-      "y": 0.28
+      "x": 0.05,
+      "y": 0.3
     },
     {
       "id": "3m",
@@ -78,8 +78,8 @@
       "short_name": "明尼蘇達礦業",
       "position": "upstream",
       "role": "汽車材料",
-      "x": 0.92,
-      "y": 0.28
+      "x": 0.95,
+      "y": 0.3
     },
     {
       "id": "denso",
@@ -87,8 +87,8 @@
       "short_name": "電裝",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.08,
-      "y": 0.36
+      "x": 0.05,
+      "y": 0.5
     },
     {
       "id": "continental",
@@ -96,8 +96,8 @@
       "short_name": "大陸集團",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.248,
-      "y": 0.36
+      "x": 0.179,
+      "y": 0.5
     },
     {
       "id": "aptiv",
@@ -105,8 +105,8 @@
       "short_name": "安波福",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.416,
-      "y": 0.36
+      "x": 0.307,
+      "y": 0.5
     },
     {
       "id": "magna",
@@ -114,8 +114,8 @@
       "short_name": "麥格納",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.584,
-      "y": 0.36
+      "x": 0.436,
+      "y": 0.5
     },
     {
       "id": "hyundai_mobis",
@@ -123,8 +123,8 @@
       "short_name": "現代摩比斯",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.752,
-      "y": 0.36
+      "x": 0.564,
+      "y": 0.5
     },
     {
       "id": "valeo",
@@ -132,8 +132,8 @@
       "short_name": "法雷奧",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.92,
-      "y": 0.36
+      "x": 0.693,
+      "y": 0.5
     },
     {
       "id": "hota",
@@ -141,8 +141,8 @@
       "short_name": "和大",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.08,
-      "y": 0.64
+      "x": 0.821,
+      "y": 0.5
     },
     {
       "id": "tyc",
@@ -150,8 +150,8 @@
       "short_name": "東陽",
       "position": "midstream",
       "role": "汽車零件",
-      "x": 0.92,
-      "y": 0.64
+      "x": 0.95,
+      "y": 0.5
     },
     {
       "id": "toyota",
@@ -159,8 +159,8 @@
       "short_name": "豐田汽車",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.08,
-      "y": 0.72
+      "x": 0.05,
+      "y": 0.7
     },
     {
       "id": "volkswagen",
@@ -168,8 +168,8 @@
       "short_name": "大眾",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.248,
-      "y": 0.72
+      "x": 0.15,
+      "y": 0.7
     },
     {
       "id": "gm",
@@ -177,8 +177,8 @@
       "short_name": "通用汽車",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.416,
-      "y": 0.72
+      "x": 0.25,
+      "y": 0.7
     },
     {
       "id": "ford",
@@ -186,8 +186,8 @@
       "short_name": "福特",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.584,
-      "y": 0.72
+      "x": 0.35,
+      "y": 0.7
     },
     {
       "id": "hyundai",
@@ -195,8 +195,8 @@
       "short_name": "現代汽車",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.752,
-      "y": 0.72
+      "x": 0.45,
+      "y": 0.7
     },
     {
       "id": "byd",
@@ -204,8 +204,8 @@
       "short_name": "比亚迪",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.92,
-      "y": 0.72
+      "x": 0.55,
+      "y": 0.7
     },
     {
       "id": "tesla",
@@ -213,8 +213,8 @@
       "short_name": "特斯拉",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.08,
-      "y": 0.94
+      "x": 0.65,
+      "y": 0.7
     },
     {
       "id": "stellantis",
@@ -222,8 +222,8 @@
       "short_name": "斯泰蘭蒂斯",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.29,
-      "y": 0.94
+      "x": 0.75,
+      "y": 0.7
     },
     {
       "id": "honda",
@@ -231,8 +231,8 @@
       "short_name": "本田汽車",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.5,
-      "y": 0.94
+      "x": 0.85,
+      "y": 0.7
     },
     {
       "id": "yulon",
@@ -240,8 +240,8 @@
       "short_name": "裕隆",
       "position": "downstream",
       "role": "車廠",
-      "x": 0.71,
-      "y": 0.94
+      "x": 0.95,
+      "y": 0.7
     },
     {
       "id": "hotai",
@@ -249,8 +249,8 @@
       "short_name": "和泰",
       "position": "downstream",
       "role": "汽車經銷",
-      "x": 0.92,
-      "y": 0.94
+      "x": 0.5,
+      "y": 0.96
     }
   ],
   "links": [
@@ -652,9 +652,12 @@
   ],
   "etfs": [
     {
-      "id": "carz_etf",
+      "id": "etf_carz_etf",
       "name": "First Trust S-Network Future Vehicles & Technology ETF",
-      "ticker": "CARZ"
+      "ticker": "CARZ",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "全球汽車與未來交通科技 ETF"
     }
   ]
 }

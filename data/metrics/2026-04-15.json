@@ -1,8 +1,17 @@
 {
   "date": "2026-04-15",
-  "total_events": 0,
+  "total_events": 3,
   "by_company": {},
-  "by_topic": {},
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}
