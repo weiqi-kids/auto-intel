@@ -1,0 +1,190 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T09:01:31.765087Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-04-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Oita FC - Veroskronos Tsuno, 19/04/2026 - Kyushu Soccer League - Match sheet - Transfermarkt",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-04-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO International stock (KR7047050000): Is its trading diversification strong enough to unlock ste - AD HOC NEWS",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "bridgestone-2026-04-19-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone Corp stock (JP3830800003): Is its tire dominance strong enough to unlock new upside? - AD HOC NEWS",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "cheng_shin-2026-04-19-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cheng Shin Rubber Ind stock (TW0002105007): Is its tire dominance strong enough to unlock new upside - AD HOC NEWS",
+      "companies": [
+        "cheng_shin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-04-19-025",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Union Demands 30% of Net Profit as Performance Bonus - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "posco",
+        "count": 1
+      },
+      {
+        "id": "bridgestone",
+        "count": 1
+      },
+      {
+        "id": "cheng_shin",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Nippon Steel、浦項鋼鐵、Bridgestone相關動態：「Nippon Steel Oita FC - Veroskronos Tsuno, 19/04/2026 - Ky...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nippon Steel Oita FC - Veroskronos Tsuno, 19/04/2026 - Kyushu Soccer League -...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "POSCO International stock (KR7047050000): Is its trading diversification stro...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
