@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-22",
+  "total_events": 16,
+  "by_company": {
+    "stellantis": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 2,
+      "sentiment_avg": 0.75
+    },
+    "continental": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "hyundai": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": 0.14
+    },
+    "ev_penetration": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
