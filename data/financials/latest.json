@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T09:27:33.452087Z",
+  "updated_at": "2026-04-23T09:50:25.240301Z",
   "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -7,14 +7,14 @@
       "name": "明尼蘇達礦業",
       "ticker": "MMM",
       "currency": "USD",
-      "ar": 3533000000,
-      "ar_prev": 3777000000,
-      "ar_qoq": "-6%",
-      "inventory": 3661000000,
-      "inv_prev": 3893000000,
-      "inv_qoq": "-6%",
+      "ar": 3754000000,
+      "ar_prev": 3533000000,
+      "ar_qoq": "+6%",
+      "inventory": 3690000000,
+      "inv_prev": 3661000000,
+      "inv_qoq": "+1%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "aptiv",
@@ -133,14 +133,14 @@
       "name": "福耀",
       "ticker": "600660.SS",
       "currency": "CNY",
-      "ar": 8477842251,
-      "ar_prev": 8288438184,
-      "ar_qoq": "+2%",
-      "inventory": 6799040799,
-      "inv_prev": 6181028426,
-      "inv_qoq": "+10%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 6360195689,
+      "ar_prev": 8477842251,
+      "ar_qoq": "-25%",
+      "inventory": 6746154078,
+      "inv_prev": 6799040799,
+      "inv_qoq": "-1%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "gm",

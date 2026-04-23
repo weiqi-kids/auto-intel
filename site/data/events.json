@@ -1,5 +1,386 @@
 [
   {
+    "id": "unknown-2026-04-23-003",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Steelmaker cut emissions 47.7% as safety KPIs improved in 2025 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0lTMGU4ZU5IMGpKaGliTE5kb3g0YmE1M2RiWi1UT2o1LUUtXzRMQ1I2T2xrN1lXV2ZneEd4WkRPS3VhdVVaUk9CVFFBcmVhaGIwejROZHBfU3dBUTVhTnVYX0xQLTZrbjA5QUFQYk",
+    "sources": []
+  },
+  {
+    "id": "arcelormittal-2026-04-23-005",
+    "date": "2026-04-23",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ArcelorMittal publishes its 2025 Sustainability Report: Safer, smarter growth - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLUZEdHUxejg5ZVVWX0ZQQ3FDLXBFSE1vTE1jb1Fwa3pZeTQyaWI4NmxGTFVxdjU0NmdaejlUSW8ydjZaZGJxTEk5dmRBU01lazZFbG5vQkVqXzlUaVhfYzFlb3ZRaFNMMTUyZFJycm",
+    "sources": []
+  },
+  {
+    "id": "continental-2026-04-23-012",
+    "date": "2026-04-23",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global logistics leader Den Hartogh benefits from low tire rolling resistance - continental.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE54YktabENoZHVYMVI0SWRWWV8xN2ZfbU5GZ3liNFVTZmgtOWJMMktMOXA3MEpSZ21xTEJIVXJhTkMzV2xiMVpOQWhnNlMzWjQzQ2tpdExRU1o1YmlWTFN2SkkyZEh2MTJoeEZDX25Kbn",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-027",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Profit Falls Despite Higher Revenue - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVNSeXBHeFZhSU5MY0ZsVGowRnVmX3Y4bjlDc09tVC1ySFJUQWJ4MVRKdU9Gc1A1cHZoNDdpQkpSelhTd0V3RnAxb0VkY3JyNFJUcnkzbEc1RmhsNjRueFNhMmZ5ZWU2ODJZWUZ5V1",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-028",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Reports 31% Drop in Q1 Operating Profit, Meets Forecasts - U.S. News Money",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjVaWUoyTFVWMVhDNU1PNzdwaW5reXV4ZTY1NTZCZG1mYmVzbVZVZWU3RFNvdmFuTmRlVGVua2ozaTFpMDBEQ25RbDdZU0dYRXJXRU11T193Y1lGUXVEcWV0YUhEZW14ZTEzNmcwUl",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-030",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor reports 31% drop in Q1 operating profit, meets forecasts - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGU0TzVUN29IbnBJWDFaOXZtSTNVSzdPYU5rYUY5VzZpTjVTZDRJQlluU2dMaHRyUnNvdEFzNnJ3eG1DYlhsQWwtU1haQUhfVXZZRUstdnBmSHJPRndIUkQwSjYwVndNQTZpQnlTT2",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-031",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Q1 profit disappoints on tariffs, M.East disruptions - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWVCaGtXNkdnbV9kTzBlZWtsSWp6VXhHa1NQRmJmYnNWRGRZaUNqOUdDWnB3dWRWQUZmbmJxdy1zbHRqRG54bXdYSWlfVnY2a1RSMXZZX1lNckh0c0h3bk41VzdUV0FkOWpXb0RXQi",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-032",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor : Q1 2026 Business Results - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGFLZWxkVkZkSWZqZ1BGdEZpcVJOZGhKWERmMm8wN3lNLUpud3RmMU9KUDVDNU1xTGtDMDZ4N3lxLS03d2NUYTU4b0Z5U1Z1N1BuUE1hQ0ozU0tfekpRbEtBcENRbzJiQkZIdWxrZT",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-033",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Launches The New STARIA Limousine with Both Hybrid or Electric Options - Korean Car Blog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzNTZUZ2a3lvMGJHQ1hGaXBVaTEzUlNwQnV4OHgtTjF4Mm9IeWN2U0hFOVRLb3ZpUnRfbFVlMFAwcEdKT1AydHpjV3hsMWtCY281ajdGSFd3WGc4Rm55VHlFQU16RldmNjFkdWxQek",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-034",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai",
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor's Q1 profit sinks while Tesla's rises amid tariffs, currency swings and global tensions - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3Rhejc2ckVsOU5TNjd6UFNUbjAxZHBNQ0lZQ0JQUjhNYW1nM2N6cDgyUmxJZXVudl9tMnEyZW9MTEd4MWhscGxFUTRJNDI4ZjNVRmszVWFuRG85am9nZi1zQ1ZsUjNRdGctc2xha1",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-035",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Hyundai Motor Posts Weaker Q1 Profit Amid Tariffs and Middle East Market Troubles - StockInvest.us",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2xwcXBfWmdtS2tZUDhKRUhmNDB2Q0dXY1N6WkpuUjZNa2FzQ3FDdXphbTlJVTYxT2w5LUdBODVZcW5JZml4RmkzeGxjaV9wOGhBYnJJUmllcm1fWUVpQ2hqM3RtU1ZBRGRLcGdOc0",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-23-036",
+    "date": "2026-04-23",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Misses Estimates As Global Headwinds Hit - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGlUT1E5UU1Ob0N2aFFfdVItT0lwdll0X054YmdiUWw5ZmZ3cVVfek8tRUQzZFU4dkE5VGZYSEJrOEJEcjRpR3Jya1oyOXhuaUlWVDhSNTJ6bUs0WFhoUjVGMlYtcGd5SUhQYzZyZT",
+    "sources": []
+  },
+  {
+    "id": "stellantis-2026-04-23-046",
+    "date": "2026-04-23",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis (STLA) to Release Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWx2TkxhX3N0ZEtLWmtzYkFPRk9yZWM4Q25QTG9hNm81TFFtLUJPcndnZHJjSEFCNTBPRGZLbVlYOWNSNm00TE9PWkN4VFJteUUxTWZHT2hQc1FKSzh4WlFsZXFWUndzd0QwYS14d1",
+    "sources": []
+  },
+  {
+    "id": "honda-2026-04-23-047",
+    "date": "2026-04-23",
+    "companies": [
+      "honda"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Honda to close assembly plant in China by June – reports - Just Auto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2JkX3M5czBwQ1BKS1VBaEt2T25DS2tUVFFVbjRfMWEwamRnTVNVTUpDb2VKLURpRE1waHczMFkyRF96Nzk0RmdQTFBRTjZJVEdkY2xYU1lrcDFsOUp2ZlU1cGM3RGo2dGk3ZFlFeX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-051",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Volvo’s EX60 Defies Expectations With 40,000 Units Scheduled For Production",
+    "summary": "The EX60 is now officially in production, but its success has prompted Volvo to do something it has never done before.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-052",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "positive",
+    "title": "Europe’s EV Sales Surge Is Leaving The U.S. In The Dust",
+    "summary": "EVs are now keeping Europe’s car industry in the green, charging forward with double-digit increases in the first quarter.",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-23-054",
+    "date": "2026-04-23",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla pushes Optimus V3 reveal later this year – again",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500\" /></div><p>During <a href=\"https://electrek.co/2026/04/22/tesla-tsla-q1-202",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-059",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Electric vehicles supercharge EU car sales - Leader Publications",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmRwcm9mdm1FaTRmTWhSbEZhYy12RlBYejU5VDU5VWQzNzZiT3hwM3VjY1NCQWJJd3FGcWg1a1N3UVBHZmY5a2dmOUNyalNVZWc2VW03ak5yVUpTTHNjbGJEVmFzbEd5ZTRueUN3bS",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-060",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Used cars are having a moment as new vehicle costs rise - The Detroit News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxObFJ1d3ZUYndjZzBuRWtVbDVOektUMUN2THR6MDBkQ3lIWjRJOXFYWGRaNHN0dUdGVjRyVDh5dUhSY1RGWGd1blBOd3NiZGhoTHdLdGcwb2NPcTJwdG5nYWtJSC1kTS1Fd1ZfQzNuYS",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-061",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Electric vehicles supercharge EU car sales - hpenews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmI3WThRQUpSSDFoWTlVS2VSREc2Q3BEdWRyc3VzbUxjaVlQQzlXUVNjaTVLWEJFbExpZWpRTkNkekNWaDN5aGF1X0dzM25fcVNyX25RLU5ROFlTbkJsenVzQXNnUC05RnI1b0x3TT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-062",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How top dealers use transparency to win trust - CBT News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9WeGVONnNXY2lycm9uNDdndDUwODRFX2ZyaWV1c2xvWlFHQ3ZnbXJfMmpMblBGaHVGZmxoSXF6bnFXWEFhLVhmZU5Ecy01dUU3b0o0ckp4SnU2RVdhSm9RV01ic0pGbWE4Tms3enVMMV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-063",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Electric vehicles supercharge EU car sales - Indiana Gazette Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjRxLXRxVW15SFB6SkhRMndnSXNOMzl6ME1pQ3o2ZkQ2Yld2UDYxd1VKd2R5dWhld0gxdGtQaEFaQVR6SGlpWFJnVzNsdDBUUmY1UlBGTWwtYy1fd2xDT1hLOWI3Y09SR1NSNDFhTn",
+    "sources": []
+  },
+  {
+    "id": "byd-2026-04-23-064",
+    "date": "2026-04-23",
+    "companies": [
+      "byd",
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Step aside Tesla, BYD: Japanese carmakers deepen their hold on India's auto market with hybrids - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmR0RFJLa2wxTUhZUVB3cEQ2RnpmSXNwQkJoVEx2a1FXZW1FZjBiMUFHNF9IYUE3RHF4cDByelFjTjlidVNySm9mREJsRjduVUpocmtfQzNheW1vTDU0QkQ5MnhGMS1OWWFTdEVyN0",
+    "sources": []
+  },
+  {
+    "id": "honda-2026-04-23-065",
+    "date": "2026-04-23",
+    "companies": [
+      "honda"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Honda Korea Withdraws from Auto Market - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkVNVTJ4bDR2WGkzdzFWNHdjZURxbWtGZThFV19iR0NCYjhxejJadEs4MzRPQ2YxOXVZTXRJOEZrcng3NEZRZUhVZkQ4T2tSYXg3bml3YjhSb19pQXZpUndIN0xfbVFqZ0djSENucW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-067",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "European car sales grow in March as EV rise offsets combustion en - Global Banking & Finance Review®",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOU2hMVmJmQ2JZLV9yOTNvbzBiUUV0YkQ0YXZUN0VOM0hHbkpUdzFXdmw3ckVCdjExS050NGYySEV3dmRsaXZiZmZ5eHdEaVBPR1NycXltNDMxRUJ1SEhPcUcxck1ibXpTelhScmhnUH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-069",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3 recommendations for modern automotive marketers - CBT News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQVpJekJfZ3NTeEUtUTNOUlhLZzQ1SzZFbDJtQ1VFX3BpRThSRUJuNHR4bGo1U1pabDh5bnhuRW4yYVJFR0ZZek9aUktDY21vNVNRWkZtUmczMDYyWXk5Mnd2bHBMSjFRZ3VfUU5uLW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-073",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Electric Vehicle Statistics: Global Sales, Charging & Battery Data - SQ Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE54eW9FaEYyU3ZXSlZjWmFXay1Hcm1LX01sUGlRalhuMy1ORnFZc0tiVnpTRjZjZDdzRGZzekVyY2J0MTZ5LXJNSnkzTGYwTnExWkZuNnpwOHpfWkYyQ3BVcmhZSQ?oc=5\" target=\"_",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-23-075",
+    "date": "2026-04-23",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Tesla sputters as California EV sales, market share hit lowest since 2021 - Sacramento Bee",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9nOVhBYWlOQmhvcXZPdmJQanRRTV91el9UT0w1dGk5NUFHZFVaUXVKZ1hzUlVYYXJUdzJRM05TekpxVURCRTI0aDU3M3d3OFM2aFR6TWd4Ti11YmVEbVNjTDJHNU9RcDVKd0HSAWpBVV",
+    "sources": []
+  },
+  {
     "id": "stellantis-2026-04-22-006",
     "date": "2026-04-22",
     "companies": [
@@ -219,6 +600,423 @@
     "impact": "neutral",
     "title": "Electric Vehicle Charging Station Market to Reach USD 245,779.2 - openPR.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3FaazBJZlVYU3BPdmRnYndMakdKUFBobklUTjFDaDZMRUZ1RHNiTjV1UnZJUkpaOHFQb3VwV085aXd2NlVCUE5VUTZWUEl2TUR4OUYzU2dabFQyYm16RXFTaktOUnFCNEpqb093TU",
+    "sources": []
+  },
+  {
+    "id": "nippon_steel-2026-04-22-001",
+    "date": "2026-04-22",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Leform enters MoU with Nippon Steel Trading and NST Trading Malaysia - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFdLMlNtSG9obGUtSWNNdmFZOUp4cUE1UkVyWHdOaG1ZcEZsRXN2cTg1UExvZS1TRjgzeURUc0NzN0dGbHVYOXdiX1pRZzNvNlByeHdCS3VjcjhYNjZ6UXNEd191bjh1MHQ3Q011TU",
+    "sources": []
+  },
+  {
+    "id": "nippon_steel-2026-04-22-002",
+    "date": "2026-04-22",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Leform, Nippon Steel Trading Ink MoU For Broader Business, Growth Cooperation - BusinessToday Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGhRdHctaVN4RVl5UXFXT1E4QzJoYzZZX3hoNFMxXy02ZkstM1RTRUdWdENtTUJxS2xWeEFVRmRNOEt4T1dDb1BjblhYR0k2Rlg4cDhIdi1UQmpjQ2ZrZDR3ZXE1VVJFYndkS3BFaV",
+    "sources": []
+  },
+  {
+    "id": "stellantis-2026-04-22-004",
+    "date": "2026-04-22",
+    "companies": [
+      "stellantis",
+      "arcelormittal"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ArcelorMittal aims to take over steel distribution JV with Stellantis supplier - Bloomberg - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRjlXZzRwUldfUEthNXpvTEpBbmMxY1BhcDVVbjJRcUhlckNjVHBfSnM1WVRpUkp1dnFfSF9PaUFoMTdYMEFPYWoxZUctUTNhc014N1E4OXU3ZXVwQ2VTTkh0aHpIa2FxWG1GX2ZXeX",
+    "sources": []
+  },
+  {
+    "id": "bridgestone-2026-04-22-006",
+    "date": "2026-04-22",
+    "companies": [
+      "bridgestone"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Will the radio tower survive Bridgestone Arena renovations? - WZTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk1BRjdmMEdoSktwOU4tUGR0Tnp4NkF6WDVONC1zd0dqSXBEeTJVTmxOU2JhZ2FzRlcxelYzLWFzY1lLQ3NKd2ZyUmV3bmowS0tpWjdSdHBTei1naHp2ZjRZRkdWR2kzSGJOVEZvVm",
+    "sources": []
+  },
+  {
+    "id": "fuyao-2026-04-22-008",
+    "date": "2026-04-22",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fuyao Glass (03606.HK) will release its financial report on April 21. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUHg5R0ZEQUtuTG80LWxjcHJRZWZ6d20wYXV3dTNSWG1JTlpCVVdPcXp5OGFMeEl3UkdFdnY1ZmNfZ1JmTUozUk5SN1Nzbl9KYmEzT0NNV3ZyalRlSEY2RHhZcHJDMUNHOXRUd2Q4cS",
+    "sources": []
+  },
+  {
+    "id": "fuyao-2026-04-22-010",
+    "date": "2026-04-22",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CLSA: Fuyao Glass (03606) is expected to achieve sustained profit growth, maintaining an 'Outperform' rating. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHFFUjBFM250RDVCd2NVckJNQjAtS0ppQzA5ZEZURWh3MElSMTdHMi02Rm9kaWlTQmhKam1rMFVQaTd3WjBEWDFQOUczU1FKSFhNX1RlWUNqS1BNbjI2ZjMzYm1NTlVLWVZrUXBmQW",
+    "sources": []
+  },
+  {
+    "id": "continental-2026-04-22-013",
+    "date": "2026-04-22",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "On Earth Day, Continental Fresh Calls Attention to the Lasting Impact of Clean Water Infrastructure; Albert Perez Comments - AndNowUKnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1ZVU3NZQ2hIcTZFaTZHdkd2LWV4aTJLcDhxYS1kUkhTMFFrdGlIZzA4NlVObUJJdlBDd2Y1T2V0Q0xZeTV3c1o4SHJZREVZSWRjaTBtTlFIYnd3bmw2TU54T2pwdTctV1AyWEV3Tm",
+    "sources": []
+  },
+  {
+    "id": "continental-2026-04-22-014",
+    "date": "2026-04-22",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "JPMorganChase Extends Critical Industries Investment Program to Continental Europe - PYMNTS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQnRqcUhRbVM2V2ozdzdDcXVTbWo4VGdYN1R2VGVzTW1GS3Q3bWM3UUM4c2dEMHN4blpsbGxVeVMwaWpvMktqSDhQZWduRWl0NG93cjEybWl6cjV6Qm1KUFVWSXdTTVZYcEEtQ2VBSl",
+    "sources": []
+  },
+  {
+    "id": "ford-2026-04-22-023",
+    "date": "2026-04-22",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How the Ford Recall of 1.4 Million F-150s Could Impact Investors - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3hrUDZhajBIbGJRMHJPVWx0dkJQY3RkTVVrLWtKdmthV0doTGVEUXBlQ19zY3R2aU9lT1BwaF8zRWdhOFBFOVZLVmlkbm9Yb1ZPMjZ5cW5abmRLOWVCRDhDZ2IwTlBoT21LNHRxSn",
+    "sources": []
+  },
+  {
+    "id": "ford-2026-04-22-024",
+    "date": "2026-04-22",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ford Motor (NYSE:F) Stock Price Down 1.2% - Here's Why - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0ktMnBPcHlDSHBlcFQ1U3g5dTJnc2RVVGEtczBHNUpLMm5OZW5VUFVFV0dJU1pLZEJFLWt4YzZVZHFsaUZ6eVNsVlNOQUpyQ2I5dlRBM190SjZGTEIwMVJJczFqNHhSMUJxSDF0VG",
+    "sources": []
+  },
+  {
+    "id": "ford-2026-04-22-025",
+    "date": "2026-04-22",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Inside the Ford Total Performance Show - Old Cars Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1DTlNTTll0bnNicUJSY1laeDBWbVdodWlWeE9ZSzlTaHdsc3VLWS02clFEZUs1bEQxLUZBQ3JzZXdlZHJrUUI5N1ByZFJQNUpHQ3VXZTVsNXJyN3REbUpZcWV1WUprYTg3b2NIckhSQn",
+    "sources": []
+  },
+  {
+    "id": "hyundai-2026-04-22-029",
+    "date": "2026-04-22",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Hyundai Ioniq 3 Is a Cute ’n’ Quirky Piece of Forbidden Fruit - MotorTrend",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNV0ZFT2stdDNIalAyN3JSWlE4MzVSdlhNeEVwNDN6YmR4dHlJNUh3SUU4RHJUcHJrdlNqV3doVnVIUzgzRzl6NTJnRnZnaW5jUk9SY0FZVmlpREx3X19nYmhHQmFZWW1MY0RRb1Q4TG",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-037",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla reports mixed financial results as Musk pivots automaker to AI and robots - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObi0tam82Y3BTWHRTTTc0WFNiVEtWa3RWRDNLSFhFLTNuWVNRMDhTdXRMZnNVOXpEWXRsWmRPTGNkZDNVVEZ2clBOQktOSmZLRDBHRndZRDZvMXV1QXNvVkhseWRYVXJJVHZVbzdMcE",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-039",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Beats Profit Estimates as EV Demand Rebounds - Transport Topics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWdUItakN5LU9nWHpSbjA1cTVJZDRZOVZFOEM2VGNVNEs5bmgwU3ZMcTQyY2ctNTJlZEVmc3FRUXpMbTdsa1U3WWpCXzNiMjd3b2NRX3FTQms0WVpfdy12eGZ3?oc=5\" target=\"_bl",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-040",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Europe sales rise 11% in March as Tesla and Chinese brands surge - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUlwVGxQdC00cWNjMVJfN21Lc0FyODVFazR1NFFSZVBkZUNmWGM4Um9VSndRNU1HX0d3QWpmbnliM3J6MjQtd21MWDB1dE04ejJmQm1mM1FfTzdVSmQ1RFlvakR6RGJCTkQ1anM1c0",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-041",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Profit Rises but Remains Below Earlier Highs - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQXpYcDNmUTJRaTFaSHhYelNsRWJCRk00S3BjR01SQXZ5R2VJZF82M0FPbC1SVi1fdFppNk9jY3pBTVg2M05oMUdENXNaWUdtMzZqS1g1VE9jUzdCaDE0eG40NzNYbEZaOXU3c0lNRX",
+    "sources": []
+  },
+  {
+    "id": "stellantis-2026-04-22-042",
+    "date": "2026-04-22",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Meet Mopaw, new pet accessories at Stellantis dealerships - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBtR0ZEOHIzSGQ2VzhRQW5PeGVaUmZrX25ncW54bTJ3di1aczRCUVZiYUVEZ0NOWWdrRVZTbmw0NjJ6aE5aek5DVk9MU0RvWHNvb0VLTVlvTFNlV182VE1fcmdkc0tHZUxLUUdncHFRbG",
+    "sources": []
+  },
+  {
+    "id": "stellantis-2026-04-22-044",
+    "date": "2026-04-22",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis offering Canadian price reduction for 2027 Windsor-built Chrysler Pacifica - AM 800",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1kzYVZvX0FIdlAyN0M0bG9RMUczMFJ2cFJ4Y0QxZ2Nsal93bnJ1OXN5cmlmMUlscjFqYjBKS2hMR2lUbndMbWY0cFdtNFJTWVRudTRpQklRcTdrT0V3SVFLY1Rzbm0tX2lVdGtqQl",
+    "sources": []
+  },
+  {
+    "id": "stellantis-2026-04-22-045",
+    "date": "2026-04-22",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis recalls its plug-in hybrid models... then also recalls the replaced engines, themselves contaminated by sand - ItalPassion",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa0QzX05Nb29fZ29nb0JOUWpZa3BURWZyN2F2V3FpM280a3oyRVZxdm1zczg0U1JOM2xWa015OU5qRGR2VkRIeVd3alhKbDNYeGgxLVBzY2hkMGEwWDQ4TC0wVFZHak5fTU9fcEFxME",
+    "sources": []
+  },
+  {
+    "id": "ford-2026-04-22-048",
+    "date": "2026-04-22",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ford Ranger Sales Outperformed Segment During Q1 2026",
+    "summary": "But three rivals still sold better.",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-049",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "auto_sales",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla (TSLA) Q1 2026 earnings results: beat on EPS and revenues",
+    "summary": "<p>Tesla (NASDAQ: TSLA) reported its earnings for the first quarter of 2026 on Wednesday afternoon. Here&#8217;s what the company reported compared to what Wall Street analysts expected. The earnings ",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-050",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Earnings: financial expectations and what we should to hear about",
+    "summary": "<p>In terms of discussions, Tesla earnings calls are usually a great time to get some clarification on the company's outlook for its current and future projects.</p>\n<p>The post <a href=\"https://www.t",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-053",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "auto_sales"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Has Started R2 Production. Customer Deliveries Are 'On Track' For This Spring",
+    "summary": "Rivian prepares for its Tesla moment as the R2 production officially kicks off. Deliveries are \"on track\" for later this spring. ",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-055",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk pushes unsupervised FSD for consumer Teslas — again",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>During Tesla’s Q1 2026 ",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-056",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Tesla (TSLA) pulled questionable levers to make Q1 2026 financials look good",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-charging-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla’s Q1 2026 earnings b",
+    "sources": []
+  },
+  {
+    "id": "tesla-2026-04-22-057",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla (TSLA) releases Q1 2026 financial results: slight beat on earnings",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Q2-2025-earnings-hero.png?w=1600\" /></div><p>Tesla (TSLA) released its financial results and shareholders",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-058",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "auto_sales"
+    ],
+    "impact": "neutral",
+    "title": "Rivian (RIVN) starts R2 production days after tornado hit factory, deliveries this spring",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Rivian-R2-Pricing-White-Hero.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Rivian officially started pr",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-066",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CPO sales fall by 11% in March amid tighter supply - Car Dealership Guy News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRkdYM0dHaW1uWDhPQjJNRWUwLXZKdFIybXJkNGVvdUVMZTloSVRlT2xYOVlzb0dvOVpId1VqWDlpSUdRTUp5bmx1bkl4Q3pzTDd3Zjlyb0hqREFCcjFDOGJvNjVQdzI2Ri1Nd3pNd2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-074",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "European EV sales jump 51 pct in March as fuel prices surge due to Gulf war - The Driven",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOLU5JMTZLTUVGX1B6aXhhVDY2bWhtZXJsa3dTVmdrYUZLR0NkX1FiUWU5aFB0SU1BZ0JPV2RDWXdNSGpnQ2ZZVHpJVmRfMmx5VXFIMmFuY2Y3a2tfdGM4RWdqV1JKUzJ2VVh2Q0g5X1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-076",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Loss of electric vehicle subsidies sends Colorado car sales off a cliff - The Colorado Sun",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVBmQ2x5YmkxMV9WVEZTVS1pT1lZVTg2UzdZOEJlVVYxLVdLQjl6R0tpeUM3Mzhib2VFQkJQTndhMHF4MWJ6S2hWSGVWcjJXQmtGd2o3YTRYQlA5clQzRTIxNGRSZ1YyMFR6Z096R1",
     "sources": []
   },
   {
@@ -902,6 +1700,32 @@
     "impact": "neutral",
     "title": "European BEV sales reached 242,000 in March 2026 - EV Infrastructure News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzZXby1xNDUxQWxZMXNGQ2hhelB4SXNUb2VLMHNoNW93TUhOVk9KY1pYb3BWVVI2SmNQZ09YZGl0X0FsbjV5OHR4RmZ2Z0RqUmlkaERHMk1oUkdpM3EwbFp5c3BVWGR5WmFVS21YWU",
+    "sources": []
+  },
+  {
+    "id": "fuyao-2026-04-21-009",
+    "date": "2026-04-21",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fuyao Glass Shareholders Approve All Resolutions at 2025 AGM and 2026 Class Meetings - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWY5SnVDRmV0dFNtTHU2OU9wTHpuT3gxWlkxN2Rha0hIXzNtalhrVEREb2tib0ljOTRSa0d1WGtDUUpZajJPZE9FUHVvTUd5aW5PTXJuLVAyVURjQU9qNE9YOHQ3OUZwbkpjSUF1ZV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-043",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Jeep will skip making electric Wagoneer S for 2026 amid slowing sales - The Detroit News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1MyejMza1htVm9SQ2JRLTVuWjk1ZWcyelNoLUFoRUN3Mzcwc05iWEFWRUNfYjVvME1Ga3VmVTN5XzZNVGhWenY2M2taNmNqTXFUNzZqM0w2Q1NlZmFMM05VMlItbV9hMURTVzI4NE",
     "sources": []
   },
   {
@@ -2080,6 +2904,18 @@
     "impact": "neutral",
     "title": "Why automakers are reconsidering sedans after years of crossover dominance - Automotive News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXVPcFI0Yll5UUlLVWpmODZlQnVHMFRyVVluNWZiSFJ1ZUR2eWI5ald4RkVwS3VRWEFqR0Q1cGpGR29NTGdla0dmZHN6cmdKQ3loc0ZMdkcxMnQwTm1mRkhsTnJmd1c3VXpYaFlUOH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-19-015",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lordsburg and Back Again: Starting the CDT - The Trek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0d5dk1qRExnMGRyY3VzckJFUTZ4NkpYYzJtT2VyTTVsNzMxcWdTeXNYS2RXbEhUb0E1RUtucEZkdkxWWUY5MkRCVWJBekhSTnY1aml5S0MyUkQxb1pXNnVrbi04RmFyNk5wZGFnQ2",
     "sources": []
   },
   {
@@ -6167,6 +7003,34 @@
     "sources": []
   },
   {
+    "id": "magna-2026-04-09-018",
+    "date": "2026-04-09",
+    "companies": [
+      "magna"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Magna Announces Sale of Its Lighting and Rooftop Systems Businesses - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaG0tMzZNNzJUVTQ5ZTFoeVVERGVha0M4cWhRVGRSNUNhMEg1VWU1cUY1LWpiRldzdlJWZ212aVRXY3lRLVd0UkIzZUVqRmtSY1VpakxhcW0xcTQ1UWtPUkNzMTVrblFLRUF0MG5nb0",
+    "sources": []
+  },
+  {
+    "id": "ford-2026-04-09-026",
+    "date": "2026-04-09",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ford to Transform Former Product Development Center into World Headquarters South - Ford From the Road",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa2IxWlQwQW9BSW11ZElwcHBPdlBNbGsyUFVleEh0aFVleWZrMVVmai1icDhRWEVhcXpmcXhTTkhIcldNeWt1aVFjdFY2ZHR4TkpTaFJSdDhGVGV5NFhZUlZleUdCWkp2ZkQ4X19kWD",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-08-042",
     "date": "2026-04-08",
     "companies": [],
@@ -6188,6 +7052,32 @@
     "impact": "neutral",
     "title": "Automakers did not strongly seek aluminium tariff relief, White House official says - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeDEtRzd3RmNXbUFDdHdHcUpNaWdGcV9YQ3JiOENvS2M3azg4Y0c1RzlDYjJ5ZDJidGwtaVFPaVlyalQwdVRocUFkYnlvbGQtNUN0bVRJYlAydk9mRkJFaTN4dWdWWVRWNUNSWkQ3aF",
+    "sources": []
+  },
+  {
+    "id": "magna-2026-04-08-016",
+    "date": "2026-04-08",
+    "companies": [
+      "magna"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Magna is shedding $1.1 billion in auto lighting and rooftop sales - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0RvU0MwcHh5eG1qelI5OHFVbm0zaW9CSGN0bUFuang5M0MtaWVuZm8zUlpFRkZWV2tiT0VmLTF3bFVPcHZ5dkI3UG84ZWo2RVE4blpCRUZKamNSQWNEbERrY1NDMkNZQ253czVtYW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-08-021",
+    "date": "2026-04-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Alabama automakers alarmed over Chinese cars: ‘Unless things change, we will not survive’ - AL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUJ2bVFkR0lybmdrdjMtVFBXbllzamVSekQ4aVd3S0pOeksyVUk4YmI3X2RkWU1Iek8wRV9wTmZxNktwclpVSmJnYkpSSzgyZHBCSzlZaWxJdXhWWTFxbE5hRmxEX3dROUFmTElxSz",
     "sources": []
   },
   {
@@ -6242,6 +7132,20 @@
     "impact": "neutral",
     "title": "Why It’s Such A Big Deal That Chinese Automaker BYD Is Threatening To Sue Us - The Autopian",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNLWhSamZrXzRJVkZwdmQ3TllabnQ5M1JQUU1uNUU4ZHdxWVN6bUxOeU5aVkxVUmpsZ1hfQzNfSlNSd2lJNUNBdzJScncxRzBoVjc0SkE3WW9TNk5CWVRGeEdXSkNNbGF2ZlZzaDhwME",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-06-068",
+    "date": "2026-04-06",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Biggest Winners and Losers in Auto Sales in Q1 2026 - Car and Driver",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0lrTUZEdFgyOG44endxLWREZWRpUUlrZ3JnQmVHY2EySUxPSlZCTTNCUFFzNGNEVzR2N0hMZVNLR18zaEwxWTA1SVpac3hIMHNGYU45aEp6aVFOYVBiQ2FndWgwd2FoTjhEZlhXWU",
     "sources": []
   },
   {
@@ -6409,6 +7313,21 @@
     "impact": "neutral",
     "title": "Stellantis recalls 44,000 UK vehicles over fault that could cause fires - The Guardian",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0EwUXZOb0x1S044R3hJVHd1OGZlbHdjS3R6WjQzMHJKaFpjR3AxRElfN1pIYU1QTFhYS0xSQkNOQ3I1VVlmZHdqejlwM1F1U053T1otSHJMd0NTVUZrRTAyZjN6WXNEbGNqTEJSWH",
+    "sources": []
+  },
+  {
+    "id": "ford-2026-04-02-071",
+    "date": "2026-04-02",
+    "companies": [
+      "ford",
+      "toyota"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toyota sold more EVs in the US than Ford in Q1, with one electric SUV - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZGt5ME1GZjlvMXlkYWJscTVfX3ZyN05yNVhxX2IyTEFnVzEtaXFIeldrSkFOZ3RLX2I3M2xRb3RfTEd1Rm9wdmFWeGJydXpXOTZnaUZyeVlaYkE5dnJTbm8xYzNCdzFxRUJtNjBnVk",
     "sources": []
   },
   {
@@ -6609,6 +7528,20 @@
     "impact": "neutral",
     "title": "Posco Secures Approval for Hydrogen-Based DRI Steel Plant in Pohang - Fuel Cells Works",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzE0d0RKUUNhQWlzVFVsVjdxSFd4Z1ZJMXBvalN6TFdqNTNVa3o0MU9VMWQ2WGF0bHZ0T3pscEtJa05sVy0wb2oxZm50UWI3bDZTRHI3RlJzY2JfNG1VTHhOeVVvWGdhRVE0WmY5SH",
+    "sources": []
+  },
+  {
+    "id": "magna-2026-03-30-017",
+    "date": "2026-03-30",
+    "companies": [
+      "magna"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Should Value Investors Buy Magna International (MGA) Stock? - qz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9vRGFBQTVPOTkxTHRseHEtb3A3bFZZYkREd29OdkRNQjhXQ2lUakdJRkFISVkzTmNfdzRINDhTb24yZ19rdWdhc2pmVWxybzRtZVFlZ1BOa2piUUxXVi0xQ25oNlBMdlg3TlgxcXd4OE",
     "sources": []
   },
   {
@@ -6819,6 +7752,21 @@
     "impact": "neutral",
     "title": "GM, Jeep Parent Stellantis Say No Disruptions After Ohio Glass Factory Fire - WSJ",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjk4S3dpV3ExbXZNTmNRRXB3MENaZm05WGw5OUhxZ3NFMEx1SzRiM0xKc1RJTWp1bk9uSXhoSTV6T2EtNEVNWVZhVEZIVE04TUpFWWMzRFUzVk55S0FDd0p6WVFlWVpCbm9ZZjQzbl",
+    "sources": []
+  },
+  {
+    "id": "valeo-2026-03-25-019",
+    "date": "2026-03-25",
+    "companies": [
+      "valeo"
+    ],
+    "topics": [
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "French auto parts maker Valeo announces $225 million manufacturing plant in McAllen - KRGV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkxtRVhDbWVzcjBaYzJWNkQ1dHpFNzFCcWtvU3RYajNucDZTUmt5Y1Z1dURRMm9Ba3U2ZmhBcTRHY3NxQzl2eHczMnRwVHl6NWM4d1FURFNWMThIZ2dOaVpscllCUDVjclYwZmNlUD",
     "sources": []
   },
   {
@@ -8028,6 +8976,20 @@
     "impact": "neutral",
     "title": "ArcelorMittal to close unit at Ukraine plant amid green rules, Russian attacks - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbmFiZVJoMk90SkIyY0NoQS1YNE1PRWlzR3g2dWF1bmpiYllaV2Q3R0pRSERDUzY2YTBvREdGaGt5dHVfSnFiYzNhU250RzlMQ3NjU3Z3bklNMG0xYUgxb2tRRGk2M01BbGk3WTVqND",
+    "sources": []
+  },
+  {
+    "id": "toyota-2026-01-26-022",
+    "date": "2026-01-26",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Toyota CEO Koji Sato warns of 7 new challenges facing Japan’s carmakers - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVExYmJqT1dRVktQRzZ2aG91eTBKR1JjbUdPRm8tM3lXemNLREEtN0g2eG9sWVp0NEU5Q2hzUjVTYmJQZm5XUFJDTXotdXNsQmJHb0w3WEt4VFZ1bzVzS29lU0NmdWNQWFZwUFgzaG",
     "sources": []
   },
   {
@@ -9571,6 +10533,34 @@
     "impact": "neutral",
     "title": "Cheng-Shin-boosting-India-Indonesia-investments - Rubber News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEJUb09Sd2F2TzlqZ2NaM2VIQzhtV3RhYkx1SURUYWdFSmFNU201cXVKdDZtN1JseWxvTTRLTktxMDFpeGFtdWNnLVNZZEVBaWdZWmtONFBpMDdSRm9tTHpULTY5M253bWhCMTRwQ3",
+    "sources": []
+  },
+  {
+    "id": "tesla-2017-10-27-020",
+    "date": "2017-10-27",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla dialed back Model 3 parts orders by 40%, says Taiwan supplier - Teslarati",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkp1NjFPUTFFYlR6QmdSdlNuaF9rVUcxcnRnRERmSVNzN2RoUENFN3hsbHlIWFVWa05nZ1UwUU45eW1fTWVPcEJ1Q3B1dFdjNnlmNUVsazZfU1hhNXBvajhKSVhnM01ZeVRVQkxKOG",
+    "sources": []
+  },
+  {
+    "id": "kenda-2017-07-07-007",
+    "date": "2017-07-07",
+    "companies": [
+      "kenda"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kenda Promotes Director of OE Automotive Sales - Tire Review Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5WQXZoNnhLVVM0WlNuM0Z3YUp2b1ZpcE5LT1BfcFJ1S2RXQnVJZndLU2VtQVY1M3loQnRqTnd0ejVBNVFGWnpzSXctcUt3RkpZQXNxeEZ2ZElVaDNtei1jOUNUYVU0cDQ1Vkt3cEZVbX",
     "sources": []
   },
   {
