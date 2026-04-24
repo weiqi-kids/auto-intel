@@ -1,0 +1,253 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:50:23.987696Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-04-24-030",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis posts upbeat Q1 on global orders, FX gains - The Korea Herald",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-04-24-031",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Defies Risks With 802.6B Operating Profit - 조선일보",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_mobis-2026-04-24-032",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "(LEAD) Hyundai Mobis Q1 net falls 14 pct on weaker vehicle demand amid Middle East tensions - Yonhap News Agency",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_mobis-2026-04-24-033",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis : Revenue up 5.5% YoY, operating profit down 3.3%, with robust A/S and new shareholder returns - TradingView",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai_mobis-2026-04-24-034",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Q1 Operating Profit Rises 3.3% to 802.6 Billion Won - Seoul Economic Daily",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 5
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "posco",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為Hyundai Motor、Hyundai Mobis、大陸集團相關動態：「Hyundai Mobis posts upbeat Q1 on global orders, FX gains ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis posts upbeat Q1 on global orders, FX gains - The Korea Herald（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Defies Risks With 802.6B Operating Profit - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

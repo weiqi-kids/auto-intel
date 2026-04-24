@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-24",
+  "total_events": 26,
+  "by_company": {
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "continental": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 6,
+      "sentiment_avg": -0.17
+    },
+    "hyundai": {
+      "count": 11,
+      "sentiment_avg": -0.09
+    },
+    "ford": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 25,
+      "sentiment_avg": -0.02
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ]
+}
