@@ -1,0 +1,192 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T09:00:40.503120Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-04-25-038",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford Bronco Sales Behind Jeep Wrangler, Toyota 4Runner During Q1 2026",
+      "companies": [
+        "toyota",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "bridgestone-2026-04-25-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone Al Lock Wl-ad. B Tire Bridgestone Dueler H/L Alenza 001 Tires For Sale Bridgestone Golf Balls - aviglianonews.it",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-04-25-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ultra High Performance All Season Tire Continental ExtremeContact DWS06 Plus All Season Tire – 305/30ZR21 104Y XL, UHP, 50,000 Mile Warranty, Dry/Wet/Snow Excellent Braking Tire - kliksolonews.com",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-04-25-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A continental call from Africa: Standing with Cuba against imperialist aggression - San Francisco Bay View",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "stellantis-2026-04-25-034",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stellantis Plans to Keep Chrysler and Dodge Brands but Will Focus on Ram and Jeep Because Those Brands are More Successful and Profitable - Torque News",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "bridgestone",
+        "count": 1
+      },
+      {
+        "id": "stellantis",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "ford",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為大陸集團、Bridgestone、斯泰蘭蒂斯相關動態：「Ford Bronco Sales Behind Jeep Wrangler, Toyota 4Runner Du...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ford Bronco Sales Behind Jeep Wrangler, Toyota 4Runner During Q1 2026（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Bridgestone Al Lock Wl-ad. B Tire Bridgestone Dueler H/L Alenza 001 Tires For...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
