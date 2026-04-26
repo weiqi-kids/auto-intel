@@ -20,6 +20,7 @@ companies:
   - gm
   - ford
   - stellantis
+  fetch_mode: http
 - id: posco
   name: POSCO
   aliases:
@@ -39,6 +40,7 @@ companies:
   - gm
   - ford
   - byd
+  fetch_mode: http
 - id: arcelormittal
   name: ArcelorMittal
   aliases:
@@ -57,6 +59,7 @@ companies:
   - stellantis
   - volkswagen
   - toyota
+  fetch_mode: http
 - id: bridgestone
   name: 普利司通
   aliases:
@@ -78,6 +81,7 @@ companies:
   - volkswagen
   - hyundai
   - stellantis
+  fetch_mode: http
 - id: cheng_shin
   name: 正新橡膠
   aliases:
@@ -97,6 +101,7 @@ companies:
   - honda
   - yulon
   - hotai
+  fetch_mode: http
 - id: kenda
   name: 建大工業
   aliases:
@@ -113,6 +118,7 @@ companies:
   downstream:
   - yulon
   - hotai
+  fetch_mode: http
 - id: fuyao
   name: 福耀玻璃
   aliases:
@@ -134,6 +140,7 @@ companies:
   - hyundai
   - byd
   - tesla
+  fetch_mode: http
 - id: saint_gobain
   name: Saint-Gobain
   aliases:
@@ -152,6 +159,7 @@ companies:
   - gm
   - ford
   - toyota
+  fetch_mode: http
 - id: 3m
   name: 3M
   aliases:
@@ -171,6 +179,7 @@ companies:
   - volkswagen
   - tesla
   - byd
+  fetch_mode: http
 - id: denso
   name: 電裝
   aliases:
@@ -192,6 +201,7 @@ companies:
   - honda
   - gm
   - ford
+  fetch_mode: http
 - id: continental
   name: Continental
   aliases:
@@ -214,6 +224,7 @@ companies:
   - gm
   - ford
   - toyota
+  fetch_mode: http
 - id: aptiv
   name: Aptiv
   aliases:
@@ -235,6 +246,7 @@ companies:
   - volkswagen
   - stellantis
   - toyota
+  fetch_mode: http
 - id: magna
   name: Magna International
   aliases:
@@ -257,6 +269,7 @@ companies:
   - stellantis
   - toyota
   - byd
+  fetch_mode: http
 - id: hyundai_mobis
   name: 現代摩比斯
   aliases:
@@ -274,6 +287,7 @@ companies:
   - posco
   downstream:
   - hyundai
+  fetch_mode: http
 - id: valeo
   name: Valeo
   aliases:
@@ -293,6 +307,7 @@ companies:
   - stellantis
   - toyota
   - hyundai
+  fetch_mode: http
 - id: hota
   name: 和大工業
   aliases:
@@ -312,6 +327,7 @@ companies:
   - tesla
   - gm
   - ford
+  fetch_mode: http
 - id: tyc
   name: 東陽實業
   aliases:
@@ -330,6 +346,7 @@ companies:
   - yulon
   - hotai
   - toyota
+  fetch_mode: http
 - id: toyota
   name: 豐田汽車
   aliases:
@@ -356,6 +373,7 @@ companies:
   - magna
   - valeo
   - tyc
+  fetch_mode: http
 - id: volkswagen
   name: 福斯汽車
   aliases:
@@ -380,6 +398,7 @@ companies:
   - aptiv
   - magna
   - valeo
+  fetch_mode: http
 - id: gm
   name: General Motors
   aliases:
@@ -393,6 +412,8 @@ companies:
   description: 美國最大汽車製造商
   ir_url: https://investor.gm.com/
   rss_url: https://investor.gm.com/rss/news-releases.xml
+  fetch_mode: rss
+  ir_rss_url: https://investor.gm.com/rss/news-releases.xml
   upstream:
   - nippon_steel
   - posco
@@ -431,6 +452,7 @@ companies:
   - aptiv
   - magna
   - hota
+  fetch_mode: http
 - id: hyundai
   name: 現代汽車
   aliases:
@@ -450,6 +472,7 @@ companies:
   - fuyao
   - hyundai_mobis
   - valeo
+  fetch_mode: http
 - id: byd
   name: 比亞迪
   aliases:
@@ -468,6 +491,7 @@ companies:
   - fuyao
   - 3m
   - magna
+  fetch_mode: http
 - id: tesla
   name: Tesla
   aliases:
@@ -480,6 +504,8 @@ companies:
   description: 全球電動車領導品牌
   ir_url: https://ir.tesla.com/
   rss_url: https://news.google.com/rss/search?q="Tesla"+automaker&hl=en&gl=US&ceid=US:en
+  fetch_mode: rss
+  ir_rss_url: https://ir.tesla.com/rss/news-releases.xml
   upstream:
   - fuyao
   - 3m
@@ -505,6 +531,7 @@ companies:
   - aptiv
   - magna
   - valeo
+  fetch_mode: http
 - id: honda
   name: 本田汽車
   aliases:
@@ -523,6 +550,7 @@ companies:
   - bridgestone
   - cheng_shin
   - denso
+  fetch_mode: http
 - id: yulon
   name: 裕隆汽車
   aliases:
@@ -540,6 +568,7 @@ companies:
   - cheng_shin
   - kenda
   - tyc
+  fetch_mode: http
 - id: hotai
   name: 和泰汽車
   aliases:
@@ -557,6 +586,7 @@ companies:
   - cheng_shin
   - kenda
   - tyc
+  fetch_mode: http
 etfs:
 - id: carz_etf
   name: First Trust S-Network Future Vehicles & Technology ETF

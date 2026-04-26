@@ -1,45 +1,45 @@
-# Automotive industry news feeds
 feeds:
-# --- Company IR feeds ---
 - id: gm_ir
   name: General Motors Investor News
   url: https://investor.gm.com/rss/news-releases.xml
   description: General Motors investor news releases
-
-# --- Company news feeds (third-party) ---
 - id: ford_authority
   name: Ford Authority
   url: https://fordauthority.com/feed/
   description: Ford Motor Company news, rumors, and discussion
-
 - id: teslarati
   name: Teslarati
   url: https://teslarati.com/feed/
   description: Tesla news, tips, and analysis
-
-# --- Industry media feeds ---
 - id: insideevs
   name: InsideEVs
   url: https://insideevs.com/rss/news/all/
   description: Electric vehicle news and reviews
-
 - id: electrek
   name: Electrek
   url: https://electrek.co/feed/
   description: Electric vehicles and clean energy news
-
 - id: thedrive
   name: The Drive
   url: https://www.thedrive.com/feed
   description: Automotive news, reviews, and car culture
-
-# --- Google News topic feeds ---
 - id: google_auto_industry
   name: Google News - Automotive Industry
   url: https://news.google.com/rss/search?q=automotive+industry+car+sales&hl=en-US&gl=US&ceid=US:en
   description: Google News aggregation for automotive industry
-
 - id: google_ev_market
   name: Google News - Electric Vehicles
   url: https://news.google.com/rss/search?q=electric+vehicle+EV+market&hl=en-US&gl=US&ceid=US:en
   description: Google News aggregation for electric vehicles market
+- id: carscoops
+  name: Carscoops
+  url: https://www.carscoops.com/feed/
+  description: Carscoops RSS feed
+- id: motor1
+  name: Motor1
+  url: https://www.motor1.com/rss/news/all/
+  description: Motor1 RSS feed
+- id: cleantechnica
+  name: CleanTechnica
+  url: https://cleantechnica.com/feed/
+  description: CleanTechnica RSS feed
