@@ -1,0 +1,154 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T03:13:13.477002Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-04-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why everyone should care about the history of the Eastern Continental Divide - Substack",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzZLcWNQUW04dmVuVnN1dXVQQ3dLWHpQN09MM0ZzNTRzZDZrUmdEc2hKTlBGd3NiQjUwUXBMbE43VTh1b2hwQnl3dDVpLVpLd1hNOXNYMV96VUhkeXFnYTRaWmZsenJHaHJUcFNOSFNmaXN2X21GVjd6NVJjWXNpVDBVRkw1bUFVdTM5WFprQ2JDdWtTQTNfcVc5akhodUtJaXZXOERfOV9GMEYxblBR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-04-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai turns to local tech partners in China comeback - The Korea Herald",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNmNSRHhfV0dlRXVtbjQyajV2Y1JrdXFQMWpJaXA5MjVtVEQtRVprNk1uZnkySkVSdzlVcG04bFQ3VkFzV0VNRUdXa2VoWndDUkZQSUJLQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-04-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China taught Hyundai to be 'humble' and learn from rivals for survival: CEO - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNellnV2JZeDNUSWN0NVpsNzQ3YWt0YW90SmVLU1lGbXA1enB5MGFWU3ppOWZKYUt2d3JEcDdVd3EzcGZ6dDRSdUdTQTYzLTZKQmkyelVlbVY1dEdjNE1aeGhMLVlUWmxJc0NWOTFlR2VoRnJMX3pqczNZUWpNT1RqdDBxUnBHcFU1QzhlRDJnTDBOYWM3a3UzOXdEODI0bkFUT2pBaGxsNUpWUF85aXNycnlEMWpxRHdDcXZaeVBvLUhwWHhqS2U3UnZ4ejNrSl8tQmN1eTJYMVB4NEN2bEJNald6aGFPZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-04-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Considers Expanding Ioniq V to Australia, Southeast Asia - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGp5dHdROGhIZGRyZlhmZWg5cVlDVlY5WmFxa3lGbE9wNF8tRFZsbXlxQ1dpdzgzUkkwZVZzWWh3YUdJZXppbmVVTncwZGZxLTRQVDBCUDhtOExuZmc5dEFSSW90S19xWEpSZGNPVm1CVUxZQS1MVWoybi1tRDVnYXZGdzh3cDRO?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Hyundai Motor、大陸集團相關動態：「Why everyone should care about the history of the Eastern...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why everyone should care about the history of the Eastern Continental Divide ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hyundai turns to local tech partners in China comeback - The Korea Herald（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
