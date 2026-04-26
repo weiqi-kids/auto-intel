@@ -1,0 +1,16 @@
+{
+  "total_raw": 640,
+  "dup_title": 287,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 33,
+  "gate2_fail": 66,
+  "passed": 57,
+  "gate2_samples": [
+    "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
+    "ArcelorMittal’s 2025 Sustainability Report Highlights Safety Gains and Deep Emissions Cuts - TipRank",
+    "How Bridgestone Modernized Its Mainframe in Seven Months — Unlocking a New Era of Innovation - Amazo",
+    "Predators GM Barry Trotz, coach Andrew Brunette, players wrap up season - The Tennessean",
+    "Cheng Shin Rubber Ind stock (TW0002105007): Why does its tire dominance matter more now for global i"
+  ]
+}
