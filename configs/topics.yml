@@ -131,6 +131,40 @@ topics:
     - 獲利
     - 毛利率
     - gross margin
+  industry_general:
+    display: 汽車產業通用
+    keywords:
+    - car
+    - vehicle
+    - auto
+    - automotive
+    - truck
+    - suv
+    - sedan
+    - tire
+    - tyre
+    - motor
+    - engine
+    - drivetrain
+    - transmission
+    - braking
+    - emission
+    - hybrid
+    - powertrain
+    - 汽車
+    - 車用
+    - 輪胎
+    - 引擎
+    - 馬達
+    - 底盤
+    - 變速箱
+    - 排放
+    - 油耗
+    - 自駕
+    - autonomous
+    - adas
+    - mobility
+    - fleet
   guidance:
     display: 展望
     keywords:
