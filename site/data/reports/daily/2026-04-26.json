@@ -1,9 +1,40 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:09:02.213182Z",
+  "generated_at": "2026-04-26T14:09:44.911689Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "hyundai-2026-04-26-016",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to Spend 2.2 Trillion Won on Capex in 2026; Q1 Execution at 10% - thelec.net",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9scHZidExtOXZmVTViM1JnUTJ6VU1qZHA2cVRlVFp3U0Q2ekRxelZaOV85RjJrRHVNdGFjcmJRRVZxSkVpX0JhYndnd2RTenVJQ0o0N0Z5RVAzbk15Wllkb1VsT3ZfUQ?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "hyundai-2026-04-26-006",
       "importance_score": 0.9,
       "importance_reasons": [
@@ -31,7 +62,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjJMWUdtTzdFV0VfMjJpZV9SS19id0xCb3hELWh6emVLSmdEU1lnQmxRTE9uV2xPUjRRRnhVWjBCWFVNSm91VHJDSzJwVFphY3JmRHI2UVB3ODJkbWp5a3VKbU5Gcjh5V2NCNng4a2swQnBLZ0NhUGx2eVl1UjA2QUNOY2JEWTVlejBrR0FWcnAzNGp5TGF6Ym9EaERoTGliR2c?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "event_id": "continental-2026-04-26-001",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -55,7 +86,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzZLcWNQUW04dmVuVnN1dXVQQ3dLWHpQN09MM0ZzNTRzZDZrUmdEc2hKTlBGd3NiQjUwUXBMbE43VTh1b2hwQnl3dDVpLVpLd1hNOXNYMV96VUhkeXFnYTRaWmZsenJHaHJUcFNOSFNmaXN2X21GVjd6NVJjWXNpVDBVRkw1bUFVdTM5WFprQ2JDdWtTQTNfcVc5akhodUtJaXZXOERfOV9GMEYxblBR?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "event_id": "hyundai-2026-04-26-002",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -79,7 +110,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FNmNSRHhfV0dlRXVtbjQyajV2Y1JrdXFQMWpJaXA5MjVtVEQtRVprNk1uZnkySkVSdzlVcG04bFQ3VkFzV0VNRUdXa2VoWndDUkZQSUJLQQ?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "event_id": "hyundai-2026-04-26-003",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -101,91 +132,119 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNellnV2JZeDNUSWN0NVpsNzQ3YWt0YW90SmVLU1lGbXA1enB5MGFWU3ppOWZKYUt2d3JEcDdVd3EzcGZ6dDRSdUdTQTYzLTZKQmkyelVlbVY1dEdjNE1aeGhMLVlUWmxJc0NWOTFlR2VoRnJMX3pqczNZUWpNT1RqdDBxUnBHcFU1QzhlRDJnTDBOYWM3a3UzOXdEODI0bkFUT2pBaGxsNUpWUF85aXNycnlEMWpxRHdDcXZaeVBvLUhwWHhqS2U3UnZ4ejNrSl8tQmN1eTJYMVB4NEN2bEJNald6aGFPZw?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "hyundai-2026-04-26-004",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "Hyundai Considers Expanding Ioniq V to Australia, Southeast Asia - 조선일보",
-      "companies": [
-        "hyundai"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "earnings"
-      ],
-      "sentiment": {
-        "label": "positive",
-        "score": 0.5
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGp5dHdROGhIZGRyZlhmZWg5cVlDVlY5WmFxa3lGbE9wNF8tRFZsbXlxQ1dpdzgzUkkwZVZzWWh3YUdJZXppbmVVTncwZGZxLTRQVDBCUDhtOExuZmc5dEFSSW90S19xWEpSZGNPVm1CVUxZQS1MVWoybi1tRDVnYXZGdzh3cDRO?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 8,
+      "today": 16,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.06,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
   "stats": {
-    "total_events": 11,
+    "total_events": 35,
     "sentiment_distribution": {
-      "positive": 1,
-      "neutral": 10,
+      "positive": 3,
+      "neutral": 32,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "hyundai",
-        "count": 7
-      },
-      {
-        "id": "continental",
-        "count": 2
-      },
-      {
-        "id": "hyundai_mobis",
-        "count": 1
-      },
-      {
-        "id": "byd",
-        "count": 1
+        "count": 9
       },
       {
         "id": "ford",
-        "count": 1
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 2
       }
     ],
     "top_topics": [
       {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
         "id": "earnings",
-        "count": 8
+        "count": 16
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 698,
-    "dup_title": 312,
-    "too_old": 207,
-    "gate1_blocked": 74,
-    "gate2_blocked": 75,
-    "passed": 30,
-    "pass_rate": "7.8%",
-    "gate2_block_rate": "19.4%",
+    "total_raw": 1406,
+    "dup_title": 636,
+    "too_old": 427,
+    "gate1_blocked": 109,
+    "gate2_blocked": 112,
+    "passed": 122,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "14.5%",
     "gate2_samples": [
       "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
       "ArcelorMittal’s 2025 Sustainability Report Highlights Safety Gains and Deep Emissions Cuts - TipRank",
@@ -196,15 +255,19 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 11 則事件，焦點為Hyundai Motor、大陸集團、Hyundai Mobis相關動態：「Hyundai Mobis Launches Genuine Accessories for the New Hy...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 35 則事件，焦點為Hyundai Motor、Ford、大陸集團相關動態：「Hyundai Mobis to Spend 2.2 Trillion Won on Capex in 2026;...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
+      {
+        "text": "Hyundai Mobis to Spend 2.2 Trillion Won on Capex in 2026; Q1 Execution at 10%...（財報）",
+        "level": "red"
+      },
       {
         "text": "Hyundai Mobis Launches Genuine Accessories for the New Hyundai Verna - The Na...",
         "level": "red"
       },
       {
-        "text": "Why everyone should care about the history of the Eastern Continental Divide ...（財報）",
-        "level": "yellow"
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
       }
     ]
   },

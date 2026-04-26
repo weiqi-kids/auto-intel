@@ -1,11 +1,11 @@
 {
-  "total_raw": 698,
-  "dup_title": 312,
+  "total_raw": 1406,
+  "dup_title": 636,
   "no_date": 0,
-  "too_old": 207,
-  "gate1_fail": 74,
-  "gate2_fail": 75,
-  "passed": 30,
+  "too_old": 427,
+  "gate1_fail": 109,
+  "gate2_fail": 112,
+  "passed": 122,
   "gate2_samples": [
     "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
     "ArcelorMittal’s 2025 Sustainability Report Highlights Safety Gains and Deep Emissions Cuts - TipRank",
