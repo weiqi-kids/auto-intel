@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:03.181249Z",
+  "generated_at": "2026-04-27T10:22:48.512421Z",
   "top_events": [
     {
       "rank": 1,
@@ -78,112 +78,154 @@
     },
     {
       "rank": 4,
-      "event_id": "unknown-2026-04-27-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Survey Sunday: who should be allowed to drive ICE-powered vehicles?",
-      "companies": [],
+      "event_id": "nippon_steel-2026-04-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Godo Steel Details Capital and Business Relationship With Nippon Steel - TipRanks",
+      "companies": [
+        "nippon_steel"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
-        "industry_general"
+        "earnings"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://electrek.co/2026/04/26/survey-sunday-who-should-be-allowed-to-drive-ice-powered-vehicles/"
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZTFnX0VKX2JhbHpiNUdBVU1GS2tweTNnd3ZoVmo2NDFSV0FiUjlpOWtObGVZS1h5MFpielE4ZG9wQVJybnFYb0tRVjljQ2pSa3pDZzg2Z3VQcjdCR2ptYTNLLXZxTHFuQVN6QS16UnB4NWZwNWFWX3U1b1ZQNU1ybGl0akJYSi0zT0VGOTBLaVZBYkdqdlBGa0t6bGxMS3kwYzllRlpXcDZybHpiT0kxRll1ZUNXV1JKUnVTTFFQbw?oc=5"
     },
     {
       "rank": 5,
-      "event_id": "toyota-2026-04-27-003",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Toyota’s 1987 Supra Turbo Was Built To Be Driven, This One Still Wears Its Factory Tires",
+      "event_id": "arcelormittal-2026-04-27-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal : Fact Book 2025 - marketscreener.com",
       "companies": [
-        "toyota"
+        "arcelormittal"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
-        "industry_general"
+        "earnings"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://www.carscoops.com/2026/04/1987-supra-turbo-auction/"
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUEwdVZ3amxCQjNMQ0NWUjBhNzJaTTFIaEsyVlg2NGl0T0VyVFAtZ3AtN2FnNkQ3V1E2UVctMHZDRG1UeENJMnNHQ21yLUV6ODhqTGVGdk1uYzQyOG9KXzZuRTY0bWpSY0VnTFkxaGt4Mllxbkl2ZzIyNlJ3SE16NXdyY1hPenZL?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
       "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
-      "sentiment_7d_avg": null
-    },
-    "industry_general": {
-      "today": 5,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.33,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 6,
+    "total_events": 46,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 6,
+      "positive": 6,
+      "neutral": 40,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "hyundai",
-        "count": 2
+        "count": 5
       },
       {
         "id": "toyota",
-        "count": 1
+        "count": 3
       },
       {
         "id": "continental",
-        "count": 1
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 3
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 5
+        "count": 33
       },
       {
         "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
         "count": 3
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 1410,
-    "dup_title": 760,
-    "too_old": 423,
-    "gate1_blocked": 67,
-    "gate2_blocked": 91,
-    "passed": 69,
-    "pass_rate": "10.6%",
-    "gate2_block_rate": "14.0%",
+    "total_raw": 2116,
+    "dup_title": 1117,
+    "too_old": 633,
+    "gate1_blocked": 103,
+    "gate2_blocked": 142,
+    "passed": 121,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "14.2%",
     "gate2_samples": [
       "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
       "POSCO's Gift of Sky Trail Becomes Catalyst for Pohang Tourism - Seoul Economic Daily",
@@ -194,7 +236,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 6 則事件，焦點為Hyundai Motor、Toyota、大陸集團相關動態：「CATL batteries to power Hyundai’s EREV, hybrid push in Ch...」。主要關注主題為汽車產業通用、財報，市場情緒中性。",
+    "summary": "今日共 46 則事件，焦點為Hyundai Motor、Toyota、大陸集團相關動態：「CATL batteries to power Hyundai’s EREV, hybrid push in Ch...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng...（財報、汽車產業通用）",
@@ -203,6 +245,10 @@
       {
         "text": "Law firm Continental Azu and Lin are pushing for a merger. If the merger betw...（財報）",
         "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
       }
     ]
   },
