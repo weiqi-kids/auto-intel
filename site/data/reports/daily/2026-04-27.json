@@ -1,0 +1,157 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:04.599256Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-04-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWlZM0dZbjkwRlNoTVItNElZYVFTXzFlYUJLY3J6VFJaTmthMndWd2N2V1BMQ1lTX2tsb2JLckNFU0huN0pDclJOdlVfZWEwdW01TE92ODdJbDljRm0wblVGREt2QllaQkZ5ckljOFVYNnZ0YXZLTHZsbGxsWWFtSGJKeDVEay05bDRLdENZMVdDVEstbWRxbk54Q2tmSFZnTUQ4VDRMTUY4bjdLN1Z1S0t4NTNqdjZvMjlaVWlwaTRIM3pmeTBhQmQ0VEx3OXZxeEg4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Survey Sunday: who should be allowed to drive ICE-powered vehicles?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/04/26/survey-sunday-who-should-be-allowed-to-drive-ice-powered-vehicles/"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-04-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toyota’s 1987 Supra Turbo Was Built To Be Driven, This One Still Wears Its Factory Tires",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.carscoops.com/2026/04/1987-supra-turbo-auction/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 359,
+    "too_old": 213,
+    "gate1_blocked": 34,
+    "gate2_blocked": 45,
+    "passed": 54,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
+      "POSCO's Gift of Sky Trail Becomes Catalyst for Pohang Tourism - Seoul Economic Daily",
+      "How Bridgestone Modernized Its Mainframe in Seven Months — Unlocking a New Era of Innovation - Amazo",
+      "Predators GM Barry Trotz, coach Andrew Brunette, players wrap up season - The Tennessean",
+      "Nearly a month after Fuyao fire, cause remains unclear - Dayton Daily News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Hyundai Motor、Toyota相關動態：「CATL batteries to power Hyundai’s EREV, hybrid push in Ch...」。主要關注主題為汽車產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Survey Sunday: who should be allowed to drive ICE-powered vehicles?（汽車產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
