@@ -1,23 +1,27 @@
 {
   "date": "2026-04-27",
-  "total_events": 3,
+  "total_events": 6,
   "by_company": {
     "hyundai": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     },
     "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
       "count": 1,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 1,
+      "count": 3,
       "sentiment_avg": 0.0
     },
     "industry_general": {
-      "count": 3,
+      "count": 5,
       "sentiment_avg": 0.0
     }
   },

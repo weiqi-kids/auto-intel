@@ -59,6 +59,65 @@
     ]
   },
   {
+    "id": "continental-2026-04-27-004",
+    "date": "2026-04-27",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Law firm Continental Azu and Lin are pushing for a merger. If the merger between the two law firms i.. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Sc0tiSkdMUkFkZFdydGwyWURlZHlTTzNnMVh4QkEySV9pRzRqM0ZGeU1lNUhaYktsQ2FKVHQ4T3BjOHVqRmlEcGV6OEtybmJkT2c?oc=5\" target=\"_blank\">Law firm Contine",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Sc0tiSkdMUkFkZFdydGwyWURlZHlTTzNnMVh4QkEySV9pRzRqM0ZGeU1lNUhaYktsQ2FKVHQ4T3BjOHVqRmlEcGV6OEtybmJkT2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-27-005",
+    "date": "2026-04-27",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor unveils Ioniq V at Auto China - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lWlhJaGxKTm5WamNsQTBFUWV4aFE2UVpvUEhlY1lqQ1l6ajNjdjE3YzQ2UnpLTWprS3kxUm5mZDdreHBXR2QzN1YxeXI4ajlwSjY0QjU3VQ?oc=5\" target=\"_blank\">Hyundai M",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lWlhJaGxKTm5WamNsQTBFUWV4aFE2UVpvUEhlY1lqQ1l6ajNjdjE3YzQ2UnpLTWprS3kxUm5mZDdreHBXR2QzN1YxeXI4ajlwSjY0QjU3VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-006",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese EVs are making inroads in one of world’s most competitive auto markets - South China Morning Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWC1IaUt1WVVmMVZ1bmJ4ZmRQaTg0Vkhmby1iX2hfakx2V09NZGtLOWdSWmpHTzlPdUlka1MtcExLTVJfMU9WSW5MY3duQUtwUW4yckhIZVUxRWhxeC1JUXhMVlc4ZkJ4VklTdDZYbE",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWC1IaUt1WVVmMVZ1bmJ4ZmRQaTg0Vkhmby1iX2hfakx2V09NZGtLOWdSWmpHTzlPdUlka1MtcExLTVJfMU9WSW5MY3duQUtwUW4yckhIZVUxRWhxeC1JUXhMVlc4ZkJ4VklTdDZYbEFoYWdaVHpJbnJIR1pHWUk1MXBGa25jbDBvMjRqaU85dnNVOVo5c29VWk1lZXpJWTdiS1FMeEhhRUczQUFra3E4N2hKaDBEWVhfM1AwTjREaUFQaVpxYm8zZlB4bkZLV19IWFNn0gHTAUFVX3lxTE9USFVmZjg4Ymx2a3U1Y1BHekFSeDVYb3ZHc0wtYVJ2Zm9PX0tHLXJXQkdldXBsTmNLa0tfMFN6R3R3S0pZRTl5bElNVEV6ZXo4TVJyU2U0d1AycU9fYlhaRmlncnFqV3NoTnFSTFZ1bHpDVm45MHdkU0QtTkRtUGpOY19WY3RaWDhYbjNhbkJWRkxyU3FmM0xVa05HZWtaTDVTMnU4ZjdmT2ZWcmhsdjZiRFFwRzdlS1V5N0wxTHJvVjVOTjhjNVBSbXVRMEFIOXgtT28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "continental-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [
@@ -1361,6 +1420,27 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/04/26/the-city-of-providence-rhode-island-is-ready-to-decarbonize/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "honda-2026-04-26-068",
+    "date": "2026-04-26",
+    "companies": [
+      "honda"
+    ],
+    "topics": [
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Honda Withdraws From South Korean Market Amid Electrification, SDV Challenges - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnpUY1hCMXptczQ2WHJ5a2JicjNFeVpMT2gta3ktRmlRbjI0em5qbjVFcDB3T081cU1ydXJPR0RFVERQemdMM05lbGtwS2Nmd0pvTFU2cXQ3bElOZy1oOTZab1lYSjFmRy0xUzJaQX",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnpUY1hCMXptczQ2WHJ5a2JicjNFeVpMT2gta3ktRmlRbjI0em5qbjVFcDB3T081cU1ydXJPR0RFVERQemdMM05lbGtwS2Nmd0pvTFU2cXQ3bElOZy1oOTZab1lYSjFmRy0xUzJaQXBubUZJV3pDNk9ySktOd3hEcU0yNEVfOHlq?oc=5",
         "type": "rss"
       }
     ]
@@ -4444,6 +4524,147 @@
     ]
   },
   {
+    "id": "hyundai-2026-04-24-116",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Reaffirms China Commitment at Auto China 2026, Unveils IONIQ V as First Step in New Product Offensive - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA4X01xOEhHSUxzU21fOHhkVXdZQjF3am1xYWh4NkJTRVJmSUZXQkxWdjJLX3RwZE1IczV0ZDZvdEwxZ1FISGNWa3R4ZmlDYmVYMjJFdUF4Z3ZRb2FfaE5Yc1RhQjUzMzNtMWY0UW1PUQ",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4X01xOEhHSUxzU21fOHhkVXdZQjF3am1xYWh4NkJTRVJmSUZXQkxWdjJLX3RwZE1IczV0ZDZvdEwxZ1FISGNWa3R4ZmlDYmVYMjJFdUF4Z3ZRb2FfaE5Yc1RhQjUzMzNtMWY0UW1PUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-117",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Hyundai Ioniq V Blends Swoopy Roof With Sharp Angles - Motor1.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9XQlBtbTUyVkIyX2ZGOFJWcHU5MzBBTE83T1hzQ0lhNUpnY0NxczdVOTctMENaRjdFUG9QODkwbWVWbVl4YUdpYXlMam14NWIxd1NZZ0haWVczWmNrUFZQN3FXMUxMRTFBamV0S1NLVW",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XQlBtbTUyVkIyX2ZGOFJWcHU5MzBBTE83T1hzQ0lhNUpnY0NxczdVOTctMENaRjdFUG9QODkwbWVWbVl4YUdpYXlMam14NWIxd1NZZ0haWVczWmNrUFZQN3FXMUxMRTFBamV0S1NLVW1vQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-118",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Confirms New IONIQ SUV Based on Earth Concept for 2027 - Korean Car Blog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0ZxWmoyWlVCV0RDSUtsTFd0dzE5dFY3OWF2NVh3cXFOUzlObE1uR1NMMW5nRjFjQVBtaW9HaFBMN04tMmZqdlA4bkh1U01zUDNOdjN4eUlVLVNmYTBUcEZPa2JDcmJ2d2NRNkdCNn",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0ZxWmoyWlVCV0RDSUtsTFd0dzE5dFY3OWF2NVh3cXFOUzlObE1uR1NMMW5nRjFjQVBtaW9HaFBMN04tMmZqdlA4bkh1U01zUDNOdjN4eUlVLVNmYTBUcEZPa2JDcmJ2d2NRNkdCNnkxaG5CRjFNR0wwR1g4RlVvaDVqcGxHanN6bkJweXNJNi14RjkwOVVr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-119",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai 'triple down' on Chinese market, to launch 20 new models in 5 years, says CEO José Muñoz - CarNewsChina.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFkyWHFZaHFNazlSeS1Mb2JscGJRTGIxeVl5UmtfWVM2bkEySkFBamkxejdvNVVQSXl0MTdfRl9nZnNMT1RZYjF3TGZzSlNIQ0Vrb0UxUVAxTWF6N2x6OGd3dDVBbHlrRklmVHhGek",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFkyWHFZaHFNazlSeS1Mb2JscGJRTGIxeVl5UmtfWVM2bkEySkFBamkxejdvNVVQSXl0MTdfRl9nZnNMT1RZYjF3TGZzSlNIQ0Vrb0UxUVAxTWF6N2x6OGd3dDVBbHlrRklmVHhGekluaWU0YmREeDVTNkFUZzZzVnhaenoyeGtVaG9WUGY3QXVlU0RXVDlyQ1pDeHFxLWpVZ29heE5weHlTMmIxRWs0YTdpZEN1WE95RnBXSVBwZTFLQjlqNGFEQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-04-24-120",
+    "date": "2026-04-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai’s New IONIQ V Looks Kind of Like a Cybertruck for Normal People - Gizmodo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNb25sSWF6TzdHcldiOGd5MUpIY3dhaV9kejlBMWRJa2JSMjVyS0tLN3loVDRkU3VESGxCa3ozTXh5bmJWRjhFTk05WjVybTc0VjNNV1c0SVdZX0pGVno1UTFwWUNVTTdKNWN6V2huQj",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb25sSWF6TzdHcldiOGd5MUpIY3dhaV9kejlBMWRJa2JSMjVyS0tLN3loVDRkU3VESGxCa3ozTXh5bmJWRjhFTk05WjVybTc0VjNNV1c0SVdZX0pGVno1UTFwWUNVTTdKNWN6V2huQjdPMUV2dHF2NXNTQk5sTDk2SHlxeHdOc2N3QXpwMXJ2d1NNZzlyMDhPd0hTaUEzWlFEUWd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-121",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "earnings",
+      "industry_general",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Cox Automotive Forecast: April New-Vehicle Sales Pace to Reach 16.1 Million, Despite Declining Consumer Sentiment, Rising Economic Uncertainty - Cox Automotive Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnRDamJtd0I1eWdjZy1BSnhGZmxockxYM0ZSYnBnLTRaeEVDZndfMTg4YW05Uy1wWkdyQ2Mxa2c3N1JPVjlTZ3FGZ3FqdEtqbDU3cml3ZlNhRldpVkQzM1gyYzFRb201SHpHLVhlSl",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnRDamJtd0I1eWdjZy1BSnhGZmxockxYM0ZSYnBnLTRaeEVDZndfMTg4YW05Uy1wWkdyQ2Mxa2c3N1JPVjlTZ3FGZ3FqdEtqbDU3cml3ZlNhRldpVkQzM1gyYzFRb201SHpHLVhlSlV6Sk5LTEx3UDdfSnIxQmRGdlBhRWY3cVNfblNGMW53SkJNT3ExRkNtRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-122",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Charging an EV cheaper than filling up petrol car as fuel prices soar - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFdMNEx3Y0tqUnZTclpZX1dzcTU0OTJjNWNvbERjMGsxZXBRbm5jeW4wVWc1RzJxUVBDeW5paWtKaGhjc0cwV0JxSENCbE40U1pGbWNxUGRfQi1ZWFdkOHRyV0NvVVYydHRzcFJpZ2",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFdMNEx3Y0tqUnZTclpZX1dzcTU0OTJjNWNvbERjMGsxZXBRbm5jeW4wVWc1RzJxUVBDeW5paWtKaGhjc0cwV0JxSENCbE40U1pGbWNxUGRfQi1ZWFdkOHRyV0NvVVYydHRzcFJpZ29sWUU1TDFSMjFncE1reklkdTRlSWFSZVJ5Z2dESmloVV8wWmN5T1FzdjRZaWQ4Rjh4MWZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-23-003",
     "date": "2026-04-23",
     "companies": [],
@@ -6095,6 +6316,28 @@
     ]
   },
   {
+    "id": "honda-2026-04-23-114",
+    "date": "2026-04-23",
+    "companies": [
+      "honda",
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Ford, now Honda: Why automakers are all-in on hybrids for 2026 - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxNUFhYX19zcDlDRjM4dDFpUGt1cUk0OUVoZ1ZKU08xSzZaSGgwVmtNU3VxWkpTbmhpUkdLMW8xMldfbkljTVVYSEFSZVNTWG93SEV3RVdzX2dCT0VxcHNQZlRIVGlyNFh0RmdVczJKV3",
+    "sources": [
+      {
+        "name": "honda",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNUFhYX19zcDlDRjM4dDFpUGt1cUk0OUVoZ1ZKU08xSzZaSGgwVmtNU3VxWkpTbmhpUkdLMW8xMldfbkljTVVYSEFSZVNTWG93SEV3RVdzX2dCT0VxcHNQZlRIVGlyNFh0RmdVczJKV3ZaVlV0WVRFV0R4bUE3WHFya0FwRHVmRWxxRjBKRkNzdnNNOFduckxkTkZWa1VIOXhnZEFOR1lsQ085TFFTREpqMm9LbWV1NTlhUWFfYjV0VWh6bFZQQ21JU2p1ZnI1VG5fUUZxRXJLcUw1MXItdU1neHllTWl6NG9TSFdCUk8wQVdkNU1fUTlLRVRkaEg4S3RHODdTRlljRW1Nd3VoMUJ2UHptblRfNnNwQzdjZnR5eGFJQkxwd203YmJ6cUpJV2ktZHdrbE9LMGdTVF9yQ2Y1cm4xaTlnWTc5amVYcFMzSmhkd0hRN05FMVdvVDB4Y2o1STk2dmVqOGNVRlBvVEFWQXdCM0FFQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "stellantis-2026-04-22-006",
     "date": "2026-04-22",
     "companies": [
@@ -7069,6 +7312,28 @@
     ]
   },
   {
+    "id": "tesla-2026-04-22-069",
+    "date": "2026-04-22",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "ev_penetration",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Tesla Generates Revenue From All-Electric Vehicles - Investopedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHA0YndpazJkSEQ4Ql9udF9GbHBVLWIySUR0bm5FQWlna1hjRl9kUjVSY09UeFpiSm1KN014ZUVJRDZqWUtHdnNpQTU4NDVWcHRuZGNtbkR2bGNaZi04NGowRlFjbU4yOElnY2JYal",
+    "sources": [
+      {
+        "name": "tesla",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHA0YndpazJkSEQ4Ql9udF9GbHBVLWIySUR0bm5FQWlna1hjRl9kUjVSY09UeFpiSm1KN014ZUVJRDZqWUtHdnNpQTU4NDVWcHRuZGNtbkR2bGNaZi04NGowRlFjbU4yOElnY2JYalhuN1BhR1pXVm9lcEhMWnY2MnNpWFdadlBiMDRZdE1QTW4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "posco-2026-04-21-008",
     "date": "2026-04-21",
     "companies": [
@@ -7949,6 +8214,26 @@
       {
         "name": "stellantis",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2F2dzdwVDU3TUxhUHpoTVZwbjdUSE1lOXFmNVpwR1RiM25GTlNxbVpIMTUxSHdyYm8yUVJ0WDFyeG5mblhKc2swTjNHS0lCYXFWeWF3cjdOcGFMYlhqaFdmejh2LWNRWVBKcXpDVURMZWZ6VUU2Z2VIcC11cWxaaWlGTUFxaU0wLVJUSWtLMGNtTHI5NG5jcGthcWMzN3pkd3VUd1JWOWtndnVfRkg1Q1BYVVRDNVV1MWFEQl81X3FnaS0teVVQRWRiOW1hQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "posco-2026-04-21-067",
+    "date": "2026-04-21",
+    "companies": [
+      "posco"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "POSCO Commits Over KRW 1.6 Trillion to JSW Joint Venture Steel Mill in India - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZTd5RGdyamJKS0tfVlRuZGNoQ2g3bFp4dUV5c3hCNTBXZ3g0U0kxd3F4Y2JuUEZHWWRpRmk3UWljTnRpaDZkRUphUW5zM2FVd2FRWk1DRzFvbzB0ak4yYUpfcFJSYXNycFBkUm1PX0",
+    "sources": [
+      {
+        "name": "posco",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZTd5RGdyamJKS0tfVlRuZGNoQ2g3bFp4dUV5c3hCNTBXZ3g0U0kxd3F4Y2JuUEZHWWRpRmk3UWljTnRpaDZkRUphUW5zM2FVd2FRWk1DRzFvbzB0ak4yYUpfcFJSYXNycFBkUm1PX0VmTVBmaFVpX2l4bkV1LTJEYlBtcjFHd0RwTzAtWnY1UTJSdlIzMURIaE9XeWlyVHpYS1A3YWVlQ19SY1g4ZEQ4UkNzbUNiME9ibVV3RDlOVThFdGVqQlV2QzgyLUt0WDExanBsZmR0VHYyRDh5d19sTEtienVYdDdpMVdtYU5RdWZ3MXBY?oc=5",
         "type": "rss"
       }
     ]
@@ -8972,6 +9257,24 @@
       {
         "name": "byd",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblBZb0JKdjFtLWt2RnNiM1IxYWw1aVdKZURLckxIbmREbmVELXRGSWRJb2Rvc1ZVLUZJZVlsZ1BSb0duWXdIZ0t4ZFdSZjRPeGZ2aEUyV3NzSDFJTHV6VmZrLUpBU0VTa3cyQzFFcjJnbWVXMUJJUjF0a0ZyNDdqSG5rRTRjTnRkUS1lVUVzck9yM0RGSWhDc0xiUkhzLTVkRmhlSFgybmNVWU1KWEY5S05Hc0hoQnR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "posco-2026-04-20-084",
+    "date": "2026-04-20",
+    "companies": [
+      "posco"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "POSCO, JSW jointly construct Indian steel plant - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnJXRDcyM2NFZC0zQnFIaWp4ZnRJREptTGVDT2xpSEQ0aTJScDJTOWRnTndBZUtKZ0xraWgyc3hydGpaVzFVYmtBM1IyZ2dGUjNqVHBYaGg3SXlMekZjbWJCREgxVXlMSnFuTGw4R2",
+    "sources": [
+      {
+        "name": "posco",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnJXRDcyM2NFZC0zQnFIaWp4ZnRJREptTGVDT2xpSEQ0aTJScDJTOWRnTndBZUtKZ0xraWgyc3hydGpaVzFVYmtBM1IyZ2dGUjNqVHBYaGg3SXlMekZjbWJCREgxVXlMSnFuTGw4R2FVS2ZQYWFUZDVnTUEtQi1vSmdnYWdubW9oVzRSRERrbHh6Qnc1YlpZbkt6MA?oc=5",
         "type": "rss"
       }
     ]

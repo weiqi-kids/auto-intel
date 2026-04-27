@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T01:41:04.231327+00:00",
+  "updated_at": "2026-04-27T03:37:02.772554+00:00",
   "companies": {
     "nippon_steel": {
       "name": "日本製鐵",
@@ -10,13 +10,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 59777,
           "pct_held": 0.01,
-          "value": 34276133
+          "value": 34311998
         },
         {
           "holder": "Coston, McIsaac & Partners",
           "shares": 360,
           "pct_held": 0.0,
-          "value": 206424
+          "value": 206640
         }
       ]
     },
@@ -96,7 +96,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1169808,
           "pct_held": 0.09,
-          "value": 3873234288
+          "value": 3870894672
         }
       ]
     },
@@ -195,7 +195,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 25513,
           "pct_held": 0.0,
-          "value": 48997716
+          "value": 48921177
         }
       ]
     },
@@ -368,13 +368,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 125727,
           "pct_held": 0.0,
-          "value": 387742068
+          "value": 387490614
         },
         {
           "holder": "Williams Jones Wealth Management, LLC.",
           "shares": 15000,
           "pct_held": 0.0,
-          "value": 46260000
+          "value": 46230000
         }
       ]
     },
@@ -540,43 +540,43 @@
           "holder": "Org Partners LLC                          ",
           "shares": 2064,
           "pct_held": 0.0,
-          "value": 211147
+          "value": 218371
         },
         {
           "holder": "Winch Advisory Services LLC",
           "shares": 120,
           "pct_held": 0.0,
-          "value": 12276
+          "value": 12696
         },
         {
           "holder": "Hantz Financial Services, Inc.                          ",
           "shares": 2400,
           "pct_held": 0.0,
-          "value": 245520
+          "value": 253920
         },
         {
           "holder": "Curio Wealth, LLC                          ",
           "shares": 56,
           "pct_held": 0.0,
-          "value": 5728
+          "value": 5924
         },
         {
           "holder": "Kelly (Lawrence W.) & Associates Inc.",
           "shares": 6000,
           "pct_held": 0.0,
-          "value": 613800
+          "value": 634800
         },
         {
           "holder": "Ameriflex Group, Inc.                          ",
           "shares": 1000,
           "pct_held": 0.0,
-          "value": 102300
+          "value": 105800
         },
         {
           "holder": "Nbc Securities, Inc.                          ",
           "shares": 2025,
           "pct_held": 0.0,
-          "value": 207157
+          "value": 214245
         }
       ]
     },
@@ -723,19 +723,19 @@
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 6900,
           "pct_held": 0.0,
-          "value": 9039000
+          "value": 9007950
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 46857,
           "pct_held": 0.0,
-          "value": 61382670
+          "value": 61171813
         },
         {
           "holder": "Edgar Lomax Co/VA",
           "shares": 11300,
           "pct_held": 0.0,
-          "value": 14803000
+          "value": 14752150
         }
       ]
     }

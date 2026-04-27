@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:04.599256Z",
+  "generated_at": "2026-04-27T03:37:03.181249Z",
   "top_events": [
     {
       "rank": 1,
@@ -29,6 +29,55 @@
     },
     {
       "rank": 2,
+      "event_id": "continental-2026-04-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Law firm Continental Azu and Lin are pushing for a merger. If the merger between the two law firms i.. - 매일경제",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Sc0tiSkdMUkFkZFdydGwyWURlZHlTTzNnMVh4QkEySV9pRzRqM0ZGeU1lNUhaYktsQ2FKVHQ4T3BjOHVqRmlEcGV6OEtybmJkT2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-04-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor unveils Ioniq V at Auto China - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lWlhJaGxKTm5WamNsQTBFUWV4aFE2UVpvUEhlY1lqQ1l6ajNjdjE3YzQ2UnpLTWprS3kxUm5mZDdreHBXR2QzN1YxeXI4ajlwSjY0QjU3VQ?oc=5"
+    },
+    {
+      "rank": 4,
       "event_id": "unknown-2026-04-27-002",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -48,7 +97,7 @@
       "source_url": "https://electrek.co/2026/04/26/survey-sunday-who-should-be-allowed-to-drive-ice-powered-vehicles/"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "event_id": "toyota-2026-04-27-003",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -73,7 +122,7 @@
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 1,
+      "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -83,7 +132,7 @@
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 3,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -95,42 +144,46 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 3,
+    "total_events": 6,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 3,
+      "neutral": 6,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "hyundai",
-        "count": 1
+        "count": 2
       },
       {
         "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "continental",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 3
+        "count": 5
       },
       {
         "id": "earnings",
-        "count": 1
+        "count": 3
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 705,
-    "dup_title": 359,
-    "too_old": 213,
-    "gate1_blocked": 34,
-    "gate2_blocked": 45,
-    "passed": 54,
-    "pass_rate": "15.6%",
-    "gate2_block_rate": "13.0%",
+    "total_raw": 1410,
+    "dup_title": 760,
+    "too_old": 423,
+    "gate1_blocked": 67,
+    "gate2_blocked": 91,
+    "passed": 69,
+    "pass_rate": "10.6%",
+    "gate2_block_rate": "14.0%",
     "gate2_samples": [
       "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
       "POSCO's Gift of Sky Trail Becomes Catalyst for Pohang Tourism - Seoul Economic Daily",
@@ -141,15 +194,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 3 則事件，焦點為Hyundai Motor、Toyota相關動態：「CATL batteries to power Hyundai’s EREV, hybrid push in Ch...」。主要關注主題為汽車產業通用、財報，市場情緒中性。",
+    "summary": "今日共 6 則事件，焦點為Hyundai Motor、Toyota、大陸集團相關動態：「CATL batteries to power Hyundai’s EREV, hybrid push in Ch...」。主要關注主題為汽車產業通用、財報，市場情緒中性。",
     "signals": [
       {
         "text": "CATL batteries to power Hyundai’s EREV, hybrid push in China - Korea JoongAng...（財報、汽車產業通用）",
         "level": "yellow"
       },
       {
-        "text": "Survey Sunday: who should be allowed to drive ICE-powered vehicles?（汽車產業通用）",
-        "level": "green"
+        "text": "Law firm Continental Azu and Lin are pushing for a merger. If the merger betw...（財報）",
+        "level": "yellow"
       }
     ]
   },

@@ -1,11 +1,11 @@
 {
-  "total_raw": 705,
-  "dup_title": 359,
+  "total_raw": 1410,
+  "dup_title": 760,
   "no_date": 0,
-  "too_old": 213,
-  "gate1_fail": 34,
-  "gate2_fail": 45,
-  "passed": 54,
+  "too_old": 423,
+  "gate1_fail": 67,
+  "gate2_fail": 91,
+  "passed": 69,
   "gate2_samples": [
     "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
     "POSCO's Gift of Sky Trail Becomes Catalyst for Pohang Tourism - Seoul Economic Daily",
