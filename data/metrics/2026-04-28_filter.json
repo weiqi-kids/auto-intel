@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 277,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 37,
+  "gate2_fail": 53,
+  "passed": 138,
+  "gate2_samples": [
+    "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+    "AMNS India appoints Nobuo Okochi as CFO from July 1 - Devdiscourse",
+    "Posco ramps up industrial gas push beyond steel - The Korea Herald",
+    "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
+    "ArcelorMittal Poland finalizes preparations to restart blast furnace No. 3. - Yieh Corp."
+  ]
+}
