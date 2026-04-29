@@ -1,0 +1,212 @@
+{
+  "date": "2026-04-29",
+  "date_range": {
+    "start": "2026-04-23",
+    "end": "2026-04-29"
+  },
+  "generated_at": "2026-04-29T10:11:21.071087Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_mobis-2026-04-24-030",
+      "date": "2026-04-24",
+      "title": "Hyundai Mobis posts upbeat Q1 on global orders, FX gains - The Korea Herald",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 136,
+      "last_week": 90,
+      "week_over_week_change": "+51%",
+      "sentiment_this_week": 0.01
+    },
+    "guidance": {
+      "this_week": 7,
+      "last_week": 5,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.21
+    },
+    "ev_penetration": {
+      "this_week": 28,
+      "last_week": 23,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": 0.07
+    },
+    "auto_sales": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 107,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.05
+    }
+  },
+  "company_7d_summary": {
+    "arcelormittal": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 12
+    },
+    "continental": {
+      "event_count": 23,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 50,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 16,
+      "sentiment_avg": -0.03,
+      "rank": 4
+    },
+    "stellantis": {
+      "event_count": 19,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "honda": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "byd": {
+      "event_count": 7,
+      "sentiment_avg": -0.0,
+      "rank": 9
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 13
+    },
+    "saint_gobain": {
+      "event_count": 5,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "magna": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "hyundai_mobis": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 6
+    },
+    "ford": {
+      "event_count": 12,
+      "sentiment_avg": 0.02,
+      "rank": 5
+    },
+    "bridgestone": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "toyota": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 8
+    },
+    "denso": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "volkswagen": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "fuyao": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 718,
+        "last": 377,
+        "change_pct": 90.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-23",
+      "event_count": 121,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 134,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 72,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 71,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 132,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 145,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 43,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-23 ~ 2026-04-29）共 718 則事件，重點為「Hyundai Mobis posts upbeat Q1 on global orders,...」。事件量較上週增加 90%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 23 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 50 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

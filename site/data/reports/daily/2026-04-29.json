@@ -1,0 +1,280 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:11:20.987159Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-04-29-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "\"Mobis and Monami Join Forces\"... Hyundai Mobis Expands Car Care Products into Lifestyle Items - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fUEE5Q21ZRllNLUYyNmpVb3lEMVFMTGZuLWozUmdZNU9iM1NqTWtIdUJtNDNwaTk3VHJ4QU9VdHNwRHNhOWdScE15YVl2N21HMVBr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-04-29-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tesla Rivals Geely, BYD Report Double-Digit Profit Decline In First Quarter 2026 Amid Revenue Shortfall - Benzinga",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPa3M5ZG5lV2VsOUZ4dWdXTmxXNVVfYnpPYkdjbHRXUVcwajNyaXg2R1NHcFVtZnpaTVBSeUNUQU9GV29KUF8yME9aMVJCQTFxRWpCRkgxcUJFSlBpbFNSWUdReVdDWC1GLWtOM0tKTEpKUVRLc3hQa3JLdXFmREZianFNa2ZGNmxiblhKZ2lMb1hRWUJXQmR1MHV4Yjdwam1PQWdlcFVwUHZIME4yQXUyV3V1VDN3RUdEcV9tRVFpVEdUVHZldWR6bGNNLVVYdVVJQ0tGams4R2V3cGRhT25CMTZmNW5yTnZyWGIwMlFkblBHbVdzbzJ4dmhpQTBVaWpWOWNyYWJTcGxiRGVJdHVLaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-04-29-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Teams with Monami for Car Care Kit - Seoul Economic Daily",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVEhTNWtWb1lVaVQtU0VLaUJlUzZqX1g1czZoZDVUeDhUdU5PeGpyVXJxak1xNG9XSzc2ekw4S0ZxQUxLenp0NzJVTmZyaVF3aUNWSExRc1BRZlE3V2pjWU9BeDRURm5qMk8teGJUT0dHekJWMzd2bWtuUC1Na2xENk1vYWtaUTdzMmkwOGhER3B5c1pN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AMNS India appoints Nobuo Okochi as CFO from July 1 - ETHRWorld.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1pQaVNNMEdmSm5IV1VlbGZzX3B6clRjcEo5WGV2WVVWNE11c0hhR2JQLWJWdE5XdDRfZkRXelI3ZURwZmY2WWdyUjcwYW14ZVNlOHQwSjh5LTVESS1CTVBfX1c5NWlwQ0FMN09vY2dack5zOHFfRG4yMGR4aGVfQ3U0c0VuWmdRRFRCM1IweGhuODFCVGE4cTZoQnZQU3dCLVN6WmhsbV9iTVFJTEtuVl9rT0RGWTBhSkt6UDVhWm9lUUtBM3lVatIBzgFBVV95cUxPRzhMTzhjbkhHNWlCc3VmeEthdjUwT1ltU3ZpanNubUF4QXRSQmhpU1pxZmY0RXY3VlpRRm9welN2d0hqaGVQV0RkS0V2MWZlc3Qzemo1NEFwX3Q0aU1nQ1o0M19OalBwTVpBT1pjYTMzclVFM2F3SXRZWkVnQmxSZ01ha3dlam15Z0laRFRPc3M2UTZIQlpOS0NMVVNXVUZjWm14VjZqekFLMmFrRnNuU3JQaGFWMnAyX0plb2xKQWdYUDV4LVMzd3Q2WTZ1UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-04-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal’s CEO Highlights Community Relations as Foundation for Safety - FrontPageAfrica",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2JiUGdtWlRfU0ZzWkdRUTFHcGhLUEw0Q2ZjaHNER2tYYm5GWFhOUTVZV1U3VTNkcTFBSUZJbUU0bGViZE1wUFhkZ0otMjMxLXdSU0NuRHJ4SkdHZ1lDMk5RTWtHYjBZdTJVQ2UtYnhwd3M0YU03MGJoNGxSYTZWdFo3TllUcmtBNk8xT0dKcVF3TmllbjNQUkZRbFprb2MxbzlpVTZmWW00dmFuSDd5b082dko?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 34,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "bridgestone",
+        "count": 5
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "ev_penetration",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 710,
+    "dup_title": 267,
+    "too_old": 191,
+    "gate1_blocked": 39,
+    "gate2_blocked": 57,
+    "passed": 156,
+    "pass_rate": "35.2%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+      "POSCO Holdings Inc stock (KR7005490008): Is its green steel pivot strong enough to unlock new upside",
+      "Posco ramps up industrial gas push beyond steel - The Korea Herald",
+      "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
+      "Primetals Technologies and ArcelorMittal Complete Converter Modernisation in Eisenhüttenstadt - Mach"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為Bridgestone、Hyundai Motor、特斯拉相關動態：「\"Mobis and Monami Join Forces\"... Hyundai Mobis Expands C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "\"Mobis and Monami Join Forces\"... Hyundai Mobis Expands Car Care Products int...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Tesla Rivals Geely, BYD Report Double-Digit Profit Decline In First Quarter 2...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

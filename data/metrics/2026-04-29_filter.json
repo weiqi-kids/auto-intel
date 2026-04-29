@@ -1,0 +1,16 @@
+{
+  "total_raw": 710,
+  "dup_title": 267,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 39,
+  "gate2_fail": 57,
+  "passed": 156,
+  "gate2_samples": [
+    "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+    "POSCO Holdings Inc stock (KR7005490008): Is its green steel pivot strong enough to unlock new upside",
+    "Posco ramps up industrial gas push beyond steel - The Korea Herald",
+    "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update",
+    "Primetals Technologies and ArcelorMittal Complete Converter Modernisation in Eisenhüttenstadt - Mach"
+  ]
+}
