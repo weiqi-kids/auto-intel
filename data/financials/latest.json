@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T10:11:17.331240Z",
+  "updated_at": "2026-04-30T10:11:47.056419Z",
   "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -63,14 +63,14 @@
       "name": "比亚迪",
       "ticker": "1211.HK",
       "currency": "HKD",
-      "ar": 37004685000,
-      "ar_prev": 43381542000,
-      "ar_qoq": "-15%",
-      "inventory": 138420580000,
-      "inv_prev": 140839351000,
-      "inv_qoq": "-2%",
+      "ar": 44222213000,
+      "ar_prev": 37004685000,
+      "ar_qoq": "+20%",
+      "inventory": 160413531000,
+      "inv_prev": 138420580000,
+      "inv_qoq": "+16%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "cheng_shin",
@@ -147,14 +147,14 @@
       "name": "通用汽車",
       "ticker": "GM",
       "currency": "USD",
-      "ar": 44384000000,
-      "ar_prev": 45300000000,
-      "ar_qoq": "-2%",
-      "inventory": 14467000000,
-      "inv_prev": 15318000000,
-      "inv_qoq": "-6%",
+      "ar": 43724000000,
+      "ar_prev": 44384000000,
+      "ar_qoq": "-1%",
+      "inventory": 15590000000,
+      "inv_prev": 14467000000,
+      "inv_qoq": "+8%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "honda",

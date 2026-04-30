@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-30",
+  "total_events": 53,
+  "by_company": {
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 16,
+      "sentiment_avg": 0.09
+    },
+    "posco": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "stellantis": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 38,
+      "sentiment_avg": -0.03
+    },
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": -0.05
+    },
+    "guidance": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "parts_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

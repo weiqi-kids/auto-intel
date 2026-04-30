@@ -1,0 +1,284 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:11:51.051125Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-04-30-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Nippon Steel India inaugurates indigenous auto steel line to boost 'Make in India' - IANS LIVE",
+      "companies": [
+        "nippon_steel",
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0FfemRLSkFXcUgyd1RwMS02NW9Gc1QxdmVDdjN1ek9sWUxMY3FwRTVURm9STjduckgyQ0JuOEs3Tkx5dkM4RDduQ3VLZU9IU28zOEpTSnVtRXVsVlhQQmZIY05CMWVmNGlmZ1ZFMkx3ZDJSd2xwcG5tNHhJRU5WQ090V2tiOTFnTjJkTFZMV3B0QjRScG95b0RkUzBoenNVZ0l2RzhjM3V4WlNsNEZGdDNBcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-04-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Posco Holdings lifts Q1 profit 24% as lithium losses ease, sets Korea return plan - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjcwMk5rNlFsT3VTS29FTWVYVUtfcDdHZHZUdG5UZ1VSYkhYTXM1QjN0MkhHQTFZSmJsYUpFTEZmRFBHZ05lSlVtTFVnbk9wX0hRZlA0cjRSLWM3TVhQQndlXzF2NmwxZERHdVQxSEJXdmhmTG1kZHdleUFrejhrTnh30gGWAUFVX3lxTE9pY1Z5ck9VLVV4aUlWX2otRzJQQWYwb1ZnUnljMFM4cjFiS3hCVy1IdElrMVQ1LVFKajdCeFI4bVNBMHJoVm12dVVJUGRfRDEyVHpBbDBHZWFrUHJoZVNtd0VPY3FEOWtsMENjcUdOZ2U4LXE4NWZxbS1zN3F0UDBka0tXNXVsU0tGY05QMEJQeXc5N0hxUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-04-30-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal (MT) Q1 Earnings Beat Expectations Despite Revenue Miss - GuruFocus",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1lIUmM4NFROQ1ZFQ0FxcG9UeWJZTGJQSExwZkp2Unpjbi10RXAxTVA0NDhwZXhJeUlldlBYa1ZDb2Fua2V2OFpPekdlR2VwbFgyR3E4SEd5eXVjTndhTjFfZWN4TkZfRVBpMmtUci1zVW9mcEZzUEpxaE5SM0wzS0txamFQS0RkNGdFeHczdTJhekQyUUdDdnBxSzNWVGxfWVBoa3Mza0QzZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "stellantis-2026-04-30-041",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stellantis turns profit in first quarter after 2025 loss - Detroit Free Press",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmtWT00xT2ZJV2d0VFdPRFhJRi16a1ZBbXluSmJoT1pnNGR6dURKS1lvY0plSVd0dzk1WVRaWGxHYW1kN2E3c251RlU2REpHRVpyaUpTQlkxVk52Q3E5VGlVZVFFWmpEWDJTTmVldm5nV0lHZXRMMVZLb09vUXdLVXlZTHQxQ2dDNzJNWHRDMURiQjlPZ2k4Y09vNXhQVVNWX1FCQ3l4SV9lYktPNUxTUF9PZ09xa2pubW42dUlPYmtEU2ZLMGpOTmQ3ZUpxZndWWGVUNktCNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-04-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel trader inks MOU with Malaysian fabricator - megaproject.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVmw2MGxWX1BoSnE5MFZKOTJBNzV2ZGhiSzJWeGNxNWx4R01Qdk83NEJKU1ExQ0xsMk9FYkNpN0RZU2pQQ1UxTFVWcUNJN0tuZHUtWmpoT0gzc1R6V1EyZnc4VzZKY2ZJYTgzRl9FaC1UZlJfWUpxaU9wTTlXcldaZzFReUczZGhNNEgtZWdQQzdrQ28?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "parts_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 43,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 16
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "posco",
+        "count": 4
+      },
+      {
+        "id": "fuyao",
+        "count": 3
+      },
+      {
+        "id": "ford",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 38
+      },
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 5
+      },
+      {
+        "id": "parts_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 709,
+    "dup_title": 264,
+    "too_old": 194,
+    "gate1_blocked": 33,
+    "gate2_blocked": 48,
+    "passed": 170,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+      "ArcelorMittal Nippon Steel India appoints Nobuo Okochi as Chief Financial Officer - ETLegalWorld.com",
+      "Posco ramps up industrial gas push beyond steel - The Korea Herald",
+      "Air Liquide to spend more than $350M to support Hyundai-POSCO Louisiana mill - Steel Market Update"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為安賽樂米塔爾、大陸集團、浦項鋼鐵相關動態：「ArcelorMittal Nippon Steel India inaugurates indigenous a...」。主要關注主題為財報、汽車產業通用、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ArcelorMittal Nippon Steel India inaugurates indigenous auto steel line to bo...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Posco Holdings lifts Q1 profit 24% as lithium losses ease, sets Korea return ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "零件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
