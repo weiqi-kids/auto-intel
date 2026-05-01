@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T10:11:47.056419Z",
+  "updated_at": "2026-05-01T09:51:17.206804Z",
   "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -273,14 +273,14 @@
       "name": "浦項鋼鐵",
       "ticker": "005490.KS",
       "currency": "KRW",
-      "ar": 94226000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
-      "inventory": 12805223000000,
-      "inv_prev": 12338000000000,
-      "inv_qoq": "+4%",
-      "alert": false,
-      "quarter_date": "2025-09-30"
+      "ar": 206283000000,
+      "ar_prev": 94226000000,
+      "ar_qoq": "+119%",
+      "inventory": 13739362000000,
+      "inv_prev": 12805223000000,
+      "inv_qoq": "+7%",
+      "alert": true,
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "saint_gobain",
