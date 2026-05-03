@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-03",
+  "date_range": {
+    "start": "2026-04-27",
+    "end": "2026-05-03"
+  },
+  "generated_at": "2026-05-03T09:25:58.308032Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "volkswagen-2026-04-28-011",
+      "date": "2026-04-28",
+      "title": "Rolling on Continental Tires: The New VW T-Roc - continental.com",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "byd",
+      "subject_type": "company",
+      "this_week_sentiment": -0.2,
+      "last_week_sentiment": 0.25,
+      "delta": -0.45,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "arcelormittal",
+      "company_b": "nippon_steel",
+      "co_mention_count": 6,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "gm",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 140,
+      "last_week": 124,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": 0.01
+    },
+    "industry_general": {
+      "this_week": 157,
+      "last_week": 20,
+      "week_over_week_change": "+685%",
+      "sentiment_this_week": 0.04
+    },
+    "ev_penetration": {
+      "this_week": 30,
+      "last_week": 30,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "guidance": {
+      "this_week": 14,
+      "last_week": 6,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.18
+    },
+    "parts_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "auto_sales": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hyundai": {
+      "event_count": 32,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 8
+    },
+    "continental": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nippon_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "arcelormittal": {
+      "event_count": 28,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "fuyao": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "saint_gobain": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    },
+    "magna": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "ford": {
+      "event_count": 18,
+      "sentiment_avg": -0.01,
+      "rank": 4
+    },
+    "tesla": {
+      "event_count": 16,
+      "sentiment_avg": 0.1,
+      "rank": 6
+    },
+    "byd": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 14
+    },
+    "stellantis": {
+      "event_count": 17,
+      "sentiment_avg": -0.09,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "posco": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 10
+    },
+    "bridgestone": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hyundai_mobis": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "honda": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "gm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 850,
+        "last": 621,
+        "change_pct": 36.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-27",
+      "event_count": 139,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 157,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 155,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 176,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 148,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 57,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 18,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-27 ~ 2026-05-03）共 850 則事件，重點為「Rolling on Continental Tires: The New VW T-Roc ...」。聖戈班、Hyundai Mobis表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 32 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Toyota",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
