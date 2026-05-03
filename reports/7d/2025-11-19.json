@@ -1,0 +1,85 @@
+{
+  "date": "2025-11-19",
+  "date_range": {
+    "start": "2025-11-13",
+    "end": "2025-11-19"
+  },
+  "generated_at": "2026-05-03T02:35:27.868656Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "volkswagen-2025-11-13-035",
+      "date": "2025-11-13",
+      "title": "VW said to delay investments amid financial uncertainty; Audi U.S. production at risk - Automotive News",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.17
+    }
+  },
+  "company_7d_summary": {
+    "volkswagen": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    },
+    "magna": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 2,
+        "change_pct": 50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

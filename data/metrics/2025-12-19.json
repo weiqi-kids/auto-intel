@@ -1,0 +1,29 @@
+{
+  "date": "2025-12-19",
+  "total_events": 2,
+  "by_company": {
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "yulon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-02-13",
+  "total_events": 4,
+  "by_company": {
+    "magna": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

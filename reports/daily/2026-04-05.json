@@ -1,0 +1,104 @@
+{
+  "date": "2026-04-05",
+  "generated_at": "2026-05-03T02:35:49.705209Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-04-05-178",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Major electric vehicle automaker BYD outsells Tesla for the second month running - Yahoo Finance",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-04-05-046",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tesla Reclaims Global EV Sales Crown From BYD - Autoblog",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "ev_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  }
+}

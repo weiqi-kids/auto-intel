@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-24",
+  "total_events": 7,
+  "by_company": {
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "valeo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

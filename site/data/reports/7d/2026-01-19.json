@@ -1,0 +1,106 @@
+{
+  "date": "2026-01-19",
+  "date_range": {
+    "start": "2026-01-13",
+    "end": "2026-01-19"
+  },
+  "generated_at": "2026-05-03T02:35:35.774254Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toyota-2026-01-13-137",
+      "date": "2026-01-13",
+      "title": "The Streak Continues: Toyota Is 2025’s World’s Best-Selling Automaker - Autoblog",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "ev_penetration": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "toyota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "magna": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 5,
+        "change_pct": 40.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-19",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

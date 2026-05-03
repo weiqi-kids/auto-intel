@@ -1,0 +1,100 @@
+{
+  "date": "2025-08-21",
+  "generated_at": "2026-05-03T02:35:21.686559Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "yulon-2025-08-21-215",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yulon Motor unveils strategy as profits decrease - Taipei Times",
+      "companies": [
+        "yulon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "yulon-2025-08-21-222",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EV sales plunge in Taiwan; Yulon eyes overseas growth - digitimes",
+      "companies": [
+        "yulon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "yulon",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  }
+}

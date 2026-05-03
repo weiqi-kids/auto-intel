@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-04",
+  "generated_at": "2026-05-03T02:35:32.536984Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-01-04-033",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US auto sales defy regulatory uncertainty to rise 2% in 2025 - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  }
+}

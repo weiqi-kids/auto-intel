@@ -1,0 +1,120 @@
+{
+  "date": "2026-03-16",
+  "date_range": {
+    "start": "2026-03-10",
+    "end": "2026-03-16"
+  },
+  "generated_at": "2026-05-03T02:35:45.237966Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-03-10-030",
+      "date": "2026-03-10",
+      "title": "Hyundai Mobis Now Operates Hungarian Plant to Supply Chassis Modules to a German Premium Carmaker - Hyundai Motor Group",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 12,
+      "last_week": 11,
+      "week_over_week_change": "+9%",
+      "sentiment_this_week": -0.04
+    }
+  },
+  "company_7d_summary": {
+    "volkswagen": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hyundai_mobis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "magna": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "honda": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "arcelormittal": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 12,
+        "last": 12,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-10",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-11",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-12",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-13",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2025-12-22",
+  "date_range": {
+    "start": "2025-12-16",
+    "end": "2025-12-22"
+  },
+  "generated_at": "2026-05-03T02:35:31.008279Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-12-17-036",
+      "date": "2025-12-17",
+      "title": "Fragmented Reality: 5 Forces to Shape the Auto Industry in 2026 - Cox Automotive Inc.",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.12
+    },
+    "auto_sales": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "ev_penetration": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "byd": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 2,
+        "change_pct": 150.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-17",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-19",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

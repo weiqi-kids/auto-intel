@@ -1,0 +1,29 @@
+{
+  "date": "2026-01-02",
+  "total_events": 2,
+  "by_company": {
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

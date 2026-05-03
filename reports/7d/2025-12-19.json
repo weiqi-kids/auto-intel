@@ -1,0 +1,108 @@
+{
+  "date": "2025-12-19",
+  "date_range": {
+    "start": "2025-12-13",
+    "end": "2025-12-19"
+  },
+  "generated_at": "2026-05-03T02:35:30.760567Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "saint_gobain-2025-12-15-060",
+      "date": "2025-12-15",
+      "title": "Saint-Gobain once again recognized by CDP for its commitment to tackling climate change - Saint-Gobain",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.12
+    },
+    "auto_sales": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "ev_penetration": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "saint_gobain": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 3,
+        "change_pct": 66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-15",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-17",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-19",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

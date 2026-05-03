@@ -1,0 +1,85 @@
+{
+  "date": "2026-02-26",
+  "date_range": {
+    "start": "2026-02-20",
+    "end": "2026-02-26"
+  },
+  "generated_at": "2026-05-03T02:35:41.649268Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-02-21-014",
+      "date": "2026-02-21",
+      "title": "Family of worker killed in U.S. Steel Clairton plant explosion files suit against Nippon Steel - CBS News",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 13,
+      "week_over_week_change": "-77%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "toyota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 15,
+        "change_pct": -80.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-26",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

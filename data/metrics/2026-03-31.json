@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-31",
+  "total_events": 7,
+  "by_company": {
+    "saint_gobain": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2025-08-04",
+  "date_range": {
+    "start": "2025-07-29",
+    "end": "2025-08-04"
+  },
+  "generated_at": "2026-05-03T02:35:21.197014Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "toyota-2025-07-30-075",
+      "date": "2025-07-30",
+      "title": "Toyota supplier Denso's quarterly profit falls on tariffs, strong yen - Reuters",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "toyota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "denso": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 3,
+        "change_pct": -33.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-07-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-30",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-08-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-08-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-08-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-08-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

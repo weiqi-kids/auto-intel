@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-05",
+  "total_events": 2,
+  "by_company": {
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "ev_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "ev_penetration"
+      ]
+    }
+  ]
+}

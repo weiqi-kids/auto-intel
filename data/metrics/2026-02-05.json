@@ -1,0 +1,29 @@
+{
+  "date": "2026-02-05",
+  "total_events": 3,
+  "by_company": {
+    "nippon_steel": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "parts_price": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

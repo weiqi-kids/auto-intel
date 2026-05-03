@@ -1,0 +1,90 @@
+{
+  "date": "2026-01-26",
+  "date_range": {
+    "start": "2026-01-20",
+    "end": "2026-01-26"
+  },
+  "generated_at": "2026-05-03T02:35:36.030809Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-01-26-019",
+      "date": "2026-01-26",
+      "title": "South Korea's Hyundai Steel plans $2.9 billion capital increase for US steel plant - Reuters",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 6,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "hyundai": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 1
+    },
+    "arcelormittal": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "toyota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 7,
+        "change_pct": -57.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-26",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

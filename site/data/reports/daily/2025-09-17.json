@@ -1,0 +1,62 @@
+{
+  "date": "2025-09-17",
+  "generated_at": "2026-05-03T02:35:23.097363Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "valeo-2025-09-17-041",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EU needs local content rules to fight threats from EVs and China, Valeo CEO says - Automotive News",
+      "companies": [
+        "valeo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_tariff_trade"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "valeo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "auto_tariff_trade",
+        "count": 1
+      }
+    ]
+  }
+}

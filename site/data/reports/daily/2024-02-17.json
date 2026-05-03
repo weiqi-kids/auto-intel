@@ -1,0 +1,71 @@
+{
+  "date": "2024-02-17",
+  "generated_at": "2026-05-03T02:35:14.922984Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2024-02-17-228",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hotai Motor, distributor of Lexus, Toyota cars in Taiwan, aims for record sales - Taipei Times",
+      "companies": [
+        "toyota",
+        "hotai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "hotai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  }
+}

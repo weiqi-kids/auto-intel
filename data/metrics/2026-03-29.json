@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-29",
+  "total_events": 2,
+  "by_company": {
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

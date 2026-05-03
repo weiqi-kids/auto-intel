@@ -1,0 +1,91 @@
+{
+  "date": "2026-02-24",
+  "date_range": {
+    "start": "2026-02-18",
+    "end": "2026-02-24"
+  },
+  "generated_at": "2026-05-03T02:35:41.382546Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nippon_steel-2026-02-18-012",
+      "date": "2026-02-18",
+      "title": "Nippon Steel plans for Gary, Indiana steel plant won't stop coal use, despite community pressure - CBS News",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 7,
+      "last_week": 9,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.07
+    },
+    "auto_sales": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 1
+    },
+    "valeo": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 11,
+        "change_pct": -36.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-18",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

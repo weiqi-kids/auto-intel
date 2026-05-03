@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-30",
+  "total_events": 7,
+  "by_company": {
+    "cheng_shin": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

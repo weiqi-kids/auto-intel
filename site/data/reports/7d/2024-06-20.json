@@ -1,0 +1,86 @@
+{
+  "date": "2024-06-20",
+  "date_range": {
+    "start": "2024-06-14",
+    "end": "2024-06-20"
+  },
+  "generated_at": "2026-05-03T02:35:15.423826Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tyc-2024-06-20-034",
+      "date": "2024-06-20",
+      "title": "TYC Brother Industrial thrives in NEVs as US plant completion set for 1Q25 - digitimes",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ev_penetration": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tyc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-06-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-06-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-06-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-06-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-06-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-06-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-06-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

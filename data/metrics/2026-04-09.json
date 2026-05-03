@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-09",
+  "total_events": 13,
+  "by_company": {
+    "continental": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "ford": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "ev_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

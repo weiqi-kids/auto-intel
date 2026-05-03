@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-25",
+  "total_events": 6,
+  "by_company": {
+    "valeo": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tyc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "ev_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

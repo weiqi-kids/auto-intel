@@ -1,0 +1,85 @@
+{
+  "date": "2025-06-30",
+  "date_range": {
+    "start": "2025-06-24",
+    "end": "2025-06-30"
+  },
+  "generated_at": "2026-05-03T02:35:19.269549Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "valeo-2025-06-30-119",
+      "date": "2025-06-30",
+      "title": "Valeo to Supply Remanufactured Components to Stellantis - Assembly Magazine",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "valeo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "stellantis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 2,
+        "change_pct": -50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-06-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-30",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

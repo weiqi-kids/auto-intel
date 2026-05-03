@@ -1,0 +1,137 @@
+{
+  "date": "2026-04-08",
+  "date_range": {
+    "start": "2026-04-02",
+    "end": "2026-04-08"
+  },
+  "generated_at": "2026-05-03T02:35:50.529592Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ford-2026-04-02-071",
+      "date": "2026-04-02",
+      "title": "Toyota sold more EVs in the US than Ford in Q1, with one electric SUV - Electrek",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 16,
+      "last_week": 23,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": -0.03
+    },
+    "auto_sales": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": -0.1
+    },
+    "ev_penetration": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "bridgestone": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "denso": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arcelormittal": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tesla": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "gm": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 6
+    },
+    "stellantis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ford": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "toyota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "byd": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "magna": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 22,
+        "last": 28,
+        "change_pct": -21.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-02",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-05",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-06",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-07",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-08",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ]
+}

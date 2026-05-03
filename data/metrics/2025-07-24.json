@@ -1,0 +1,29 @@
+{
+  "date": "2025-07-24",
+  "total_events": 1,
+  "by_company": {
+    "valeo": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
