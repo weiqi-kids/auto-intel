@@ -1,0 +1,16 @@
+{
+  "total_raw": 701,
+  "dup_title": 334,
+  "no_date": 0,
+  "too_old": 204,
+  "gate1_fail": 42,
+  "gate2_fail": 45,
+  "passed": 76,
+  "gate2_samples": [
+    "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+    "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+    "Entergy, HYUNDAI-POSCO Louisiana Steel sign electric service agreement for $5.8B steel mill in Louis",
+    "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox",
+    "POSCO Draws Market Interest Across NYSE Composite - Kalkine Media"
+  ]
+}

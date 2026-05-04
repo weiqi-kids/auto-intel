@@ -1,0 +1,283 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:19:20.240433Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-05-04-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Continental (CTTAF) Shares Plunge 5.2% Amid Tariff Threat - GuruFocus",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmlBVm9talFDYWFaanplVEV3eVQ5enNDdlhaaXFfdTJqZFF4bXp6U242eWMwOUlxYWg1OEhYZWh1eEs1aXkycnRvR1VIc0NJLUpTblFvYmtqLUNsanphb0dxT1JPNExxUHZHWS0ySWplalJmcDZuZHhDVWNWMldvYTJHY1F2YXozcDdqb1Q2OTY1ZUpxeFhB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-04-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Global sales of Hyundai Motor down in April amid production decline - Yonhap News Agency",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YdU5xSW1YY1I0U0NPbUpHYVlHQ3c1a3pVU2RMTWZrVWtVYUpCM1gwYk5JUU1CWktUbWN5em5RZ0xwNUFwZnd5bVFLZEUxZURkbEtka2VyeUlLdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-05-04-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai, Kia's US sales drop on base effect, hybrid cars hit record high - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUVpWjRhX3hQZFNVMjg1TjhOYUNZZHQzclRvNndRS21iV3RjTlBsNnh3ajVWcGREVy1RWDRrWGdrak9JTXFxM2RCZGhxOUdZNk1xOENmS2RQUjM3SWFIbzN0b1RSZGc5NEhYYW5LeVNaNE5jcmZzUHhtY0lHYXFmOWk1M1VEZHZTXzFUR21JTzZPU3ZQempVZm02cGU2bGdvcTYtWGRwVmZzcWRUQWEyZWloSmsxUVBmVS1sVl9scXZFTHJm0gHKAUFVX3lxTFBYVFUxUEtwejZIZDQwbmFQSVpwa0tCSFZhUnZvZVJsaEZRMEdrSlJDd1dzbTRmTGNjVWFZbWpVMWxKREJNcDF2b2ZCcU1wRHJXN21YYU4xbzFJV0UybWZsZDNKQm16MWhFOVZDN2JqNTFVZ0o4aDY1cWJsQ1pFdTRXeUZXem1GWmw3Y0otYTFjOHdPZzc1M2dtUWtsSHF3UnZBNEM2dGJwX19aQUt4N0ZVQmRDLTMxNnpTcUJfcHoyVlQwWk5wbVdqOUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-05-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings' stock price is soaring on the day as it announced earnings that exceeded the stock m.. - 매일경제",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54V2RiQXdkS0U5SFBsUnY2RWxicmRqVW95cmJXeExPTkNQdkZYdWxSX0ZBeWZVcld0bVlQRVBoN1M0SWxabkZVOHZfblNBbXM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-05-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Posco Holdings jumps on surprise earnings, nears two-year high in South Korea - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHdFWnhvM2tjcjZuQWVmZDVydldXX1BTWEZEcGFHVDBfVEhTeWJfN0FPZGN2TEVfVWJZeVhXd0QxdUN0d09pZ0NVd0xjWjFWaW9QWEdaZkZzV1k0OEQxN0lnMEZ3Vy1zV0hyNmlDcnZwdnRaaWVQNFZWd3JZS0wtZdIBlAFBVV95cUxPeERhSVRsOUNod1h6NGUzRm9OZEVGMWZpZEZqOEd1UndqNzFaM3IwRE9sVk5YNmdHQnFFNWpDSXBjcTlHMkowN3FKVEdsb0x1MXAzTFBwcF9CQWk1M2R0bThwVUxVS2w4OGN2NU1WSzIxWGpEdUMxZzJWSEhGY09QMFl6SGxDRkplREdqaDhnMlRqWjlf?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 36,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "posco",
+        "count": 3
+      },
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 27
+      },
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 334,
+    "too_old": 204,
+    "gate1_blocked": 42,
+    "gate2_blocked": 45,
+    "passed": 76,
+    "pass_rate": "20.7%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Jack Daniel’s maker faces foreign takeover push - The Center Square",
+      "Entergy, HYUNDAI-POSCO Louisiana Steel sign electric service agreement for $5.8B steel mill in Louis",
+      "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox",
+      "POSCO Draws Market Interest Across NYSE Composite - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為Hyundai Motor、大陸集團、浦項鋼鐵相關動態：「Continental (CTTAF) Shares Plunge 5.2% Amid Tariff Threat...」。主要關注主題為財報、汽車產業通用、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Continental (CTTAF) Shares Plunge 5.2% Amid Tariff Threat - GuruFocus（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Global sales of Hyundai Motor down in April amid production decline - Yonhap ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
