@@ -1,0 +1,224 @@
+{
+  "date": "2026-05-05",
+  "date_range": {
+    "start": "2026-04-29",
+    "end": "2026-05-05"
+  },
+  "generated_at": "2026-05-05T10:07:51.495808Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-04-29-011",
+      "date": "2026-04-29",
+      "title": "\"Mobis and Monami Join Forces\"... Hyundai Mobis Expands Car Care Products into Lifestyle Items - 매일경제",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 142,
+      "last_week": 129,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": -0.02
+    },
+    "ev_penetration": {
+      "this_week": 30,
+      "last_week": 25,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.08
+    },
+    "industry_general": {
+      "this_week": 157,
+      "last_week": 75,
+      "week_over_week_change": "+109%",
+      "sentiment_this_week": 0.04
+    },
+    "guidance": {
+      "this_week": 12,
+      "last_week": 7,
+      "week_over_week_change": "+71%",
+      "sentiment_this_week": 0.12
+    },
+    "parts_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "auto_sales": {
+      "this_week": 9,
+      "last_week": 6,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.22
+    },
+    "auto_tariff_trade": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "posco": {
+      "event_count": 10,
+      "sentiment_avg": -0.1,
+      "rank": 7
+    },
+    "arcelormittal": {
+      "event_count": 29,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "bridgestone": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "continental": {
+      "event_count": 23,
+      "sentiment_avg": -0.04,
+      "rank": 3
+    },
+    "hyundai": {
+      "event_count": 30,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "hyundai_mobis": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 15
+    },
+    "toyota": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "ford": {
+      "event_count": 20,
+      "sentiment_avg": -0.04,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "tesla": {
+      "event_count": 14,
+      "sentiment_avg": 0.03,
+      "rank": 5
+    },
+    "stellantis": {
+      "event_count": 13,
+      "sentiment_avg": -0.12,
+      "rank": 6
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "volkswagen": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 12
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "fuyao": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "magna": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 9
+    },
+    "honda": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "gm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "saint_gobain": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 788,
+        "last": 766,
+        "change_pct": 2.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-29",
+      "event_count": 155,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 179,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 156,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 61,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 46,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 149,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 42,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-29 ~ 2026-05-05）共 788 則事件，重點為「\"Mobis and Monami Join Forces\"... Hyundai Mobis...」。Hyundai Mobis、聖戈班表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 10 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 29 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Bridgestone",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

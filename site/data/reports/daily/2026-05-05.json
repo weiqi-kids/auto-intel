@@ -1,0 +1,259 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:07:51.401459Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-05-038",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "EVs At 98.6% Share In Norway – Tesla Model Y Best-Seller",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/05/evs-at-98-6-share-in-norway-tesla-model-y-best-seller/"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-05-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Earnings Call Signals Structural Margin Upside - TipRanks",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUg5RzB2SFV1SktkeFBQVzdzYXNkOTlRVkFrRTdMcWpPdkhfMGhST1NBY01ITDVnUXFnVkZWcmRJNVVGMGJvUnhkazBxanJXa0ZJTE9wNnBkRlh1S2czT2dvSGotTzNHZWVpeG1rZ3ZOU1Z4S25pUjNLOHl2WXFLY2dDNUhhLWtBRWZiMTZSM1ZyTWNxMy1aWHJSR3lZemdkdVZRdW84NE1ZRWJRNmgtRnZn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-05-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cost Pressure in EU Logistics puts Fleet Safety in the Spotlight - continental.com",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HbGN6c0ZiYkVwdk01akRpT0xKTWdzRHBUU0gzRnNDMGJ4NEpjUk0xT1hiWWhrMlRqZnZ1cEVXTGwxc0tYRWxhcW5MRVFkVHo3ZFpUdXk0Z3RQbWVLSEx1QU91V3MxUVowUjMtTUlqa2t1U29ZTElKQ1ZFaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-05-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aventum expands into Continental Europe with first MGA acquisition - theinsurer.com",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMlVjUzZKZlY4ZkpycmFBMGdSS2lVWC0yRlh6N29SczZlZURrbjc4V2owbm5jSkd5US02T1oyR0NCLTNwZ3FqNlFxaEdJOFJsUEluUEdET0lnWVRxU3owRmxxYTZWb0ZOZERzNmJmZ0VoSVg0OEgtV3hBRXQ2eFdrY09QeUhMNEZha3VjU1NCMHo5dnMyZE53eVB0NVFZbW55dkRxY3BrUFRZSnUta2d4a29QS2lRZXROWjNtd3lkWWlGeldT?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-05-05-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental Draws to OHSAA DVII Northwest District 2 (Kenton) and Southwest Regional 27 - Continental eNews",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0Q1S2x6UE9JeHhEanBxQTlxdHF3TkNLV3ZTcTliSUV1X09QZUJGVkpjbkoyWlRlM2hBbkJvNjlRX2pQdm9yX291MmpwN3JGUmJjTmxKMlJjTmw4Z081Xy05MmZLTVZJSEVoUktCTVNzTEtmMEhqdmlVVWNvcVZvOUszaUNNU0tuMmlrVURLMWd6OXdBaXNDZGtRdDZDQmpLQU5xTGR1UXI0U0hUVzVDTnB6cEJsWjVQSkc4S0JTXzlmRk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 35,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 272,
+    "too_old": 198,
+    "gate1_blocked": 34,
+    "gate2_blocked": 43,
+    "passed": 158,
+    "pass_rate": "36.5%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Entergy, HYUNDAI-POSCO Louisiana Steel sign electric service agreement for $5.8B steel mill in Louis",
+      "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox",
+      "POSCO Draws Market Interest Across NYSE Composite - Kalkine Media",
+      "ArcelorMittal Worker Safety Failures Exposed Globally - industriall-union"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為大陸集團、特斯拉、Ford相關動態：「EVs At 98.6% Share In Norway – Tesla Model Y Best-Seller」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "EVs At 98.6% Share In Norway – Tesla Model Y Best-Seller（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "ArcelorMittal Earnings Call Signals Structural Margin Upside - TipRanks（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
