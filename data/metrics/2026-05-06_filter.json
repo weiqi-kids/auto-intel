@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 299,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 25,
+  "gate2_fail": 42,
+  "passed": 153,
+  "gate2_samples": [
+    "AM/NS India starts CR substrate pla... - Mysteel",
+    "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+    "Entergy, HYUNDAI-POSCO Louisiana Steel sign electric service agreement for $5.8B steel mill in Louis",
+    "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+    "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox"
+  ]
+}

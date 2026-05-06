@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-06",
+  "total_events": 27,
+  "by_company": {
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "magna": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "ford": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "stellantis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": 0.1
+    },
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": 0.19
+    },
+    "ev_penetration": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

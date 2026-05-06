@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T10:07:47.373662Z",
+  "updated_at": "2026-05-06T06:02:00.766642Z",
   "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -50,11 +50,11 @@
       "ticker": "5108.T",
       "currency": "JPY",
       "ar": 1093109000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 985082000000,
+      "ar_qoq": "+11%",
       "inventory": 885458000000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
+      "inv_prev": 917024000000,
+      "inv_qoq": "-3%",
       "alert": false,
       "quarter_date": "2025-12-31"
     },

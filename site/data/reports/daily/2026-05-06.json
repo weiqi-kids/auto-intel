@@ -1,0 +1,242 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T06:02:03.973715Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-06-021",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "UK car market grows as EVs gain record share - Latest news from Azerbaijan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XbDVQTi0tU1dWZnBiS2ppNFd2a2U4MWFsZWNVamQzTm85aFhzUjFVUzRkeVI2aVdBaURRbGREdVp6dHNsYWpwdGRnNy14bG9MMHdEQ2hhT1Ayd2NCUG1zWm82eXBhSW1jWTl5Y1FtUmxxYzQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-05-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Sekurit India Ltd Valuation Shifts Signal Elevated Price Risk - Markets Mojo",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc1Bna3hqQWVFTkVSR1JhaDFmWXhNUFJQMDgwbHVweGtUbWpQMHluOU03SmFVLUpvN2tWMzRMdjVLOF9Udzh2aVNpdk5uV0lKOXZ1eGkteWZSZVdNdmhYdlVyU2F2VHlUNzJzY2FDRXFJcEFRTXE0R1B4dkVjQ1B2eTdGX1p2aU5wQnAxOEdzYjRNODJBdV9ybXBQZnZBNTF6c2p2UGdlcW41cUNITUkxS1dOektiM2JmTEE1aTEyenQ0endBaFFwOUp2dFI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-05-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental Increases Profitability in Tires and ContiTech - continental.com",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04LXZ6cGxGZlFEWEpXVTRKS3NCX2ZjR0N4S2RDSllYeDZTWjdQLV9KWG5MdjJkOVYybC1RZWdSUV9VQWlYRkdJZ0VGVWNOVHduLXpyQlcxLVZLcWl6NG9NYi1KTmxZU3Q3MmVxNFVhMmQtcE9VZjBVcg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-05-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental Q1 Profit Beats Estimates on Tyre Margins, Cost Cuts - Global Banking & Finance Review",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTNmMWxodldUSmJRUG9scGlidVFhVFktNGpzQXZ2VW54alNFb1hldFdvYUxZQ3lPNTEyM2pYODFmV2hwQi1OX2psVHVBWTc0cFd1aXBzTk4xeklfRWViUkdhS016WS0zS01Kb3FlbXRoNHNsaDdVbmdoRWZ4NTU2STVORjNvUUM4elhFQnhSNEttN012TlJiY1k5M2pHWFgzekE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "magna-2026-05-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Magna International: Stock To Go Higher On Margin Expansion And Earnings Growth - Seeking Alpha",
+      "companies": [
+        "magna"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDdvU2ZJRFgwTEZEakg3ckVRanZtZHJXNmluYWRoSHI4T3J1SUpfTUtvTHdHNWpFdmpXMHpXM1JOU09qSWZ5bENWZVpSZEV6UFNuU0FuNXIxVDhJV2VWcUtEUXAzUFdiMmxhWW0xMjVSdkJTdnFRWjAxT3c2emZFZWVkYm96emUxVldncE5SWExXd3pDbHpVc1dDdkhLTHJhNFAyMnFOX2FzalY2aUV4b2pfS05ZWW1qOTIwTVJMclFxaHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "magna",
+        "count": 2
+      },
+      {
+        "id": "bridgestone",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 704,
+    "dup_title": 299,
+    "too_old": 185,
+    "gate1_blocked": 25,
+    "gate2_blocked": 42,
+    "passed": 153,
+    "pass_rate": "37.8%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "AM/NS India starts CR substrate pla... - Mysteel",
+      "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
+      "Entergy, HYUNDAI-POSCO Louisiana Steel sign electric service agreement for $5.8B steel mill in Louis",
+      "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+      "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「UK car market grows as EVs gain record share - Latest new...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UK car market grows as EVs gain record share - Latest news from Azerbaijan（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Saint-Gobain Sekurit India Ltd Valuation Shifts Signal Elevated Price Risk - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
