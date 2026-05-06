@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "total_events": 27,
+  "total_events": 61,
   "by_company": {
     "bridgestone": {
       "count": 1,
@@ -11,41 +11,61 @@
       "sentiment_avg": 0.0
     },
     "continental": {
-      "count": 2,
-      "sentiment_avg": 0.25
+      "count": 8,
+      "sentiment_avg": 0.34
     },
     "magna": {
       "count": 2,
       "sentiment_avg": 0.25
     },
     "ford": {
-      "count": 5,
-      "sentiment_avg": 0.0
+      "count": 8,
+      "sentiment_avg": 0.06
     },
     "hyundai": {
-      "count": 5,
-      "sentiment_avg": 0.1
+      "count": 8,
+      "sentiment_avg": 0.06
     },
     "stellantis": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     },
     "toyota": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
       "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 3,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 20,
-      "sentiment_avg": 0.1
+      "count": 44,
+      "sentiment_avg": 0.12
     },
     "earnings": {
-      "count": 13,
-      "sentiment_avg": 0.19
+      "count": 31,
+      "sentiment_avg": 0.15
     },
     "ev_penetration": {
-      "count": 4,
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "guidance": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "auto_sales": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },

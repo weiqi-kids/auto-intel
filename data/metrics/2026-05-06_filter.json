@@ -1,11 +1,11 @@
 {
-  "total_raw": 704,
-  "dup_title": 299,
+  "total_raw": 1407,
+  "dup_title": 718,
   "no_date": 0,
-  "too_old": 185,
-  "gate1_fail": 25,
-  "gate2_fail": 42,
-  "passed": 153,
+  "too_old": 365,
+  "gate1_fail": 48,
+  "gate2_fail": 87,
+  "passed": 189,
   "gate2_samples": [
     "AM/NS India starts CR substrate pla... - Mysteel",
     "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",

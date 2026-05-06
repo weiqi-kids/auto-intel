@@ -1,9 +1,36 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:03.973715Z",
+  "generated_at": "2026-05-06T10:24:06.653089Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "tesla-2026-05-06-041",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD Outpaces Tesla in the UK and Leads Brazil’s Automotive Market - Hypebeast",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0c1Y0M0U2VBb2pFR1E0TnozYlpZeHVtVHQ1NGt6WFZZajd5T1owTzY3bW1xcEZhN0NoalFUMXgzdFlPUGhOZWlUQnRDYS1helNPX1pNTDZ5c25QS0FqRVhidkJTaTNnU2lZa2QxR2lpRlRYbzREallQQ2VrZE9aRQ?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "unknown-2026-05-06-021",
       "importance_score": 0.9,
       "importance_reasons": [
@@ -27,37 +54,14 @@
       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XbDVQTi0tU1dWZnBiS2ppNFd2a2U4MWFsZWNVamQzTm85aFhzUjFVUzRkeVI2aVdBaURRbGREdVp6dHNsYWpwdGRnNy14bG9MMHdEQ2hhT1Ayd2NCUG1zWm82eXBhSW1jWTl5Y1FtUmxxYzQ?oc=5"
     },
     {
-      "rank": 2,
-      "event_id": "saint_gobain-2026-05-06-002",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "Saint-Gobain Sekurit India Ltd Valuation Shifts Signal Elevated Price Risk - Markets Mojo",
-      "companies": [
-        "saint_gobain"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "earnings"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc1Bna3hqQWVFTkVSR1JhaDFmWXhNUFJQMDgwbHVweGtUbWpQMHluOU03SmFVLUpvN2tWMzRMdjVLOF9Udzh2aVNpdk5uV0lKOXZ1eGkteWZSZVdNdmhYdlVyU2F2VHlUNzJzY2FDRXFJcEFRTXE0R1B4dkVjQ1B2eTdGX1p2aU5wQnAxOEdzYjRNODJBdV9ybXBQZnZBNTF6c2p2UGdlcW41cUNITUkxS1dOektiM2JmTEE1aTEyenQ0endBaFFwOUp2dFI?oc=5"
-    },
-    {
       "rank": 3,
-      "event_id": "continental-2026-05-06-003",
-      "importance_score": 0.75,
+      "event_id": "continental-2026-05-06-029",
+      "importance_score": 0.9,
       "importance_reasons": [
-        "涉及財報"
+        "涉及財報",
+        "情緒極端"
       ],
-      "title": "Continental Increases Profitability in Tires and ContiTech - continental.com",
+      "title": "Continental Shares Climb After Sales Beat Expectations, Tire Maker Confirms Guidance - WSJ",
       "companies": [
         "continental"
       ],
@@ -67,49 +71,56 @@
       },
       "topics": [
         "earnings",
-        "industry_general"
+        "industry_general",
+        "guidance"
       ],
       "sentiment": {
         "label": "positive",
-        "score": 0.5
+        "score": 1.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04LXZ6cGxGZlFEWEpXVTRKS3NCX2ZjR0N4S2RDSllYeDZTWjdQLV9KWG5MdjJkOVYybC1RZWdSUV9VQWlYRkdJZ0VGVWNOVHduLXpyQlcxLVZLcWl6NG9NYi1KTmxZU3Q3MmVxNFVhMmQtcE9VZjBVcg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNElNYnk3SzJHN2RoeUZ4OFZVOU5vOWVva2tNUkRwd2JtT2JMX0IwamozRkRsdnZrT1pJOHhUSDE5VVdtc3ZGSW8wVWprQ3FEQWxveHlKdlNTZlhDR0J6Vl9Tb20tV0tuSURRLVYtaVFRLUl1THpwcUJiN2JURlpFYTRYYkhhVW84T01YblRraFAxY1lMTk5TQlYxai11c24wZjRiRXNQMEg3cF80WjliNWN2d1VVMWM?oc=5"
     },
     {
       "rank": 4,
-      "event_id": "continental-2026-05-06-004",
-      "importance_score": 0.75,
+      "event_id": "continental-2026-05-06-032",
+      "importance_score": 0.9,
       "importance_reasons": [
-        "涉及財報"
+        "多公司提及",
+        "供應鏈上下游同時提及"
       ],
-      "title": "Continental Q1 Profit Beats Estimates on Tyre Margins, Cost Cuts - Global Banking & Finance Review",
+      "title": "Man Test-Drives Toyota. Then He Gets A Nail In Its Continental Tire: ‘No Mention Of The Missing Lug?’ - Motor1.com",
       "companies": [
-        "continental"
+        "continental",
+        "toyota"
       ],
       "related": {
-        "customers": [],
-        "suppliers": []
+        "customers": [
+          "toyota"
+        ],
+        "suppliers": [
+          "continental"
+        ]
       },
       "topics": [
-        "earnings",
         "industry_general"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTNmMWxodldUSmJRUG9scGlidVFhVFktNGpzQXZ2VW54alNFb1hldFdvYUxZQ3lPNTEyM2pYODFmV2hwQi1OX2psVHVBWTc0cFd1aXBzTk4xeklfRWViUkdhS016WS0zS01Kb3FlbXRoNHNsaDdVbmdoRWZ4NTU2STVORjNvUUM4elhFQnhSNEttN012TlJiY1k5M2pHWFgzekE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2dTFkOTlmQS01X0EzaEtMamhvZzNkLXZ3NXJQVkRROGpZUzdVWFo2SU9McVVGLUh3WFFrblZaTmpGZnZLaE1vUFB2N1hkUllEd08wM0x1LVlGLUx6RmkzdEpNVjVUZ05Za3RBWUNPYlFQdw?oc=5"
     },
     {
       "rank": 5,
-      "event_id": "magna-2026-05-06-005",
-      "importance_score": 0.75,
+      "event_id": "continental-2026-05-06-034",
+      "importance_score": 0.9,
       "importance_reasons": [
-        "涉及財報"
+        "涉及財報",
+        "情緒極端"
       ],
-      "title": "Magna International: Stock To Go Higher On Margin Expansion And Earnings Growth - Seeking Alpha",
+      "title": "Continental notes delay in raw-material price impact as sales decline - MSN",
       "companies": [
-        "magna"
+        "continental"
       ],
       "related": {
         "customers": [],
@@ -120,15 +131,45 @@
       ],
       "sentiment": {
         "label": "positive",
-        "score": 0.5
+        "score": 0.75
       },
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDdvU2ZJRFgwTEZEakg3ckVRanZtZHJXNmluYWRoSHI4T3J1SUpfTUtvTHdHNWpFdmpXMHpXM1JOU09qSWZ5bENWZVpSZEV6UFNuU0FuNXIxVDhJV2VWcUtEUXAzUFdiMmxhWW0xMjVSdkJTdnFRWjAxT3c2emZFZWVkYm96emUxVldncE5SWExXd3pDbHpVc1dDdkhLTHJhNFAyMnFOX2FzalY2aUV4b2pfS05ZWW1qOTIwTVJMclFxaHc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM0ZrT2pKUDVLTWYxeTV3eExXMXRySmJqdGRobU40RllrN2s4YjZRZEhGS1NMNEstQzFVeWhQWmxrZmJuRmdITkZJTkxnM2s0X2FJczFraF9NeE15RnN2cjQ2Vk1GRklTUGlQNUJna0I1RE1SNWRDSXRsUFJ0b0NLdUdOX0g4TFhvS0NZXzNCQWtpQkRnUU45N2FxUU1IdngyZGlLMFFvbXVCbHdOMDg2NEtWTWNIYzBaNEdrN21YS2h2ajkxekQxQTk4X3NodG94RXgtTS1YTGp0Q1czc3YzdQ?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 20,
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -137,18 +178,8 @@
       "sentiment_today": 0.1,
       "sentiment_7d_avg": null
     },
-    "earnings": {
-      "today": 13,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.19,
-      "sentiment_7d_avg": null
-    },
-    "ev_penetration": {
-      "today": 4,
+    "auto_sales": {
+      "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -160,58 +191,66 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 27,
+    "total_events": 61,
     "sentiment_distribution": {
-      "positive": 4,
-      "neutral": 23,
-      "negative": 0
+      "positive": 10,
+      "neutral": 50,
+      "negative": 1
     },
     "top_companies": [
       {
+        "id": "continental",
+        "count": 8
+      },
+      {
         "id": "ford",
-        "count": 5
+        "count": 8
       },
       {
         "id": "hyundai",
-        "count": 5
+        "count": 8
       },
       {
-        "id": "continental",
-        "count": 2
+        "id": "byd",
+        "count": 3
       },
       {
         "id": "magna",
         "count": 2
-      },
-      {
-        "id": "bridgestone",
-        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 20
+        "count": 44
       },
       {
         "id": "earnings",
-        "count": 13
+        "count": 31
       },
       {
         "id": "ev_penetration",
-        "count": 4
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 704,
-    "dup_title": 299,
-    "too_old": 185,
-    "gate1_blocked": 25,
-    "gate2_blocked": 42,
-    "passed": 153,
-    "pass_rate": "37.8%",
-    "gate2_block_rate": "10.4%",
+    "total_raw": 1407,
+    "dup_title": 718,
+    "too_old": 365,
+    "gate1_blocked": 48,
+    "gate2_blocked": 87,
+    "passed": 189,
+    "pass_rate": "27.4%",
+    "gate2_block_rate": "12.6%",
     "gate2_samples": [
       "AM/NS India starts CR substrate pla... - Mysteel",
       "Nippon's US Steel plans to build $1.9B facility in Arkansas (NPSCY:OTCMKTS) - Seeking Alpha",
@@ -222,15 +261,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 27 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「UK car market grows as EVs gain record share - Latest new...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 61 則事件，焦點為大陸集團、Ford、Hyundai Motor相關動態：「BYD Outpaces Tesla in the UK and Leads Brazil’s Automotiv...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "UK car market grows as EVs gain record share - Latest news from Azerbaijan（財報、汽車產業通用）",
+        "text": "BYD Outpaces Tesla in the UK and Leads Brazil’s Automotive Market - Hypebeast（財報、汽車產業通用）",
         "level": "red"
       },
       {
-        "text": "Saint-Gobain Sekurit India Ltd Valuation Shifts Signal Elevated Price Risk - ...（財報）",
-        "level": "yellow"
+        "text": "UK car market grows as EVs gain record share - Latest news from Azerbaijan（財報、汽車產業通用）",
+        "level": "red"
       },
       {
         "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
