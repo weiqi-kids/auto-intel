@@ -1,0 +1,304 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:29:49.044233Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-05-07-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Internalizes 'PE System', Enabling Full Electric Vehicle Lineup - 아시아경제",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zT1hPSmx1TFNTQkNHVVdCVTJVMXlZVU5KM3Nsb1lWWENPRklIQ0FXZWtLQ3QyZkt3THgtZldhOGpCcEFKaW5SS1dIODN4X3dBY0Nqd2F3b3JUQXRvb3lFdGVzVF96cGZDMDBFTW5PUUI3cUU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-05-07-022",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Canada weighs specific EV caps for Tesla, BYD to prevent market dominance - CnEVPost",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LVDhCRzIxNW9QQ3VWbjNEcGYtME5OV2VON05COVZfM0lPVkJjYjI1WmZCb1RpR0wtVzRxeDBJajhXdUt5WTVSOHM1djkyR3A1cjlYa1FkaWFWWXlnbGhFeXBITGVBY3RXbmd0RDBTdGtublMwRnQ0eVRIallnQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_mobis-2026-05-07-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to complete full EV powertrain lineup this year - The Korea Herald",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd3RBZDZzX2xkNFdPcGRONC1Nak9OdjdsTDhmTW1uOW1iSGtsbTZGRUwyWThLR2w5OHJsaTFLb2NiX0NwenRwN3lwWTFpZ0lOWVVZa0VOWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_mobis-2026-05-07-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Develops 160kW EV Drive System - Businesskorea",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuS3JIWlc5b3RCeTRZcERzQnJvOXFoX0gzc0tIbGJMYWRCTHNsbllNdUVQQ0ktOU1RQllsXzg2STdBUmdCV3ZINjRabmcyWnBXTG83dXFWQXowT0VrZ3U0d09BRXI0YU1wUC1wRnU2TTh3bFJz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-05-07-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Woman Declines Repair After Paying $155 Diagnostic Fee On Her Ford. Then Her Boyfriend Tries To Fix It Himself. Big Mistake - Motor1.com",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jUlpUWURUZkwzNVh0enRmb1ZLZmxTR2J1ZzNKeGVSRTRkc0htNnRUbjNNQ2RZZnNGOWc2OXI0Zl9KZXpkM0hCbDFXYV9ZbzAzdkxMYm4zZk1MdDRnOW1lc2pVdHQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "ev_penetration",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 40,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 9
+      },
+      {
+        "id": "bridgestone",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 304,
+    "too_old": 184,
+    "gate1_blocked": 32,
+    "gate2_blocked": 50,
+    "passed": 135,
+    "pass_rate": "33.7%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Entergy, HYUNDAI-POSCO Louisiana Steel sign electric service agreement for $5.8B steel mill in Louis",
+      "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+      "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox",
+      "ArcelorMittal Worker Safety Failures Exposed Globally - industriall-union",
+      "ArcelorMittal Shareholders Back All Proposals at May 5 General Meetings - TipRanks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為Hyundai Motor、Bridgestone、Ford相關動態：「Hyundai Mobis Internalizes 'PE System', Enabling Full Ele...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Internalizes 'PE System', Enabling Full Electric Vehicle Lineup...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Canada weighs specific EV caps for Tesla, BYD to prevent market dominance - C...（電動車滲透率、財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
