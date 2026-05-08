@@ -1,0 +1,16 @@
+{
+  "total_raw": 705,
+  "dup_title": 291,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 36,
+  "gate2_fail": 42,
+  "passed": 154,
+  "gate2_samples": [
+    "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+    "AM/NS India starts CR substrate pla... - Mysteel",
+    "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+    "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox",
+    "ArcelorMittal Worker Safety Failures Exposed Globally - industriall-union"
+  ]
+}

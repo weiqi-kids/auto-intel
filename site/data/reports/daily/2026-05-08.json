@@ -1,0 +1,294 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:29:02.169092Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-05-08-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Develops Universal EV Power Electric System - thelec.net",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3NGVkUWJpV1FyZUhuSTNYTG1kcDRDVkNnUkh3SDNJdE10Um03a1ViTlRDamRlVm9GLTVtQ2JhNmc1eHJiMnotbXExLW9Uc3BkUjN3QVdHeWI0M0tYd1FaQ2RXTmN4UWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-08-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis unveils new 160-kW electric drive system for BEVs - Just Auto",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdktYWEVoQWlSV1dMazl5NDNralJiUUQ0NFdTV2NRanBrb3VtT0RDOHRKOG5WTURXMElvb25KNHFQZFdLLWtYX29jY1Bkb2J3YzI5Nmg0cXhDMlJ4V2tHcmZkQUVmeDN6NDlPSURfYlNxOHhKVG8ydzBtX2xVWWFQVXM4U2hkVWdOb1ZhMmVPTzYzRzZEYUUyVU1yZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-05-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings Stock Soars 68% in Two Months on Wings of Non-Steel Business - 한국금융신문",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02RnNHLU14cDRaUWhOdk43d1p0RTd0SThCQ3lOSVFNSVJzUjdpZmkwMFlXeVB3ckpRYnpfaEVnRVE4RFExdFdxNWwzeVljeFNmem9SbC1vd3R0clh5XzAwTlNKbU9aNVdUMkh0WXZsdFhwTlZjQlhETzJyUno?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-05-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Germany to develop large-scale battery storage system at Bremen plant - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkQ3ajZBRzlPd2gyTzgxNDhQQlhtWmcwWDI0ekd2T0xfcngxbkRsQ0hvM3dsekVTYnZiLTJ4YTVjVHRrOFNVemVWem9ocmpKNkpKTVVOenAxMzNfT2MxY24tamlERU9jNmk1Z29sSUMwTjYwdjg0dC11alFqeVJMVk01emFCaWZjZ2V4NTkxS3dLeWF5dzdxXzZlRUFPSWlzblpzZFZrWU9xQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-05-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU clears ArcelorMittal's acquisition of AMCLN in Italy - Yieh Corp.",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGRrWDZyS2NmUFA3WFlNM3RLai04b2VvNngzWTVmQ2NTZmVScEFOYWs4b3prT29COUxFWEJ1ZzZtRFZsbHhGbzdZcXdvSnZlWXpDLVlObUJhMmhGam8xVzFqYmtCcXlCVzZMYTRXMFVjM2ZPVmZ3aDI1V1N0SlBiOU9hWXFCdkNiX2hvNE0wWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings",
+        "ev_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 40,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 291,
+    "too_old": 182,
+    "gate1_blocked": 36,
+    "gate2_blocked": 42,
+    "passed": 154,
+    "pass_rate": "37.2%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+      "AM/NS India starts CR substrate pla... - Mysteel",
+      "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+      "Entergy Louisiana Finalizes Power Agreement for $5.8B Hyundai-POSCO Steel Mill - IndexBox",
+      "ArcelorMittal Worker Safety Failures Exposed Globally - industriall-union"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、Toyota相關動態：「Hyundai Mobis Develops Universal EV Power Electric System...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Develops Universal EV Power Electric System - thelec.net（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis unveils new 160-kW electric drive system for BEVs - Just Auto（電動車滲透率、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
