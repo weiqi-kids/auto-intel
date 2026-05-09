@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 309,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 35,
+  "gate2_fail": 48,
+  "passed": 131,
+  "gate2_samples": [
+    "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+    "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+    "ArcelorMittal Worker Safety Failures Exposed Globally - industriall-union",
+    "Next phase of improvements at Bridgestone Arena - WKRN News 2",
+    "Next phase of Bridgestone Arena improvements begin - WKRN News 2"
+  ]
+}

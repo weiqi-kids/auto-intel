@@ -1,0 +1,242 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:25:23.239034Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-05-09-007",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Weekly roundup: Trump threatens 25% tariffs on EU auto imports, Ford accelerates secret $30K EV truck, 14 VW dealers protest Scout's direct sales approach - CBT News",
+      "companies": [
+        "volkswagen",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcTF0aklCSjdFangtTEdXLUVUdFRjNzU2OUxKdjItbUxxQkw5YjduVFYya0JmdHk5R0t0X245eVdEbGdkY3k3NGhPOWp0X3F6bWxibWxXY3FCN0lqeTdJbkRJTUVVSFliQXdVMUJpVDIwUjZOZUlVUk1ZRlpyQ3NrOWtXUnB6MWNhanRnYUwxc0VsaU43ZGJKNE5DbXpuQWlPWVFHUWNsbGpvSmRSb3RTcU5GNE94ZXdKSTRtRmRYVnBFNEVINXR1OUMxWTk0ZFZEcmhBYXkyVk5JdFFURzB6MExjOGNsdEtiVG5TZm1EbkdBZmZFeWNsMXZVMXNkLVd4aHhB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CRC prices: Shanghai (May 09, 2026 00:22) - Mysteel",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqYUhRQVZDM0xpYWtSOVJibUoxWDFNc0NDOFJWZTFUZFdmQ1p0Q2xVRWZFY1ZQYXdkWlUxeWhaYmtEN1ZURHl2c2JsRDRWaE9Xd1FRT1hIMXRNcS0zYmlDZERac0ZXWWt3LWtTTURPRksxdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bridgestone-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LIVE REVIEW + PHOTOS: Bring Me the Horizon Sell Out Bridgestone Arena - Substream Magazine",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlpld2Jya1p3bG0xMmJEWFF5elNKU3k4TW90SkpoTERYaFp5dGxwU2diNGJreHM3azcyXzg4RXV0OUZRNG8wVm54WGtlVEg4N09VZzJHUjR6MHl3Y1FGeFNLcWJSaFZZUmhnQ2Q4OW81SDJWS2U1cURMYTRLb1lSUkE5N3FGVkVMUnQ4NzJCc3BXNXFwenJNVDRlc0RGQWpOdW5yZ0taRE8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-05-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental to invest $76 million in Mount Vernon, USA automated warehouse - Tyrepress",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWVnaWRUX2daN2VQZVRxWkVaeDIwS1N5ZTdrVy1sNXdfS0o2ZEVLV292NVc3Z05hM3hMNUNmdVVhS0p4MVdIcGZsTGt0LXh3dEo3TW9fQ1p6c2J2Uk5oZjJVWFZlSEhjbnpfU3RtcEFKYjI0b0E1aTY4dTh2Y3RucjcyUlFXVGV6UHJ2SU9lbUZ1Wmt1akptbkhuSl9VWGtuUElVVWRHemY4dGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EV Market Enters Its Next Phase as Fleets Prioritize Economics Over Mandates - act-news.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56UzhQQWhlZ0tKYVNPRENEQ2N1WUxsZ2tOQXVnLS0yaDlETHdhSU1BNEJEdFFMWFV3aGtyTHJ0c042MDBGaVR4Z0wxdWNRZUpjdDRrTE05cm93ZUhKdllZUENxblRhNWlFVEdNY2F3aw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "bridgestone",
+        "count": 2
+      },
+      {
+        "id": "ford",
+        "count": 2
+      },
+      {
+        "id": "continental",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 309,
+    "too_old": 183,
+    "gate1_blocked": 35,
+    "gate2_blocked": 48,
+    "passed": 131,
+    "pass_rate": "33.0%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+      "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+      "ArcelorMittal Worker Safety Failures Exposed Globally - industriall-union",
+      "Next phase of improvements at Bridgestone Arena - WKRN News 2",
+      "Next phase of Bridgestone Arena improvements begin - WKRN News 2"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Bridgestone、Ford、大陸集團相關動態：「Weekly roundup: Trump threatens 25% tariffs on EU auto im...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Weekly roundup: Trump threatens 25% tariffs on EU auto imports, Ford accelera...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "CRC prices: Shanghai (May 09, 2026 00:22) - Mysteel（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
