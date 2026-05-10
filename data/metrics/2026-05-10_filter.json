@@ -1,0 +1,16 @@
+{
+  "total_raw": 707,
+  "dup_title": 356,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 34,
+  "gate2_fail": 50,
+  "passed": 84,
+  "gate2_samples": [
+    "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+    "ArcelorMittal to restart Gijon BF B next week - EUROMETAL",
+    "ArcelorMittal has delivered 600 tonnes of steel for Trump's ballroom - ET Infra",
+    "Nashville Predators Bridgestone Arena begins Phased Renovations - Stadium Journey",
+    "Bridgestone’s ‘Walk It In’ Capsule Brings Tiger Nostalgia Home - Athlon Sports"
+  ]
+}
