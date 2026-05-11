@@ -1,0 +1,279 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T11:30:02.711963Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-05-11-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to Host 3x3 Youth Basketball Tournament in Ulsan - Seoul Economic Daily",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHVVRnhTaVdrYmdUZDlwTF9wV2xBbTQ2Qk1aRElWbGxNck1nZU01NHdHOXdUcHhUb0doek90dms0T1VncWMzRnhidXZROWFkZUZQSC11UFo3X1FhUEJiTUg2bjZPWTR0aXQtby1STlktbkFoZ2E5QU5Tek5JYkx0Y0ZuLUhlcmpEYnM2a083Nnc3NzFGX210RXBlZm9QUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-11-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Completes Talent Development Program for Suppliers - Seoul Economic Daily",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHR1NDZBUERWNHVENlR6LVo5LTRDWmktcmRfMDV4cVY3ZUpES0RHSWVQWFZET1Y2MWgtcHlOMldPM0dEU0hvWjZCZW5yQ1JscF9tSjhIMTQ5NVVXTERFMGtsalktVkE4dmR2QTNGUU42dG9KYWVNVUwzc2ZiUFVBaEFwRWV4cFRkQzB2Z0gwZDI4WV9ZOWlaZTB0Qkw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "magna-2026-05-11-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "The Bull Case For Magna International (TSX:MG) Could Change Following Q1 Loss And Lowered 2026 Sales Outlook - simplywall.st",
+      "companies": [
+        "magna"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEI4RjRnS0VlOHRRMjZXY0Q2UENRczJ5cEVZVklMT1VJLVp0VGxQVGZnazh1cWlXS0g2T2dZVHBadHNRaWVIOHVuQ3dCdERlQmQ4cThtU1FJSGM4NU5IMl9kc3VjNHpyeW11RTRXc0stRzJCZ0RVRHZ6a2lBWWhVeDVyLUJkTGdwOFBwVlNwNFRKSWtXLTc4T0hsY0ZCU05OS0tEMXdTWjJOUjE1QnpUNGpZLTdFbGt1LXhwbXhXNzBMa0xkclJ1bC1zdnMyX2ZSOTVBYzNNR2ZtOUHSAeABQVVfeXFMUDFyWFpmV1pvUklNMHV3THpnclhlZENWbEYtS2xrZmx2SzlIbml6OXRIcDhaQWtYWmNZSzY4dDVlYmhPODA5ZEVGWWk2N0FZcGFvc2I1aEJxY1JoOVBkVEgwdkkzVG9xUUk4VUxZR0RydWFibmc2RVdvMzNMeVFMNU15d0dJckhsQ3ZDQ25vSVNFU3F5NVo1RjYyNDlwdGJ4c191UkE2ZU55bXVpVGc1X1o0WEx5UDk3cFlRQnZVZG82bG40M0JVN3l5V3JGa3UwSjNvdXdmdzhVZkNXamRmX1k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-11-031",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Dealerships changing hands at record pace in Q1 2026 - CBT News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pRDBkUFlnS0JwMF9nMWxjaENPd0FTWmhCN3Rac3Q3Y0c5dUlraGQxN1VINWxiODNlWWNzY0VPRmV2VzU3X0NsM3pDcVA3Z29JNG9XbXZLc2VCY1hSR3BrTXNDZ3EwMUNJM0xnWVJYWDRyZGl2?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-05-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai selects Danieli for Louisiana equipment - Recycling Today",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGdRdm5kWW94TlFuYy1GSEZVRkZLaWJGbms1RWpPdDNpNDUzQUhDYmFtYVgwUER4X3dtY0JsQ3I0V3RCU28xTURNcFBDR0xna0NuWUUtcW81YnJTdlM1ejVuM3RMZmRaR0tFazQyVVJMRC0wY1NPbnpFbVNLSzZST3pMTjRIa0pHRThZVXlET1VvZWxvX3VsWFlaVzNhdE5raVhIdk15dU4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 46,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "bridgestone",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 34
+      },
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 700,
+    "dup_title": 339,
+    "too_old": 185,
+    "gate1_blocked": 26,
+    "gate2_blocked": 55,
+    "passed": 95,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "NTT JAPAN RUGBY LEAGUE ONE 2025-26 | D2 Round 12（NIPPON STEEL KAMAISHI SEAWAVES 24-37 NEC GREEN ROCK",
+      "ArcelorMittal : Sustainability presentation - May 2026 - marketscreener.com",
+      "EU protective measures against steel imports may be ineffective – ArcelorMittal Spain - GMK Center",
+      "Liberia: Nimba Supt. Gono Vows to Transform AML Social Development Fund into Agriculture, Health and",
+      "ArcelorMittal S.A. stock (LU1598757687): Sustainability update and capital adjustment - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為Hyundai Motor、Bridgestone、大陸集團相關動態：「Hyundai Mobis to Host 3x3 Youth Basketball Tournament in ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis to Host 3x3 Youth Basketball Tournament in Ulsan - Seoul Econom...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Completes Talent Development Program for Suppliers - Seoul Econ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

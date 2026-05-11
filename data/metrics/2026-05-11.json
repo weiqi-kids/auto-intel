@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-11",
+  "total_events": 51,
+  "by_company": {
+    "hyundai": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "hyundai_mobis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 34,
+      "sentiment_avg": 0.01
+    },
+    "industry_general": {
+      "count": 28,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ]
+}
