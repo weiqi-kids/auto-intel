@@ -1,0 +1,281 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:37:32.775457Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-05-12-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nippon Steel stock (JP3381000003): Record $66.7B revenue in FY2026 signals strong momentum - AD HOC NEWS",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXRmdkpobEkyQi1IbjNQYm91T212VnhXTDMwNlcxSVFtb1EyMU1FaTFBWVRDN1RWQlhGVERXN3d0NXpkNVJnMnZndVVsUVdSTklRSmczX3lPWTdJTFVVVkJicEZVTW0xTlNwYkdWQ2RpN2FyUFVEY3pvc3NsdWhobTdOUkhwSmd6VmRidW8tSFg5SkxvYy1jZ2FuZkFLZ2VtZ0RiYnFkaFVUeVVaSGloeWNfSzc4eWJCOXN4X3Mxb3ZXWGU0MGd1VA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-05-12-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis develops power electric systems for all electric vehicle models - repairerdrivennews.com",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkpqQVpfRm80RGtfVHh6OFVXTEg5bE1zVktnTHlxY2ZDRnhKMUZxblpOWU9GaG9wT0JTNUpBdGp0bmNHN2s2b21sNzNGakZuYkJUU0lJUXhVWExLdTBtUUNTaTVaeVZDUHRpSGNSLTMwXy1vbWlGVUNOQmhOdHdCaW1pY2lhVFlqaDBvdTZuOTlFSm9sa2lBeUZ0aU04ajZOc2ZYMUVKb2RVWnFtNHpIR0ppQ0t2MnFydERvTDBIZ2FVdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "honda-2026-05-12-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Honda’s EV bet backfires as automaker faces historic $2.5 billion loss - MSN",
+      "companies": [
+        "honda"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2xVQTNYcV9hb2Rzb3I4dWtaeUNfcUkwbTgyTXlyRE1KeEcwVkdMd3llVWJPcWp0ZDR3MFQ2bVRLR3g5Vi1Lc1hrdXpIS0t2RlJ4eEMyTTJROUFySk1EMnhoWUsxaUtELVNzV1Y0WnZfNW1fSTh1WW1ham1SSlVSaHZnU1VrRXJNZmY0TlJLSzZ2SVhBbWwzUmVNc0VRQkJidjU1REFlSkFTdFlid01BVHZDTHNDV3hmMEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-05-12-045",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sierra Club: Toyota Isn’t Delivering for U.S. Families",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/11/sierra-club-toyota-isnt-delivering-for-u-s-families/"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-05-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings Inc stock (KR7005490008): Shares drop 3.4% to $88.61 - AD HOC NEWS",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEVaM3c5YU9ZcERGdUNTUFc3azUzVlFZZVNROVNkMW9QaTFXd2Q1UDNwRWU2VjBwd1l3QkplWGNMZVJaWndadG5iU2FqZUFUNEIxYjNBaHMzNUpaeThORDdFakFqQmIxanlfcTBfOW5NWDJ5NjlEa2NMTjI2OGNIWHZaMzZGZWFTbzRwME45UGx0X2phYzBhaHlZSFlkamttWEZKMDVKeGdmUWhxeGxnTXZSbXJkTU80M0o2MDVKQUo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 38,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "posco",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 26
+      },
+      {
+        "id": "ev_penetration",
+        "count": 10
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 289,
+    "too_old": 185,
+    "gate1_blocked": 30,
+    "gate2_blocked": 50,
+    "passed": 152,
+    "pass_rate": "36.5%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "NIPPON STEEL KAMAISHI SEAWAVES vs SECOM RUGGUTs（NTT JAPAN RUGBY LEAGUE ONE 2025-26 D2/D3 Promotion/R",
+      "POSCO International stock (KR7047050000): Trading update and business overview - AD HOC NEWS",
+      "【SMM Steel】ArcelorMittal Spain's president expressed doubts about EU's - Shanghai Metals Market",
+      "ArcelorMittal Shareholders Back All Proposals at May 5 General Meetings - TipRanks",
+      "ArcelorMittal : Sustainability presentation - May 2026 - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為Hyundai Motor、Ford、大陸集團相關動態：「Nippon Steel stock (JP3381000003): Record $66.7B revenue ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nippon Steel stock (JP3381000003): Record $66.7B revenue in FY2026 signals st...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis develops power electric systems for all electric vehicle models...（電動車滲透率、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
