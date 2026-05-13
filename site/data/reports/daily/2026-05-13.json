@@ -1,0 +1,306 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:34:54.021812Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-05-13-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "HYUNDAI-POSCO Louisiana Steel chooses SMS group’s rolling mill technology for its new steel mill in the US - megaproject.com",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2h2VnpTVFY3b053T3JsWjRQTm8wYjdsSlNoV1JfbWprR01rME51OE9LakZabzNsdVdsbEF4QUlVZlkzeDFNNzBnb21uWnhlMG1vdmlxQU13elBYbXVVN05ya1loXzI0RjVpUnNsSG1oMW1vMml1VEZzN3NuWWxnamxPZlBuSEhoVmpqNkl4VTRtNUZXcVBPcW01VDlWcVY2S3VWcnM0Q0d5X1IxQzQ4OXdhcjJ6N2ZWNm1YSE93Z1gyaUtLYm9CRmNDQy03VEl2d2pyZUxZNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-05-13-034",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Automakers' share in China's NEV market in April: BYD ranks first with 21.4%, Tesla falls out of top 10 - CnEVPost",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEttXzYtY2hOSGdULTdZSGN4bzBnSDh3WHFlQzhEaXRzcl9NdzJYbVpjd0RpaWFCU3pmQnp6RENKWWd6ZV9xbVdjcWkwWTk2aXdGYTBFSWRZWkFpTUlKX2ppUzJ6d1lmUEFyZUM1ZWZMcF9EY0tueHQ2by1HWEFhOQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "stellantis-2026-05-13-037",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD in talks with Stellantis and others about taking Europe plants, Bloomberg News reports - Reuters",
+      "companies": [
+        "stellantis",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ29Lemw1SUZGbVlVblVKQ1ZWYTZuSVR3bEtQY0lGN2gyUlJFZHlQTEYyMTlBYk93cVJfTThnNGY4Wk5YcnE0SkVGeDZwaE1PLUNZYlFHUmJ0bkt6Rm1jdFZvNHprVGNmTmNKVV9tVkEwaEFjanJwSUNVeXBvQ2lSMmNYTnMzYWR5MUs0UWNaTnE4YUltOEpReFhJdk1PenN3cHhGNnZwSVdITVFzQzZ1cExNVURWQXJsQ1NzQUI2ZjR3NEd1ZmljbjlRS0QyTWJycko2Q1FETQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "stellantis-2026-05-13-044",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD in Talks With Stellantis and Other Carmakers to Take Over EU Factory - eletric-vehicles.com",
+      "companies": [
+        "stellantis",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjRlb0M5ZlBobWxOX1RDMWUtNlVsS3hWSDBhSFVDbHFISzhacEhlaHROS00zNWNXX3JFYzhjVURld3BscmFyQ1NDRXB4aExncEdSRURtTnNmTDVwRVhHbXNtWWEwRURuSXdETEV3WkRHeFVDWjFpY3ZpMWs0b05HQUVXYTdOOGpRQkowUXJMZTRtLXBWS2VxcnZSeEZ6dGY0eVVVWW5MUFBWQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "stellantis-2026-05-13-045",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD in talks with Stellantis and others about taking Europe plants, Bloomberg News reports By Reuters - Investing.com",
+      "companies": [
+        "stellantis",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVzBCOHdrdkNydW9XVDN5Q2p5RjBYOW1OZ1lkTVYwalg0YUMxVDB5bER5TGQxQ1NsMjBTMUlZRlNsUWNCMkZIOF9TcDBpMHptcmN1dTdyVUJhNlZJclB3clgteTUzbV9vVGN0U2QzemZjVmZrN3JHaF9tREExNkFNczdKV0Q5UmtPN2k1WmdQajJyQ3g2ZFV6V1loV2xSSUFIM3hpWmIxbVoxbkw3TGRvSkpQSTQwVVA5WTI0ZGItN29vX2VJSXoyc2htMWJucF85Wk5kNDVKVXNMS2t0VGYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "hyundai",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 69,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 65,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "stellantis",
+        "count": 11
+      },
+      {
+        "id": "nippon_steel",
+        "count": 9
+      },
+      {
+        "id": "byd",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "arcelormittal",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 38
+      },
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 711,
+    "dup_title": 266,
+    "too_old": 187,
+    "gate1_blocked": 34,
+    "gate2_blocked": 47,
+    "passed": 177,
+    "pass_rate": "39.8%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "NIPPON STEEL KAMAISHI SEAWAVES vs SECOM RUGGUTs（NTT JAPAN RUGBY LEAGUE ONE 2025-26 D2/D3 Promotion/R",
+      "POSCO cites 'different opinions' for stalled progress with Cleveland-Cliffs - Steel Market Update",
+      "ArcelorMittal : Sustainability presentation - May 2026 - marketscreener.com",
+      "A Look At Bridgestone (TSE:5108) Valuation After Recent Share Price Weakness - Yahoo Finance",
+      "Bridgestone Arena adds two big concerts to its 2026 lineup - WSMV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 69 則事件，焦點為斯泰蘭蒂斯、Nippon Steel、BYD相關動態：「HYUNDAI-POSCO Louisiana Steel chooses SMS group’s rolling...」。主要關注主題為財報、汽車產業通用、汽車銷量，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HYUNDAI-POSCO Louisiana Steel chooses SMS group’s rolling mill technology for...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Automakers' share in China's NEV market in April: BYD ranks first with 21.4%,...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
