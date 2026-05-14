@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-14",
+  "date_range": {
+    "start": "2026-05-08",
+    "end": "2026-05-14"
+  },
+  "generated_at": "2026-05-14T10:24:47.150415Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-05-08-009",
+      "date": "2026-05-08",
+      "title": "Hyundai Mobis Develops Universal EV Power Electric System - thelec.net",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "stellantis",
+      "co_mention_count": 7,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 192,
+      "last_week": 185,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 165,
+      "last_week": 131,
+      "week_over_week_change": "+26%",
+      "sentiment_this_week": 0.02
+    },
+    "ev_penetration": {
+      "this_week": 44,
+      "last_week": 31,
+      "week_over_week_change": "+42%",
+      "sentiment_this_week": 0.06
+    },
+    "guidance": {
+      "this_week": 19,
+      "last_week": 11,
+      "week_over_week_change": "+73%",
+      "sentiment_this_week": -0.05
+    },
+    "auto_sales": {
+      "this_week": 7,
+      "last_week": 11,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.21
+    }
+  },
+  "company_7d_summary": {
+    "posco": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 10
+    },
+    "arcelormittal": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "continental": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 50,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "hyundai_mobis": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "toyota": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 11
+    },
+    "ford": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "stellantis": {
+      "event_count": 25,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "bridgestone": {
+      "event_count": 20,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "volkswagen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "byd": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "honda": {
+      "event_count": 9,
+      "sentiment_avg": -0.67,
+      "rank": 9
+    },
+    "gm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "magna": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 16
+    },
+    "nippon_steel": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cheng_shin": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "fuyao": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 813,
+        "last": 909,
+        "change_pct": -10.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-08",
+      "event_count": 154,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 64,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 72,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 163,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 145,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 170,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 45,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-08 ~ 2026-05-14）共 813 則事件，重點為「Hyundai Mobis Develops Universal EV Power Elect...」。Honda、麥格納情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Honda",
+        "reason": "本週情緒偏負面（-0.7），共 9 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "麥格納",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
