@@ -1,0 +1,277 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:30:09.768654Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-05-15-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Opel Corsa GSE, Hyundai Mobis & Tesla - IAA Mobility",
+      "companies": [
+        "tesla",
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnZsSnBWLXpGYzhRTTBRRE9jWjducFVhUUxBZ3dHOXpybDZuTVE4b1ZBd2NGOE96MC16NG5GY2l0ZjFDcWJTUzRZdWgxZXVtNHpjMTk4bHR2Q05RSHBXNEItQjIzVzJOaWRiNHFXVEVaMXZ5LWQ5TUNlZFpkMU9xN2ltWXhnbE1WQkExNXBoY3Ficm0tdUF3MG1sZTgxeVlYY010UnlnN2Q?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-05-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel profits slump in fiscal year 2025 - Recycling Today",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajI0XzdtN2NZTmUwb1BhV1YzOHZiN2xsR3Qzb3Z3c1FVQmVndlJGNEJMdU9MYVN0ZFFoVExKMUlvcFluYk1sUXF0SmFVZl9XMWlmREIyRTJ0NVJYdnI0UjM2OTJXcFN2NE9IeGZHbURlUzJOMndkMEdLak8xeVRMZGRySjZSbUE5SUpuT2lFSWN1dG1YZnoybk03UnpSdVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-05-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Forecasts Sharp Profit Rebound to 220 Billion Yen After Challenging Year - IndexBox",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2F4UEF4Q3QwMVhpekVoOUl0ZHRiVEZuUlVjRXdIbG5majVaZ0Flc29VWTZuNkxxdXdiUkNXb001V3pQeXN4TnVEdVd6R2hSd2M1bXVjQWdUbU1Ydmh5UFpkWFlFVVhDRUZlS0Nna3U4d09DTTFzYU9jSnk1emticlV1ano2eGY3bTJFbEVJWDFmbmVhbTRzSlZTY25lR3lUMFloaXpjLUpNMlZ6VU5KYmpjd3NfUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-05-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO, JSW Steel sign $7.3 billion deal to build steel plant in India - DD News",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkI1VXEyUUFySjRsMVNjSG11elh0M01tWDAzbmthWHRpYklCME9zTURmLXlrN1NNa0ZScWkyaUNQZ3prbVlLdnQ3QlQyNkxjQmozel93NDN1bnl2NnNlMnhUZDJkTFU3MFRfSndHenJyc0NnS082WnBCbktkazNSYkpPNnVUNjFrd1h3T1hyQUs1bTBMdHV5Zg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "fuyao-2026-05-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Major expansion to Fuyao Glass plant one piece of community success puzzle - Herald-Review.com",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3pLalpGNHpXX2szZlg4YW9hWTdqMElyWWxqTG5rWHhHTGh0b19rckVNQnFRZjk2dFhnV0kzMjdER0ttUlJQaUVvdVFuVEdrbTJLb2ZyRXQtWC1HT3VsM2JHcWVCY0FXaFdxbElxOEg0UVhLdzZFWWJURjZlZzBBb051Qjc1dUFoMHpsWl9YOWhGdGQ2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 50,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "stellantis",
+        "count": 9
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "earnings",
+        "count": 29
+      },
+      {
+        "id": "ev_penetration",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 707,
+    "dup_title": 284,
+    "too_old": 164,
+    "gate1_blocked": 32,
+    "gate2_blocked": 50,
+    "passed": 177,
+    "pass_rate": "41.8%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Nippon Steel Corporation - Britannica",
+      "Nippon Steel to strengthen European and specialty steel operations with new strategic moves - SteelO",
+      "ArcelorMittal Prices US$1 Billion 5.375% Notes Due 2036 - The Globe and Mail",
+      "ArcelorMittal (NYSE: MT) prices US$1B 5.375% bond offering maturing 2036 - Stock Titan",
+      "Bridgestone Arena adds two big concerts to its 2026 lineup - WSMV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為斯泰蘭蒂斯、Hyundai Motor、Ford相關動態：「Opel Corsa GSE, Hyundai Mobis & Tesla - IAA Mobility」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Opel Corsa GSE, Hyundai Mobis & Tesla - IAA Mobility（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nippon Steel profits slump in fiscal year 2025 - Recycling Today（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 707,
+  "dup_title": 284,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 32,
+  "gate2_fail": 50,
+  "passed": 177,
+  "gate2_samples": [
+    "Nippon Steel Corporation - Britannica",
+    "Nippon Steel to strengthen European and specialty steel operations with new strategic moves - SteelO",
+    "ArcelorMittal Prices US$1 Billion 5.375% Notes Due 2036 - The Globe and Mail",
+    "ArcelorMittal (NYSE: MT) prices US$1B 5.375% bond offering maturing 2036 - Stock Titan",
+    "Bridgestone Arena adds two big concerts to its 2026 lineup - WSMV"
+  ]
+}
