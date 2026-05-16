@@ -1,0 +1,16 @@
+{
+  "total_raw": 711,
+  "dup_title": 336,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 33,
+  "gate2_fail": 54,
+  "passed": 133,
+  "gate2_samples": [
+    "Quebec miner ArcelorMittal fined $100-million for polluting fish-bearing waters - The Globe and Mail",
+    "Canada Court Issues $73 Million Fine Against ArcelorMittal on Environmental Violations - marketscree",
+    "ArcelorMittal - Britannica",
+    "ArcelorMittal (NYSE: MT) prices US$1B 5.375% bond offering maturing 2036 - Stock Titan",
+    "Bridgestone Arena adds two big concerts to its 2026 lineup - WSMV"
+  ]
+}

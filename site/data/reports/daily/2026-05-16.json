@@ -1,0 +1,246 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:45:55.951956Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hotai-2026-05-16-014",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hotai Motor Co Ltd stock (TW0002207000): Toyota distributor posts solid earnings and dividend in Tai - AD HOC NEWS",
+      "companies": [
+        "hotai",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcERGbmpOYWhpejctSDMxQkdsX0pwWHpVemE5OWlkek13dk5EOE1lN05nLWVyVUxyeS1BSG1IV2dKOHNNSUJXWGFtem1QVU5MMDNfZ0phR01zUGstVDFGb0N5RXdMZzQ4NDZkTEZaNWw1VnNFUzA3dmZfRzE5N0VRUXZpSFhUWl9SOS1FQ2hhczQ2Vld4c3lDTnpYTmw3MnJWRk80MHBYU1ZNcXZ1bFdPR0ZhclNtbHdwTFlZdWg3X25oZVNLemc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cheng_shin-2026-05-16-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cheng Shin Rubber Ind stock (TW0002105007): dividend track record and tire demand in focus - AD HOC NEWS",
+      "companies": [
+        "cheng_shin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWptVkxUZm1ncXRybEw0bWlvRTVtblFLMGRlUW05dDZER1Q5ZFJYSTBvV1k5ZUJLWW5oVVZja3RyalFfTVdPVGIyTHo5azMwbi03M1lVa2NyQ20tb3RRZFBHU0NUNzVheTRxWlNVMVVaVlRxRF9iX3hSWTR0UkZYSTJIUXlrZGJ2el9qUmxrRzY4V3Z1cGJYVFVqQUZfVGt4cXB4WWtPVUpKWlRqZ0NZVGROTGFibzhqZENtbGZYU2hNazloQUczS0ln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-16-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "New Record For Electric Car Sales In Nordic Countries In April - CleanTechnica",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXp3VS1VSFR6VjJKZzBrWTNrX0VUbEYyYW1DV2oxZmswWkJ4MHNVSGp6Y0JQZG1KNWhKTDVkU3NsNnRuOWE3d1UyMmJkZ21JU2tCRkNPUXJPR0JPeWdCMEF3X0xZZDdtSmdVNVVoem1XWGUxSmRpdDRENXZHZGs1ak1HSXRMVjEzeG5hSVp1UFlOdDhLZmM2Qmx5Q2NzUGIyVmfSAaoBQVVfeXFMTmQzbkNhVm81VjNtN2xPTHB6Y1c3WmN3UTBUc3FPb0lsbGFYbnFMV0NSRUo1Y2U4cDN0eE1ENjZMeVctbWJ0UFZjOFBidmpvYXA5ZnBMQW9zVVg2Y1phYl8zSTNFQl9wUWxCRFRRQXR5VzNoMFdmTXdxcGUwcXFzY3hTSUFRY1BBLWFOd3hQUWlzc1NtdVBNNi1zMGdJSnZXWGgzc1FfeVZwenc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-05-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Corp stock (JP3381000003): earnings recovery meets margin pressure - AD HOC NEWS",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWVZWXEwczZXXzd5UThmdnJXZzZhYVRVRm1VaUhvMTdyUk44Mld5eURZS09iLVVKRFFJRHlMRW5mU3lHZzVhNVR1a3NObDV1aFZ0YXM4bE1mLUpiY1lWMVFLd1IxS1Q2eE5FMXF1UEVHMVlWcVp6cUhGV2kydlZORFgyS01zeWlmZklPdTdrZElFaUFwNjJ0ZEFkNHZvaHJwbTZJNHo2SmFMY0x5U3Zhal9wS0VkNGFTQXFINWhPVlp3YnlL?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-05-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings Inc stock (KR7005490008): earnings and steel demand in focus - AD HOC NEWS",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDV2OG5PdVVqUjAyZjlsYTBJRS0xWkh0WW1ub2w3bEdpZmFMUkZoUnpDa3owcnVNV2gzbDEwZDhzSU9fUmxNb3FIcmpCODM2WDM1M0xfZVIzdkRjeGM4VDJFSTdOY0xJM3RGV3N5S3JlOU5PSlkzM2g1UzFaMkdNaWhzc1VUb3lpNWp1TXN3QkxnM3VFQmZLV213RFQtNXYzUFcwUUVNMGJfZ0tOR0xxMHFuZzM3blRCT0hGaUowSENITjg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "posco",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 711,
+    "dup_title": 336,
+    "too_old": 155,
+    "gate1_blocked": 33,
+    "gate2_blocked": 54,
+    "passed": 133,
+    "pass_rate": "35.5%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Quebec miner ArcelorMittal fined $100-million for polluting fish-bearing waters - The Globe and Mail",
+      "Canada Court Issues $73 Million Fine Against ArcelorMittal on Environmental Violations - marketscree",
+      "ArcelorMittal - Britannica",
+      "ArcelorMittal (NYSE: MT) prices US$1B 5.375% bond offering maturing 2036 - Stock Titan",
+      "Bridgestone Arena adds two big concerts to its 2026 lineup - WSMV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Ford、大陸集團、浦項鋼鐵相關動態：「Hotai Motor Co Ltd stock (TW0002207000): Toyota distribut...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hotai Motor Co Ltd stock (TW0002207000): Toyota distributor posts solid earni...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Cheng Shin Rubber Ind stock (TW0002105007): dividend track record and tire de...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

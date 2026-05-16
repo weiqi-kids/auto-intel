@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-16",
+  "date_range": {
+    "start": "2026-05-10",
+    "end": "2026-05-16"
+  },
+  "generated_at": "2026-05-16T09:45:56.111063Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-05-11-017",
+      "date": "2026-05-11",
+      "title": "Hyundai Mobis to Host 3x3 Youth Basketball Tournament in Ulsan - Seoul Economic Daily",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "stellantis",
+      "co_mention_count": 9,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "honda",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 196,
+      "last_week": 197,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 180,
+      "last_week": 128,
+      "week_over_week_change": "+41%",
+      "sentiment_this_week": 0.02
+    },
+    "ev_penetration": {
+      "this_week": 41,
+      "last_week": 39,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 20,
+      "last_week": 9,
+      "week_over_week_change": "+122%",
+      "sentiment_this_week": -0.07
+    },
+    "auto_sales": {
+      "this_week": 9,
+      "last_week": 12,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.28
+    }
+  },
+  "company_7d_summary": {
+    "bridgestone": {
+      "event_count": 18,
+      "sentiment_avg": 0.08,
+      "rank": 4
+    },
+    "ford": {
+      "event_count": 21,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "hyundai": {
+      "event_count": 45,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "gm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "stellantis": {
+      "event_count": 27,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "arcelormittal": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 8
+    },
+    "continental": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "magna": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 18
+    },
+    "hyundai_mobis": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "honda": {
+      "event_count": 11,
+      "sentiment_avg": -0.59,
+      "rank": 9
+    },
+    "tesla": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nippon_steel": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 5
+    },
+    "posco": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 10
+    },
+    "cheng_shin": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 14
+    },
+    "fuyao": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "toyota": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 12
+    },
+    "volkswagen": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "saint_gobain": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 17
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 905,
+        "last": 907,
+        "change_pct": -0.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-10",
+      "event_count": 72,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 166,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 149,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 187,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 161,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 146,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 24,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-10 ~ 2026-05-16）共 905 則事件，重點為「Hyundai Mobis to Host 3x3 Youth Basketball Tour...」。Honda、麥格納情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "麥格納",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Honda",
+        "reason": "本週情緒偏負面（-0.6），共 11 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Bridgestone",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
