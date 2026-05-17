@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 376,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 37,
+  "gate2_fail": 61,
+  "passed": 75,
+  "gate2_samples": [
+    "Nippon Steel Corporation - Britannica",
+    "ArcelorMittal (NYSE: MT) prices US$1B 5.375% bond offering maturing 2036 - Stock Titan",
+    "Quebec miner ArcelorMittal fined $100-million for polluting fish-bearing waters - The Globe and Mail",
+    "Canada Court Issues $73 Million Fine Against ArcelorMittal on Environmental Violations - marketscree",
+    "ArcelorMittal SA (MT) Stock Down 5.7% but Still Overvalued -- GF Score: 66/100 - GuruFocus"
+  ]
+}

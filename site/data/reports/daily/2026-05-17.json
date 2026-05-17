@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:51:16.315806Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-05-17-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis all-in-one EV drive unit: 160 kW, 20% more compact, modular by design - SpeedMe.ru",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeU92UWhWcndtRHI2VW55YzVRYVE0NmRUcUFSQWVJc0ZHaTIwZGk5MkI4TllnVEdOSHJoR2JoSkQ4VTBOUkw5N3hsZ0JnTnZYV2R1cGFYUG5sb1g1LXBIdnBmOGxXZXlKYVZwM0RVRWlxTU5pMHpfTDViMmEzalVhcnlkbHZBaHAyc0pneVphaEs4SjI0Y2gwQnZjeEpSdlRodG1XTzRXWi0zMF9vdFhmUzg1Tkp6UdIBugFBVV95cUxNa3NhdFBfdWl5XzRORGs4T1RWRjBNQXZtSWV6eV8wNXRYaXZUZjg1Q1MtVUtkZE85VF9ueHB4ajNkemEzcGp3eS1QNHNTS1F0QndBcjBsaTNjRUVtOWVidS1FU0xPal9JUnBCM016bV9FSlQ4eWNWSVJBR0piUlR2ZXdGN01ORkp4RWs3RWU3cEJuUkVDU3VXTFE4TFQ4TUxnZ25tMmgxOUlObjBRbExWMEdZdnMxVnRTcGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "byd-2026-05-17-007",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD eyes Stellantis EU plant takeover as EV demand spikes, confirms ‘other companies too’ - Moomoo",
+      "companies": [
+        "byd",
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFFDeWM5MXI1bnNEUlQ5Q3VDQS14R3VFRXdlc2pVbkoxbHNncmhvRTR5SWdzS013cUFza1Q4Y0RsMDNmMEJxdXhTZXl2YW1qOU1NelBiS0tETDNhTUhucG9uNGp6enlndFNsNFdOcmhQa2t6UUNpUnJIUlYtdC1JTUV6bkE5UU1GY2ZmeW5NVlo5NGZRRXByakhJTTIyYWhkNWVLcG0xcUsxUVBiZE1NUw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-05-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Men's U19 to Play for Gold at 2026 NORCECA Continental Championship - USA Volleyball",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVM1UVJwY2VmV2xrS3BVTkc0VTNIUHRzQ3g5U2JWSEQ3VmhVeGxKYzNTcDFPbVVZdXRXSHp4a0RveVlIb1VwWEdQMHU0aHFUcDlFaEJha3BEZTN6TFdQSE5hbDl3VG9WeVlsVXhmekgzdDlid0otV3k0SWd6RXR3NUtjaGNaMGdvWnRtUEdmeEkyc0VtUi1XeTVqQTkyLXM3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-05-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DNB Asset Management AS Has $24.70 Million Stock Position in Ford Motor Company $F - MarketBeat",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNemI4LUxQcDZvNWZ0Z1NJVk9rZHdBX19jeXlWVE1iUzE0aGI1MXRZSlBKbTIwai1leTdJS1NGSGpLXzJENTY0dnBfaDh3OGR5NUxMSFRsVktTeVBQUVVBbDF1bTlHLThyVHgzMmdCWlViQVpLSW44a2V1b3pCTnU3UlZqZ01wdm53WXpqeGpIYlBJcWN1bzcwZWMzaVljTUhMWUxfYWxXY045WS1pVzBNN253RDlxYks2cmwxZ0pRMUlUMmxIc2hwbGQ4cXdGU1p2Vl9DSlRCcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-17-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Commentary: Automakers’ data monopoly and how they dictate car repair - The Spokesman-Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcXI1Y3Y5eDBfU0dpaG1iZUNxNGFudGd0aUttSE1JMHMwSW9iUDd1cVR5SG5QanlvRW5GdUZadFAzZVNBUFFCQ3dwUnFoSU9nU0pqMDA0M3o3cVYxY3g0S1ZRdHF1OFpNVkRRdDc3aktSanhuSXo0WWxnQzA3Q0w5SWVZUEowLXpoN3BmTEZfUUZiVElKMjg0Sm1QUk1rQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      },
+      {
+        "id": "continental",
+        "count": 1
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 376,
+    "too_old": 159,
+    "gate1_blocked": 37,
+    "gate2_blocked": 61,
+    "passed": 75,
+    "pass_rate": "22.6%",
+    "gate2_block_rate": "18.4%",
+    "gate2_samples": [
+      "Nippon Steel Corporation - Britannica",
+      "ArcelorMittal (NYSE: MT) prices US$1B 5.375% bond offering maturing 2036 - Stock Titan",
+      "Quebec miner ArcelorMittal fined $100-million for polluting fish-bearing waters - The Globe and Mail",
+      "Canada Court Issues $73 Million Fine Against ArcelorMittal on Environmental Violations - marketscree",
+      "ArcelorMittal SA (MT) Stock Down 5.7% but Still Overvalued -- GF Score: 66/100 - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Ford、BYD、斯泰蘭蒂斯相關動態：「Hyundai Mobis all-in-one EV drive unit: 160 kW, 20% more ...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis all-in-one EV drive unit: 160 kW, 20% more compact, modular by ...（電動車滲透率、財報）",
+        "level": "red"
+      },
+      {
+        "text": "BYD eyes Stellantis EU plant takeover as EV demand spikes, confirms ‘other co...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-17",
+  "total_events": 16,
+  "by_company": {
+    "continental": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ]
+}
