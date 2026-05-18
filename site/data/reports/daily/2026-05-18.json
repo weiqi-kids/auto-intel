@@ -1,0 +1,258 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:49:24.193000Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "stellantis-2026-05-18-027",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD in Talks With Stellantis, Others to Take Over Underutilized European Factories - Caixin Global",
+      "companies": [
+        "stellantis",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1BLMW92VGVmRElkSG5zZXZUcEEyT19MdHhYMFlTc18xbmVxdjIyM1ZudVp2T1lKMlBDdGdfWms2RTBicS1PREtKSTJlcmQ2VE1lazQ2TXJNa2lQdkxJNDNFeTZQVXZKbExHdXBlaURTV0pzUHVjbkxUdUxubkEtSGJRSUN3OEliQ0duazlZSm1SNFZaZkUxU3hRY0dzdVljSVUxcWxkWUM0YnprTURNeEVEOEEzVzFST0JXZnBYaWs3ckdFOUVJN0xwczJ1VTYzUXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-05-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Liberia: Kebbeh Harris Dolo, Massa Senesie Breaking Barriers as Female Operators in Nontraditional Roles at ArcelorMittal Liberia - FrontPageAfrica",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYTBSc3ozMU1pb3dOTWtJd1hfQ194T1FwY0k0VFVxUTI5c1NCbHFVVC1WRlJtOGhUMndyRmI0M0kydnZvRWEzSFhGZ3NUZkw3Z0IwY2ctc25KN2xwNnFDMTlST0o5a0dxbTFUZmxMTjlGOWJDLXROQ2U4cjJ4d0hWSEZoUUZ6RlRici1XQmFqMVBKc09wWGVFcjR1R2I5bkw3b1lTLVBsZXduMFMyenpPMHFmWmRVLUljTDh0bWpEMGNvRGJVWFZ2bk9GbU5adzdhYk1Qc1ZkUTV4YVljaU9ydHc4TWpQa09fald4cHdlTXBlN0JFSFh6ZzA0MA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-05-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal S.A. stock (LU1598757687): earnings momentum meets sharp pullback after recent highs - AD HOC NEWS",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVWI1SHFFQjhKcnBaclAzSEs5eEhGZHVpcS12cEFhTXlnT3FZcXRmQVBpaTFFcV9Hb19kWUF2bTNVYmdXenBQVHo1bkw0N3Ewc25Vb0tKY2hsWnhoeUZZQ3BuNXhVa09iVmJpSEJqN1NpQ2h2YTNiWkZVRFdJTjlsYmNKcnZLM09JVXR6S1Z0S3BmS0JmMVNYdWJFcU02Qkk2WWlyLTNDVFpyS1NGUVd2aVozNjVyb1RuN1hnVC1leHlYNk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bridgestone-2026-05-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone reports first quarter gains on currency, cost of raw materials - European Rubber Journal",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV2FlRDV0bUZJekp4aUM4U19XNWJOWDlKQTQ1LURkQWFIYVVndHJKUGNpaGFGWjVWTTNZLThwaVhyUk9ueUJxNDdHLURfNXMwWlFUeFZqbmp1MnhFUFJzQmcxLTB6QXJ2dTlBeXpHZFpISlRHc3JOVG91cVNvY3VzRDdJbEVzRXdmejJ6SmlVNTVkNng1S1BhN20tUWstdDZhLXhYR2ZPd2RRakp2UlRFM3U2cFZsNEhrNlNoUy1NVzBUemxKd19GTw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-05-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock (FR0000125007): solid Q1 sales, guidance confirmed despite construction headwinds - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWtiRWRULWtMa3pMUWpCU2NpM3VpckFCZXVvQkgxT3ZzSHBFUWN4bzVQcjZaa1psWjJRazlQUklIX3puMXRzZkZCZUdWazdmcnpWNEtSeUE3bVpBaFZLMHd3RzlpYWlqZ0VXaEF3ZmFVd0ZJU1RSVnVHb1FFRTZjU3JMc2lKcl82Y2JndkpkZ29nYm5uYjhOZzRYQ0RTRFl5MVNOV09JUmM2RE9qa1lRTzBRVEtucDdvZF9hOWRXUFlCQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 50,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "stellantis",
+        "count": 7
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "bridgestone",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 37
+      },
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "ev_penetration",
+        "count": 12
+      },
+      {
+        "id": "guidance",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 355,
+    "too_old": 169,
+    "gate1_blocked": 30,
+    "gate2_blocked": 56,
+    "passed": 91,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Tag: Nippon Steel Slovakia - EUROMETAL",
+      "Quebec mining company fined $100M for polluting fish-bearing waters - CBC",
+      "Canada Court Issues $73 Million Fine Against ArcelorMittal on Environmental Violations - marketscree",
+      "EU protective measures against steel imports may be ineffective – ArcelorMittal Spain - GMK Center",
+      "Bridgestone Arena adds two big concerts to its 2026 lineup - WSMV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、Ford相關動態：「BYD in Talks With Stellantis, Others to Take Over Underut...」。主要關注主題為財報、汽車產業通用、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BYD in Talks With Stellantis, Others to Take Over Underutilized European Fact...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Liberia: Kebbeh Harris Dolo, Massa Senesie Breaking Barriers as Female Operat...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

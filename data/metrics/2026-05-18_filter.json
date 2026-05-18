@@ -1,0 +1,16 @@
+{
+  "total_raw": 701,
+  "dup_title": 355,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 30,
+  "gate2_fail": 56,
+  "passed": 91,
+  "gate2_samples": [
+    "Tag: Nippon Steel Slovakia - EUROMETAL",
+    "Quebec mining company fined $100M for polluting fish-bearing waters - CBC",
+    "Canada Court Issues $73 Million Fine Against ArcelorMittal on Environmental Violations - marketscree",
+    "EU protective measures against steel imports may be ineffective – ArcelorMittal Spain - GMK Center",
+    "Bridgestone Arena adds two big concerts to its 2026 lineup - WSMV"
+  ]
+}
