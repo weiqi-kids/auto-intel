@@ -1,0 +1,323 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T11:25:51.265507Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-05-19-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Entergy signs power deal for Hyundai Steel-Posco Louisiana mill - ET Manufacturing",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZUlVWlVjcldHZzNoaDVBaElfMWo5X2oxSm5KSVFjUkUxWndiaER5dDY4RjI4dlNoRFJSUGFhREVFc0NaWkZPVFZVSTlIcS0xVFpCWE1FX0tuRm9tOUNGdkNuSWZTUThmdFNXeUpQelFiSWVyYWF6Sl9qcGNBM1lEQjZGMXVSNXQ4ZVg3NlFZZVJ1SUVZWlc3TEpoeU0zM2RVQnRpbFU5RDRQQ25oUVdGX1lPUFRtM3BnTzhCV0o5WGRZTzJ6UWJjbFN3QXpwb1JYLS1mZdIB2gFBVV95cUxNcGxiejR0MVN1bFZSbDlwR2d4QThrTzU3X09JSWxtei1JVmNSd1l4MmhjZjhjcEtISXFNOEJ6c0E2WTNnSTBNeV9qanBNb3JGMkZLRHBlRzRoMXJwN1dILXZqNERHUGdsRWFXWm83aDVhVUh0UWFaNUdyVkQ5bXpham90NGstSGJ5bnc0WUkxc2xvTy1nTFVtSi1RTmdrbVEzd1hvVG1yRERzV0hGeDNoSE8xcU16V2Q1UzV5YkJLZkdzWUZMbkg2dXBJTDAyM193am4wWGhjYWl4Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-19-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Assessing Entergy’s Valuation After New Hyundai Steel And Posco Power Supply Agreement - simplywall.st",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFpFM2NwcFA5WHpUeWswNUZkeWhyWjFzaTl0YkxOXzM0VUFDbzZGeHU5T3VaVHZscDVqQW9TNEg1TnpqWkVvd1h3TWVsaW1tUW56UjlXSnp5eHNzNzZZYVFoNG9wcVgzaHozNTgxc3BtOFV6S2w2WlZWbHVzeWN5VnMza0Q1QUtaSWVJUGtkTncySlUwb2lqam5XUjNQME5lSURjU3pscThCNWRudEhzQTVaaXhmS2NDMkFSMlVrWmpNZ9IBxwFBVV95cUxOTFdXeFlfa2tCNzJ2Z0JEdkRzLTcxSGljUDdpUkxoS09UNzR6RnhlUGpnRHlOcWY3VTRaTkJqb0k1bnBhNHgzRVhrVmM1UHd1cVpZYVJRZjB3OWxXYXAtWVJKdGdZVDlId21jdUQyTW93WGRJMVhsaGs3SnQ2UU1lUGNIa2xQa182SW1WTUdVb3F2ZURDeTI2WTZkemtHbFcxMU84MUxoOFNDbERWcGtPRGpOdE43Y1YteGV2T1h6dXQ0VHdyRTgw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_mobis-2026-05-19-030",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis courts Silicon Valley robotics and AI partners to expand R&D - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUpaSzhXaUN1ODlwb2FoZmpabTZVUFRaeVlJT283a2FIVlhWbmJTTVlPUUE3dXlCT2cyS005dXM3eDFGUl9pWmIzN1NtVGZVNmVqaG5keFVDWW1LNlhIYlZrdFVjbkpIRmU4QzhJejF5SG5pY3VxWE5qUXowSUQ3YmlB0gGWAUFVX3lxTE1DN0FCcGxVeUlhajNzT29ZeGlSbEhhM2w3TmJhX05Zc0ZSaVEzYkFNRWRhQzZ3REVKRDJhTUdhd25ybjJjQWFGNUxoMTVWeWc3eGFzN1J2aHpBX3NaQWJVUXFFclFSM1hFYzFwSmxsSGR3bWF2OHFNcnAtdXR1YWNPM0Vac29jQThVemtnaDB3MnVid1pSQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_mobis-2026-05-19-031",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Seeks Robotics and Physical AI Technology Alliances in Silicon Valley - 매일경제",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGeC1XVmFXMkhueTZKbkxuWmJpQzh6UV9DaklKX1R2aW9mYmE1RU4zQ3hNMUlHM1VKc0diOXp0OURMbEVZYTNzSF9jRGJ2anRVem9v?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-05-19-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Meet the M&A specialist now leading FTI’s Continental Europe deals - Stock Titan",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFRFUFlnemRGTUN3Y2o5TDdHdHdRTDliTzVJNVFod1pjR1EzU1lOS1dBSVZaaVlKNUhvQTA2SXA0OFFGbTRMYkpmeUhrNzViOTM0R3h5bUdVR2Y2U1EtTjV3eU4zUTBoNnBIQ25oWUZPYVFMNXpxdmQ5R1J3WHpqRjZnbTJ5bUE4N21rU0RUZG9yT1dJc3J3VjIxek1OU1haZ1dYSHlfYWpHVnFBd1g2ems4c0FkT3AtcWpfNg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "industry_general",
+        "earnings",
+        "ev_penetration"
+      ]
+    },
+    {
+      "from": "hyundai",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings",
+        "ev_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 79,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 68,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 16
+      },
+      {
+        "id": "stellantis",
+        "count": 12
+      },
+      {
+        "id": "arcelormittal",
+        "count": 10
+      },
+      {
+        "id": "continental",
+        "count": 7
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 42
+      },
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 704,
+    "dup_title": 298,
+    "too_old": 147,
+    "gate1_blocked": 39,
+    "gate2_blocked": 57,
+    "passed": 163,
+    "pass_rate": "40.1%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "US Finalizes 3.7% Countervailing Duty on POSCO Plate, Adding Pressure on Korean Steel Exports - bloo",
+      "ArcelorMittal (ENXTAM:MT) Valuation Check After Recent Share Price Moves - Yahoo Finance",
+      "ArcelorMittal sells 10% of Vallourec at €24 per share, raising $667 million - The Corner .eu",
+      "ArcelorMittal (MT) Faces C$100M Fine for Environmental Violations - GuruFocus",
+      "Bridgestone TOUR B X And RX Go Black - MyGolfSpy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 79 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、安賽樂米塔爾相關動態：「Entergy signs power deal for Hyundai Steel-Posco Louisian...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Entergy signs power deal for Hyundai Steel-Posco Louisiana mill - ET Manufact...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Assessing Entergy’s Valuation After New Hyundai Steel And Posco Power Supply ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

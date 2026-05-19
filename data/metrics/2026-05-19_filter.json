@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 298,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 39,
+  "gate2_fail": 57,
+  "passed": 163,
+  "gate2_samples": [
+    "US Finalizes 3.7% Countervailing Duty on POSCO Plate, Adding Pressure on Korean Steel Exports - bloo",
+    "ArcelorMittal (ENXTAM:MT) Valuation Check After Recent Share Price Moves - Yahoo Finance",
+    "ArcelorMittal sells 10% of Vallourec at €24 per share, raising $667 million - The Corner .eu",
+    "ArcelorMittal (MT) Faces C$100M Fine for Environmental Violations - GuruFocus",
+    "Bridgestone TOUR B X And RX Go Black - MyGolfSpy"
+  ]
+}

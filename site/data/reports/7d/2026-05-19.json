@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-19",
+  "date_range": {
+    "start": "2026-05-13",
+    "end": "2026-05-19"
+  },
+  "generated_at": "2026-05-19T11:25:51.442129Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "posco-2026-05-13-010",
+      "date": "2026-05-13",
+      "title": "HYUNDAI-POSCO Louisiana Steel chooses SMS group’s rolling mill technology for its new steel mill in the US - megaproject.com",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "stellantis",
+      "co_mention_count": 13,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ford",
+      "company_b": "stellantis",
+      "co_mention_count": 6,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 191,
+      "last_week": 150,
+      "week_over_week_change": "+27%",
+      "sentiment_this_week": -0.01
+    },
+    "guidance": {
+      "this_week": 12,
+      "last_week": 22,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": 0.08
+    },
+    "industry_general": {
+      "this_week": 195,
+      "last_week": 211,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.04
+    },
+    "ev_penetration": {
+      "this_week": 37,
+      "last_week": 53,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.03
+    },
+    "auto_sales": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.28
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 18,
+      "sentiment_avg": -0.11,
+      "rank": 5
+    },
+    "posco": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hyundai": {
+      "event_count": 45,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "arcelormittal": {
+      "event_count": 19,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "bridgestone": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "cheng_shin": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "continental": {
+      "event_count": 18,
+      "sentiment_avg": -0.03,
+      "rank": 6
+    },
+    "magna": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "ford": {
+      "event_count": 28,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tesla": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "byd": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "stellantis": {
+      "event_count": 43,
+      "sentiment_avg": 0.01,
+      "rank": 2
+    },
+    "fuyao": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "hyundai_mobis": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 10
+    },
+    "honda": {
+      "event_count": 9,
+      "sentiment_avg": -0.33,
+      "rank": 11
+    },
+    "volkswagen": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "toyota": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "saint_gobain": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "gm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 844,
+        "last": 909,
+        "change_pct": -7.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-13",
+      "event_count": 188,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 178,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 153,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 65,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 46,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 135,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 79,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-13 ~ 2026-05-19）共 844 則事件，重點為「HYUNDAI-POSCO Louisiana Steel chooses SMS group...」。Honda情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Honda",
+        "reason": "本週情緒偏負面（-0.3），共 9 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Nippon Steel",
+        "reason": "本週出現 18 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
