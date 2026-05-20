@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-20",
+  "total_events": 65,
+  "by_company": {
+    "posco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 27,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 8,
+      "sentiment_avg": 0.03
+    },
+    "industry_general": {
+      "count": 43,
+      "sentiment_avg": -0.01
+    },
+    "ev_penetration": {
+      "count": 9,
+      "sentiment_avg": -0.03
+    },
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": -0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ]
+}
