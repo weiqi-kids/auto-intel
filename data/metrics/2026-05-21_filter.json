@@ -1,0 +1,16 @@
+{
+  "total_raw": 713,
+  "dup_title": 308,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 35,
+  "gate2_fail": 51,
+  "passed": 157,
+  "gate2_samples": [
+    "U.S. Imposes 3.7% Duty on POSCO - Businesskorea",
+    "US Finalizes 3.7% Countervailing Duty on POSCO Plate, Adding Pressure on Korean Steel Exports - bloo",
+    "ArcelorMittal to pay record Canada Fisheries Act fine - SeafoodSource",
+    "Crude Steel Output Fell 4%, Yet Iron Ore Business Soared 26%: ArcelorMittal Performed in 2025 - Shan",
+    "Quebec Court Imposes Historic CAD 100 Million Fine on ArcelorMittal for Water Pollution - News and S"
+  ]
+}

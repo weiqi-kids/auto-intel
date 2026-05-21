@@ -1,0 +1,265 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:31:57.464067Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gm-2026-05-21-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford joins General Motors in hunt for lucrative new military contracts - Detroit Free Press",
+      "companies": [
+        "gm",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVZWalFuRVhqaUl5NkNjb2Q2d0xoQ0N4R3Z0Q28yRTdtTE1OWjBqV1FFdTN4XzdsR1NQSkRSbEJkRUo2SlZCY0xCNlFBbXZyQ09Wa0llZUl6ZFd1SEZkNGxaQ1NERzhqNWlJR3dfdGpfaGEtMjJtRjI1ZjlNTlB6X1Z2X1Y2VEc0SEFpZ1FBMmpqTGw4MHZ5ejNwNHNPQzAyZU9wTWg2c21heHB1bFA5UGZNTVVFRHE0c0dHUnFBYkhyQUx2WjhwaA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-05-21-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis accelerates sale of lamp business division - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "ev_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLRElZQS1VMTZxc0ZabnZhNFlRZlNSVGwzcFpZa0lwVlplOTh2ZVh5ZDFYRVRTNEVKTFZrbDZlS01rcG1UbHJpVzNnMEdMbUZ3OUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-05-21-033",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SpaceX just filed for the IPO everyone was waiting for",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.teslarati.com/spacex-s1-ipo-filing/"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-05-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Board Rejects Shareholder Proposal on Subsidiary Governance - TipRanks",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUt3VHRaaXdHOHU5SXo3S29WbXpqOVVRdVZJVWM3M1pXZXZ6RXhWTTRNQ1Y3NEcyTVFrZjhSZW9DTWNMTkNrSlZJOXNYRVBTeU5SMGlDS2oySngtakRpamx2TkdHOHFud3NUdUJhcFFWZ1BSVkg5bDBVZHJZNjJDd21Ea05NQmw4eTFLYnVSVEN0bXkxWGdzWGNIWUZxdThvT1p3MTEwZ0ZmU3ZWQnc0OVdtQXl5YjVfTGh0ZHBwY0pjZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-05-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings Inc stock (KR7005490008): Earnings outlook and steel market headwinds - AD HOC NEWS",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeks3QVdjenp6ZE5GSTR3ZHdoSFZqS3J4aUZ4d1R6ZmVTZnFQZlhnU2VIbWMxcjZfSFR1dkxOalpjLUd4dXJQOTU3bEtuZGtwX00wU1hCRjNjcXZBZU9lWUdrUTJjaFVCTkNYU29nYTVjUmVtX0NIdVJ4RDg5THl3My1FdkFEVEtxQmZTUWJFN1k5bzhZUnV6WTlMZEZSQTkzVms5cmluWXlsVUJHUkhLN1ZlUHlvY0VkOTh1UFE1OWZXVFNueFNDWTNn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 46,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 7
+      },
+      {
+        "id": "stellantis",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 713,
+    "dup_title": 308,
+    "too_old": 162,
+    "gate1_blocked": 35,
+    "gate2_blocked": 51,
+    "passed": 157,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "U.S. Imposes 3.7% Duty on POSCO - Businesskorea",
+      "US Finalizes 3.7% Countervailing Duty on POSCO Plate, Adding Pressure on Korean Steel Exports - bloo",
+      "ArcelorMittal to pay record Canada Fisheries Act fine - SeafoodSource",
+      "Crude Steel Output Fell 4%, Yet Iron Ore Business Soared 26%: ArcelorMittal Performed in 2025 - Shan",
+      "Quebec Court Imposes Historic CAD 100 Million Fine on ArcelorMittal for Water Pollution - News and S"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為大陸集團、斯泰蘭蒂斯、特斯拉相關動態：「Ford joins General Motors in hunt for lucrative new milit...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford joins General Motors in hunt for lucrative new military contracts - Detr...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis accelerates sale of lamp business division - 매일경제（電動車滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
