@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T00:43:53.552280Z",
+  "updated_at": "2026-05-21T09:16:51.448086Z",
   "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -217,14 +217,14 @@
       "name": "現代摩比斯",
       "ticker": "012330.KS",
       "currency": "KRW",
-      "ar": null,
-      "ar_prev": 10221063000000,
-      "ar_qoq": "N/A",
-      "inventory": null,
-      "inv_prev": 6861834000000,
-      "inv_qoq": "N/A",
+      "ar": 10221063000000,
+      "ar_prev": 10429509000000,
+      "ar_qoq": "-2%",
+      "inventory": 6861834000000,
+      "inv_prev": 6785873000000,
+      "inv_qoq": "+1%",
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "kenda",
@@ -371,14 +371,14 @@
       "name": "大眾",
       "ticker": "VOW3.DE",
       "currency": "EUR",
-      "ar": 66528000000,
-      "ar_prev": 91055000000,
-      "ar_qoq": "-27%",
-      "inventory": 51775000000,
-      "inv_prev": 58717000000,
-      "inv_qoq": "-12%",
+      "ar": 92324000000,
+      "ar_prev": 66528000000,
+      "ar_qoq": "+39%",
+      "inventory": 58158000000,
+      "inv_prev": 51775000000,
+      "inv_qoq": "+12%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "yulon",
