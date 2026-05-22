@@ -1,0 +1,16 @@
+{
+  "total_raw": 715,
+  "dup_title": 331,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 30,
+  "gate2_fail": 38,
+  "passed": 147,
+  "gate2_samples": [
+    "How Investors May Respond To Nippon Steel (TSE:5401) Rejecting Activist-Backed Listed Subsidiary Ove",
+    "Nippon Steel Corporation Opposes the Shareholder Proposal from Strategic Capital - marketscreener.co",
+    "ArcelorMittal to pay record Canada Fisheries Act fine - SeafoodSource",
+    "ArcelorMittal sells 10% of Vallourec at €24 per share, raising $667 million - The Corner .eu",
+    "Quebec Court Imposes Historic CAD 100 Million Fine on ArcelorMittal for Water Pollution - News and S"
+  ]
+}
