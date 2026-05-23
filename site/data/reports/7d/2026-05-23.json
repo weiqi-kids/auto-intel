@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-23",
+  "date_range": {
+    "start": "2026-05-17",
+    "end": "2026-05-23"
+  },
+  "generated_at": "2026-05-23T09:58:54.256967Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_mobis-2026-05-17-003",
+      "date": "2026-05-17",
+      "title": "Hyundai Mobis all-in-one EV drive unit: 160 kW, 20% more compact, modular by design - SpeedMe.ru",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 201,
+      "last_week": 196,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 158,
+      "last_week": 180,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": -0.01
+    },
+    "ev_penetration": {
+      "this_week": 38,
+      "last_week": 41,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 18,
+      "last_week": 20,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.07
+    },
+    "auto_sales": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": -0.18
+    }
+  },
+  "company_7d_summary": {
+    "continental": {
+      "event_count": 27,
+      "sentiment_avg": -0.04,
+      "rank": 4
+    },
+    "hyundai_mobis": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 7
+    },
+    "hyundai": {
+      "event_count": 44,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "ford": {
+      "event_count": 33,
+      "sentiment_avg": -0.01,
+      "rank": 3
+    },
+    "byd": {
+      "event_count": 7,
+      "sentiment_avg": -0.04,
+      "rank": 10
+    },
+    "stellantis": {
+      "event_count": 43,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "arcelormittal": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "bridgestone": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 12
+    },
+    "fuyao": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "saint_gobain": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 9
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "gm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "tesla": {
+      "event_count": 12,
+      "sentiment_avg": -0.13,
+      "rank": 6
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "posco": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "honda": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 18
+    },
+    "toyota": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cheng_shin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "magna": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 21
+    },
+    "hotai": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 16
+    },
+    "volkswagen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 851,
+        "last": 977,
+        "change_pct": -12.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-17",
+      "event_count": 47,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 152,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 188,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 164,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 165,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 113,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 22,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-17 ~ 2026-05-23）共 851 則事件，重點為「Hyundai Mobis all-in-one EV drive unit: 160 kW,...」。Hotai Motor、Honda表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 27 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Hyundai Mobis",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 44 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

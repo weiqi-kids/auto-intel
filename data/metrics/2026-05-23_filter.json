@@ -1,0 +1,16 @@
+{
+  "total_raw": 715,
+  "dup_title": 338,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 33,
+  "gate2_fail": 47,
+  "passed": 119,
+  "gate2_samples": [
+    "Nippon Steel Corporation - Britannica",
+    "Is ArcelorMittal SA (MT) Overvalued After 3.1% Rally? GF Value S - GuruFocus",
+    "ArcelorMittal to pay record Canada Fisheries Act fine - SeafoodSource",
+    "ArcelorMittal sells 10% of Vallourec at €24 per share, raising $667 million - The Corner .eu",
+    "Is This Golf's Newest Collector's Item? Bridgestone's Limited-Edition Black Golf Ball Release Sells "
+  ]
+}
