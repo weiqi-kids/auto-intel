@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-24",
+  "total_events": 16,
+  "by_company": {
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "ford": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

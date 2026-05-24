@@ -1,147 +1,147 @@
 {
   "nippon_steel": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-14",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3040
   },
   "posco": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2968
+    "count": 3030
   },
   "arcelormittal": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "bridgestone": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-14",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3040
   },
   "cheng_shin": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2952
+    "count": 3008
   },
   "kenda": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2952
+    "count": 3008
   },
   "fuyao": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 2942
+    "count": 3000
   },
   "saint_gobain": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3101
+    "count": 3165
   },
   "3m": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "denso": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-14",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3040
   },
   "continental": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3076
+    "count": 3140
   },
   "aptiv": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "magna": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "hyundai_mobis": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2968
+    "count": 3030
   },
   "valeo": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3101
+    "count": 3165
   },
   "hota": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2952
+    "count": 3008
   },
   "tyc": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2952
+    "count": 3008
   },
   "toyota": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-14",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3040
   },
   "volkswagen": {
-    "earliest": "2014-04-09",
+    "earliest": "2014-01-09",
     "latest": "2026-05-22",
-    "count": 3076
+    "count": 3140
   },
   "gm": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "ford": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "hyundai": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2968
+    "count": 3030
   },
   "byd": {
-    "earliest": "2014-04-15",
+    "earliest": "2014-01-15",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3041
   },
   "tesla": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "stellantis": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "honda": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-14",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3040
   },
   "yulon": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2952
+    "count": 3008
   },
   "hotai": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2952
+    "count": 3008
   },
   "etf_carz_etf": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   }
 }

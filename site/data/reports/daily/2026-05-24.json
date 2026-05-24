@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T10:00:28.730964Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-05-24-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford Motor vs. Tesla: What Their Revenue Trends Tell Investors - The Motley Fool",
+      "companies": [
+        "ford",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGJCNFA0N3VnU2VFdzBSbkZwbGhRU1Q1VXhjWU1MUXFPbGVacUlvVTNtNDVpUC0zM2IxSHB6U1FzT3ZyUHVuTWc5NHI0LTA0d3lTM3BCSVNjUTJ4ZWw4UDltOHRzdzBLQS11VUtuc0k4S2dTbW9ZcXZKcDRoNjgtTVREQ3FrZ3U1UUdadF85bUI2cUZ4X1ZsalFHMWlfNWdGZWVnQmNwYmxZaXA0emc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-24-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Real Salt Lake ends in stalemate while URFC surpasses Denver - Deseret News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdXFJY0tvWUIwUzQweDBMXzlZbW9YZjdsYmgyYlNEdGJublc2YzV1MFRIdlNqcmpnNV9tZDhYR1Bwcks5eXlCQ2hreTBuUld2NlZ4VHQtekdfSk52UE1qRnRwdnFhQVF3R044VzJ3bURlWEZILXViWjdrRlhZWUl0T3FWWEJ1dUZfWmhEbi1KeXBzNWpZWDlmT1FYbWhmLUdOcy10cEpxV1R2bmVEX2VIRjJuUmpfWTl6Si1RalVxM3NRYWpwc2lGYW9GdU9qRFB3UHNhd0MxZjdTclpaUUxUVW5DalRVZENjNFVnMXM5Wm1MZ1ZaOFI4VVZoTi1mbnZTUTNJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US Steel: Strengthening Supply Chain With $1.9bn Investment - Supply Chain Digital",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXp3bkU4cDN0dUVrdk9DVzdPeGU5d2cwbUF4UXpXcm1QQkdKclN1VVFsVmQtUlJ2S3RWeE5YTVROUE5sem1Vc0Qwc2dVUzhYUnE2bUpCeTV4TmFLd3E1LUtPQ3M0b2RpWm42RDNoR2RaVmdTbVV1TGFrUzNuSnJtN3RYZ2dPVVBMWWtocWpBc0NqblVCdl9tTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-05-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock (FR0000125007): focus on Q1 sales trends and construction cycle - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTB0a3NCQUxhMHJSdnhfZTV5Zll4X1U0Y3p2RTVhVHBDNWlIRmpTemgybDlvSmdBUjBtUjRPZHAzc2hQMWQ1dmg3V29SeHFGelVXNUEzRWtoUmJ2VUFIa0hfWWprQ3hzMnZGaDZfekFaaGRmdEYwRWFrSU5PYk5RSTcyQnFXTEtwY2RfLXp0a1BmU1NfZDZBaXVqSkc3SjQxZ2RuY3lsT3hGWldRczZhVWYwdGZoNWVEc2hn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-05-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Continental (XTRA:CON) Valuation After Thailand Tire Plant Expansion And Capacity Increase - simplywall.st",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdDN5YVh0ajJiWmFtMlNnbFBsWUdVQ0oyWEtXd2VDSDNiYWpqYkdOYnQ0TTY1cFZXckJ6aFNFN2s2ZmhfNGxHZlZlYVh0Mzd0RHY0MU5yLWo0N3A2VDJNTnZNQWRKXzltbE0zamcyLXlrMHdscHJ5ZDRvLTlGdDVXM0JWMzlzSUFxZGtlVkw0eUhmQXNTSmhRR2pHVUl2dGRwaEtUcUt1YWJMN3UzSnpzWnZGQ1JDNkZZZUdkdVp4Q01PaTc5QzdCWmZYWkFrTVdm0gHWAUFVX3lxTE03SU9XdktuUVNZSVVqODdlTHRPemlTR0UyQ0hyOGFCcmJ3RXJqNHRkTkhyVGU5aDhUZ0Q3dlVTU2pyb2loT3g5Z0tLVnEzTGlxc2xQcUt6cjh3Zy14MFFSaVhNdFU1bzNWTk03ay1aOS04bTlfQUYydC1kaFBXcnc2d2o2NktKM284aThoSHBpcFIzbjdoczJLdG8zM1R5d0gwRFRrbzgxTWQ4TXdfdEZnMmV2RHhoSEsxZV9tZ2NuS0lzU0l2RUVNYWRMU3dFYUlPcmdvN0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 387,
+    "too_old": 183,
+    "gate1_blocked": 35,
+    "gate2_blocked": 39,
+    "passed": 64,
+    "pass_rate": "19.9%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Nippon Steel Corporation Opposes the Shareholder Proposal from Strategic Capital - marketscreener.co",
+      "Omiya SC (Morioka) - Nippon Steel Kamaishi FC, 24/05/2026 - Tohoku Soccer League (Div.2 North) - Mat",
+      "How Investors May Respond To Nippon Steel (TSE:5401) Rejecting Activist-Backed Listed Subsidiary Ove",
+      "Is This Golf's Newest Collector's Item? Bridgestone's Limited-Edition Black Golf Ball Release Sells ",
+      "Bridgestone TOUR B X And RX Go Black - MyGolfSpy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Ford、大陸集團、特斯拉相關動態：「Ford Motor vs. Tesla: What Their Revenue Trends Tell Inve...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford Motor vs. Tesla: What Their Revenue Trends Tell Investors - The Motley Fool（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Real Salt Lake ends in stalemate while URFC surpasses Denver - Deseret News（財報）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
