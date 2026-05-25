@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 362,
+  "no_date": 0,
+  "too_old": 190,
+  "gate1_fail": 36,
+  "gate2_fail": 43,
+  "passed": 77,
+  "gate2_samples": [
+    "Nippon Steel Corporation - Britannica",
+    "ArcelorMittal to pay record Canada Fisheries Act fine - SeafoodSource",
+    "Callaway X Utility Prototype – handheld up close shots form WGC Bridgestone - GolfWRX",
+    "Is This Golf's Newest Collector's Item? Bridgestone's Limited-Edition Black Golf Ball Release Sells ",
+    "Bridgestone TOUR B X And RX Go Black - MyGolfSpy"
+  ]
+}

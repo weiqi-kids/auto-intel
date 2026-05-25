@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:57:14.411122Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-05-25-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Bentley Continental GTC Sells for New Toyota Prius Money - autoevolution",
+      "companies": [
+        "continental",
+        "toyota"
+      ],
+      "related": {
+        "customers": [
+          "toyota"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVVqZG1hVW01NzUtbkIxb3d2TVQ4WnA2U3hVcm96SHFVYUpSYXg3ekItWnltcFNYZmI0YndRc295N29CSXJ6WFFrT0RJVWxyd0d0Q0NZYmhmQlNkS2tOYW9lNzBzZ3QxalhmeTktM3F0REZlUzE4dVNKSkk1blVJNjRjRF9neDg0azJKbGdhakJMWDFyZXBELVMzU0hZQ0tQQ1VKaGdB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "continental-2026-05-25-007",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Continental adds 3m tire capacity at Rayong, Thailand - Automotive World",
+      "companies": [
+        "continental",
+        "3m"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQk1sWXJESmJhQXdoM0h6MGtCY1lFZGpwM2Q0eThTdWZqWDZmWUNuQ2RuZVViclV4UTBzMllnZWJ4dms1UUlXRGlvYnVidVFmNE5xd2ZpN2N1NWpvSHFSWmtpN0kzaF85REdJRW50dEZDR1pJODlMRG5FeWNjbmtkSnliUHZjY2VIV19aQXBQUS1BSUYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dhinkia set for unveiling of steel plant after 21 years of protests - The New Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbEYyLXgtNVh2UXYwWWZMUHB2eG81anpybklvbXJQeDdhRWphYVlzZ1NMZmltbnJfU25mNktnbGdjWkp4NEpSdmg3aFYwRFphd0QtNXpMcEljd0JCTi1SaE1aUEM3TS1taXp3bVM5OHQ4Q2lEZHFEOWNZTU1XZFVTZ1RNQ2NuRmNjUFptTGN2cEVTV0htT204LU9HQjR3N1NuOUk0T3ROZWc2T3FDbnN0NXFZYmZxUERlMkRXNlphVnY1c2RU0gHSAUFVX3lxTFBjQXE2Y1dHVGl3MHZVYklHUUFDeWZQSU9GaVR4eTJKQjk2d0FQYWJjVDZnRnF5bGdjMnNxQTRKWlY3dnk5V1BUa05LVUM1eVl1UTBLYU9xbDI0QXBvNVgzUnVIckl0MHBJNUFKbFdZcjdxcXU3ZTloejdaeHpOaHlwTjdwcnNlRFZLMGo2RGVWZUl0Znd1WlZoNWVqRWVkZkhaQ0RhV19XcHhUY2R1Z254Ti0xWEJYS1kxVUh1WWR0cmIwUlhrTFRXZW9GUVFVOW9CQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-05-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock (FR0000121501): Q1 sales update highlights resilient demand - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeG13d1NVMURjZVVYYTFOM0xVNE82TUszbUJ5Yk5mNVloUnhXbXdjbm8zYlNBTHFtaExBS0EtMHdPNUdqRDZYb0xpNTM3OUU4bHpuNk5vYWJCMG1icFRBNFpSU1RVSFlUWEFGVWpwMkFDbHBqMUxpTllsRnh0ZEZMWjRNYVJlbTRlWWFTR3dJMkNGa0xoaG1vRTg2cTkwNU56Y1lDQVh4TzZ0bUxWMWdMa1lmdTNNT2h6bFlQWWMtMGpQejZUb0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-25-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "After 250 years, Revolutionary War-era soldiers finally laid to rest in upstate New York - CNN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNZHJGQS1pQ1VsNmhWSnRZTGtyUGRFazFKNUp2MThvanFGRUpkQ2ZyZW1Kc0d1bnJhS2VuMVdpbkgyUXl3Sl9oamVIWWM1OVd3b3luRUg3SXhiRmxEcXFYQVhCdTdoUHhCejY5aWIzOUp0Skd6Skh0Q2h3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 38,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "magna",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 362,
+    "too_old": 190,
+    "gate1_blocked": 36,
+    "gate2_blocked": 43,
+    "passed": 77,
+    "pass_rate": "22.3%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Nippon Steel Corporation - Britannica",
+      "ArcelorMittal to pay record Canada Fisheries Act fine - SeafoodSource",
+      "Callaway X Utility Prototype – handheld up close shots form WGC Bridgestone - GolfWRX",
+      "Is This Golf's Newest Collector's Item? Bridgestone's Limited-Edition Black Golf Ball Release Sells ",
+      "Bridgestone TOUR B X And RX Go Black - MyGolfSpy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為大陸集團、Ford、Hyundai Motor相關動態：「Bentley Continental GTC Sells for New Toyota Prius Money ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bentley Continental GTC Sells for New Toyota Prius Money - autoevolution（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Continental adds 3m tire capacity at Rayong, Thailand - Automotive World（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
