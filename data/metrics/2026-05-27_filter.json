@@ -1,0 +1,16 @@
+{
+  "total_raw": 710,
+  "dup_title": 262,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 37,
+  "gate2_fail": 37,
+  "passed": 190,
+  "gate2_samples": [
+    "ArcelorMittal Nippon Steel India becomes world’s first steelmaker to produce API 5L X100 pipes - ET ",
+    "The 'Scrap Metal War' Triggered by POSCO's Electric Arc Furnace Startup - 매일경제",
+    "Steel giant to join bid for Whyalla steelworks - The Australian",
+    "Steel giant ArcelorMittal fined $72M for polluting rivers in Quebec - Mining.com",
+    "Saint-Gobain divests Nordic business unit - marketscreener.com"
+  ]
+}

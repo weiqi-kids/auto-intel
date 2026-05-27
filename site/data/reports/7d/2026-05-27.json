@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-27",
+  "date_range": {
+    "start": "2026-05-21",
+    "end": "2026-05-27"
+  },
+  "generated_at": "2026-05-27T11:43:38.119294Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ford-2026-05-23-024",
+      "date": "2026-05-23",
+      "title": "Ford V10 Powered Lincoln Continental Gets 'Bulletproof' Upgrades: Video - Ford Authority",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ford",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 105,
+      "last_week": 180,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 18,
+      "week_over_week_change": "-72%",
+      "sentiment_this_week": -0.2
+    },
+    "industry_general": {
+      "this_week": 154,
+      "last_week": 202,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.02
+    },
+    "ev_penetration": {
+      "this_week": 15,
+      "last_week": 44,
+      "week_over_week_change": "-66%",
+      "sentiment_this_week": 0.03
+    },
+    "auto_sales": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": -0.07
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "arcelormittal": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "bridgestone": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 11
+    },
+    "cheng_shin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "saint_gobain": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 7
+    },
+    "continental": {
+      "event_count": 24,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "magna": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hyundai": {
+      "event_count": 28,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "hyundai_mobis": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 6
+    },
+    "tesla": {
+      "event_count": 14,
+      "sentiment_avg": -0.11,
+      "rank": 4
+    },
+    "gm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "ford": {
+      "event_count": 30,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "stellantis": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "yulon": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 17
+    },
+    "hotai": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 14
+    },
+    "toyota": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "volkswagen": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "honda": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 18
+    },
+    "byd": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 625,
+        "last": 956,
+        "change_pct": -34.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-21",
+      "event_count": 173,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 132,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 55,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 40,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 55,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 106,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 64,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-21 ~ 2026-05-27）共 625 則事件，重點為「Ford V10 Powered Lincoln Continental Gets 'Bull...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Honda",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
