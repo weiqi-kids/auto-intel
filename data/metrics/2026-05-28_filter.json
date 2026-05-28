@@ -1,0 +1,16 @@
+{
+  "total_raw": 714,
+  "dup_title": 311,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 41,
+  "gate2_fail": 40,
+  "passed": 145,
+  "gate2_samples": [
+    "Posco forges ahead with AI for ‘smart’ steel factories, offices - Korea JoongAng Daily",
+    "The 'Scrap Metal War' Triggered by POSCO's Electric Arc Furnace Startup - 매일경제",
+    "ArcelorMittal (MT) posts Designated Person share transaction notice under EU rules - Stock Titan",
+    "Steel giant ArcelorMittal fined $72M for polluting rivers in Quebec - Mining.com",
+    "Women’s Basketball to Play Vanderbilt at Bridgestone Arena on Friday, Dec. 18 - Belmont Bruins"
+  ]
+}
