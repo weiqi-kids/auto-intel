@@ -1,0 +1,16 @@
+{
+  "total_raw": 716,
+  "dup_title": 334,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 34,
+  "gate2_fail": 46,
+  "passed": 123,
+  "gate2_samples": [
+    "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+    "S&P Affirms Nippon Steel at BBB on Slower Recovery in Key Metrics - marketscreener.com",
+    "ArcelorMittal (MT) posts Designated Person share transaction notice under EU rules - Stock Titan",
+    "Steel giant ArcelorMittal fined $72M for polluting rivers in Quebec - Mining.com",
+    "Women’s Basketball to Play Vanderbilt at Bridgestone Arena on Friday, Dec. 18 - Belmont Bruins"
+  ]
+}

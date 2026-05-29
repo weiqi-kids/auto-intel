@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:34:44.392093Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-05-29-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Price Target Raised To 910,000 Won At Eugene Investment Securities As Robot Parts Maker - TradingView",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSlMwbF9UbUVZV204MFZTOXJRTW5iWHZ4eVFOQ2FuZVFCSDJrbmtWeDg5RTFzSEp3VndPZGd2NUxVR2lfd2lZaHZjNC1WSmR4Yl9HUGIxcnotTm9nSWpOOGFGbUJSME9kRGtqTHY5V2Y1cEN0VWlOZ2ZYUmlUSTZkWGRyVjMzcW9qX04tS1NzdnFOYXRPbzJFVnhJLXVrQ2FjVHc2aEJ6ZW02ZE1DeGN3dHN1eGlUVmo1SXB3SGlUeXVXdnRUbjM5eUpFeklyU0xjWFBxQXJodTdJemNuTWVTbDhGRTBMVkd6bmwyb2JDZUtPYUJNZW1rZ0xncGRSelEx?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-05-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings (NYSE: PKX) Q1 2026 profit reaches W 543B on steel strength - Stock Titan",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2pUS3dsem82d2o3ZE9jMVpnamJOS2RMNmFHRXFsaVpKOE1DNnVzT3FQb0tadE50bm4wMzBJd2FLRUo0U2o2MFJvNmFzcGt4VXZjM1RTX291cVhqaGlFeWRzT2RfY1l3WWV1NUZaMV9QRGVDZF9IcXJJUmlmSUstR3BxYkxVMXBWQVVxaHduLXRTQmVQak9PajZVYUFlUS1kLWhBdTZPbUtiZ2NiRnJEeGFHdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-05-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain: Volatility should make a big comeback - marketscreener.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmtpVEZVTlVvR1diSEtOQzQtM1pUQVR5Rmh6SkhtMFdDQTI2QXotYmVjQU9HZ0ROMGNjc29qX09BcWs2UFU4dWhtVjJ1c1FWZTJDVnhVdGU0RXQyQjllWkxqdjEtbEhyRHJ6NGIyQ2RxRHFtUXhTamlZa0VCUkgxZ0h0dWU3SHVHTUhubWg1WmRkeXR3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-05-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain will discontinue production of its Alumina-Zirconia-Silic - Shanghai Metals Market",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaE1aR0tKTTgtNnotQjJ6eFRNNldiM0RzWlNLMkY5ZWdFaEN6TmNaXy1vQVhwVXI3V1duTUxPQlhCSHpWYjgzakZGN0FYNXRpS2J6OGpUOEtYeHhPekJwVHkyY0RXYWRyZ2w2b2YxNW9maVF5VmZXbnZXTDhKc0U2Snl0bUozVDBjOVQ1cGJnMEo1YmRCRzdOSVpkZTl6RlgwOFZ0aUJyZ3VEVExMam1yd19TT1ZyQ2RXODRtZTJ2NWRqMmd5SmFzaUk0V2RrRUNTUjdYcWR3VDdQT09Tdmhj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-05-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VML India and Saint-Gobain India challenge perceptions of fragile glass in new film - Campaign Brief Asia",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelQ3TEhkYTJ1ckFqdFE3aHg5MUpPdHJhWkJGZTdEMEljckxuNVY4a1lOOGhNRkpWMEdmbXRNcVJSYUZjV0NpVDJPRFMyeXFLcVFhM2R2YWpYaTBiN2lZSVgtTEJlenIxQUtqajFUdGpIeUZzRHlncVl1NjVEakN4Y2hwMi1JYjJ2YkxRSTJNdjR3czZNclhRMWVBTkQyd2tZaUhUZnlhTWpRam4yYm9hTHFRYlpibXNnalUzUWhMTUpKY28?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 47,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 716,
+    "dup_title": 334,
+    "too_old": 179,
+    "gate1_blocked": 34,
+    "gate2_blocked": 46,
+    "passed": 123,
+    "pass_rate": "32.2%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+      "S&P Affirms Nippon Steel at BBB on Slower Recovery in Key Metrics - marketscreener.com",
+      "ArcelorMittal (MT) posts Designated Person share transaction notice under EU rules - Stock Titan",
+      "Steel giant ArcelorMittal fined $72M for polluting rivers in Quebec - Mining.com",
+      "Women’s Basketball to Play Vanderbilt at Bridgestone Arena on Friday, Dec. 18 - Belmont Bruins"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為Ford、斯泰蘭蒂斯、Hyundai Motor相關動態：「Hyundai Mobis Price Target Raised To 910,000 Won At Eugen...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Price Target Raised To 910,000 Won At Eugene Investment Securit...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "POSCO Holdings (NYSE: PKX) Q1 2026 profit reaches W 543B on steel strength - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
