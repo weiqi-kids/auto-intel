@@ -1,0 +1,253 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T10:05:20.084475Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-05-30-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Nippon Steel India gets first PM-SETU nod; Andhra Pradesh leads industry-driven ITI overhaul - The Economic Times",
+      "companies": [
+        "arcelormittal",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQmhLbEg0dnBhSC1YSXBLTGZGVkNUQmJJSlVWcVV1MmhoSnFJSFNuVko4TW5XQ2V2d0wwU21HWmtBbjlHXzBEXzFTT3pfejdvYzJSMXVaaHdmNmRKQmo0STVfaVJDV1ZyMUNhbHhoVnE1ZTN6Y3MtTHdWSXVvX1U2N1hLcGpWM3YzbXFRNHUyLUg4VHVPc1RaNDNKMlJFUGRuY3N0cnJ1U0liZzB5OXp0eWN5TWJVX2hGWTNOTnE3czVNTFV6bFdPa2VNS2drT1k0YndIaEdOWDJ0bTZuQ1l6dFRkcW02ZTY0WE1vYk04SGV5MkgwYkFlOS1JVEY2aWlleDdQVHZac0QxZkd2UllEMDNaS0RkbTI0cHNsbTBfZ21mR0RpX3BF0gGsAkFVX3lxTE5NLVBtemNSNVNlUmYzc2t1MTlpWllDazRVenZHbDNJem8yRzZYd2xleXJyRlV4ZTEzOGdJMnZNUWt3bE9ta0M1MnJlS1dJTXNyWEdLTmdYaXVhTjZwY1ZCYWszeDZRRG9TWDFRVU8yT1hmdG5PSm9pOGh4aS1UM3pfMm4wLXZOS0tJWThwd3dyNHp4QVpVc1FHUVg3WUtaUVdGa0hDeVBXdnV1ZlFjVjY1cm5RbU5kVEJ4c29Hbm1VMlR6Q2JwNmlITDBNdUZHaWEyWVlpV2JuUzJScWtIQmhpSFFIQllUUXlGX3FGZUJVbHVMUS1pd3FXU2hsZFQzaWRXOUM3cXBoMEV0R05IdG1zYzk5Yms0ZjFqUk41Rjh1Ry1hdE5PUzMzNmYyaA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-05-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Toyota Reportedly Cancels Lexus EV Previewed by the LF-ZC Concept in 2023 - autoevolution",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXBicWk2ZktvSmxBRjNFMHZOZnVRMEw4N1BDTmNKNTBKbG12Rk5ON1dkMHdIZkxvNFVGVWgyM0diWjVQN2xfS0REcUhUZ2JjQUxCV2YzTUFGV3BVZVdOc2RrRHpfNUZva0hjMGhQWHVHRHdtbE0xMVVodm00WE1ESmFIaHlSdDg4dDh6cEtEampXNjU2TjF6M0tmS1hONFNCSU5Qa2VuczBGYzQ0TDl6QjQ1WGhkbUI2MmJVRA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-30-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly roundup: FTC reveals names of dealers warned over deceptive pricing, New-vehicle sales hold steady in May, Scout Motors to bring 1,200 jobs to new HQ - CBT News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbmFfMHAtdEhObHBaQ1JjZm83NC1NYkxrbG1pWEFsVXZzejVHY1RKYTFnSFlDXzRiekVJRU41c1F5NHpqZWY0cm5LcEQ3dW02WnNDSTRJNkI4ZDdLM2NBbkVjZmRpbERyVUxTa3EyTU1IZUdSZTlrbGctdkRlSGZLOUhpTl9NWkh3b1FER2dScjdDb1FYSmxib3NvWG9kTFRrR2liZ3gwR2RIbFdrcGg5U1lGRGRxZi14NXllOVczZzVGa2V6VlFNUE1BWHpfYzc0WG1nUTFETi1POG5vREttY2hHdW1jc2I0YjVUVndKVk9RNzVwOFllVEFXNWE5OEJaN2VWdndHckc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-05-30-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Toyota to pull plug on next-gen EV development - The Japan Times",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORUc2dXczb0tmOXdDQi11TFdtei0yQ0R0QzctQTR2dWhZNkJiV19hSGNzNFIyblJtZUJjLWN3eGZyMzJSQ3VGeHROVU96Sm5GUjhRUHBlTzNqYXlEM0ctUGxZUWdTUmlTbDdxSFRJdlRJYTUtQ0FldUhkUTczSjcwSmtCa0FFMVI2VVVrenB4OHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is This The New Jeep Renegade? - Motor1.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wcHpTQldhX1BBMTIyeUZmYVF4c0loOWQxdlFjd1VTX1JEX0FSb3hnXzdLZjlqdElVOEhfNlAyd2pUV3dPemxmNDRFTkJON2lUT3FWUkpjSXRrSjRCb2xVUV9kd0hNcU42S09Wcg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      },
+      {
+        "id": "nippon_steel",
+        "count": 1
+      },
+      {
+        "id": "stellantis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 709,
+    "dup_title": 340,
+    "too_old": 179,
+    "gate1_blocked": 37,
+    "gate2_blocked": 48,
+    "passed": 105,
+    "pass_rate": "28.5%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+      "S&P Affirms Nippon Steel at BBB on Slower Recovery in Key Metrics - marketscreener.com",
+      "ArcelorMittal | Steel producer, Mining, Manufacturing | Britannica Money - Britannica",
+      "Canada fines ArcelorMittal most ever, $100M for Quebec water pollution - The Northern Miner",
+      "Steel giant ArcelorMittal fined $72M for polluting rivers in Quebec - Mining.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Ford、Toyota、安賽樂米塔爾相關動態：「ArcelorMittal Nippon Steel India gets first PM-SETU nod; ...」。主要關注主題為汽車產業通用、財報、汽車銷量，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ArcelorMittal Nippon Steel India gets first PM-SETU nod; Andhra Pradesh leads...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Toyota Reportedly Cancels Lexus EV Previewed by the LF-ZC Concept in 2023 - a...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 709,
+  "dup_title": 340,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 37,
+  "gate2_fail": 48,
+  "passed": 105,
+  "gate2_samples": [
+    "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+    "S&P Affirms Nippon Steel at BBB on Slower Recovery in Key Metrics - marketscreener.com",
+    "ArcelorMittal | Steel producer, Mining, Manufacturing | Britannica Money - Britannica",
+    "Canada fines ArcelorMittal most ever, $100M for Quebec water pollution - The Northern Miner",
+    "Steel giant ArcelorMittal fined $72M for polluting rivers in Quebec - Mining.com"
+  ]
+}
