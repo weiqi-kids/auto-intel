@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 365,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 44,
+  "gate2_fail": 43,
+  "passed": 72,
+  "gate2_samples": [
+    "Should Nippon Steel’s Rejection of an Outside-Led Subsidiary Review Committee Require Action From Ni",
+    "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+    "Steel giant to join bid for Whyalla steelworks - The Australian",
+    "ArcelorMittal | Steel producer, Mining, Manufacturing | Britannica Money - Britannica",
+    "Is Bridgestone’s ‘MindSet’ ball the secret to Jason Day’s low scores? - GOLF.com"
+  ]
+}

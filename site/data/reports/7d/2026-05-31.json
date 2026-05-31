@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-31",
+  "date_range": {
+    "start": "2026-05-25",
+    "end": "2026-05-31"
+  },
+  "generated_at": "2026-05-31T10:20:25.407575Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "continental-2026-05-25-005",
+      "date": "2026-05-25",
+      "title": "Bentley Continental GTC Sells for New Toyota Prius Money - autoevolution",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 174,
+      "last_week": 200,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": -0.01
+    },
+    "earnings": {
+      "this_week": 101,
+      "last_week": 162,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.01
+    },
+    "ev_penetration": {
+      "this_week": 21,
+      "last_week": 35,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": -0.02
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 18,
+      "week_over_week_change": "-89%",
+      "sentiment_this_week": -0.25
+    },
+    "auto_sales": {
+      "this_week": 10,
+      "last_week": 5,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.05
+    }
+  },
+  "company_7d_summary": {
+    "bridgestone": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "saint_gobain": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "continental": {
+      "event_count": 14,
+      "sentiment_avg": -0.04,
+      "rank": 4
+    },
+    "toyota": {
+      "event_count": 10,
+      "sentiment_avg": -0.1,
+      "rank": 6
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "magna": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "ford": {
+      "event_count": 39,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "hyundai": {
+      "event_count": 30,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "volkswagen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "posco": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "arcelormittal": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hyundai_mobis": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 5
+    },
+    "tesla": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "stellantis": {
+      "event_count": 15,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "gm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "honda": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 17
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "byd": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 670,
+        "last": 910,
+        "change_pct": -26.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-25",
+      "event_count": 60,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 126,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 150,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 126,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-29",
+      "event_count": 141,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 51,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-25 ~ 2026-05-31）共 670 則事件，重點為「Bentley Continental GTC Sells for New Toyota Pr...」。Honda情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Honda",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
