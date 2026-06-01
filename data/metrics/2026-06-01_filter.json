@@ -1,0 +1,16 @@
+{
+  "total_raw": 145,
+  "dup_title": 48,
+  "no_date": 0,
+  "too_old": 8,
+  "gate1_fail": 31,
+  "gate2_fail": 19,
+  "passed": 39,
+  "gate2_samples": [
+    "Ford Ranger Will Battle Nissan Frontier Derived Mitsubishi Pickup",
+    "Lifted 1993 Ford Explorer Limited Heading To Auction",
+    "Henry Ford's Fordlandia Set For Restoration After Court Ruling",
+    "Ford Hasn't Decided Where It Wants To Build Its Future Crossovers",
+    "NFL Quarterback Joe Burrow's Custom 2022 Ford Bronco Heading To Auction"
+  ]
+}

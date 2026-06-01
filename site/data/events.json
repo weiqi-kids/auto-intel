@@ -1,5 +1,365 @@
 [
   {
+    "id": "ford-2026-06-01-001",
+    "date": "2026-06-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ford Abandons Maverick Thunder Trademark",
+    "summary": "It seems as if that new variant won't be coming to fruition.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/ford-abandons-maverick-thunder-trademark/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-01-002",
+    "date": "2026-06-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Says Robots Are Now Driving Trucks Around Michigan Proving Grounds",
+    "summary": "In conditions that are potentially dangerous for humans.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/ford-says-robots-are-now-driving-trucks-around-michigan-proving-grounds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-003",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "auto_tariff_trade",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump Admin Wants More U.S. Auto Content In USMCA",
+    "summary": "Quite a lot more, in fact.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/trump-admin-wants-more-u-s-auto-content-in-usmca/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-01-004",
+    "date": "2026-06-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Future Ford Vehicles May Get Smarter About Shifting Out Of Park",
+    "summary": "If a user leaves their smart device behind.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/future-ford-vehicles-may-get-smarter-about-shifting-out-of-park/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-01-005",
+    "date": "2026-06-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ford F-150 Customers Saved Almost $300 Per Month By Leasing In Q1 2026",
+    "summary": "The second-largest gap of all.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/ford-f-150-customers-saved-almost-300-per-month-by-leasing-in-q1-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-006",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2017-2020 Lincoln MKZ Among Safest Vehicles For Teens In 2026",
+    "summary": "An affordable and safe option.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/2017-2020-lincoln-mkz-among-safest-vehicles-for-teens-in-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-01-007",
+    "date": "2026-06-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Ford Mustang To Wear Motorcraft Livery Heading To 2026 Ford Nationals",
+    "summary": "A historically significant and successful racer.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/first-ford-mustang-to-wear-motorcraft-livery-heading-to-2026-ford-nationals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-01-008",
+    "date": "2026-06-01",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tesla plans ingenious improvement to one of its best features",
+    "summary": "<p>Tesla is planning to improve one of the best features on its lineup of cars, a new patent shows. Tesla&#8217;s massive glass roof on its premium models is among the coolest additions to the all-ele",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-plans-ingenious-improvement-best-features/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-01-009",
+    "date": "2026-06-01",
+    "companies": [
+      "tesla",
+      "byd"
+    ],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/06/BYD-Seagull-EV-sales-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>BYD says it will assume full fina",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-010",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A court just decided how much foot movement counts as ‘pedaling’ an e-bike",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/01/amsterdam-fat-tire-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>In a fascinating case that",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/31/a-court-just-decided-how-much-foot-movement-counts-as-pedaling-an-e-bike/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-011",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada’s EV Rebates Sent March Sales Up Over 80%, Dealers Are Still Owed Millions",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/China-EV-Rebates-a-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bo",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/canada-ev-rebate-dealer-reimbursement/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "honda-2026-06-01-012",
+    "date": "2026-06-01",
+    "companies": [
+      "honda"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Honda’s Tiny 1981 Scooter Fits Behind The NSX’s V6, But Drain It First",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Acura-NSX-Honda-Motocompo-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"ma",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/honda-motocompo-nsx/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-013",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Connecticut Shop Cut Up A Carrera GT To Make Its Own Supercar",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/Miller-Motorcars-JC9-1a-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"marg",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/porsche-carrera-gt-jc9-coachbuild/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-014",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "After 80 Greens, Mazda Finally Gives The ND Miata Its First",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Mazda-MX-5-Zinc-Green-1-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/mazda-mx5-green-color/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-015",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Most Expensive Chinese Car Ever Sold In Russia Costs Up To $445,000",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/708999689_1301285635539904_3502240008244811009_n-copy-1024x576.jpg\" class=\"attachment-large size-large wp-",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/hongqi-guoya-russia-pricing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-016",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Company That Makes Your iPhone Now Builds A 468-HP Electric SUV",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/Foxtron-Cavira-1kk-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bo",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/foxtron-cavira-reveal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-017",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maserati Revived A Championship Livery For Its Most Extreme Road Car",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/GT2MONZA_250FLivery_GT2_GT2Stradale-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" a",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/maseratis-special-gt2-stradale-celebrates-an-f1-icon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-018",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Museum-Grade Legend V6 Turned Up In A Place Acura Never Sold One",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/1989-Acura-Legend-00010-2048x1362-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/a-museum-grade-legend-v6-turned-up-in-a-place-acura-never-sold-one/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-019",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Janus Electric Update — Talk to the Converted!",
+    "summary": "<p>CleanTechnica recently scored an exclusive interview with Ben Hutt, the CEO of Janus Electric. This comes in the context of mainstream media interest in the electrification of the heavy truck indus",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/01/janus-electric-update-talk-to-the-converted/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "continental-2026-05-31-001",
     "date": "2026-05-31",
     "companies": [
@@ -297,6 +657,358 @@
       {
         "name": "carscoops",
         "url": "https://www.carscoops.com/2026/05/pontiac-chieftain-restomod/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-05-31-017",
+    "date": "2026-05-31",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ford Escape Discount, Lease, Finance Deals For May 2026",
+    "summary": "Employee Pricing for All on discontinued small crossover.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/05/ford-escape-discount-lease-finance-deals-incentives-offers-may-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-31-018",
+    "date": "2026-05-31",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A SpaceX/Tesla merger could trigger Musk’s $1T pay package automatically",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/05/Elon-Musk-Tesla-Money-hero.png?w=1600\" /></div><p>SpaceX has a big IPO coming up, but the next step might be a ",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/05/31/a-spacex-tesla-merger-could-trigger-musks-1t-pay-package-automatically/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-019",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Score This Super-Rare Mazdaspeed AZ-1 for Less Than a New Miata",
+    "summary": "<p>Less than 5,000 of these gullwing kei cars were made, and only 150 were Mazdaspeed models.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/score-this-super-rare-mazdaspeed-az-1-for-less-than",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/score-this-super-rare-mazdaspeed-az-1-for-less-than-a-new-miata",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-020",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AC Cobra GT Coupe Puts a Fixed Roof on the Classic for the First Time",
+    "summary": "<p>AC Cars has been around for 125 years, and it's been making Cobras for just over half that time. But it's never made one like this.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/ac-cobra-g",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/ac-cobra-gt-coupe-puts-a-fixed-roof-on-the-classic-for-the-first-time",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-021",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will Electric Semis Ever Take Off? California Hopes $1B Rebate Program Will Help",
+    "summary": "<p>The state plans to offer the same type of purchase incentives that have long been available for electric cars, even making them available at the point of sale.</p>\n<p>The post <a href=\"https://www.",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/will-electric-semis-ever-take-off-california-hopes-1b-rebate-program-will-help",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-022",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "72% Of New EV Buyers Just Traded In A Gas Car, Even After Losing The $7,500 Credit",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/70889-rtp-9335-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-b",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/ev-trade-in-resale-trend/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-023",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Most Corvette-Looking Corvette In Years Wasn’t Designed By Chevy",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/C2-Corvette-Homage-11-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"m",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/corvette-c2-homage-render/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-024",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lexus Engineers Couldn’t Stop Fighting Over The New ES, And It Wasn’t Power Or Screens",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/2026_Lexus_ES_350h_Premium_Iridium_Palomino_024-copy-1024x576.jpg\" class=\"attachment-large size-large wp-p",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/lexus-es-suspension-tuning/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-025",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Someone Spent $47K Making This $30K Porsche Pickup Legal To Drive",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/gvfd--1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" ",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/porsche-cayenne-pickup-conversion/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-05-31-026",
+    "date": "2026-05-31",
+    "companies": [
+      "toyota",
+      "honda"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parents Trust Toyota And Honda With Their Teens, The Data Picked A Different Brand",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/2020_Toyota_Yaris_02_03BD90C6468E7400FCE9C2B85FFDD4734F98A1EF-copy-1024x576.jpg\" class=\"attachment-large s",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/iihs-teen-car-recommendations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-05-31-027",
+    "date": "2026-05-31",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 2026 Palisade Calligraphy Feels Like A Range Rover Autobiography For Hyundai Money | Review",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/g4r5vtfweb-dv-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom:",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/hyundai-palisade-calligraphy-review/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-028",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Million New-Car Buyers Just Vanished, And Automakers Don’t Want Them Back",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/gf254r3vwed-c-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom:",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/us-new-car-sales-decline/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-029",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Car Crashes Are 60% More Dangerous For Women, And The Dummy Is Why",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/09C1202_050-copy-1-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bo",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/women-crash-injury-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-030",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Turns Out You Can Polish The Luce EV, Just Not Into A Ferrari",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/05/707948140_1304589631650558_3464277809001059709_n-copy-1024x576.jpg\" class=\"attachment-large size-large wp-",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/05/ferrari-luce-body-kit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-031",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'More Than Just A Work Vehicle:' Kia Has Big Plans For Its Commercial Vans",
+    "summary": "Kia’s PBV program aims to go beyond traditional electric vans, building a modular, EV-first platform designed for professional mobility, logistics, and passenger transport.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/797345/kia-commercial-van-ev-interview-europe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-032",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "positive",
+    "title": "Chile EV Sales Report: 10% Market Share Reached in April Thanks to 247% Growth!",
+    "summary": "<p>The wealthiest country in the region, Chile is known for being ahead of the curve in adopting most new technologies in Latin America. In particular, this is visible in the country having the highes",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/31/chile-ev-sales-report-10-market-share-reached-in-april-thanks-to-247-growth/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-033",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Over 9,900 Electric Buses Operating In Latin America Now",
+    "summary": "<p>Much or most of the news about the electrification of transportation is about personal transportation: e-bikes, cars, SUVs, pickup trucks, and electric motorcycles. This focus makes sense because m",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/31/over-9900-electric-buses-operating-in-latin-america-now/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-034",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Have F1 Drivers Given The Ferrari Luce The Thumbs-Up But The Tifosi Won’t?",
+    "summary": "<p>The newly unveiled Ferrari Luce, the company&#8217;s first fully electric car, hasn&#8217;t quite captured the love of the tifosi. The $640,000 five-seater, designed by former Apple guru Jony Ive a",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/31/why-have-f1-drivers-give-the-ferrari-luce-the-thumbs-up-but-the-tifosi-wont/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-05-31-035",
+    "date": "2026-05-31",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Mustang Mach-E Cheaper than Ford Escape! (5-Year Total Cost of Ownership)",
+    "summary": "<p>The Ford Mustang Mach-E is clearly a superior vehicle to the Ford Escape. It&#8217;s got better tech, better driving quality, better acceleration, and a cooler look. However, it comes at a higher p",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/31/ford-mustang-mach-e-cheaper-than-ford-escape-5-year-total-cost-of-ownership/",
         "type": "rss"
       }
     ]
@@ -1272,6 +1984,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/05/30/is-spacex-tesla-100-gigawatt-year-us-solar-system-production-plan-realistic/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-05-30-052",
+    "date": "2026-05-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Could Build A Model 3 Plaid. That Doesn’t Mean It Will",
+    "summary": "Tesla’s top engineer says he thinks about a tri-motor Model 3 “all the time,” but the company’s priorities lie elsewhere.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/797308/tesla-model-3-podcast-catch/",
         "type": "rss"
       }
     ]

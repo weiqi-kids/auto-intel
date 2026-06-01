@@ -1,0 +1,242 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:46:13.590075Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-06-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ford F-150 Customers Saved Almost $300 Per Month By Leasing In Q1 2026",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/06/ford-f-150-customers-saved-almost-300-per-month-by-leasing-in-q1-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-06-01-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-06-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Abandons Maverick Thunder Trademark",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/06/ford-abandons-maverick-thunder-trademark/"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-06-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Says Robots Are Now Driving Trucks Around Michigan Proving Grounds",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/06/ford-says-robots-are-now-driving-trucks-around-michigan-proving-grounds/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump Admin Wants More U.S. Auto Content In USMCA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_tariff_trade",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/06/trump-admin-wants-more-u-s-auto-content-in-usmca/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 1
+      },
+      {
+        "id": "honda",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "auto_tariff_trade",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 145,
+    "dup_title": 48,
+    "too_old": 8,
+    "gate1_blocked": 31,
+    "gate2_blocked": 19,
+    "passed": 39,
+    "pass_rate": "40.2%",
+    "gate2_block_rate": "19.6%",
+    "gate2_samples": [
+      "Ford Ranger Will Battle Nissan Frontier Derived Mitsubishi Pickup",
+      "Lifted 1993 Ford Explorer Limited Heading To Auction",
+      "Henry Ford's Fordlandia Set For Restoration After Court Ruling",
+      "Ford Hasn't Decided Where It Wants To Build Its Future Crossovers",
+      "NFL Quarterback Joe Burrow's Custom 2022 Ford Bronco Heading To Auction"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Ford、特斯拉、BYD相關動態：「Ford F-150 Customers Saved Almost $300 Per Month By Leasi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford F-150 Customers Saved Almost $300 Per Month By Leasing In Q1 2026（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "BYD will pay for crashes on its FSD competitor, something Tesla never has（電動車滲透率）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
