@@ -1,0 +1,16 @@
+{
+  "total_raw": 707,
+  "dup_title": 287,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 24,
+  "gate2_fail": 56,
+  "passed": 168,
+  "gate2_samples": [
+    "Should Nippon Steel’s Rejection of an Outside-Led Subsidiary Review Committee Require Action From Ni",
+    "ArcelorMittal Nippon Steel India Secures First PM-SETU Approval for Visakhapatnam ITI Cluster in And",
+    "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+    "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+    "Vols to Face NC State in Dec. 6 Contest at Bridgestone Arena - University of Tennessee Athletics"
+  ]
+}
