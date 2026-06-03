@@ -1,0 +1,298 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:46:18.560746Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-06-03-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "1979 Lincoln Continental With 85 Miles Reappears After Three Years - Ford Authority",
+      "companies": [
+        "continental",
+        "ford"
+      ],
+      "related": {
+        "customers": [
+          "ford"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkdfV2hUQ0pHekdSQktmT2hrUmE1QWVUdndpN3VCaVVCZ3BORV9sZ25BWWxtRF9LYVIzNGR0ZFJ1ZXcwOThxWEZqcDFwQ1M3N3RJQUFBaks3YXJqdHJBZU03YXdoc1VCcG5yLTF1VTIxYi1saDhkcnFjaHR5QWZsVHBibjhvT2lfTElXNy1vZXk2VzRwcVdvRjV2UU92a3pqZGI0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-06-03-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Emerges as Next Robotics Beneficiary After 105% Rally - Seoul Economic Daily",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUdfNWdnb1Q1cE1la1RFUFNnWnpjSEctUW14Vy1SWGp2S0JMX09MdkhtWEI0dUlrUTFhSVVsWnJ5bXRxSjE2VnNvS0J5X3RRT1JGQ3Yzb0NpUVY0UFZRVjROVDhreDZLWFRuUDJoNlYyWFUxVHBYQ3NUWHhhaFU3Z2dXUWFncjF2dWwwcWtzcnNpazJrUGR3OHVYeUdURk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_mobis-2026-06-03-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Lee Seung-hyun, who plays a key role in Ulsan Hyundai Mobis and the Korean national agricultural tea.. - 매일경제",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FaUJyVkVpenpKOVJ5NzNtcm0zbnVJWmJZdzdvR1YtQ19tc0JHT1ExWmNMUGhubjVyNTJ2RFJOZ3RlellyS3NnUkxIam9KSTVO?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIPPON KINZOKU Launches Sample Supply of Polished Capillary Tubes - World Business Outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWlsQ1F1d3Fvc2tmcFZneFFOalVEYjQ0bXhCcldFNzEtMl9RMFJGU0F6bE83RGtIeS1yYzdEbE9FNjhwcVUzaFVLS0JDODRUREpxaXVMdGk4MkNobkk4YkMxeTk4YUtPdDdKYWplclFNX0JWVVU1eWFlMl9fczNMZ0RJMEF0X0c5WWJOTDRzZ1FmamZ4ZG5PZzJNenI1c2N2?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-06-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing ArcelorMittal (ENXTAM:MT) Valuation After Q1 2026 Earnings Beat And Capacity Expansion Plans - simplywall.st",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVnVZQVk0OF9XLTZVNlRHUXFDUkpxYVBJbklYSER3bzBFY2V3TG9kaDZtSm96bXBUQzBoeUtmeHVCWXhzZkZBd09PQ09yc3BNOFlEYUpjbHB6RkhSQjRwVDdpNFNpQnE2bC11d1ctSXJ3NkwtVXZGS2RKZE1zcl9pQ25jc0w0SzByblZaX21YQXdvZ1M2ZFFDYTJTd3pxZ3lvdUVzWUVWcUlaaURHelMxNVVzOVg5Mm9OeXB0WlFfOFQ2alFGdC1faHFQSW1oR0F40gHWAUFVX3lxTE1BOFlOdjdlUlZQOUJ0c3NVLXJ0aE5UMjNnMlVtZXFqTVhzZ3VtaXkzUUF3LTJFdzhmTkF3dFU5ZVFhOGJzaWg0V0pqYm1ILVR5eDZINDlHUDFlZ1I3TjNuTktBR29nNUM5TFZjWGZSV19ROUMycmR1U056eTJLNnNZejY5cFljeks5RktGVkVabnVxaExOeHRxd2tudUx1NkJZWDJlblRGYkxBZTJpeUtCQUhfUGwyd3NlSFBfMlg5UWVoeXV4OXlJMUZIU1pYNnEzTENLSHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 58,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 55,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "auto_sales",
+        "count": 8
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 704,
+    "dup_title": 319,
+    "too_old": 162,
+    "gate1_blocked": 37,
+    "gate2_blocked": 63,
+    "passed": 123,
+    "pass_rate": "31.9%",
+    "gate2_block_rate": "16.4%",
+    "gate2_samples": [
+      "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+      "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+      "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+      "ArcelorMittal Picks Macon for $107M HQ Project - CommercialSearch",
+      "ArcelorMittal stock hits 52-week high, reaching 71.48 USD - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 58 則事件，焦點為Ford、Hyundai Motor、斯泰蘭蒂斯相關動態：「1979 Lincoln Continental With 85 Miles Reappears After Th...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "1979 Lincoln Continental With 85 Miles Reappears After Three Years - Ford Aut...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Emerges as Next Robotics Beneficiary After 105% Rally - Seoul E...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 319,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 37,
+  "gate2_fail": 63,
+  "passed": 123,
+  "gate2_samples": [
+    "S&P Keeps Nippon Steel At BBB, But Stays Cautious - Finimize",
+    "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+    "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+    "ArcelorMittal Picks Macon for $107M HQ Project - CommercialSearch",
+    "ArcelorMittal stock hits 52-week high, reaching 71.48 USD - Investing.com"
+  ]
+}
