@@ -1,0 +1,269 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:20:00.122827Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gm-2026-06-04-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Magna Earns Five 2025 GM Supplier Of The Year Awards - Canadian Plastics",
+      "companies": [
+        "gm",
+        "magna"
+      ],
+      "related": {
+        "customers": [
+          "gm"
+        ],
+        "suppliers": [
+          "magna"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGc5N0RZR3hJSEg3S3Z6ZFlaR0NQMGRqZXdRa2VlM3cwUnEtNkdjWjU0RGdUc3pvczdTWHFVQnctVjZXbUw3TU8yUWpyQVJRQ3hNeUNGdXFyOTBkdXFfQllxOXBRb1JwRTFhQy1GYlFDZk0xY1Z0b2FvMkhXV1V2cUF1MmtvUENIQU12a3JLX0Y0b04tVEc3enpvZG9QZnRKUDItZS1RZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-06-04-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Official] 'Veteran shooter' Bae Byung-jun leaves LG for Hyundai Mobis... Deadline for KBL FA intent-to-sign applications closes - starnewskorea.com",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fdnprYV9JVjh6Q3d4TW1UOWcxaEVuc2N6b1hKN3RfeUljTU02Z3lTWnJNcG9lR0RBZklpWEZ6cEhwVEZta1czN2kyQjdGa3FnQWxrTnlmZ3o4UHEtdzYwNW9XdFU1OUtrQ0MxMDUwcG9fZzluZU5VMnRB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-06-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain turns gully cricket into glass test - Campaign India",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVpjcDQ4U3VvQ3FWZ2FBQ3hpNVFaMm8tQ2ZkWS1HQy1HbUVqZnZiTWVxdG93MzJidXBYZjhUSS15VnptNUtIZzFBeXRBSk5RdmxmQUtoRjJXRWJXMVcwajM4RUl5bm5vS1ZDRVNQeFBKUFc1VFN0VXlCTE5mNW9KQXRNVUpCWGpSQVQtQmFQWlZrOUprTEx2Y2xWWVptUFZGaDJTXzg5WGhlQm5YeFFUa29B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-06-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Lincoln Continental Coach Door Edition Is A Future Classic You Can Buy Today - CarBuzz",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UNkQ3NG16VmpDMzNHeWp3LVVaQ1FCVUNyOUd0ZUtOajdGSnBBanN1WnhzVUpTVS1yR2ZqYlpmSnlkTHhKZm1CbW5uNHBtWVlRTkcta1dXNzh1bUZMcTlmZlZiMUxnWG5wM21VYlVBVFo4bVNIZHNVbHFsa1ZXM0U?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-06-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IHCL opens first Taj branded hotel in Continental Europe - latteluxurynews.com",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzZwSV9QTVlaUlU4R0k0VVNMT2NQWlBrWjZqbUpBdUdtalNUVkhfSDhHTnVfRW1WeUtGN3RHeUFqdk1kRXhpVmI5QVJ2MzlyQ3RZTjVvRFRPbWdSSmlKZmJtdmpGSmd5NE8yZEFKZHZueUlENkdVY1NteXhtelEzNUVvOENfUHpfbTFN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 58,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 53,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 13
+      },
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "continental",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 713,
+    "dup_title": 319,
+    "too_old": 172,
+    "gate1_blocked": 37,
+    "gate2_blocked": 53,
+    "passed": 132,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+      "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+      "ArcelorMittal Picks Macon for $107M HQ Project - CommercialSearch",
+      "Vols to Face NC State in Dec. 6 Contest at Bridgestone Arena - University of Tennessee Athletics",
+      "Nashville Predators introduce GM Chris MacFarland at Bridgestone Arena - Yahoo Sports"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 58 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「Magna Earns Five 2025 GM Supplier Of The Year Awards - Ca...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Magna Earns Five 2025 GM Supplier Of The Year Awards - Canadian Plastics（財報）",
+        "level": "red"
+      },
+      {
+        "text": "[Official] 'Veteran shooter' Bae Byung-jun leaves LG for Hyundai Mobis... Dea...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

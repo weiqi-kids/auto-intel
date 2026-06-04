@@ -1,0 +1,16 @@
+{
+  "total_raw": 713,
+  "dup_title": 319,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 37,
+  "gate2_fail": 53,
+  "passed": 132,
+  "gate2_samples": [
+    "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+    "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+    "ArcelorMittal Picks Macon for $107M HQ Project - CommercialSearch",
+    "Vols to Face NC State in Dec. 6 Contest at Bridgestone Arena - University of Tennessee Athletics",
+    "Nashville Predators introduce GM Chris MacFarland at Bridgestone Arena - Yahoo Sports"
+  ]
+}
