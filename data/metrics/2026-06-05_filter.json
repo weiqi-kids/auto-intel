@@ -1,0 +1,16 @@
+{
+  "total_raw": 711,
+  "dup_title": 318,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 43,
+  "gate2_fail": 56,
+  "passed": 129,
+  "gate2_samples": [
+    "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+    "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+    "ArcelorMittal Picks Macon for $107M HQ Project - CommercialSearch",
+    "Girls Flag Leadership Summit presented by Bridgestone - Tennessee Titans",
+    "Vols to Face NC State in Dec. 6 Contest at Bridgestone Arena - University of Tennessee Athletics"
+  ]
+}
