@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-06",
+  "date_range": {
+    "start": "2026-05-31",
+    "end": "2026-06-06"
+  },
+  "generated_at": "2026-06-06T10:09:58.600235Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "posco-2026-06-01-020",
+      "date": "2026-06-01",
+      "title": "Posco, Hyundai Steel management and unions begin wage negotiations under 'Yellow Envelope' law - Korea JoongAng Daily",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hyundai",
+      "company_b": "posco",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 190,
+      "last_week": 172,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 98,
+      "last_week": 107,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.04
+    },
+    "auto_sales": {
+      "this_week": 15,
+      "last_week": 10,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.07
+    },
+    "ev_penetration": {
+      "this_week": 28,
+      "last_week": 20,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.02
+    },
+    "auto_tariff_trade": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.38
+    }
+  },
+  "company_7d_summary": {
+    "continental": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ford": {
+      "event_count": 55,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "hyundai": {
+      "event_count": 28,
+      "sentiment_avg": -0.02,
+      "rank": 2
+    },
+    "stellantis": {
+      "event_count": 25,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "tesla": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "honda": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "arcelormittal": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 10
+    },
+    "nippon_steel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "magna": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hyundai_mobis": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "valeo": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 17
+    },
+    "toyota": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "volkswagen": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 8
+    },
+    "saint_gobain": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "gm": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 14
+    },
+    "bridgestone": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 682,
+        "last": 709,
+        "change_pct": -3.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-31",
+      "event_count": 43,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 125,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 120,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 134,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 139,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 100,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-31 ~ 2026-06-06）共 682 則事件，重點為「Posco, Hyundai Steel management and unions begi...」。安賽樂米塔爾、GM表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Ford",
+        "reason": "本週出現 55 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 28 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
