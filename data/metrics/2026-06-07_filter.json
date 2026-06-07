@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 395,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 29,
+  "gate2_fail": 44,
+  "passed": 71,
+  "gate2_samples": [
+    "POSCO Group Holds 'Global Volunteer Week' in 23 Countries with 24,000 Employees Participating - 아시아경",
+    "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+    "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+    "ArcelorMittal | Steel producer, Mining, Manufacturing | Britannica Money - Britannica",
+    "Top-5 shots from Round 3 at Bridgestone SENIOR PLAYERS - PGA Tour"
+  ]
+}

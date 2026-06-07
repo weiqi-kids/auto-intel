@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:33:40.415445Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-07-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "1st-quarter dealership buy-sells soar with California leading states, Chevrolet most-traded brand - Automotive News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY2RBZEhENWctVC0wWVB5aklyT1loRlRiWlZFSzVjMFBZQWQ4Tk9maF9GTnVSTzFTb21qSzBrQUJ3LXBlUmY2eFdnUDVWVGFlc0ZQbXFqRHUwbUx1akxUWXRlQ2R3ZDNpdVhJenh3RTJLRkdLdmFwTW91SXdfam9lX0U2dzE3UHd1NFlTd2lrOEk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-06-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "World's largest car manufacturer closes factory with 1,500 employees in Brazil: Toyota shuts down unit that produced over 1 million vehicles and prepares investment of R$ 11 billion - CPG Click Petróleo e Gás",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMEZndGFyNTR6dHU5OUx6dmRNUVZVS0cyU1BjUnJTc0p4cFRzVXNrQm8yQ3VRR2VBRXNGbmVCbEd0Nzh5alpHWFp2ZzhEQS1kUnBwN1hIbEZQSHFkekVKWEFEZ2p3Z002bDNQLWhGRWJ5UlkyMWJXY2NKMWVhYjl6M1o3aldxTnVjZ0poa0w3c1BsQnBoQVd6S2kzZWFRUFFZSVg1cWhYdFl6ZzB4OGI4SVV1SmlLZlVoWHptbWljUFg3SnhPdW5YNFB4V2gydFU0Wk9BQmJLZVJLUUxXN285bjBFaEFrODNCYWRYWENaVUxYWEd2SEk2ZUJuNG1RNC13ZzFYbWdvdmJHY1BpdzZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-06-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ford Bronco Filson Launch Links Lifestyle Push With Valuation Questions - Yahoo Finance",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdlpvTlhGcmxQcl9nOGs1eGNRSXhnbWo5cUV0ZEt3QlVkQjR6RXJMVl9lUl9IYUUzSXc3Y2ZCa3BNTERKMjF3bmZjdFFuZ2ZiNklJOTFZeDdfVUZtcEdVWWRzTFpNM0RTTHEwZjlEbWpHSlJGQURETFk3d2xkQ1h4ZXlLbzdVbkV5OTdzeC1rb1NScGNDclhraUJKM04?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-06-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NVIDIA CEO Meets Hyundai Motor Group Chairman Over Lunch - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajkxZWJfVVpYd0ZnN2NSdFVMejEtSXBVMGJlYTlSTXNCc21va1kyUnljOVFCQ2Vzb3hfb3RaNjVuY053cFZCeDhyTGRpaGI0b2E3STM0dGEzR1ZobFdsWmdVTDlJd3BDQUt5R1BrNDdhcDZXVEl4ZHJQZmFyRlo4azVHV1hFRVRu?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-06-07-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nvidia’s Huang deepens Korea auto ties with Hyundai’s Chung ahead HQ talks - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmFyZjFCSjZJdy1IS3hqWTJKRVF6amVJeVo5YVpicEdnZkcxMUl5bkFwTmo3LUlvM082cmV5T1lNQkZPUXhSamstVFA3eHlSNWlWSGJzZ1hfWjRHdnlVdUotTWpuOElWS1ZtSVJ6TE1BMkxhVEhjcEZWWVE3MXNDMUpB0gGWAUFVX3lxTFAwWGUxdkR6Sm84TzlGMkVfMHQ1UGVvaGRsdmUxZEw3eGhDTTlwQ3N5UllMbUhNTG1ac0xleWc5ZnhZU3JzT2NJQUI5dnMzMHV6TnloeUV4UEZxODYyNER4YUhKRnRZcXJ0RTRKcUstZVNDRC1JX3RDM1Q5VWRzWHdRQU50SzBwcGtvcVNHSHhEX1B3NXNnQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "posco",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 395,
+    "too_old": 169,
+    "gate1_blocked": 29,
+    "gate2_blocked": 44,
+    "passed": 71,
+    "pass_rate": "22.7%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "POSCO Group Holds 'Global Volunteer Week' in 23 Countries with 24,000 Employees Participating - 아시아경",
+      "Dataiku and POSCO drive Korea steel AI with field-data hackathon - CHOSUNBIZ - Chosunbiz",
+      "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+      "ArcelorMittal | Steel producer, Mining, Manufacturing | Britannica Money - Britannica",
+      "Top-5 shots from Round 3 at Bridgestone SENIOR PLAYERS - PGA Tour"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Ford、大陸集團、Hyundai Motor相關動態：「1st-quarter dealership buy-sells soar with California lea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "1st-quarter dealership buy-sells soar with California leading states, Chevrol...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "World's largest car manufacturer closes factory with 1,500 employees in Brazi...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
