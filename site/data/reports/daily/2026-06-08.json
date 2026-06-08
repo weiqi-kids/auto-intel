@@ -1,0 +1,259 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:38:32.765637Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-06-08-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "S Santhana Krishnan Joins ArcelorMittal Nippon Steel India as Head of Procurement - hrtoday.in",
+      "companies": [
+        "arcelormittal",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanNqWHNBY3FEVkJTSTRiaVplTHZHZkpkTnpXY3dJc1BLZl9SMDFZZFV3QmcwdDNCNmQ3VVBnMC10RzNJNE1sbDJmcVBERkZMQ1RBdndibVR4aVdKMzZudS1aUC1UVzBITk1UcVVkRGtiSFVDMnItOUkzb0g0YXNvbmljZmRZbjBHcUpXV19rY2YxNU15bnR2NlVMLVNXVU5rX1Bz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-06-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings (ADR) stock (KR7005490008): earnings momentum and battery metals story attract attent - AD HOC NEWS",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDYxVGttNnczVE9rRE1nVUxxQXF5YjM5c1pEQzlEZzBkZ1NyamI2ZW9YZllYSUUza01rVDgxN0F4ZU9vLVN1Rm5ydC1FYnlXUXdHMENWRGJobmlzMlFRbGtiSVBNRzlta29NeE44SFd2aWRId3RnSjdiMVJQX1E1eHNNQ1FPcHNTU21xTk1ONnNOSzVMT2pCbHhiVGtzdzdMcjFCUmd3VWhQR0tmNkVwdmJDRUhvV1F3NGgxLTdCeXhsaUow?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-06-08-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TD Asset Management Inc Grows Stake in Ford Motor Company $F - MarketBeat",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc244ZFZVYnFGYmdBR3ZsbTFSVnBLbTBLLTJ1UHp3bnZsZjd4UHIxdFRUX2gxell4Y3djRVlIdkNsdjRBc0ZGaXBlQ3pvdnJMNGRrVU9BV19aU3M2ZHhzX3ltVHdFUWl3dHFLSGZQeEF4SkQ0b2ZJQ1hudEJCUjFfRjBzZzRobHo3MXZpQ0JjSThWZEVWbkUwbWJYNnFXQ0t0cmFZa1JMM3JuRlpnMUs1SllYMjBfTW5RVlREOQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-06-08-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wells Fargo Maintains Ford Motor(F.US) With Sell Rating, Maintains Target Price $10 - Moomoo",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObzU2b2Y2OUZDRjBGRVlrTTR4TEdSMEs2SU4tenZQaUpPeUQ4MUtxQ1dkNDlqeWRUNTMtU290NW96TkZBWTBoVlIyTzNMVGdhcWMweGp2a2lPSkxYMjVoYUZDQ0NiTHJ1aUZlUTdDbWVzUTJmYmt6dUFBQXFqRHVxRXd3ei0tbmRxX0FnSzl5SWZVWUE4WFp6dkdVTlQxNjVLdlVoVV9uVjc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-06-08-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The 2026 Ford F-150 Tremor V8 Has 400 HP and 410 lb-ft. Roush Now Gives You 705 HP and 635 lb-ft! - autoevolution",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONm9UVlBoTGoxR3R2YU5GR2tCZG42UmV4U1EzLU9JYzZCdHpOSFFnQ3RJTFpGcnhLSzlEM2NrZU5STTJidGtrNlhQTjI2bi0wTTg5NWhsVVRkd2xIVnh6SF85VGRiY1FxWHZrVzRGd1BtV1VrSUt6RFFsWHhpUkxTRjlPZzY1WXlOWUZaNFMxZkt2WW53RFRYeDg2S055MWhSRkU1Mkk5bGROZ2pQMmZ5TnlDSzVpbXFGdFFUMjJiQUFmOGV5SVNTUkFqZnAtMjM1VEQxMEhCTGZlZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 49,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      },
+      {
+        "id": "posco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 42
+      },
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 370,
+    "too_old": 182,
+    "gate1_blocked": 26,
+    "gate2_blocked": 48,
+    "passed": 79,
+    "pass_rate": "23.6%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+      "Top-5 shots from Round 3 at Bridgestone SENIOR PLAYERS - PGA Tour",
+      "10 Bridgestone Ave Unit C1010, Conyers, GA 30013 - Realtor.com",
+      "Chris Gotterup WITB 2026: A Ping, TaylorMade and Bridgestone mix up! - Yahoo Sports",
+      "Tangible book value per share of Fuyao Glass Industry Group Co., Ltd. Class H – SWB:4FG - TradingVie"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為Hyundai Motor、Ford、大陸集團相關動態：「S Santhana Krishnan Joins ArcelorMittal Nippon Steel Indi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "S Santhana Krishnan Joins ArcelorMittal Nippon Steel India as Head of Procure...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "POSCO Holdings (ADR) stock (KR7005490008): earnings momentum and battery meta...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

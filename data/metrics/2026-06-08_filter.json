@@ -1,0 +1,16 @@
+{
+  "total_raw": 705,
+  "dup_title": 370,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 26,
+  "gate2_fail": 48,
+  "passed": 79,
+  "gate2_samples": [
+    "ArcelorMittal Building Solutions Brings North American HQ to Macon-Bibb - Georgia Economic Developme",
+    "Top-5 shots from Round 3 at Bridgestone SENIOR PLAYERS - PGA Tour",
+    "10 Bridgestone Ave Unit C1010, Conyers, GA 30013 - Realtor.com",
+    "Chris Gotterup WITB 2026: A Ping, TaylorMade and Bridgestone mix up! - Yahoo Sports",
+    "Tangible book value per share of Fuyao Glass Industry Group Co., Ltd. Class H – SWB:4FG - TradingVie"
+  ]
+}
