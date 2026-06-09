@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 296,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 33,
+  "gate2_fail": 49,
+  "passed": 131,
+  "gate2_samples": [
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize",
+    "ArcelorMittal Shares Take a Breather After Nearly 120% Annual Rally - Idéal Investisseur",
+    "Chris Gotterup WITB 2026: A Ping, TaylorMade and Bridgestone mix up! - Yahoo Sports",
+    "FUYAO GLASS (03606.HK) Completes Issuance of RMB500M Medium-Term Notes - AASTOCKS.com"
+  ]
+}
