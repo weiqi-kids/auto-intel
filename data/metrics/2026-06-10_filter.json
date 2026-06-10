@@ -1,0 +1,16 @@
+{
+  "total_raw": 709,
+  "dup_title": 293,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 32,
+  "gate2_fail": 42,
+  "passed": 165,
+  "gate2_samples": [
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize",
+    "Ernie Els birdies No. 11 in Round 4 at Bridgestone SENIOR PLAYERS - PGA Tour",
+    "How Bridgestone Golf Changed The Way Golfers Choose A Ball - Athlon Sports",
+    "Chris Gotterup WITB 2026: A Ping, TaylorMade and Bridgestone mix up! - Yahoo Sports"
+  ]
+}
