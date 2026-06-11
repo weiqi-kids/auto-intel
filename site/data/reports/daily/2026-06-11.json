@@ -1,0 +1,293 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:14:18.593538Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-06-11-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "POSCO and Hyundai Motor Company to Develop Next-Generation Electrical Steel - 매일경제",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Q3VuQ3kwRmc4SXhQdzVWWXlOaXN6bUJTT1gtb1BiXzQtbmZ3ZXBUQ0NvX3Y3QUxxRGlHZUkzcC1JMFZrX1BQbXZqN2lsNVcwN1lR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-06-11-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD Wants To Outsell Toyota In Five Years While Its China Sales Just Fell 29% - Carscoops",
+      "companies": [
+        "toyota",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjBJdkVNQnpZc1gwM2Nzd2NRRVJ5OFk2VGhWVHk3cmRtM3dpcHFfUDA2MU54LUJPRXlWWkFuamZCWHNlZDE1b2xnTU1hcURHY2JDY2lLcV9vT1hUVXRpQmhtMTl2YVZlYUREUlQ2cTJkOHJYMmVrZUw1cGFTbnJ0YnlwRXdnc1BweE9oMkluN0JkSkdVOFd2RHl3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-06-11-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Posco and Hyundai Motor drive Korea EV gains with high-silicon electrical steel - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGVXandfXzREV1pYVTJLSFFZMDNvR2NyRUZlNGpRdXNUOUhzOW1aY1Zrd3BhOHFNa2stQmVaUFo0NUFNWGJEUGcybGR2cExnY0ZFd0RLR3RkdjRrSjNBUVVkNkk0TnBuUVhOUmtCSlB6cVV5M00yakN2cVpXZktsX19R0gGWAUFVX3lxTE1IekNkVFYybmt2TTlhTFRVdnQ5WGRDcU1XRWg1MldIQXBpQlRZOUwyOU9BRUxWWFVmMEJ1cDYyYUJpb3A0SFZla0U5NFlVZ1JJQmcwVDV5NWtfYUwxcDJNYXZ6MXk5QUZRZWFoY3RMZDFsank1NHk3Rzc5b2hCYUttcnhtODc0QmxoRmY3UlNsYWVEVlVpQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-06-11-065",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "EVs At 35.2% Share In The UK – Tesla Leading BEV Brand",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/11/evs-at-35-2-share-in-the-uk-tesla-leading-bev-brand/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "United Steelworkers set to begin master contract talks with Nippon-owned U.S. Steel - The Labor Tribune",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalQwanJiQm9lbG5kNFNCSV80M09xYTlnekpfRml4WU9zdW1Zc2daYmRkX09faUQ4aGRqY3ZmMWNtTzR6bGM2X1BSSWdlcGl2SmVDa2FNVHU0WC1Ba2pOdURvckY0YTU2QkI4MDFhUE0zekdXWEcycnE3ZHhWamItUENvRElCV2NvZXZuSkpuT05XNUR3NWF4V2NzclRZVVRsbWFLRUtNR3oxTl95?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "toyota",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 71,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 66,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "honda",
+        "count": 4
+      },
+      {
+        "id": "posco",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "earnings",
+        "count": 34
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "auto_tariff_trade",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 713,
+    "dup_title": 307,
+    "too_old": 166,
+    "gate1_blocked": 35,
+    "gate2_blocked": 50,
+    "passed": 155,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+      "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+      "POSCO Develops Next-Generation Electrical Steel to Boost xEV Efficiency - Seoul Economic Daily",
+      "Hyundai Steel seeks strike rights as POSCO opens wage talks in South Korea - CHOSUNBIZ - Chosunbiz",
+      "POSCO Develops High-Efficiency Electrical Steel Sheets to Improve EV Energy Efficiency - 아시아경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 71 則事件，焦點為Hyundai Motor、Ford、BYD相關動態：「POSCO and Hyundai Motor Company to Develop Next-Generatio...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "POSCO and Hyundai Motor Company to Develop Next-Generation Electrical Steel -...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "BYD Wants To Outsell Toyota In Five Years While Its China Sales Just Fell 29%...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

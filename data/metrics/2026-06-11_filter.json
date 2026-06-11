@@ -1,0 +1,16 @@
+{
+  "total_raw": 713,
+  "dup_title": 307,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 35,
+  "gate2_fail": 50,
+  "passed": 155,
+  "gate2_samples": [
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "POSCO Develops Next-Generation Electrical Steel to Boost xEV Efficiency - Seoul Economic Daily",
+    "Hyundai Steel seeks strike rights as POSCO opens wage talks in South Korea - CHOSUNBIZ - Chosunbiz",
+    "POSCO Develops High-Efficiency Electrical Steel Sheets to Improve EV Energy Efficiency - 아시아경제"
+  ]
+}
