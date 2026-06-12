@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-12",
+  "total_events": 49,
+  "by_company": {
+    "arcelormittal": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "3m": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "gm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 19,
+      "sentiment_avg": 0.05
+    },
+    "industry_general": {
+      "count": 39,
+      "sentiment_avg": 0.05
+    },
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

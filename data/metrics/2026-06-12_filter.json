@@ -1,0 +1,16 @@
+{
+  "total_raw": 710,
+  "dup_title": 320,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 37,
+  "gate2_fail": 57,
+  "passed": 129,
+  "gate2_samples": [
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Howard Lutnick, commerce secretary, talks U.S. Steel and \"golden share\" - CBS News",
+    "POSCO Holdings: Initiation Of Coverage- A Powerful Lithium Recovery Story With Steel Margin Pressure",
+    "Hyundai Steel seeks strike rights as POSCO opens wage talks in South Korea - CHOSUNBIZ - Chosunbiz"
+  ]
+}
