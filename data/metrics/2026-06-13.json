@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-13",
+  "total_events": 20,
+  "by_company": {
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "ev_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": 0.0
+    },
+    "auto_tariff_trade": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

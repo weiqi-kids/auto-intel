@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-12T11:47:31.710157Z",
-  "quarter": "2025-03-31, 2025-09-30, 2025-12-31",
+  "updated_at": "2026-06-13T10:34:05.549859Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "3m",
@@ -126,17 +126,17 @@
       "name": "電裝",
       "ticker": "6902.T",
       "currency": "JPY",
-      "ar": 1242986000000,
-      "ar_prev": 1144156000000,
-      "ar_qoq": "+9%",
+      "ar": 1412240000000,
+      "ar_prev": 1242986000000,
+      "ar_qoq": "+14%",
       "ar_period": "QoQ",
-      "inventory": 1203066000000,
-      "inv_prev": 1185625000000,
-      "inv_qoq": "+1%",
+      "inventory": 1336844000000,
+      "inv_prev": 1203066000000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-03-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ford",
