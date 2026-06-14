@@ -1,0 +1,16 @@
+{
+  "total_raw": 687,
+  "dup_title": 366,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 39,
+  "gate2_fail": 44,
+  "passed": 54,
+  "gate2_samples": [
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Robot Stands by the Blast Furnace, AI Sits in the Control Room... POSCO Rewrites the Rules of Steelm",
+    "Hyundai Steel seeks strike rights as POSCO opens wage talks in South Korea - CHOSUNBIZ - Chosunbiz",
+    "ArcelorMittal: Steel Import Controls Are A Massive Tailwind - Seeking Alpha"
+  ]
+}
