@@ -1,0 +1,283 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T14:29:04.284316Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-06-15-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Flagship tech focus: Hyundai Mobis M Vision X points to the car cabin of 2030 - AD HOC NEWS",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdURFMmluYWdNNmxjSzZ1TWJ4NDR5alhGSTF5enZnYm9tVnk1NzI5MkhqZXI2dWFVYnJkRXJRLTl2SUJUV3dfaWtnUm1EeVFMX2FEdE1QQ2xqUXVvLTVWdE5pZWVwLWVfdWFEWGZ0elVLS0U0em5uWjA2M2xKdGt4cjRiMFIzaTdrSWJMQ0g5aUp4eW4xTzZ3ekUzNUR3eDRKU3hNdkZnMnFBQkJ6ODg3dEY2eTFwcVkzODhhVVRsNG51Tkd6MmdhNlZ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "volkswagen-2026-06-15-040",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "VW, Stellantis, Renault seek EU support for local sourcing – report - Just Auto",
+      "companies": [
+        "volkswagen",
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWV9jSERVbHhCZWd1RXpoVDZyYmUwREpQODZTakNVNUlSQW0xb1pYbjN6bmJKOUx1Rk4yTm80UDdVdlRqT1VFb0ZHZjA2LWZRVmFEbVN4NlRHdjFhYmx4OFhTVElSRnR2ZHQzd00xQ25EVURBT3NIMWJwWmxxOGVfSjVoSGhydw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-06-15-060",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Canada Considers Chinese EV Import Quotas as BYD, Tesla, and Chinese Automakers Expand Globally Amid 40% Export Surge - EVTech.News",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXZRNDJaQWdNdjkzbi1jUVNYd1hYeXBMTDZwS1dHNFJ4WTFTUFFNcTgwTk1La3I1eVFMb20wSU8yNnhFeU5ZWDA0dTVncFZza3ZaMC1Sc2UxVHJQempoWGNIN19lc3RpS2N6TEpjNnJmODZRLXpPLWVtZXI1VWt1WEIyc29RUUVsekVFRUJDR1ZLZVpienZJMWRxa29JSnJlQ2U1SWlXeDdsTmY3czJWWldIUnVpNzFXU19tMjRsUmIzM0ZrdHo1UDh4UTlhUWltX0FvUlVKRUJoM1A0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-15-052",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Chinese vehicle sales decline 2% in May - Just Auto",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YRXJSelZJb0toaDkyUU5rVWdWZ1BvSkkyd0pocGJING1SNW43N1FfcEpOU0tkOGZ0N0wxSXh6SDV2Z0JabE9xN282aVA3ZlNDTTB5bjhSaDVVdjRpTGJfcFhnMEQ2WUV2c2luT2dzSEQ2anl6Z2VGU1RB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-06-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain Shares Rise on $1.76 Billion Sale of Majority of Dahl Operations - WSJ",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3dIWFBRSWJBY0paSjdybTNpSlBwakxKb0FNeDRsWl9XYktEUWQxc01pY1h4YkZMRmp6bkM1WHRvOThMZ3Zya29oX3diYXZEMzBGRjhoMXJyYm84UUZXVjB3d3FkQ1BFQkg3TzB5WU1RbGtneWV5cVoxZ1BzVGdWOW43RkQ0eF96NjhnUkdDMDdOQ2FzMUx2YzIwN1kzeE9uRGozaW85VQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 52,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.42,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 75,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 69,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 10
+      },
+      {
+        "id": "saint_gobain",
+        "count": 8
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 52
+      },
+      {
+        "id": "earnings",
+        "count": 31
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 330,
+    "too_old": 166,
+    "gate1_blocked": 39,
+    "gate2_blocked": 51,
+    "passed": 115,
+    "pass_rate": "31.0%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+      "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+      "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize",
+      "POSCO Develops Next-Generation Electrical Steel to Boost xEV Efficiency - Seoul Economic Daily",
+      "POSCO Holdings: Initiation Of Coverage- A Powerful Lithium Recovery Story With Steel Margin Pressure"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 75 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「Flagship tech focus: Hyundai Mobis M Vision X points to t...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Flagship tech focus: Hyundai Mobis M Vision X points to the car cabin of 2030...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "VW, Stellantis, Renault seek EU support for local sourcing – report - Just Auto（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

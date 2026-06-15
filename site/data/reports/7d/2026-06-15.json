@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-15",
+  "date_range": {
+    "start": "2026-06-09",
+    "end": "2026-06-15"
+  },
+  "generated_at": "2026-06-15T14:29:04.448456Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "gm-2026-06-09-059",
+      "date": "2026-06-09",
+      "title": "Bridgestone Earns GM Supplier of the Year Award - Tire Review Magazine",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ford",
+      "company_b": "toyota",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "ford",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 168,
+      "last_week": 120,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 267,
+      "last_week": 220,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": 0.02
+    },
+    "auto_sales": {
+      "this_week": 9,
+      "last_week": 18,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.14
+    },
+    "ev_penetration": {
+      "this_week": 30,
+      "last_week": 25,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.17
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.1
+    },
+    "auto_tariff_trade": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "continental": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 6
+    },
+    "hyundai": {
+      "event_count": 59,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "byd": {
+      "event_count": 29,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "stellantis": {
+      "event_count": 33,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "honda": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "toyota": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "gm": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 8
+    },
+    "tesla": {
+      "event_count": 12,
+      "sentiment_avg": 0.21,
+      "rank": 7
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "bridgestone": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 13
+    },
+    "hyundai_mobis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "ford": {
+      "event_count": 46,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "volkswagen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "arcelormittal": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "magna": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "saint_gobain": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 743,
+        "last": 753,
+        "change_pct": -1.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-09",
+      "event_count": 145,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 162,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 146,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 119,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 47,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 49,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 75,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-09 ~ 2026-06-15）共 743 則事件，重點為「Bridgestone Earns GM Supplier of the Year Award...」。特斯拉表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nippon Steel",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 59 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

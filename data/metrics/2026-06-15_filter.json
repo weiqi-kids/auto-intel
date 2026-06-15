@@ -1,0 +1,16 @@
+{
+  "total_raw": 701,
+  "dup_title": 330,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 39,
+  "gate2_fail": 51,
+  "passed": 115,
+  "gate2_samples": [
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+    "Nippon Steel to invest up to $2.5bn in U.S. Steel's Pennsylvania complex - Nikkei Asia",
+    "Nippon Steel Plans A Bigger Spend At US Steel’s Mon Valley Works - Finimize",
+    "POSCO Develops Next-Generation Electrical Steel to Boost xEV Efficiency - Seoul Economic Daily",
+    "POSCO Holdings: Initiation Of Coverage- A Powerful Lithium Recovery Story With Steel Margin Pressure"
+  ]
+}
