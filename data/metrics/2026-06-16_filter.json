@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 317,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 43,
+  "gate2_fail": 43,
+  "passed": 130,
+  "gate2_samples": [
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+    "Nippon Steel Invests Up to $2.5B in Pennsylvania Mill Upgrade - Thomasnet",
+    "ArcelorMittal Building Solutions to Set Up NA Headquarters and Manufacturing Facility - Machine Make",
+    "ArcelorMittal: Steel Import Controls Are A Massive Tailwind - Seeking Alpha",
+    "ATRACKSYST: ArcelorMittal Spain steel traceability project advances - EUROMETAL"
+  ]
+}
