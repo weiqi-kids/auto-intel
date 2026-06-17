@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-17",
+  "date_range": {
+    "start": "2026-06-11",
+    "end": "2026-06-17"
+  },
+  "generated_at": "2026-06-17T12:21:10.912060Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-06-11-004",
+      "date": "2026-06-11",
+      "title": "POSCO and Hyundai Motor Company to Develop Next-Generation Electrical Steel - 매일경제",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "gm",
+      "subject_type": "company",
+      "this_week_sentiment": -0.07,
+      "last_week_sentiment": 0.33,
+      "delta": -0.4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hyundai",
+      "company_b": "posco",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 270,
+      "last_week": 228,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.04
+    },
+    "earnings": {
+      "this_week": 157,
+      "last_week": 135,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.03
+    },
+    "ev_penetration": {
+      "this_week": 30,
+      "last_week": 26,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.13
+    },
+    "auto_tariff_trade": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "auto_sales": {
+      "this_week": 10,
+      "last_week": 12,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": -0.08
+    },
+    "guidance": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "hyundai": {
+      "event_count": 54,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "posco": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "bridgestone": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 14
+    },
+    "continental": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "toyota": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "byd": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 6
+    },
+    "ford": {
+      "event_count": 50,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 11,
+      "sentiment_avg": 0.23,
+      "rank": 7
+    },
+    "stellantis": {
+      "event_count": 32,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "honda": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "gm": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 11
+    },
+    "volkswagen": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 10
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "magna": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "saint_gobain": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hyundai_mobis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "cheng_shin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 701,
+        "last": 803,
+        "change_pct": -12.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-11",
+      "event_count": 146,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 121,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 47,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 51,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 143,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 132,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 61,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-11 ~ 2026-06-17）共 701 則事件，重點為「POSCO and Hyundai Motor Company to Develop Next...」。特斯拉表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 54 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Bridgestone",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

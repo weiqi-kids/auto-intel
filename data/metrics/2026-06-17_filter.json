@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 315,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 40,
+  "gate2_fail": 51,
+  "passed": 136,
+  "gate2_samples": [
+    "Michael Stelzig: Nippon Steel is Delivering. Upcoming Labor Talks Should Not Disturb This Momentum. ",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+    "POSCO builds Korea’s largest electric furnace to reignite sagging industry as K-Steel Act takes effe",
+    "POSCO Opens Korea’s Largest Electric Arc Furnace in Push for Greener Steel - Koreabizwire",
+    "ArcelorMittal: Steel Import Controls Are A Massive Tailwind - Seeking Alpha"
+  ]
+}
