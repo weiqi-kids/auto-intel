@@ -1,0 +1,271 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:54:16.872120Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-06-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel takeover - TribLIVE.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2djN4ZXl4V0tERDlxdDZVUkZzTTlwTlR1TTNxR2UyNlFsaU5oM19NbnA5c2F0STFoaWROTFBadzlweWxpeEd0VjRnTlQ4QU81MW9MUnVn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-06-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel forecasts steady growth in the US market - GMK Center",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdV8zV1VmTDZ0WjF3NVhnTVJod3FUc2Vyb2FaVTdrbGVDdjQzaFRaRHJ5Mngza215dm1lTS1tRHpaQllJT0hrV3lhWGZIVlFDUkNON1lMOXFQakFNd1Z0WlhFeEhqOVh0cXVQcEFNbzZVS1NuLVMwTENvdll5RUpwVmxlY1c4U2RW0gGOAUFVX3lxTE9fZWF4bTJqQ2VOYy1keThadEhmSEdvbkx2TFcxdDNsckdwWDhKQ2pEaGd5bXZsMi1ULXNCSnlGQzJnRXR2WkxzakhNY2hteFZCOHRDVGRWQ0RDTy1TV2l0UkltTHNmODItVUNKdFMtZnJ6Sm1BLWR2Z2xoTlI2T2F3dHJNSUFOUk1wZHVvZlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-06-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO accelerates low-carbon steel transition with Korea's largest electric arc furnace - The Korea Times",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHNKNXVpc1hHSDZuWkIyVTBLUEtjTk4tYUFiZ2JxbndkZDFLT3d2czRXRU55dUtfaHJiUlUtSjYza3RINC1GemtJX0stVTRSQmlFZTA3VTBFTWJzeEVLS3N1aHZWTndPNTBqb2p1ZVptb3VBQnFiWEZIS0lnOF90bkhRc0FXQXRfNUpLNmdBdHU1blI0c3Zyd2ZybURRSElib2xMNGJMcjh6VVo0XzdGYTB6MU5Na1JWN09XbXdxZXlmLUJGM3pKU0pZWTNnQ2hEdG9wZVA5TWdaSlHSAeABQVVfeXFMTjlXSGViOHd4SnFoTVMzdnRmbHBDaDM4Mmkwd0VPSVJfZUpieTBKOGNvcmRXOUg0LWVDMUJLUWJZTDBmYVpyVERqOGlUSU45dW84bWgwczZSWXNmZS1UM25XWlR5dDFpNVJ3R18zd0d3WEpMdHBBbGhHa3JIS3JlTUtGc3lOdjVRZzJseFVBRWdxSTJneFFEWVRsRXBjZzJ1SWxvOXdaZGJfaUgxc1hpcGRITTJWYlRzWEhfRHVKVkZHUzFNVnNRWEs0Vm9XcS0xMDZ1ZUI4QUJuYV80VlZwdUw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-06-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO completes Korea’s largest electric arc furnace - 매일경제",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uMXZ4aHF1UVREc2Y4RWVDQkctRV9oMDNXSWdMN0R0WWRtOHBsc2ExV0Q2ejJGLW9GdjVrYWpWQ2puRm0wQ1ZVMVU4d21QVHIwMWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-06-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO builds South Korea's largest electric arc furnace - Yieh Corp.",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUwyaDBzR3Bfb3VrZEZ0ZzhIMzl3YURlcDU3VkVHaUZsMFhfUlU3RTdoZ3UxY0FtbmpxUWtUWS1tZElUeWdlb2huNUpSdk1TMHkyNEVVTHgzMGFYX04weDNIQ0I0ZVQ3ZG4ycGthTTh3bnFFQVpaQzBwc1RwUk1uWExFdEg1cVhlYm0wZ0oyNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 60,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 6
+      },
+      {
+        "id": "posco",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "ford",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 711,
+    "dup_title": 290,
+    "too_old": 170,
+    "gate1_blocked": 48,
+    "gate2_blocked": 43,
+    "passed": 160,
+    "pass_rate": "38.0%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel takeover - TribLIVE.com",
+      "One year on, Nippon Steel tackles 90-year-old equipment at U.S. Steel - Nikkei Asia",
+      "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+      "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - TradingView",
+      "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、浦項鋼鐵相關動態：「A year later, U.S. Steel workers remain divided over bene...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nippon Steel forecasts steady growth in the US market - GMK Center（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

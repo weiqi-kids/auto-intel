@@ -1,0 +1,16 @@
+{
+  "total_raw": 711,
+  "dup_title": 290,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 48,
+  "gate2_fail": 43,
+  "passed": 160,
+  "gate2_samples": [
+    "A year later, U.S. Steel workers remain divided over benefit of Nippon Steel takeover - TribLIVE.com",
+    "One year on, Nippon Steel tackles 90-year-old equipment at U.S. Steel - Nikkei Asia",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - TradingView",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi"
+  ]
+}
