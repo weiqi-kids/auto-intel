@@ -1,0 +1,239 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:12:06.248430Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nippon_steel-2026-06-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel (TSE:5401) Stock Looks Cheap On P S After U S Steel Investment Plan - simplywall.st",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdVZFN25OM19IUk12eXZnb3NfaE1lSDgwLTg3M3k2Um9ZVzY2R0FhX2pSeTE2Wm8wQUUzek5JbmkycTNjUzBaWG1KT1REaXhtM2F2R1VaRlVPbFNCdTI2NU1DRlB2STFsWHdPUWU0M0pveldGT0VQUjd5ek13U0hlTEhXYkswZWdFcWJSTEtpU0o4dFJVcUQ3c0U5cXZ3d0hkNFJKZlNOeHpoaUdBQ0xhYTFZYUh1VkltQTlwQnlUbGpxWm43bjNfeVNSTEl4UUczdlHSAdcBQVVfeXFMUFJwX0RJMG1oTjBqdzlwT0pJbm5iSG5RWXRmT1lZNExzZkpHaS1DRW1Xa3gxbUIzRGZTR2dQUHhlQmRtbmVGSWRnTzB1aTVOSjRyYm4xN1JrZWFwcURrQmM3WlFFc1ozTi16YTNVNjZqb2toNTExYnFXZ0hjQTR2QjN3dnpJblZQS2M2OElTSW1LYnN6SnFCNWxuNmlZMHE0RGxieENEVFNTd25YZnBFWFlKRUpVRUoxU3J4b0pJZ2I1MnN2bG5PaDVvVXlMOTJ0YW9FZnpPUms?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-06-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel bets big to expand US business - nhk.or.jp",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvWUF6NFhRTnZJdjQ4M09PY3AzZFp0VXlpaUFwdDhwS2V1eUVCSHQteHZTYWM1RUI4ejZSQUlDUEJYM2p2dFQ0eXFINXRMZE92UENNQnFVSF90SEZ5R0xiS0Fn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-06-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel expects over USD 624 million profit from U.S. Steel - megaproject.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkV4QVkweElQR0RRTnhEeUJXbDRod25EY3JXUmNVQk5vMnIwcDlBaHJ0MXFSVlRqUDlqSjQwQWtGUWw4SXZLNEQ5dE1uZ2k2aFR1UDAzMlRfb3B5dDVKS0puOFc3eUFhLW42LXYyWVY2aGhqZ0t0eWozdC0tNW5KWDF5TW5iU1RXQ2FvY3BPQUpnNlJXM3I0SWRCLWZ3eXM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Korea’s Steel Giants Race to Reinvent Themselves for a Low-Carbon Era - 인사이트코리아",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOWmxuS3dUNndrdDRhdDdrRllRZVk0UHJfcjAybW16S3BCYW1Oc3NPZDZ4LXNieXBzOGhfMTYwdm1WS29mSXhIZDJIVk0wMUg2Y3hqdlNNSTNGR2tVTVJvUV9aTTZYeE5FbTQ2UU5fRGRobk9FZjJN0gF3QVVfeXFMUE5abG5Ld1Q2d2t0NGF0N2tGWVFlWTRQcl9yMDJtbXpLcEJhbU5zc09kNngtc2J5cHM4aF8xNjB2bVZLb2ZJeEhkMkhWTTAxSDZjeGp2U01JM0ZHa1VNUm9RX1pNNlh4TkVtNDZRTl9EZGhuT0VmMk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-06-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ARCELORMITTAL : Deutsche Bank remains its Buy rating - marketscreener.com",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjJMWFFuUU9CVFJRZHpEb3gwbmY5VnNkM2pfOEo5dU4wWU5JRVRuWTlCZmJqbE80LTJyWVNtVDc1ZzdJa2ZGb3h1cWVuaFd3SE1HUGN1VU82MU8zNDZBNEdQV2kxWHFiS1VHUENCUFQtOGtSSDVOMTU5elc2dmwyZnUxR3pvYm5oWTFxMXQ1VjA5WE9UdWtqUWpJSWtjVTZtdzE5MU9B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 39,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "nippon_steel",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 689,
+    "dup_title": 306,
+    "too_old": 165,
+    "gate1_blocked": 45,
+    "gate2_blocked": 50,
+    "passed": 123,
+    "pass_rate": "32.1%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+      "One year on, Nippon Steel tackles 90-year-old equipment at U.S. Steel - Nikkei Asia",
+      "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+      "Michael Stelzig: Nippon Steel is Delivering. Upcoming Labor Talks Should Not Disturb This Momentum. ",
+      "POSCO builds Korea’s largest electric furnace to reignite sagging industry as K-Steel Act takes effe"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、Nippon Steel相關動態：「Nippon Steel (TSE:5401) Stock Looks Cheap On P S After U ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nippon Steel (TSE:5401) Stock Looks Cheap On P S After U S Steel Investment P...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nippon Steel bets big to expand US business - nhk.or.jp（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
