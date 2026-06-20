@@ -1,0 +1,16 @@
+{
+  "total_raw": 698,
+  "dup_title": 356,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 44,
+  "gate2_fail": 47,
+  "passed": 93,
+  "gate2_samples": [
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "One year on, Nippon Steel tackles 90-year-old equipment at U.S. Steel - Nikkei Asia",
+    "Rev. John E. Jackson Sr.: Gary awaits a jubilee of its own as Nippon Steel takes over US Steel - Chi",
+    "Michael Stelzig: Nippon Steel is Delivering. Upcoming Labor Talks Should Not Disturb This Momentum. ",
+    "POSCO builds Korea’s largest electric furnace to reignite sagging industry as K-Steel Act takes effe"
+  ]
+}
