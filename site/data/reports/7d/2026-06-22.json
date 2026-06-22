@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-22",
+  "date_range": {
+    "start": "2026-06-16",
+    "end": "2026-06-22"
+  },
+  "generated_at": "2026-06-22T13:39:38.386263Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "volkswagen-2026-06-16-005",
+      "date": "2026-06-16",
+      "title": "Webfleet adds Volkswagen Group Info Services AG to OEM.connect programme - Bridgestone EMEA newsroom",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 227,
+      "last_week": 267,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 133,
+      "last_week": 168,
+      "week_over_week_change": "-21%",
+      "sentiment_this_week": 0.04
+    },
+    "ev_penetration": {
+      "this_week": 36,
+      "last_week": 30,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.17
+    },
+    "auto_sales": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.06
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.22
+    }
+  },
+  "company_7d_summary": {
+    "hyundai": {
+      "event_count": 39,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "posco": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "arcelormittal": {
+      "event_count": 17,
+      "sentiment_avg": 0.03,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "bridgestone": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "cheng_shin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "saint_gobain": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "continental": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "magna": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "toyota": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 7
+    },
+    "ford": {
+      "event_count": 35,
+      "sentiment_avg": 0.01,
+      "rank": 2
+    },
+    "gm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "stellantis": {
+      "event_count": 28,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "tesla": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 8
+    },
+    "byd": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 10
+    },
+    "honda": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "nippon_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 11
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 710,
+        "last": 824,
+        "change_pct": -13.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-16",
+      "event_count": 140,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 158,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 141,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 114,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 55,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 48,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 54,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-16 ~ 2026-06-22）共 710 則事件，重點為「Webfleet adds Volkswagen Group Info Services AG...」。BYD表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 39 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
