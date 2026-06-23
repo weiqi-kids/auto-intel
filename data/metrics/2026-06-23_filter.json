@@ -1,0 +1,16 @@
+{
+  "total_raw": 703,
+  "dup_title": 337,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 36,
+  "gate2_fail": 48,
+  "passed": 128,
+  "gate2_samples": [
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "Japan’s Nippon Steel adjusts conversion prices on 2029 and 2031 bonds - marketscreener.com",
+    "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize",
+    "POSCO International attracts $2 bil. in 1st global US-dollar bond sale - The Korea Times",
+    "POSCO builds Korea’s largest electric furnace to reignite sagging industry as K-Steel Act takes effe"
+  ]
+}
