@@ -1,0 +1,16 @@
+{
+  "total_raw": 713,
+  "dup_title": 328,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 41,
+  "gate2_fail": 47,
+  "passed": 129,
+  "gate2_samples": [
+    "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+    "Nippon Steel 'not yet satisfied' with US Steel reforms, Nikkei reports - Reuters",
+    "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize",
+    "Japan’s Nippon Steel adjusts conversion prices on 2029 and 2031 bonds - marketscreener.com",
+    "One year on, Nippon Steel tackles 90-year-old equipment at U.S. Steel - Nikkei Asia"
+  ]
+}
