@@ -1,0 +1,16 @@
+{
+  "total_raw": 714,
+  "dup_title": 327,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 43,
+  "gate2_fail": 37,
+  "passed": 131,
+  "gate2_samples": [
+    "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+    "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize",
+    "Japan’s Nippon Steel adjusts conversion prices on 2029 and 2031 bonds - marketscreener.com",
+    "Beyond Barriers to Partners! POSCO and JSW Steel Shape the Future of Indian Steel - 포스코그룹 뉴스룸",
+    "POSCO goes big with new EAF - Steel Times International"
+  ]
+}
