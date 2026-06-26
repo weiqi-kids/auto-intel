@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-26",
+  "total_events": 43,
+  "by_company": {
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tyc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "stellantis": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "volkswagen": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 22,
+      "sentiment_avg": 0.02
+    },
+    "industry_general": {
+      "count": 31,
+      "sentiment_avg": 0.02
+    },
+    "ev_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

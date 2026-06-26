@@ -1,0 +1,16 @@
+{
+  "total_raw": 716,
+  "dup_title": 324,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 46,
+  "gate2_fail": 45,
+  "passed": 131,
+  "gate2_samples": [
+    "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+    "USW Keeps A Close Eye On Nippon Steel’s $11 Billion Pledge - Finimize",
+    "POSCO goes big with new EAF - Steel Times International",
+    "Beyond Barriers to Partners! POSCO and JSW Steel Shape the Future of Indian Steel - 포스코그룹 뉴스룸",
+    "POSCO said Wednesday it streamlined its product line into eight 'strat - Shanghai Metals Market"
+  ]
+}
