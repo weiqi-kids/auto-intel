@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-27",
+  "total_events": 25,
+  "by_company": {
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kenda": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "yulon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": 0.05
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
