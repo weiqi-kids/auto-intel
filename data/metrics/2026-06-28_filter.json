@@ -1,0 +1,16 @@
+{
+  "total_raw": 703,
+  "dup_title": 391,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 32,
+  "gate2_fail": 52,
+  "passed": 63,
+  "gate2_samples": [
+    "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+    "Beyond Barriers to Partners! POSCO and JSW Steel Shape the Future of Indian Steel - 포스코그룹 뉴스룸",
+    "POSCO goes big with new EAF - Steel Times International",
+    "Posco International completes first global bond issuance worth USD 500 million - megaproject.com",
+    "POSCO said Wednesday it streamlined its product line into eight 'strat - Shanghai Metals Market"
+  ]
+}
