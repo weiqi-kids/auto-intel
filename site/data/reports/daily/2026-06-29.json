@@ -1,0 +1,289 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:39:27.791057Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-06-29-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Cumulative Patents Top 10,000 - Seoul Economic Daily",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQlVJcXlEZldlSW5Fa0ZMTDAyMzdNdGVXSnBocXpTV0V3c3dCNVFWVWhmR0tkZ0htSnFsdkhHTjc5bTVGY3dwUUpBMlg2VElGT1pKSnZacEdwdHJEdEVRTzk4Wm1DVkF2dUQ2NDB1M2NmY09IUkV3Nkx5dXBNM1p1Tmh6Z1AzQnBIck1yQg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-06-29-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis boosts supply chain, R&D and ESG in South Korea sustainability push - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDk3MTcyNGd1NnE4LWhEQ2Q0LW5wUm5jeUxlNTc4SEJzYTFxTWNOMTRZakFudFcyNGYzaUdNNnVHeXVWSW1HZkMxOHhSakxHVF9ZTk84NWpmUGxTbjdqUGZpQlpuajJZdGh1LWZ0Q0ctS0Yzb0hIMjJad1B3NGs4dE1B0gGWAUFVX3lxTE1xMXNsNTYxQ05oY21OemlXYVg3MUVXVGt4YzhVSWl6WTF1X2dZd090NnIwdjJlLXpmSlJFaU1TZzBmcFhRakF3X09DN3ZUZmpRbXl3RHZFenNRdWYyR3dvNWpTdDE1NW41bkFFanplSVlBMkF1c0k4SG54d01DbmxkODFfZzRMMGM0cllnOEVDR1QyUDVaZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-06-29-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Continental shelf lockout could cause daily loss of 120,000 barrels - EnergyWatch",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wTFZ5c2FNUGdRYTBLeWRTZmRYd3c0bk5zeWtLVzVBT0hEU0RDUFFxQzQ3Qmw3T29BQ1BibkdSdDBnY19XWGwyMURjaTBYZHYxNmJQNm5FNENtR1hIcUtrNzQ0QlVXbnJJYzhjcW1wYjhmZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_mobis-2026-06-29-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Publishes Sustainability Report 2026 - Businesskorea",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yT3NLbTQyT0h6cWJxUTViNGZ1eXhUY1R6NGJvWmFnS2FsU3Z1SUhQUlpxa3BFVXhKVlRIUHZoQzFaVFAxMmE0NkdWeHFUVEtybXZOUGZ0NUl6eUpUTFdhOEx5cTVrZGFOaUdTQUZhdW9WQjNX?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "gm-2026-06-29-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "20,000 Delphi Retirees Lost Up To 70% Of Their Benefits In GM’s Bankruptcy. Trump Wants To Make It Right",
+      "companies": [
+        "gm",
+        "aptiv"
+      ],
+      "related": {
+        "customers": [
+          "gm"
+        ],
+        "suppliers": [
+          "aptiv"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.carscoops.com/2026/06/delphi-retiree-pensions/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 36,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 3
+      },
+      {
+        "id": "ford",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 378,
+    "too_old": 160,
+    "gate1_blocked": 30,
+    "gate2_blocked": 54,
+    "passed": 83,
+    "pass_rate": "25.4%",
+    "gate2_block_rate": "16.5%",
+    "gate2_samples": [
+      "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival - Nikkei Asia",
+      "Beyond Barriers to Partners! POSCO and JSW Steel Shape the Future of Indian Steel - 포스코그룹 뉴스룸",
+      "POSCO goes big with new EAF - Steel Times International",
+      "Posco International completes first global bond issuance worth USD 500 million - megaproject.com",
+      "POSCO said Wednesday it streamlined its product line into eight 'strat - Shanghai Metals Market"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為Hyundai Motor、大陸集團、Toyota相關動態：「Hyundai Mobis Cumulative Patents Top 10,000 - Seoul Econo...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Cumulative Patents Top 10,000 - Seoul Economic Daily（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis boosts supply chain, R&D and ESG in South Korea sustainability ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
