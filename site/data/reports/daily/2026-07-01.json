@@ -1,0 +1,293 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:28:52.671763Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-07-01-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Official] Lee Dae-heon to reunite with coach Yoo Doo-hoon... Jeong Kwanjang trade announced; Kim Kyung-won moves to Ulsan Hyundai Mobis - starnewskorea.com",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VU3FuWUR5T21oNVFCLXc5NHpPMms2anJzTktSNGVfbWtjUU82d28tMWdaMG9HRFlMOFBSV293ZzBBUExNRy1TdlZ4MjU0T2phOVhfVnRKRmRTbkZaZ3Z3Z192QV9MODFDQmg4LWRmU1VhUGVvak0yd21B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-07-01-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "\"From audio and parking to communications\" ... Hyundai Mobis strengthens vehicle electronics competitiveness through employee ideas - 매일경제",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dHJMLUJBekV2a3pKUm5aSGRSQVVvOEFHWHVQa1RQaTc2QkkyQkFOQkdVQUx3SFFEcjR1RXN4Sk10ekhWbVFXM0I4bnhpS2x5UG9Z?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "stellantis-2026-07-01-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stellantis-Backed Leapmotor Breaks New Record in June With 93,376 Units Delivered - eletric-vehicles.com",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmVZSXYtN2tSeF9pRG4yTnFLdERSMUZCd1FGQXgyeVh0NHFNeXRqZVVTRU5JWW8yZTlyZUd5WEhidEYtZ0NFQmV5dFIyU0JPT19JWEJHWFZCeDUxdVpuMzI2dkl4ZHVkTnlBWmJFYXlzWlJBaWQ4d3otbGlSTFNxc3hjWmRheFZiYnFkaHEzNkdMNjJnYzV2UU5pQzh2M3o3M1ItdnFBa01zdG9QOFFXR01RZEpWNlNHM1hXOVRR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-07-01-038",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "BYD Accelerates Global EV Expansion as Chinese Automakers Capture Dominant Market Share - EVTech.News",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2N4WjdOcFZqdDBnYzhjSlR6U05adzRuQ2NDTUNRc194YmF2ZlFTaXF1ZTVyaHg5aDJHaVZMb2puS0FWRng0X3pxeXMwdVg4TDZ0dTFCWi1QejBUUDFiVlkxOHdTLVByWGhEWDVhdXlRMDhDUG1hSU9lUERFc0xvY1BvUUlsYl9Ea0pHdFVJQmhSeEZoUERyaDVfckVIeWU1VWFMUHIzUi1lSC1lYWZHMWl5cm9QOEVJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-01-040",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Electric Vehicle Battery Global Market Demand to Surpass 2,000 Gwh by 2035 Amid Accelerating Electrification - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWU5LcDVmTlNtMDU5N292S3k1T0RLWGluSFpuVXRuOWxseVBSOHFZQXRuM1owWmRtNEJBYlpydFN1Z25YZEZFb0JENHdibG14MGhkTGVrVDVOcFk2MldqVTRvbzJvQVVtRGZBYU04ZnZxa2V1NHFiTXNyS3ZFY3F3R3BJRWxCa0d1SEpLWGlPMFppR2JNeGV0MHhIQ1ZleUphS1JKNmhHeWczeV9sN1JVeDdVZUZ6NXNNMjJtbmVBajBmVnF0TGg5UTFoWVFUcWw5YU5wWA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 38,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 328,
+    "too_old": 148,
+    "gate1_blocked": 37,
+    "gate2_blocked": 44,
+    "passed": 151,
+    "pass_rate": "39.7%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Beyond Barriers to Partners! POSCO and JSW Steel Shape the Future of Indian Steel - 포스코그룹 뉴스룸",
+      "ArcelorMittal (NYSE: MT) details 2025 mining payments to governments - Stock Titan",
+      "ArcelorMittal publishes its 2025 Payments to Governments in respect of extractive activities report ",
+      "Bridgestone Releases 2026 Bridgestone Integrated Report - Bridgestone EMEA newsroom",
+      "Cheng Shin Rubber Ind. Co., Ltd. Actuals & Estimates (TWSE:2105) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為斯泰蘭蒂斯、Hyundai Motor、大陸集團相關動態：「[Official] Lee Dae-heon to reunite with coach Yoo Doo-hoo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "[Official] Lee Dae-heon to reunite with coach Yoo Doo-hoon... Jeong Kwanjang ...",
+        "level": "red"
+      },
+      {
+        "text": "\"From audio and parking to communications\" ... Hyundai Mobis strengthens vehi...（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

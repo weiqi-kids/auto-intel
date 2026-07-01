@@ -1,5 +1,956 @@
 [
   {
+    "id": "nippon_steel-2026-07-01-001",
+    "date": "2026-07-01",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nippon Steel's US Steel Deal Turns One: Slow Investment, Rising Debt - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0tDSUg0dFBkdzdRM2JHVlVwZnQyWGc0cHN4WnFHZkF1aVN4M3Z2bjJPZWpmbGxBUGE0VVBaOGZXVXBJbWZrbkdfeDdqNmpuOGhwNDF3UmF0aGRqNzNkVEo4R2s0SVdFRmUwVnNEb2",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0tDSUg0dFBkdzdRM2JHVlVwZnQyWGc0cHN4WnFHZkF1aVN4M3Z2bjJPZWpmbGxBUGE0VVBaOGZXVXBJbWZrbkdfeDdqNmpuOGhwNDF3UmF0aGRqNzNkVEo4R2s0SVdFRmUwVnNEb2ttUHJNRHJtTVJxZmljUmpZcjROYnhTQ3VGN09jY0M0R0g0QU9PRXJSR1k1UWJSMnExcXlZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-07-01-002",
+    "date": "2026-07-01",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Securing rig capacity for high production on the Norwegian continental shelf - Equinor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXlpalcwY0cyc2FYa01VWWxaTHcyVWtRS2lyUkpHRGxoQUd3Q2o3QUZ5TWYtaW44MU80YlRiTE1KbVBGa29KYmxTUkZlSjgxZ1ZBRHVEcVBDQUNiUmZMTnhVdUV6RjdzTE9XRG1ndH",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXlpalcwY0cyc2FYa01VWWxaTHcyVWtRS2lyUkpHRGxoQUd3Q2o3QUZ5TWYtaW44MU80YlRiTE1KbVBGa29KYmxTUkZlSjgxZ1ZBRHVEcVBDQUNiUmZMTnhVdUV6RjdzTE9XRG1ndHFkU3g1UmtJX3NhcU1SRVV1cA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-07-01-003",
+    "date": "2026-07-01",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Continental Tires’ High-Impact OOH Campaign Hits 23 Cities Across India - Little Black Book | LBBOnline",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5FM29TaERpaHU2cmJzN2NDWld0OGhiWi04a2dEVjZJLWZJMFkwYU1nVWE1RTBaQjBCOXdWOHBEeXlmb2NfLTNZSURKT1BTc1MzNlpDMEFOMUFqeXF2YldQS2JCOXpjUVB1WENtRXBJTE",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FM29TaERpaHU2cmJzN2NDWld0OGhiWi04a2dEVjZJLWZJMFkwYU1nVWE1RTBaQjBCOXdWOHBEeXlmb2NfLTNZSURKT1BTc1MzNlpDMEFOMUFqeXF2YldQS2JCOXpjUVB1WENtRXBJTEstS1hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-07-01-004",
+    "date": "2026-07-01",
+    "companies": [
+      "continental"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Space in Africa Reviews its NewSpace Africa Conference's Continental Impact in New Impact Report - SpaceWatch.GLOBAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVFRWVBYSVd5bmRRcTYwcXh3LU9udTV1bkNzcnc2VUQ5YUNKS0Myb1JSN01lcVdZSGt4b2pqdzdqQnhqVjNzZU9POXU1NEZlVHU5bmJJWk80NmxjV19uV1lzVTFQQmkwWDc4enBnS3",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVFRWVBYSVd5bmRRcTYwcXh3LU9udTV1bkNzcnc2VUQ5YUNKS0Myb1JSN01lcVdZSGt4b2pqdzdqQnhqVjNzZU9POXU1NEZlVHU5bmJJWk80NmxjV19uV1lzVTFQQmkwWDc4enBnS3BZZUJkZlkydEJlSXZyZlo2UW9hS0lNZHAtM1FxeHBVNHRsNkt1aVhqdmZ5dUQwZUZhTHZ0d2N5YjRiMDR6RGFSSzNoSG9BbWVBdHEya3NMelJMbjl5b2JLYzNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-005",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Inside Lacrosse - Inside Lacrosse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbmdCUnBoUVE5SjRubDlvNVJlcC1ibTQ4am9kVzVKeUhBZnllMUgxM3A5bG5NVE9XZTlSU04yLWtNNkJELTM5WXF2QXQtZEFndk9BN09jTVVPenA0UlFwX2wzRVUtRDFra2kxb2JMQm",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbmdCUnBoUVE5SjRubDlvNVJlcC1ibTQ4am9kVzVKeUhBZnllMUgxM3A5bG5NVE9XZTlSU04yLWtNNkJELTM5WXF2QXQtZEFndk9BN09jTVVPenA0UlFwX2wzRVUtRDFra2kxb2JMQmVVQkNGWTFCcE5PUHZ2akp4VEotcjlvOVRVeDh2b0UtMEN0cXFndlMxYVhubXpPeTRfMFlLSm9ING9PNF9UNEVxaDBXWlBrNzRzck9EdFZPZ0k3WmZkXzE1RTZOWnJjbkttb2t6ZTVyRmttM3lEbm9YZ1NmUTVMc0ZOV281RTdWX0M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-07-01-006",
+    "date": "2026-07-01",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "\"If you buy 4 tires, you'll get vacation supplies\"...Continental Tire Promotes Summer Vacation - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVVdYVWNJRmxBbFRWcjc4bE05dDB6VDhuVFh5ekhBVEhGRVNKN056MFVLWHM1WldBOV83di1FcGMwZ2ZSTUlGcDhvVHAzaUEtVnlN?oc=5\" target=\"_blank\">\"If you buy 4 t",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVVdYVWNJRmxBbFRWcjc4bE05dDB6VDhuVFh5ekhBVEhGRVNKN056MFVLWHM1WldBOV83di1FcGMwZ2ZSTUlGcDhvVHAzaUEtVnlN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_mobis-2026-07-01-007",
+    "date": "2026-07-01",
+    "companies": [
+      "hyundai_mobis",
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Official] Lee Dae-heon to reunite with coach Yoo Doo-hoon... Jeong Kwanjang trade announced; Kim Kyung-won moves to Ulsan Hyundai Mobis - starnewskorea.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5VU3FuWUR5T21oNVFCLXc5NHpPMms2anJzTktSNGVfbWtjUU82d28tMWdaMG9HRFlMOFBSV293ZzBBUExNRy1TdlZ4MjU0T2phOVhfVnRKRmRTbkZaZ3Z3Z192QV9MODFDQmg4LWRmU1",
+    "sources": [
+      {
+        "name": "hyundai_mobis",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VU3FuWUR5T21oNVFCLXc5NHpPMms2anJzTktSNGVfbWtjUU82d28tMWdaMG9HRFlMOFBSV293ZzBBUExNRy1TdlZ4MjU0T2phOVhfVnRKRmRTbkZaZ3Z3Z192QV9MODFDQmg4LWRmU1VhUGVvak0yd21B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_mobis-2026-07-01-008",
+    "date": "2026-07-01",
+    "companies": [
+      "hyundai_mobis",
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "\"From audio and parking to communications\" ... Hyundai Mobis strengthens vehicle electronics competitiveness through employee ideas - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dHJMLUJBekV2a3pKUm5aSGRSQVVvOEFHWHVQa1RQaTc2QkkyQkFOQkdVQUx3SFFEcjR1RXN4Sk10ekhWbVFXM0I4bnhpS2x5UG9Z?oc=5\" target=\"_blank\">\"From audio and",
+    "sources": [
+      {
+        "name": "hyundai_mobis",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dHJMLUJBekV2a3pKUm5aSGRSQVVvOEFHWHVQa1RQaTc2QkkyQkFOQkdVQUx3SFFEcjR1RXN4Sk10ekhWbVFXM0I4bnhpS2x5UG9Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-009",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lee Dae-heon headed to the arms of director Yoo Do-hoon, an \"old teacher.\"Anyang Jeong Kwan-jang and.. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ad1dDUXZhR1BSNldqSUo5VmQ2VC13RWNhbzBldVZTZXBYRVZ1VmxFRnVuVk1Od0RNQmtvRjZTeHBTUWh3eFpQN2IxeEtNakhr?oc=5\" target=\"_blank\">Lee Dae-heon headed",
+    "sources": [
+      {
+        "name": "hyundai_mobis",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ad1dDUXZhR1BSNldqSUo5VmQ2VC13RWNhbzBldVZTZXBYRVZ1VmxFRnVuVk1Od0RNQmtvRjZTeHBTUWh3eFpQN2IxeEtNakhr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-01-010",
+    "date": "2026-07-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ford looks to wow with USA 250 exhibition at historic Union Station - The Detroit News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM002dUNEeVBrNk9JVzZGaHpKaE43Yl9sTTVaU3JrUnVpRUV0b3FOYS05M01IYXppSTBnNVU1M3NnaXZld0tFSmFlemQyVk5NZ1BxaGh5b1hIcEIwRHhVY1V1M1EzOUNXRFBqMENVVV",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM002dUNEeVBrNk9JVzZGaHpKaE43Yl9sTTVaU3JrUnVpRUV0b3FOYS05M01IYXppSTBnNVU1M3NnaXZld0tFSmFlemQyVk5NZ1BxaGh5b1hIcEIwRHhVY1V1M1EzOUNXRFBqMENVVVBXR1N0eVFwNi1MZUtiSkUtM1R1aFlQY1QzQU1Pd1dkc1FiSnd2TkFQS2ZXT0dWU0cybEdnRWhNSkIxZXZoZXdKYkRWbUlnaVFSdk45ZTY5YnBlN0JZalpva1B1U0VLSmVWeFVnM2dnSEZBUW5a?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-01-011",
+    "date": "2026-07-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ford Explorer Sales Swell 30 Percent To Remain King Of The Hill In Q1 2026 - Ford Authority",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1dDLXhkeTlwdjZiNGxtbGR3ejZhWVlUMS02NnU4RXc3X2dGQTZDM0d0eTQxa0hHWVZGRzd1VEM0c2FESDFCVnZZVVM0TE9FMk1HNjQ0emFXSDU3RlE0TFFQXzRROGZsWTRHZUlldE",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1dDLXhkeTlwdjZiNGxtbGR3ejZhWVlUMS02NnU4RXc3X2dGQTZDM0d0eTQxa0hHWVZGRzd1VEM0c2FESDFCVnZZVVM0TE9FMk1HNjQ0emFXSDU3RlE0TFFQXzRROGZsWTRHZUlldE5JV1BBUXZiZVZVTGo2ekxOTDVCM1FxQzhuZTBtQ0ZlaXo4cGFtMG5jclk1eWJUTkV0TGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-01-012",
+    "date": "2026-07-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford vehicles the star of public exhibition at Union Station in D.C. - The Detroit News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1hyc1FkMWwtdmgzc3E3Q052dXFyY2ZuN1ZhU3ZVZnU1V3I1bHAxNlpBdkRRTE9xVWI0aV96bEJLbXNwYTdjWEQzb0FxNklwSGJaeWFNdmV6X0pQUmNueFJYYUVkYmJGYlR1SmF4Z3",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1hyc1FkMWwtdmgzc3E3Q052dXFyY2ZuN1ZhU3ZVZnU1V3I1bHAxNlpBdkRRTE9xVWI0aV96bEJLbXNwYTdjWEQzb0FxNklwSGJaeWFNdmV6X0pQUmNueFJYYUVkYmJGYlR1SmF4Z3REaE9La3FrcGptcWVHT1BweHhQREtvbnRSeG5kaUZ4ZmtlYlRjb2FJOHdzcld6c0xTVEFqLUZzTlJJQ0JORTJuR1lMMGR0MEowQ2I4eEEtZFprc3p1cElManJqUW40clotMTh3cEJaMFJkaGI5M09jNmxrcks?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-013",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iconic World's Fair Mustang enshrined in US historic vehicle list - The Detroit News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckpXdmQ4SDhXNW96cEE1Z2NUSkQ5Z3pYc2ZkVTNhVFpGdUQ2aTdVdkk0aFFxTVRrMGZZS3JydVpLWVAyTGhOVzZ6azhIcW8wam5Ga25vUkxsZ2hCU1ZrMDhYMWNzNVc1SS12VHBqYV",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckpXdmQ4SDhXNW96cEE1Z2NUSkQ5Z3pYc2ZkVTNhVFpGdUQ2aTdVdkk0aFFxTVRrMGZZS3JydVpLWVAyTGhOVzZ6azhIcW8wam5Ga25vUkxsZ2hCU1ZrMDhYMWNzNVc1SS12VHBqYVRTYjZnOU9ZbmFMUEpvQlFrcV9xamdFS0JlMUtObUdQVlFrN2NKdnFMalVrd3RUYXhRWGZiVHVKeF8tdUF4N1BYZ0dRWVJkTlVvc19zOXYzYjVGTnVTakZwc2kzX2J4b0dNUGZXSjJxMU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-07-01-014",
+    "date": "2026-07-01",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hyundai Motor America Reports June Total Sales Of 77,555 Units, An 11% Increase Compared With June 2025 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPcVBjZHNkMlJVcV9yTFBxbnNpdjlFdm1TanhHdnl5NEFDNjVTeldnN0dtcDktVVJBUHRUS3VWNG1McC1qU3J2clg2STlxdXBxSmtVQjdRUE5iN2d1R0ZTMVVJV1VleTQwUGZxRmV1QW",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcVBjZHNkMlJVcV9yTFBxbnNpdjlFdm1TanhHdnl5NEFDNjVTeldnN0dtcDktVVJBUHRUS3VWNG1McC1qU3J2clg2STlxdXBxSmtVQjdRUE5iN2d1R0ZTMVVJV1VleTQwUGZxRmV1QWdlNHNNMXhPbkNjd3ZraTJmTnV2RkZzYmJsa1JjN2JjNVFkcTNaYTBmUkNoel9mYWNtejg1SmliYkhMVUhwR0hybjd4aVE3N2ljZkZzWlJyTlB5R19VV1M0ZnREMHFnQkdiSVBiREJsLURyejIyd0ZIdkpnaU9jaHllMW9WSm9WN21LU0VudU4tZGxOTzlxZzVu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-07-01-015",
+    "date": "2026-07-01",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Hyundai Motor's global sales down in June on weaker demand - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNemo2a0pCVXd6MnpOdVdFU2o3RWZQRUVxWFVuaFlkeW9nVXV6SW5WVEMyMHhWNHcyYmNuazJHOUlIY2Y5Q19ocU0zMG0wSmxDVXJoOG0ydjl0UHg0QnFxeGMwLWdpanpVRFphaG1DRT",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemo2a0pCVXd6MnpOdVdFU2o3RWZQRUVxWFVuaFlkeW9nVXV6SW5WVEMyMHhWNHcyYmNuazJHOUlIY2Y5Q19ocU0zMG0wSmxDVXJoOG0ydjl0UHg0QnFxeGMwLWdpanpVRFphaG1DRTlZS3B1WGZpV0xrV0JuRmZsYlRadUxTQXFTYnBqUnRpRElQdXA1V00wMnhkTGxzMFhDdlRwcTVGUldJVkpsaEU4dHNVSkg3WVktZWfSAboBQVVfeXFMTXpqNmtKQlV3ejJ6TnVXRVNqN0VmUEVFcVhVbmhZZHlvZ1V1ekluVlRDMjB4VjR3MmJjbmsyRzlJSGNmOUNfaHFNMzBtMEpsQ1VyaDhtMnY5dFB4NEJxcXhjMC1naWp6VURaYWhtQ0U5WUtwdVhmaVdMa1dCbkZmbGJUWnVMU0FxU2JwalJ0aURJUHVwNVdNMDJ4ZExsczBYQ3ZUcHE1RlJXSVZKbGhFOHRzVUpIN1lZLWVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-07-01-016",
+    "date": "2026-07-01",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Group Offers $1 Million To Venezuela - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE50QTRPUExDQ0IwTTFDd0Q4aTRhOGRFMmxtYVI2TndLZjlSN2xpbmRWcWJSVDBTOS1oWWc0WVg2akt3aS01emIwaENCMTBfeElYa3ZCVTRwYjNHd2VHaFg2bWZ6M2FNenJkR1FZZ0U3M0",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50QTRPUExDQ0IwTTFDd0Q4aTRhOGRFMmxtYVI2TndLZjlSN2xpbmRWcWJSVDBTOS1oWWc0WVg2akt3aS01emIwaENCMTBfeElYa3ZCVTRwYjNHd2VHaFg2bWZ6M2FNenJkR1FZZ0U3M0MyQVdZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-07-01-017",
+    "date": "2026-07-01",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Union Halts Saturday Overtime - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1USUZkWkxzangwTUw2ZWpiSmdGNlJIeFg5T3BCY040WnNlMElmUUZDNHgyOGkxbTBvYjd3ZVVDZ05XVTFTRmpjMDdvTGZwd2FiSTBCVzF2QlhTMHpzSlQ5UVZRVHpCTlZyclZuWXdKdm",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1USUZkWkxzangwTUw2ZWpiSmdGNlJIeFg5T3BCY040WnNlMElmUUZDNHgyOGkxbTBvYjd3ZVVDZ05XVTFTRmpjMDdvTGZwd2FiSTBCVzF2QlhTMHpzSlQ5UVZRVHpCTlZyclZuWXdKdmZjajdp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-07-01-018",
+    "date": "2026-07-01",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai First-Half Global Sales Fall Below Two Million First in Four Years - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5wNFQ3bXkwVTV5MlFVWnoxREl6VzdCeEVYLWJscXFETUxXQ29mWHc4LWZobWVJanJXOWtCNkhmOUpBUGpjanRzX29sMXpFYWxndUUtOXdpZm9kRTlJalc0T0N3MFM3QXhyNW56ZjVZUn",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wNFQ3bXkwVTV5MlFVWnoxREl6VzdCeEVYLWJscXFETUxXQ29mWHc4LWZobWVJanJXOWtCNkhmOUpBUGpjanRzX29sMXpFYWxndUUtOXdpZm9kRTlJalc0T0N3MFM3QXhyNW56ZjVZUnVWQW1q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-019",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SHANGHAI E-PRIX: DS AUTOMOBILES TO CONTEST ITS 150TH FORMULA E RACE - media.stellantis.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDJQcU1meGdfZDBSNjJ1bGNTR2FCOXk1YUwwUkd1MVRheFROeEVFLVhYb3R0cnRLckM0WEllVGFNUlpMNE9QUmpwcE82VWlwdFJ0ZFdrVHZtTGpXcHdsMWdMeXQzajNLWEpMTUdBeW",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDJQcU1meGdfZDBSNjJ1bGNTR2FCOXk1YUwwUkd1MVRheFROeEVFLVhYb3R0cnRLckM0WEllVGFNUlpMNE9QUmpwcE82VWlwdFJ0ZFdrVHZtTGpXcHdsMWdMeXQzajNLWEpMTUdBeW1pVi14NnRRWWJBczVWeG5ZZVlKc2xTQzZGSW9JdnFzeDRDLTJBLTJCbjZNLUZYWTl4NW95TUFxaG1ZdDZpQlV3MlZ2SHlUVTg1bzQ0Y0l0ZDRzSWct?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-020",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s car boom forces Stellantis to rethink South African factory plans - Business Insider Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDlEMkI3SmdsRTNVVXdnbHp1cG14c2pFUzdjRnRSa29vbEppeGNvalNpOUx4WEF0aUF6dEdrelhSd0tqYS1jS0pzY3ZVendEVDZiQlFEV2QzekloZC1CWEJmZ2F0Yy1vb0M0V0I4bm",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDlEMkI3SmdsRTNVVXdnbHp1cG14c2pFUzdjRnRSa29vbEppeGNvalNpOUx4WEF0aUF6dEdrelhSd0tqYS1jS0pzY3ZVendEVDZiQlFEV2QzekloZC1CWEJmZ2F0Yy1vb0M0V0I4bm5QaG02cWZJX1RuODh1Y1NkbG9NdE1OaE1LSURtSlF1dEx6R0o4c05MWVVZYWNHQV9kbURXR0N6a2pIckVKUVVxeWdWbGxEOXBmd0hSUzVYWkFvSWhFdVViUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-021",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "2 Michigan stamping plants set for key role in Stellantis sales-growth aspirations - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9RZDBqdHF3eTJ0S3hHQzZUamh1aml3NzRQNU02d1BWRXNrOTRLRWI4TTNlWmNnVDc3SzM1Z1NRNm5zYWpseC0xbFd3bmlNZW9fMDNkTDdoMV83cEljcnhqSHlXaDNMYmFUWDdCa2tPQX",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RZDBqdHF3eTJ0S3hHQzZUamh1aml3NzRQNU02d1BWRXNrOTRLRWI4TTNlWmNnVDc3SzM1Z1NRNm5zYWpseC0xbFd3bmlNZW9fMDNkTDdoMV83cEljcnhqSHlXaDNMYmFUWDdCa2tPQXZpZGFGMUxwVUNOT2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-022",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis: Strategic Partnerships Powering Automation - Procurement Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQm9XZXo1b2lJYlB5TGtfQkU2T2EyZTRseUUzaTFJdU5hOEotZ2FxOThpQnlyd2VNbERUbFNYTjhTa2U3Mm92ZFFvekZpLURtcWUxRFVRNWxCb2RJY3U5NkE2NTBxUW9fZC05c3hHNX",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQm9XZXo1b2lJYlB5TGtfQkU2T2EyZTRseUUzaTFJdU5hOEotZ2FxOThpQnlyd2VNbERUbFNYTjhTa2U3Mm92ZFFvekZpLURtcWUxRFVRNWxCb2RJY3U5NkE2NTBxUW9fZC05c3hHNXVvUFJDREc2WlU2Xzh0QmlCZGFWT0JhbW4wdW9fSFpBTDJyUWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-023",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Stellantis’ growth tools: Chinese tech and Saudi production - Arabian Gulf Business Insight | AGBI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXowV3lZbzdSU3MzSGlZVFhHa1gwdG5tZlpHc052eUFmMldQT2FjWnZLN09EQjRrdlNFeUNnS2VKZ2Y0V05ibGZMZ0xUZjdKeWpaNTlwSzhoWVdjU2RkS25OQVk4RURteG9xaTd1Nz",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXowV3lZbzdSU3MzSGlZVFhHa1gwdG5tZlpHc052eUFmMldQT2FjWnZLN09EQjRrdlNFeUNnS2VKZ2Y0V05ibGZMZ0xUZjdKeWpaNTlwSzhoWVdjU2RkS25OQVk4RURteG9xaTd1Nzczb2h6Mm1nSHJjYWtsdmVOcGMxYUNWdWVkUlVUTTRodTBXT3YybzhsTmVvTzVPckFOdWY4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-024",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Detroit’s Carmakers Risk Missing Out as Hybrids Gain Momentum - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOV9CZUoxQjZNeDNNOXZ2TlpUWmRtSFBqRnU0NFNkMFZ2TU9qT3hleHFHSW5kcHY4T0lqRExqZkg4Nkt2VkdJRENRZ21iS3J1b2x1cUFMdzdGZ3lnNC1mRUNmbEcybHIxbDhfRjJVUW",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOV9CZUoxQjZNeDNNOXZ2TlpUWmRtSFBqRnU0NFNkMFZ2TU9qT3hleHFHSW5kcHY4T0lqRExqZkg4Nkt2VkdJRENRZ21iS3J1b2x1cUFMdzdGZ3lnNC1mRUNmbEcybHIxbDhfRjJVUWhOdVl4UVNfb3kzSC1iWlRUZjFLTmc2LXZ0UVJQdlRQTjk0djhxTjV6WkFnYk95ekd6SG9pLWhQS2dxeFBQc2p0WGh3ajVUUUJm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-025",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dodge is launching a 'Purple Haze' paint option for the 2027 Charger to celebrate 60 years of the muscle car. #dodgecharger #purplehaze Photo provided by Stellantis. See link below ⬇️ - facebook.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaW5jWl9kTWtJR3kwdTZNbnpvcDB3MzRkMXRpRFFBeUxPeHVIWTFRWlBqSDlwem5fQk5iMnFfb3Q2aTc2Uk5rUUZkdGNYTWZ3TDV6UVMyNHFPM2I5Vzl2ZGFhRllvQzZXNFVuYmIySl",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaW5jWl9kTWtJR3kwdTZNbnpvcDB3MzRkMXRpRFFBeUxPeHVIWTFRWlBqSDlwem5fQk5iMnFfb3Q2aTc2Uk5rUUZkdGNYTWZ3TDV6UVMyNHFPM2I5Vzl2ZGFhRllvQzZXNFVuYmIySllQMlktS09nS3FwcFhkN2VoelRoM0ZpbVFzRDR0cTFWazhmWlh3Qm4xbkJyOTZtcUYtVHZOcGZxVnZCdWxuUGQyZ0c5RHo2Nm9qYnU4eGpTRVlLN2dIQWVFa3Mtam5hLVFRRWFpbjIxMUQzSUptVjJj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-026",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Stellantis-Backed Leapmotor Breaks New Record in June With 93,376 Units Delivered - eletric-vehicles.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmVZSXYtN2tSeF9pRG4yTnFLdERSMUZCd1FGQXgyeVh0NHFNeXRqZVVTRU5JWW8yZTlyZUd5WEhidEYtZ0NFQmV5dFIyU0JPT19JWEJHWFZCeDUxdVpuMzI2dkl4ZHVkTnlBWmJFYX",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSmVZSXYtN2tSeF9pRG4yTnFLdERSMUZCd1FGQXgyeVh0NHFNeXRqZVVTRU5JWW8yZTlyZUd5WEhidEYtZ0NFQmV5dFIyU0JPT19JWEJHWFZCeDUxdVpuMzI2dkl4ZHVkTnlBWmJFYXlzWlJBaWQ4d3otbGlSTFNxc3hjWmRheFZiYnFkaHEzNkdMNjJnYzV2UU5pQzh2M3o3M1ItdnFBa01zdG9QOFFXR01RZEpWNlNHM1hXOVRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hotai-2026-07-01-027",
+    "date": "2026-07-01",
+    "companies": [
+      "hotai"
+    ],
+    "topics": [
+      "auto_sales",
+      "industry_general",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Hotai Motor cuts Taiwan auto sales forecast to 430,000 units - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaRWhuMVA0b3JVUGVVS1hkNjducE1HeHJsM0hDalhjaVJ6RThpWFlBRnoxbUNkWjVENDVsTUw5QUR4bWduT1ZCTU1NRk5yNXJLbGVHeHJLbmI?oc=5\" target=\"_blank\">Hotai Mo",
+    "sources": [
+      {
+        "name": "hotai",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaRWhuMVA0b3JVUGVVS1hkNjducE1HeHJsM0hDalhjaVJ6RThpWFlBRnoxbUNkWjVENDVsTUw5QUR4bWduT1ZCTU1NRk5yNXJLbGVHeHJLbmI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-01-028",
+    "date": "2026-07-01",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ford Explorer Sales Swell 30 Percent To Remain King Of The Hill In Q1 2026",
+    "summary": "Refreshed three-row crossover continues to attract buyers, moving 61K units.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/ford-explorer-sales-numbers-figures-results-first-quarter-2026-q1/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-029",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian R2 spotted with LiDAR near HQ, looks better than most LiDARs",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2025/12/Rivian-autonomy-R2-LiDAR-front.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/rivian-r2-spotted-with-lidar-near-hq-looks-better-than-most-lidars/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-030",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "US car sales on cruise control despite pressures - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPcU5RT0JPdDV4THBVQ1pUS0U3RnRpR3VYQTJ5THdjeW5WRExMSjNPS1dTUVNWVGh5RFhjMEF6MGw4Wi1ib05nRFFxbTJLWEFHUUNUa3lJanJUc1d5MEdIS1BqQl9KeFJVTDk4VE5xTD",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcU5RT0JPdDV4THBVQ1pUS0U3RnRpR3VYQTJ5THdjeW5WRExMSjNPS1dTUVNWVGh5RFhjMEF6MGw4Wi1ib05nRFFxbTJLWEFHUUNUa3lJanJUc1d5MEdIS1BqQl9KeFJVTDk4VE5xTDhMTVk5N21ZQUs0aEotZ1N5MFFVZE5pRVNpaWNZX1BDLWFBQjc5aG1ETkNJRHQzRGNocnFoUTR6QjczcHlSa3FMTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-031",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Used car prices continued to rise in June, Carfax reports - CBT News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBoUmtySWRmX3BacWJuM3h2dXFTVnJ1Q1ZvSjFKeHk4UlcySUlPc3djZEZvd0lQd045QmgyUVBKTDE1MUJuZkJEZ0VTUkFIMHg2eUV4amxudjJlNEZwMEZIQ01Rd0VPTDJma3ZrZ0lJZF",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoUmtySWRmX3BacWJuM3h2dXFTVnJ1Q1ZvSjFKeHk4UlcySUlPc3djZEZvd0lQd045QmgyUVBKTDE1MUJuZkJEZ0VTUkFIMHg2eUV4amxudjJlNEZwMEZIQ01Rd0VPTDJma3ZrZ0lJZFVlUlBwSnQwcjhHQndHQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-032",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is a Life-and-Death Test Approaching for the Automotive Market? Market Value of Listed Car Companies Drops by 1.1 Trillion Yuan in Half a Year - 36Kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE96UUlsSHN4Zk1aemJQZ3lzWnIxUEQ0eU1OX0U3TGUxNFgzREhDcFc0Ulk2aFlYQXI3X1JtRGFzWDZBc2lSVVRuVmhMZFZ3RUhUcm9j?oc=5\" target=\"_blank\">Is a Life-and-D",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96UUlsSHN4Zk1aemJQZ3lzWnIxUEQ0eU1OX0U3TGUxNFgzREhDcFc0Ulk2aFlYQXI3X1JtRGFzWDZBc2lSVVRuVmhMZFZ3RUhUcm9j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-033",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why dealerships are redesigning service bays into customer showpieces - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9UOXY0VHRzc2dBcXd2Y095cjVIZUlPV2VaYTA5NDhPY0N3XzVVc2NEekV3N09LXy1HWEcwMFZHMTZwXzVfd1RqWVV2d2ZPb2JEZE45RE1YZEFtQmxWanJXTWtMQnE5aFFYeVNDZW",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSm9UOXY0VHRzc2dBcXd2Y095cjVIZUlPV2VaYTA5NDhPY0N3XzVVc2NEekV3N09LXy1HWEcwMFZHMTZwXzVfd1RqWVV2d2ZPb2JEZE45RE1YZEFtQmxWanJXTWtMQnE5aFFYeVNDZWhUdGthdmFKZGFMSXZNRVlGOFc0TGN6YVNsVVY2TEU1RW5YX0RQRDQzaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-034",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "French EV sales reach ‘tipping point’ in June at 30 percent, analyst says - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE45U2xSZVlnZW15Qi1raEp4UV92dzBmQTgwdEZSdlNBc2JTZlhkYl9DaVRhX0lMZ2RrUzlNQkNucnlyWkRiYnpzOEVhTnFqV2hLODJ1bm9wdGplMEdlWnBwUXJ0djJxX0V6LUJDdk1iSQ",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45U2xSZVlnZW15Qi1raEp4UV92dzBmQTgwdEZSdlNBc2JTZlhkYl9DaVRhX0lMZ2RrUzlNQkNucnlyWkRiYnpzOEVhTnFqV2hLODJ1bm9wdGplMEdlWnBwUXJ0djJxX0V6LUJDdk1iSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-035",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "North American EV demand slows as hybrids gain momentum and automotive OEM strategies reset - Fastmarkets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmswQ1hGaFFSX1Q0TVp6VHdhaXFVN19PZzZWUF9adDYtY0JMclBCaEF1SVdUbmhfd0RwNlFIdTU0OTloX0p6ejhDVk9TUEZYVTg2V29nZmQ0N3NSNjJxZllLa0RRSlRFbjBDODJDaD",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmswQ1hGaFFSX1Q0TVp6VHdhaXFVN19PZzZWUF9adDYtY0JMclBCaEF1SVdUbmhfd0RwNlFIdTU0OTloX0p6ejhDVk9TUEZYVTg2V29nZmQ0N3NSNjJxZllLa0RRSlRFbjBDODJDaDBWU2M4YWhrMjE3MVBfbmJRV25lYk90NXg2a29ra0VsVnVQTlQzU3cwVkxWRG95bXo3WTFtUjdEZlNKSVhvMUJIVDJ4bS1JVC1UYzczOUwxTlMzNnlHOHBwTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-036",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Surging oil prices drive demand spike in Europe's used EV market - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMllDVTk4THpta1VPZU1TU0ZhUzdLVy1EYlNZcHpmVTM4Y1N4Q2Z4b2Ewd3pvR3VrMXVTTzdRSXhjVWZ2bUhWdmcwb2hrekszOHA3SkFUQlVJaWRJYmNYaHdFS3kwaTJoUkRzMTB0VV",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMllDVTk4THpta1VPZU1TU0ZhUzdLVy1EYlNZcHpmVTM4Y1N4Q2Z4b2Ewd3pvR3VrMXVTTzdRSXhjVWZ2bUhWdmcwb2hrekszOHA3SkFUQlVJaWRJYmNYaHdFS3kwaTJoUkRzMTB0VVpoMTF3SnR4UW5QWGlpd0RKYlBOUnQ1aGV4S2Iw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-037",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World PTFE Venting Membrane for EV - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkc5cUFweHd3Y2NtU3YtcTN5STFxZWo0TDRVMHJvTS01TUFPS2pmLUN4RjV3UVByeTZnN0hvVnkyN0VrcDBCTzJTd2E0cHROMDIza0czRlZCYXRYS2lnLTZaeHl1S2dYMUlUY2Vad2",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkc5cUFweHd3Y2NtU3YtcTN5STFxZWo0TDRVMHJvTS01TUFPS2pmLUN4RjV3UVByeTZnN0hvVnkyN0VrcDBCTzJTd2E0cHROMDIza0czRlZCYXRYS2lnLTZaeHl1S2dYMUlUY2Vad2RRNjl3VXFGYmJtbHFIYWFHOEJROWdQUWtGSWxiTUhPRmFMS3B4ejlWQUhrVmc1YWJkY0ZmbkkxR1lkSldrTlNZSjZDODg2b3VraFVTYnRQUEpKS013M1dCcTBqUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-07-01-038",
+    "date": "2026-07-01",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD Accelerates Global EV Expansion as Chinese Automakers Capture Dominant Market Share - EVTech.News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2N4WjdOcFZqdDBnYzhjSlR6U05adzRuQ2NDTUNRc194YmF2ZlFTaXF1ZTVyaHg5aDJHaVZMb2puS0FWRng0X3pxeXMwdVg4TDZ0dTFCWi1QejBUUDFiVlkxOHdTLVByWGhEWDVhdX",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2N4WjdOcFZqdDBnYzhjSlR6U05adzRuQ2NDTUNRc194YmF2ZlFTaXF1ZTVyaHg5aDJHaVZMb2puS0FWRng0X3pxeXMwdVg4TDZ0dTFCWi1QejBUUDFiVlkxOHdTLVByWGhEWDVhdXlRMDhDUG1hSU9lUERFc0xvY1BvUUlsYl9Ea0pHdFVJQmhSeEZoUERyaDVfckVIeWU1VWFMUHIzUi1lSC1lYWZHMWl5cm9QOEVJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-039",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "InstaVolt surpassess 1,000 EV charging sites via GeniePoint acquisition - Mobility Plaza",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ybU5Uc1h6VHRLQW5QVDJjYjloczZtRVNRRmwyelI0OE05WHhJdzdSTk1KNVFLM1JQaVpIYm5oTTNWOHRTNEZCcG5QbWQtaGc3eEE?oc=5\" target=\"_blank\">InstaVolt surpas",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ybU5Uc1h6VHRLQW5QVDJjYjloczZtRVNRRmwyelI0OE05WHhJdzdSTk1KNVFLM1JQaVpIYm5oTTNWOHRTNEZCcG5QbWQtaGc3eEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-040",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Electric Vehicle Battery Global Market Demand to Surpass 2,000 Gwh by 2035 Amid Accelerating Electrification - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWU5LcDVmTlNtMDU5N292S3k1T0RLWGluSFpuVXRuOWxseVBSOHFZQXRuM1owWmRtNEJBYlpydFN1Z25YZEZFb0JENHdibG14MGhkTGVrVDVOcFk2MldqVTRvbzJvQVVtRGZBYU04Zn",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWU5LcDVmTlNtMDU5N292S3k1T0RLWGluSFpuVXRuOWxseVBSOHFZQXRuM1owWmRtNEJBYlpydFN1Z25YZEZFb0JENHdibG14MGhkTGVrVDVOcFk2MldqVTRvbzJvQVVtRGZBYU04ZnZxa2V1NHFiTXNyS3ZFY3F3R3BJRWxCa0d1SEpLWGlPMFppR2JNeGV0MHhIQ1ZleUphS1JKNmhHeWczeV9sN1JVeDdVZUZ6NXNNMjJtbmVBajBmVnF0TGg5UTFoWVFUcWw5YU5wWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-041",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EV Battery Cathode Market Demand to Accelerate by 2035 Amid Global Gigafactory Expansion and LFP Shift - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2Rndm5fUnU0d21OZjB4b0ZQSGJRWWhrM0tack5FbGNHUDFOaGZfN0NJQ2VfdU1jWnhOSUgzQ25kU3JaZXRYYmFkWllBQ0M3LVFyNTVwZGlsRDNMWjdwQkl1VUh6cF9VS3pQbDhteG",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2Rndm5fUnU0d21OZjB4b0ZQSGJRWWhrM0tack5FbGNHUDFOaGZfN0NJQ2VfdU1jWnhOSUgzQ25kU3JaZXRYYmFkWllBQ0M3LVFyNTVwZGlsRDNMWjdwQkl1VUh6cF9VS3pQbDhteGRyVmdqVUV1aEpoeTRqOFFGeEp4b0h4VzRvRy1MVlZqWjdrLUhfZ0pqc09xSHdtY0piRl9MOHRTVnVIMEprQ1hIUGdtcldVd3BlWmM3T3dUOFpza09FWHBZd1o0a2k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-07-01-042",
+    "date": "2026-07-01",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Distributor That Killed Citroen After Ferrari Outsold It Just Axed A Second Stellantis Brand",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/Peugeot-Partner-1-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bot",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/peugeot-australia-distributor-exit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-043",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bugatti’s 261-MPH Hypercar Has A Gas Cap Made Of Fine China",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/07-BUGATTI-Sur-Mesure-KPM1-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" sty",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/bugatti-mistral-porcelain-edition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "honda-2026-07-01-044",
+    "date": "2026-07-01",
+    "companies": [
+      "honda"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Honda Sold Her the 15 Millionth Accord. Her Sister Bought the 15,000,001st",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/04-Sisters-Andrea-left-and-Alondra-right-flank-American-Honda-Assistant-VP-of-Sales-Jessika-Laudermilk-wit",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/honda-accord-15-million-milestone/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-07-01-045",
+    "date": "2026-07-01",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota’s Getting Into The Aircraft Manufacturing Business",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Toyota-Joby-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 1",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/toyota-joby-manufacturing-alliance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "honda-2026-07-01-046",
+    "date": "2026-07-01",
+    "companies": [
+      "honda"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Honda CEO Teases Imminent Nissan Deal",
+    "summary": "It won’t be a merger, but rather a collaboration on several projects.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/800262/honda-ceo-teases-nissan-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-047",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lamborghini Just Built Its Most Powerful SUV Ever",
+    "summary": "The new Urus SE Performante packs 800 horsepower, less weight, and more agility.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/800221/lamborghini-urus-se-performante-specs-details/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-048",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 250-Year History of U.S. Energy Consumption",
+    "summary": "<p>Over the 250-year history of our nation, energy consumption has evolved from wood use in the 18th and 19th centuries to today’s use of modern renewable, hydrocarbon, and nuclear technology. In 2025",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/30/the-250-year-history-of-u-s-energy-consumption/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-01-049",
+    "date": "2026-07-01",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Old Teslas Starting Getting Full Self-Driving v14 Lite",
+    "summary": "<p>One of the gripes of early Tesla &#8220;Full Self Driving&#8221; adopters (like me) is we were told that our cars would have all of the hardware necessary for true full self driving — the kind wher",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/30/old-teslas-starting-getting-full-self-driving-v14-lite/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "arcelormittal-2026-06-30-001",
     "date": "2026-06-30",
     "companies": [
@@ -943,6 +1894,1826 @@
       {
         "name": "motor1",
         "url": "https://www.motor1.com/news/800143/toyota-reliability-edge-chinese-rivals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nippon_steel-2026-06-30-049",
+    "date": "2026-06-30",
+    "companies": [
+      "nippon_steel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel, one year after the sale to Japan's Nippon Steel - Axios",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WRmkzRk82TGlHYTZldkMzQ1RCcmptcklSRVdYT1plOUw4Vy1UZDM3Yzg1SXJZOEpZUXdMMnlfUHkwTXVhLUx6b3hzcjZQdGhZdnhqZnUtUWNHM3Q5M2k5RFRmOXc?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WRmkzRk82TGlHYTZldkMzQ1RCcmptcklSRVdYT1plOUw4Vy1UZDM3Yzg1SXJZOEpZUXdMMnlfUHkwTXVhLUx6b3hzcjZQdGhZdnhqZnUtUWNHM3Q5M2k5RFRmOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-06-30-050",
+    "date": "2026-06-30",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Build your future in Marion: ArcelorMittal launches hiring campaign - crawfordcountynow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTB2Wkxpamhpbng4bFVndWdxOTF2b3ZrbDF3My0tbktuOHF1d1dwbk53XzJLUmNlS3g1S2VJbzlPYk1zMFVRcndISk1hamgxcUUtR1dIRjhDUDI1c1NqUktuWDdaM0gzLXgxS1o1aU",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTB2Wkxpamhpbng4bFVndWdxOTF2b3ZrbDF3My0tbktuOHF1d1dwbk53XzJLUmNlS3g1S2VJbzlPYk1zMFVRcndISk1hamgxcUUtR1dIRjhDUDI1c1NqUktuWDdaM0gzLXgxS1o1aUp2a3Fkbjd5MFFEVWR4dWVQLWtYSkNwUUNJY2pwUFZpbVhzTnpXcVl6dkhTNWtQb1Q2cXVaVUZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-06-30-051",
+    "date": "2026-06-30",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ArcelorMittal announces commencement of the second tranche of its 2025 to 2030 share buyback programme - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzI3QWFlSXVCNzdoYVJOZUEwc3lxSHd3ZWM4azJNbkk4UzVvY1BfTk5VVmJmUWVzXzI0QURGZDNvdWJvSUdQOEFMdmI3Q1ZHcFRoSWY3ekpsMGRsd0pVc3RqSnB3bmNuX2J2NjB2RD",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzI3QWFlSXVCNzdoYVJOZUEwc3lxSHd3ZWM4azJNbkk4UzVvY1BfTk5VVmJmUWVzXzI0QURGZDNvdWJvSUdQOEFMdmI3Q1ZHcFRoSWY3ekpsMGRsd0pVc3RqSnB3bmNuX2J2NjB2RDhvM1pBS0hGQU9mY21aVUF6aUZ4eHA2Y1p4dzhnSTJsRVh4bVN3Y25WMkkzZ3RsdmN0ZGFtRjFnWmF2LV96cjVHeUZaTENXM1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "bridgestone-2026-06-30-052",
+    "date": "2026-06-30",
+    "companies": [
+      "bridgestone"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bridgestone Battlax T33 Sport Touring Tires Review - Rider Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0lqYjQwTktTVTVkdWNyNTRaWHVZZkZVUTJHbVNpWU9CYnY5TVdDNThoRWc2VnhGQTNZUDVnOU4zUE5WX3ktdkRmS2h3X2hrTFN2VEoydGZ4NjVUYTA4LUNKYVY2cTRxc1pfb05MZX",
+    "sources": [
+      {
+        "name": "bridgestone",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0lqYjQwTktTVTVkdWNyNTRaWHVZZkZVUTJHbVNpWU9CYnY5TVdDNThoRWc2VnhGQTNZUDVnOU4zUE5WX3ktdkRmS2h3X2hrTFN2VEoydGZ4NjVUYTA4LUNKYVY2cTRxc1pfb05MZXNYeGdSQnNlZF9DMHJNU25jYkdUOHZMQ28zNVNSTEhkVEQ2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-053",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SAINT GOBAIN : Buy rating from RBC - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTcxMUUtb2VCSHFuQTN1MDRGOXU1QUh5RWtETDJtdWZCWW1Zdy1XQ1JaeVdldDJuMmpBQmg4b2phVmhBYW9sV3BuVWN6RXJHbVJYb0o3T0NEdWNPd1hFM01YLWpmRUswQUJJSUllcX",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTcxMUUtb2VCSHFuQTN1MDRGOXU1QUh5RWtETDJtdWZCWW1Zdy1XQ1JaeVdldDJuMmpBQmg4b2phVmhBYW9sV3BuVWN6RXJHbVJYb0o3T0NEdWNPd1hFM01YLWpmRUswQUJJSUllcXIzemZDY2FlTElhQVN3M2RxdEpYUUg0RXBwY2s2c2Nn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-30-054",
+    "date": "2026-06-30",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Gallery of Winners Announced for the 21st Saint-Gobain Architecture Student Contest - 3 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxPOFVydExPNk9YcjRVVkV0cVdfZHFsYXRfa0NudEhPMlMtS0FjanJwNVBEQmlrZzVWWk9vWUxmVHltNWJUbVZHNnlZeXRjZ0c1UFdPVWNMc09feHlLbFhibmZWZF8tY3FNdFBMNTNubG",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPOFVydExPNk9YcjRVVkV0cVdfZHFsYXRfa0NudEhPMlMtS0FjanJwNVBEQmlrZzVWWk9vWUxmVHltNWJUbVZHNnlZeXRjZ0c1UFdPVWNMc09feHlLbFhibmZWZF8tY3FNdFBMNTNubG9JekUzRFNNOEtKSjZUQW1RLU10a2d3LWJRSktiU1VsX0x5T3ZkU3RVU3VJSmZrX2Z0U1dVaHlSUFlPQ0FpMG1uV1dIT1d4MVhrdWJfRUVkdmtBSGotX0hIV0szY3BSNW5UU0dvWW8yZTMxOEtJNXlxNTU2Yy1GSG1hSHpHOFJyV0FpZVNvQkRSRkNJRkctdjB4V1NkRnJydzVFNEpEUC1rUklicGZoMlB2emJfR2V0SEpVQVdUTm1yMlNKakdhTU9WUlpfMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-06-30-055",
+    "date": "2026-06-30",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gallery of Winners Announced for the 21st Saint-Gobain Architecture Student Contest - 2 - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxPN2gxM3g3aUV0cEx4d1FjWVFqYXc3NWhLZDBEYUtiS0VYVXdkUVhvaUVNYUVnZTVnUFBOaGtMRmlJSFNzNVJSb1piSzU0bUczVGhWRTJEYy1XdjdSb3kwc3VfaW1Za1g3cUtDSUR0Nk",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPN2gxM3g3aUV0cEx4d1FjWVFqYXc3NWhLZDBEYUtiS0VYVXdkUVhvaUVNYUVnZTVnUFBOaGtMRmlJSFNzNVJSb1piSzU0bUczVGhWRTJEYy1XdjdSb3kwc3VfaW1Za1g3cUtDSUR0Nko3Unl2V09mTWMtazRrWnBHUEpYenhfOENtdVFTQ0tIUXBVSHpxRFRJTEc1LVBlSU1CVU04U0F3Q0hQXzFsd0p1N3U3VGI0NmUyR1UzQ1J1OVVVVXdYZ3NVek04SWExU0NYanRqWkZxOHpkM1h4Y3ZjUm9PSDJ5X0IxNzZOUkpxN3VkUzJYWERhejYxdmRRUjhkYXFUNU5ESzZnN19rNHRMbmhUdmxqWG9jS0pBdlg5V1NHVjVTeWhlWmZyNnZNajlyZ2hZOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "3m-2026-06-30-056",
+    "date": "2026-06-30",
+    "companies": [
+      "3m"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The material advantage: How 3M is helping to power Cadillac’s Formula 1® future - 3M News Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUZ5anE4MGRWTnM5NTVEQVc3QkRnNEtvQ09MTXFsLUtDN3hXWkVIN1UxOURnZ1BWaldERVlqSGdxZEJlelZlQ0NVQXlNckZheWNuVjQ0R0VVMkVCc1NaNXk3Q19Hd2VUbUJ3S0pUcH",
+    "sources": [
+      {
+        "name": "3m",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUZ5anE4MGRWTnM5NTVEQVc3QkRnNEtvQ09MTXFsLUtDN3hXWkVIN1UxOURnZ1BWaldERVlqSGdxZEJlelZlQ0NVQXlNckZheWNuVjQ0R0VVMkVCc1NaNXk3Q19Hd2VUbUJ3S0pUcHdIZVpZRFAyanJjR1VMSmV6UUt5dEZCeXB2N3VXSm1VSGU2Qzh4UHBGT2xnNEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "3m-2026-06-30-057",
+    "date": "2026-06-30",
+    "companies": [
+      "3m"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3M backs Cadillac Formula 1 team with materials science - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2FhWnRZSzdfMnNTOHJ0QVE5YmFOclVsakl2cDlHTlVxNnZ3SEswYUpGSmhZcGhmeVZLR2syR3F1UGhBUXJ4SzNQRjU4WVprWHB1WGoyMUdWd215cGJYbW14SEoyRmQ4dk8zNnd3ZV",
+    "sources": [
+      {
+        "name": "3m",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2FhWnRZSzdfMnNTOHJ0QVE5YmFOclVsakl2cDlHTlVxNnZ3SEswYUpGSmhZcGhmeVZLR2syR3F1UGhBUXJ4SzNQRjU4WVprWHB1WGoyMUdWd215cGJYbW14SEoyRmQ4dk8zNnd3ZVBkdkZrMURqZG8tV3h4ODZYQk01V2VWMGNxMnNfa212QXZZZW5QWXNqb2RRN2hLRl9XcW42QkRpazZzc1RleFNSVjc0LWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "3m-2026-06-30-058",
+    "date": "2026-06-30",
+    "companies": [
+      "3m"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cadillac F1 Team partners with 3M to boost car performance using advanced materials and tech. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3hqVllfMWFCbVVrU205T2FBTVhJckxXUFhzVzNhTWxpbUxGTlZpTFZpX05PTjlXUUVuMGtQNVlwcXVlWkNTeC16cG4yMXhFZW43RDBuQW1TRkVIQVMzTTlCMXRUc1V0WWRXV29uNz",
+    "sources": [
+      {
+        "name": "3m",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3hqVllfMWFCbVVrU205T2FBTVhJckxXUFhzVzNhTWxpbUxGTlZpTFZpX05PTjlXUUVuMGtQNVlwcXVlWkNTeC16cG4yMXhFZW43RDBuQW1TRkVIQVMzTTlCMXRUc1V0WWRXV29uNzFYeTBkZEp3ckQ3RktrdnlKNk5ZZW01UkcwNVE3QnhVMElDeDdLVEFSdGVuM1pnbzhxSzYzRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "3m-2026-06-30-059",
+    "date": "2026-06-30",
+    "companies": [
+      "3m"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3M joins Cadillac Formula 1® Team as Official Material Science Partner to accelerate racing performance - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWDA1OGp0U1o2YzllU201NTFaemlTcWc2RC1nbEFHNDdYeEVNeFhkZzBJT21KQklna3A2RjlMUDVKRTBhWkZNOVNOb2lPSlgyX3pQbjRlYjQ4Ui0xeWdUcUstVjNraG5mVFZMd0phU2",
+    "sources": [
+      {
+        "name": "3m",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWDA1OGp0U1o2YzllU201NTFaemlTcWc2RC1nbEFHNDdYeEVNeFhkZzBJT21KQklna3A2RjlMUDVKRTBhWkZNOVNOb2lPSlgyX3pQbjRlYjQ4Ui0xeWdUcUstVjNraG5mVFZMd0phU2VYQWl2LTE5YnFuSXNHYnhSMklIaUNyamEwRldGMFUyRlV1d1pGQkczRWg0Qm9GN2g5eVltc3FaQ3U5LS1yMFBUdk1MYTdrcV9LQnhDalh3ZVNNa3JNenBmbzRXU19HMk4ySS13WmlWZWJKMHlwYXFYbEFsWW1FQlpid0tZUnNscw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-06-30-060",
+    "date": "2026-06-30",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Regional bathymetric map of Southern California and California Continental Borderland - USGS (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdWw4YjQ4VGxkVXBPX3JtczJmOU1MeEtYajZqaC1LS3dLMDBSZjR3RXN0dVFMMm84di1oSGgwTzg4WmtjLWNOZnJNeWxQT3o4M1hGamk0dm9hNHJ0cW1KS3pwaDdxLWZteEhCMjhud1",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdWw4YjQ4VGxkVXBPX3JtczJmOU1MeEtYajZqaC1LS3dLMDBSZjR3RXN0dVFMMm84di1oSGgwTzg4WmtjLWNOZnJNeWxQT3o4M1hGamk0dm9hNHJ0cW1KS3pwaDdxLWZteEhCMjhud1N2ZlU2V2FuZmdIUjM5TzhfX3hQTGcteV9YVjJhX0xHMWU3SnFsQTEycjdxUFlMUDdXdG1WWDBfSWMxVUFiYUstWGFBQkk0aDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-06-30-061",
+    "date": "2026-06-30",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "75 Years of Little League: Canyon View, Tanque Verde and Continental Ranch win District Tournaments - ALLSPORTSTUCSON.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFpPdjBqRW9LN0U5Vi05TnVGR2RRUHZCcXhyTzM2ZEdnZXJvY3kzLTVLQ251LWlRS2xVNDR5ZXV5SktYMk5WQjE1YjlZYnFadWNsOWt6TXBwSmd6ZUF4OWozeGJVQThxMVlXbk9WN1",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFpPdjBqRW9LN0U5Vi05TnVGR2RRUHZCcXhyTzM2ZEdnZXJvY3kzLTVLQ251LWlRS2xVNDR5ZXV5SktYMk5WQjE1YjlZYnFadWNsOWt6TXBwSmd6ZUF4OWozeGJVQThxMVlXbk9WN1lYWTN6N2pnYVR2c0kwUDR0bFU2eW9HT0xodUFtX240dlBHLVRBTl9FNjlxbEhVaUNNb1RtVVhBRHVRWUp5WGZ1N2JJdzBxaFJrakl6MU1pd1NaM2NncDVmZWF6MDEwZjJaamM0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-06-30-062",
+    "date": "2026-06-30",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Phillips Inc. Hires Continental Strategy for Environmental Policy - Legis1",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAyMkxaNUNtSF94TFBRbkF0VkVvNlQ5X0dZbVR4OXBDaUhVNVhvaGo5aTNGTEJqcldTSVg5bmhaTVdiaW1MMDlEQ3ZmZENyR3ota1ZUQU94RlFvRFRsdUJmYU1HdFJLRU1uZ0tmVFQ3LV",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyMkxaNUNtSF94TFBRbkF0VkVvNlQ5X0dZbVR4OXBDaUhVNVhvaGo5aTNGTEJqcldTSVg5bmhaTVdiaW1MMDlEQ3ZmZENyR3ota1ZUQU94RlFvRFRsdUJmYU1HdFJLRU1uZ0tmVFQ3LVhlOURoR29fY1g0Nno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-06-30-063",
+    "date": "2026-06-30",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Brian Cage Would Like To Participate In 2026 AEW Continental Classic - Fightful",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQam1XN0xlQ1lqbFNZbmdoZXpyNmdLMVRuVjRLcGVLczVHN1dFUFNCa2xTS2FGRFlLRmdaWlozUU9WeUJUZWFmRjZoQTBITU12WmlLSzE2VGZoYk9fUDZmUlNvMXZZN1BLQ0JzVEFSOT",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQam1XN0xlQ1lqbFNZbmdoZXpyNmdLMVRuVjRLcGVLczVHN1dFUFNCa2xTS2FGRFlLRmdaWlozUU9WeUJUZWFmRjZoQTBITU12WmlLSzE2VGZoYk9fUDZmUlNvMXZZN1BLQ0JzVEFSOTNORzl0bjdSZXlZdzJBVlp5c1ZYX2F0LXUwN0F1MWRKejY1cTRQMDVGc1VTbVlYQ1gxZWp2RVBBQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_mobis-2026-06-30-064",
+    "date": "2026-06-30",
+    "companies": [
+      "hyundai_mobis",
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hyundai Motor, Hyundai Mobis Accelerate Future Mobility with Robotic Maintenance and Shared-Growth Investment - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBYNWx3MVAwd0RsUkp1RXBZVnpVWDJNSjVxMzEzdnNMMkgzVFhCRmRJb0FfRnNBR3NmVWJQMHNLeTVESWhTYjktdldpMG00UmdySFJhVTlmNTRRbURRcUhwS3pSSDlVbS1nUFdyb194S1",
+    "sources": [
+      {
+        "name": "hyundai_mobis",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYNWx3MVAwd0RsUkp1RXBZVnpVWDJNSjVxMzEzdnNMMkgzVFhCRmRJb0FfRnNBR3NmVWJQMHNLeTVESWhTYjktdldpMG00UmdySFJhVTlmNTRRbURRcUhwS3pSSDlVbS1nUFdyb194S1lGcVN0VWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hota-2026-06-30-065",
+    "date": "2026-06-30",
+    "companies": [
+      "hota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shen Kuo-Jung, President of Hota Group, to Take Helm as Chairman of Gus Technology on July 1 - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5wM004ZHR2SkdzdFhsZTlqZWxKa1NOdUtpQzYzNXZULUdTcDhQWTQwb3lXN2FMa3ZWMWlvYm1pamxDYkdNdGJEbVU2eG5BLXU2eGJFWktzbUVBQmhjbUtmUWRxbV8wUDZWSjNEdHNhRD",
+    "sources": [
+      {
+        "name": "hota",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wM004ZHR2SkdzdFhsZTlqZWxKa1NOdUtpQzYzNXZULUdTcDhQWTQwb3lXN2FMa3ZWMWlvYm1pamxDYkdNdGJEbVU2eG5BLXU2eGJFWktzbUVBQmhjbUtmUWRxbV8wUDZWSjNEdHNhRDZoc0kzT2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-30-066",
+    "date": "2026-06-30",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota Is Still The World’s Biggest Automaker, But The Cracks Are Showing - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXJKSDlQel8tQWZxSTNMWlFyN0VvWHREQVpuNWtHc0E2VlhiRWJNOTBNeUpTckRDRXltdUtfallZZTNBUHJXSjlmUFpMdlFtbmlKbU9uMVlBb1FTTE9QeXR2QlVPcDFQZTYtSEJRdW",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXJKSDlQel8tQWZxSTNMWlFyN0VvWHREQVpuNWtHc0E2VlhiRWJNOTBNeUpTckRDRXltdUtfallZZTNBUHJXSjlmUFpMdlFtbmlKbU9uMVlBb1FTTE9QeXR2QlVPcDFQZTYtSEJRdWxRQXE1UUJfS3VjRG42WW52OEJoLTQ0T2t1SnBZM1JQa3JQaGM2RndjbTlxMWRFUU54NXpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-30-067",
+    "date": "2026-06-30",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota Is Still The World’s Biggest Automaker, But The Cracks Are Showing - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGZZR1Y4Uzh5eWpEamVMLUhQSEdYTWNxZ2IwQ0FFYUQ1U0RiQnFUbjRDX2haVjN1TTBRR29WbG9sbVpNWlpnc0tZbUwxS3d6WWs1aHpka2NHSmhzMXJaejg4RXgtQjMwZGZGX3NOLV",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGZZR1Y4Uzh5eWpEamVMLUhQSEdYTWNxZ2IwQ0FFYUQ1U0RiQnFUbjRDX2haVjN1TTBRR29WbG9sbVpNWlpnc0tZbUwxS3d6WWs1aHpka2NHSmhzMXJaejg4RXgtQjMwZGZGX3NOLVczSVVXejVCMHFhSTU1eVd4RHVSV3RpUVlF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-30-068",
+    "date": "2026-06-30",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota to launch joint venture with US flying car maker Joby Aviation - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxON1lhTkwyMHNkZnBTVHE2cGJlTTB1S1pGNGdzN0lneTdlVzhScDFtdUMwdktCclVXZjhCMEtialpJbmZrRW5xbktqTWRGWERELTdDZjN2NDlub1VSUGNTZlVWNGxHTVE0S0hFSjNCaU",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON1lhTkwyMHNkZnBTVHE2cGJlTTB1S1pGNGdzN0lneTdlVzhScDFtdUMwdktCclVXZjhCMEtialpJbmZrRW5xbktqTWRGWERELTdDZjN2NDlub1VSUGNTZlVWNGxHTVE0S0hFSjNCaUt3RXVpeVRwUHBUbjFrVUlIQS1TUmxFVFBIaGdiSVdIeWRqeWRpNkgxbkpaT29NN2M5X3NrVWMxSWVFMVZ4aVFVb05CalFKVlpO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-30-069",
+    "date": "2026-06-30",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen’s crisis in five charts - The Mighty 790 KFGO",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9pbVEzVEV5OXhfUXBkUU8wY1lUS1EzNklpTkE1dFVZeDhVZkJONEpfNVNBR09KcVJMX3lKR2xKbmd0b2x0aWlYVGc4XzhtNEZpQlNSc3p0QXR1Q2ZfS2YyUEFiLW1uaHFjNVU1ZllEUQ",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pbVEzVEV5OXhfUXBkUU8wY1lUS1EzNklpTkE1dFVZeDhVZkJONEpfNVNBR09KcVJMX3lKR2xKbmd0b2x0aWlYVGc4XzhtNEZpQlNSc3p0QXR1Q2ZfS2YyUEFiLW1uaHFjNVU1ZllEUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-070",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Recalls More Than 740,000 Vehicles Over Transmission Issue - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFpkM3R6UUExSVhnV3Q3dWlEYjlHLUpCYmJqS1Ytb1p2aW1DZUhWaTVSWmt0MlVTUlZBNnVTVVlaS0tjSldoZ0dWeHlNRXRjY1pGOXoyYzB4YU9jZEN6Ri1BdXFDb2I1ZlpPcnBwdX",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFpkM3R6UUExSVhnV3Q3dWlEYjlHLUpCYmJqS1Ytb1p2aW1DZUhWaTVSWmt0MlVTUlZBNnVTVVlaS0tjSldoZ0dWeHlNRXRjY1pGOXoyYzB4YU9jZEN6Ri1BdXFDb2I1ZlpPcnBwdXZGZnRUbGU0cUVMRlNSVHhBRHVjWkZGOHFMb1RSV084dkktSWxBUTdOcXR3OUNmOVdTOUJuZ2diSXl2Ykk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-071",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here is What to Know Beyond Why Ford Motor Company (F) is a Trending Stock - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVlZS0cyR1FEbTNpbEhxXzdfQVU3cUVkaXQ2bnNxM3cyMklUcWhBdnZYekxyek5BRkpvOWE2blI1cFRUX0RVelRTX2Z5RVNJZHh0eU8xajJZbnZzRUNyaGhfejl1UlIzX0RBcFJjTU",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVlZS0cyR1FEbTNpbEhxXzdfQVU3cUVkaXQ2bnNxM3cyMklUcWhBdnZYekxyek5BRkpvOWE2blI1cFRUX0RVelRTX2Z5RVNJZHh0eU8xajJZbnZzRUNyaGhfejl1UlIzX0RBcFJjTU9uZnZQYkNCeEVMb3JjbVp2eUVYdHJtY0dmNDkyVWF6bnpBOHI4WlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-072",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford recalls more than 741,000 vehicles because faulty park system can lead to rollaways - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBuek85clA0bFdJOGlKbWFKWWkxMmVlMmpLSnNuSjdNSW1tQ2dIcm9lcG5BbXR3d1VSVm1YLURraE93OXVaZFlCN0NHdlcwY25ibEpvSndJVEh1Qm1JTTJJMU9VS0ZvdGJtYkV5RlpHWG",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuek85clA0bFdJOGlKbWFKWWkxMmVlMmpLSnNuSjdNSW1tQ2dIcm9lcG5BbXR3d1VSVm1YLURraE93OXVaZFlCN0NHdlcwY25ibEpvSndJVEh1Qm1JTTJJMU9VS0ZvdGJtYkV5RlpHWGZKQkFRcWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-073",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford to Recall Over 741,000 Us Vehicles Due to Park System Issue, NHTSA Says - GV Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2cydUxGam53amxRVUNHSGZNM3o4RWVnakhEUU1iYnc2MHdPT2xzbHJ2amxyZnR2TVlDM1AyZWcxT1pNanh1VE1OYTJENmlJQnFkaE9vazRsRXV2eG11MlR6VTh1cDhRSm5YMzNGMn",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2cydUxGam53amxRVUNHSGZNM3o4RWVnakhEUU1iYnc2MHdPT2xzbHJ2amxyZnR2TVlDM1AyZWcxT1pNanh1VE1OYTJENmlJQnFkaE9vazRsRXV2eG11MlR6VTh1cDhRSm5YMzNGMnY3UWFpejdwTHR0aVlfWDM4d25qU2d0Y1NTMm95M2lmOWozSUdlbzRHUUJXdzQtMEd4UlVLNGM1OVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-074",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "ev_penetration",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford has entered a new phase of world HQ development - WardsAuto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeV94NUV4djlSSFY0ZDlySTVDQVEza0xaRzJoWXhJZHd3ZWhDR3d4Sl81Zmo2V1I4WU1TTkZsMV9KVVFFd3czZHZhUzk2dmx0eEk4dHM2LUdpb0NyUWp4d0lHUzNHOEdlVE9NTE9MTF",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeV94NUV4djlSSFY0ZDlySTVDQVEza0xaRzJoWXhJZHd3ZWhDR3d4Sl81Zmo2V1I4WU1TTkZsMV9KVVFFd3czZHZhUzk2dmx0eEk4dHM2LUdpb0NyUWp4d0lHUzNHOEdlVE9NTE9MTFVYdUJiaXg0Q1I2cG5La05OUkxycEN0X3NMWE5mbjZSNDZWenZWenc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-075",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford issues recalls for 780,000 popular cars: See affected models - Detroit Free Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRG1vNTRqUGFEeHdUMWlIc2U5djdWamZVN2VtSVFnZ1hvNjExYV9lZGwyQnhucllKSUxiM3hpRlJHbExqQVlhSWdWajRRMDBDb2M2MGFUczB4RVJCVzN0cklmNE85VFRJcWlWWWdGLS",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRG1vNTRqUGFEeHdUMWlIc2U5djdWamZVN2VtSVFnZ1hvNjExYV9lZGwyQnhucllKSUxiM3hpRlJHbExqQVlhSWdWajRRMDBDb2M2MGFUczB4RVJCVzN0cklmNE85VFRJcWlWWWdGLS1tZVljSHNiY09XdWtiSGVDU2lvY19Yb1NmVUthSUxRWmFaLVRFYVdDNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-076",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford recalls over 740,000 vehicles. See affected models - Central Oregon Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQam5oRWNDclp3T0c3OGwzcVREUDBzalNxUnc2Q1F1TFBwYjRaVjVCU1FMbTRuUjZPZ19LZS1PWHl5bHlfYkx2b2w1bTVuV1I0ZVRsN2ZxX0s3eHllUTFjMXVZWTNYbUE5Mk84X2RHeG",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQam5oRWNDclp3T0c3OGwzcVREUDBzalNxUnc2Q1F1TFBwYjRaVjVCU1FMbTRuUjZPZ19LZS1PWHl5bHlfYkx2b2w1bTVuV1I0ZVRsN2ZxX0s3eHllUTFjMXVZWTNYbUE5Mk84X2RHeGJ2eVFKY2xIYkJVWEs3bzZnOWt2MFk3cEdnc0RxQVlOWUhmQl93RjEwODFfR3pCNnZ4MVVIN2E2SWxBdHU5VzJPbG5XQ2hEWXJsWWpRVkVnLWVURzF4aEFNUGhYMHZFeFkzVGdQVV9WczJqVi0ycDREOS1NWkZCeXQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-077",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More than 741,000 Ford vehicles recalled - Local 3 News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3prWDNQWGJHdno0UmtaWWZFekd1UHpWalVXQWw5UFBjWF90Q2pwTHV2OVBoNDJwMHFEYWVPRzE4RmE1RzRGeEF3NENaTHNaeUs5NUxHdllrZG1PNUxla1B6ZlI4d2ZrdHluWGRGQj",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3prWDNQWGJHdno0UmtaWWZFekd1UHpWalVXQWw5UFBjWF90Q2pwTHV2OVBoNDJwMHFEYWVPRzE4RmE1RzRGeEF3NENaTHNaeUs5NUxHdllrZG1PNUxla1B6ZlI4d2ZrdHluWGRGQjktVHVlNXRZYWc2cHpxUS1hMHpPS2tPV2l3dEVUaHBZZU5rUWJVQWpROWtfV0ROWHM2Ni1NWWdkOTZ1UVFQWnZUanNHZThaRlVtUGNWeW9KUlpiS0FraVNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-078",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford recalls 741,195 SUVs and pickups after transmission defect raises rollaway risk: NHTSA - Fox Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSm1sZTN6aTBBQ2RpOGs5ZHBGSUFicDZ0N0R3bi1JTjE5bkpMazZhcTZSMTU2TUN3Zk5qRHNPZ0NtMG85X3FmWXZUV21rNFBBOEZJcmJINzQ1REpCVUZqc2FKaF9yelVWVEtkNEtraH",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSm1sZTN6aTBBQ2RpOGs5ZHBGSUFicDZ0N0R3bi1JTjE5bkpMazZhcTZSMTU2TUN3Zk5qRHNPZ0NtMG85X3FmWXZUV21rNFBBOEZJcmJINzQ1REpCVUZqc2FKaF9yelVWVEtkNEtraHRzVTU4THRyc2J4cXNaWUluVnVzU1QyQWRyekFkdnZ3b0hMS0VxeE5vWGk5WXU1OWdiUHd5Y0RPZXpUWXM0Z1RPRzZNdFZnaHd6WFBSN2t5MjTSAcYBQVVfeXFMUGhPUWpPaWdmT0w3dFpJV18tXzFiVV9MTmFxeDg2Sm5PZTdpNDZLQUhzNXFkLUdaaE52aXQ5cmxKT0NPUjJxeDAybU9jeWE2WjJrXy1ad2tKdkg5UGR1RjFnVWpDdWRBZnUzUldjbGdMTXo4aWtkYm54U3F6Zl9jUUxFSmQ4M0J3bmdCX2JVaG9nLVF6elk2Tk4ydks0TFp2dGFVY1JTbVFLZ2IzdTVqMHJyaVVfWVZlTV9TanhFekpJZG1VX0Zn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-079",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford recalls certain F-150s, SUVs over risk for damage to park system - The Detroit News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX0NzWHQtNEhLcTUyQXRRSTdxZWVmcnVSM01LQnJFZzBwWEl3Q1Q3SzJrb3dBbGNId1hQM0ZiV3dWM1JCMDNKWnhEOFV4SjRUSmZmUUpteHNNR2JCRTFBOG5aS3BsODg0VTNHUzVRNj",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPX0NzWHQtNEhLcTUyQXRRSTdxZWVmcnVSM01LQnJFZzBwWEl3Q1Q3SzJrb3dBbGNId1hQM0ZiV3dWM1JCMDNKWnhEOFV4SjRUSmZmUUpteHNNR2JCRTFBOG5aS3BsODg0VTNHUzVRNjVsLXk3QjM0SUFSVVRmZDJqSG10MXhIUk5EbGd4elpvSFVYX2FfMU1uaGd5MVVJZVhyRkhNOThoc2drdXhLelluQ19jcFRfekdUQ3JmR0JXY2Vmb0k5TGtpWjV6aWdQcTlNR1ZkZ3pxVENVT3N2UlJBaldjSThJSHluQXp5NTJvS0ZFbFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-080",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTUyX080ekFObTVtaWhYQ0ZIX0ppLXNjNkhNQkhPSVR5NlpxU0Q2dGRzdHAyTFg4QUpTOUJWVUlZT21qdklXX3NYZUFFa3MwTmJuUDAwcVU0enZCSWFVanlmR2dkNkNJQzlZSDhRak",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTUyX080ekFObTVtaWhYQ0ZIX0ppLXNjNkhNQkhPSVR5NlpxU0Q2dGRzdHAyTFg4QUpTOUJWVUlZT21qdklXX3NYZUFFa3MwTmJuUDAwcVU0enZCSWFVanlmR2dkNkNJQzlZSDhRakJMY3FvemhFZ3F4Mzg3SFU3VEhvRktNUDNaVXZiTzBVQkRnSzVFZU1uRkdqRDlKM3dGWGE1djJVMHo0U1Y1bVJEOHhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-30-081",
+    "date": "2026-06-30",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor America names VP of national sales - WardsAuto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzNtaVpwUzhJdjNIUXhjZmhzM3Z5MHljOXVjMEpkWWE0U3E0clM1UVRqZ2hManlTSUFVY1hnT2xjSVFjeTVQN1Y1NEtWUVhudzVKQnh6dlM2cHFGZEdsOEVDZEctTW5oS3VFWklvVl",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTzNtaVpwUzhJdjNIUXhjZmhzM3Z5MHljOXVjMEpkWWE0U3E0clM1UVRqZ2hManlTSUFVY1hnT2xjSVFjeTVQN1Y1NEtWUVhudzVKQnh6dlM2cHFGZEdsOEVDZEctTW5oS3VFWklvVlh2WTFSeHVPVzBHNUZJd1lWQ0Y3RG1tTHBGdlc2QXloT0g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-30-082",
+    "date": "2026-06-30",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Wins Two Cannes Lions Awards Including Grand Prix for Second Consecutive Year - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEVBMmJSdlptN0lfSjZLQWxPM3lER3ljTDhvNWVBWEIycVlKblhrWmc5SHJxbFc2aF9QdDZLVlBwWlhPM0VuSHJ0Zk5BV2lGem83TVhGb1F4NjRVVXJabGU5M3JHSkpJcTF5a3FGcD",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEVBMmJSdlptN0lfSjZLQWxPM3lER3ljTDhvNWVBWEIycVlKblhrWmc5SHJxbFc2aF9QdDZLVlBwWlhPM0VuSHJ0Zk5BV2lGem83TVhGb1F4NjRVVXJabGU5M3JHSkpJcTF5a3FGcDI3QzBGRVNHN1NuQWM0Y1R0d2lTdWcyczFBanpycTJiUGhIazVrOFpOV0RB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-30-083",
+    "date": "2026-06-30",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Accelerates its Global Sustainability Strategy - Sustainability Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQODk3Z1BEWWJkeGsxd1VVOU9fM0N5WXBmMl9fazM1NHpyTV9BeFNvX0ZNaFhwZlo5WW5GaEttNUlWN0NpTlBsN0FNQ01GMmVBWkxEOGdJZ0h6UzlLTG0wZzFwNDd1TEpvVTNjVTY1Q2",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODk3Z1BEWWJkeGsxd1VVOU9fM0N5WXBmMl9fazM1NHpyTV9BeFNvX0ZNaFhwZlo5WW5GaEttNUlWN0NpTlBsN0FNQ01GMmVBWkxEOGdJZ0h6UzlLTG0wZzFwNDd1TEpvVTNjVTY1Q21HeHBKMXdqeFBwblFOUUdMNUZNM3Jsd3k5YmJ0bkw2VFNlZWVjQ0o5cE0wdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-30-084",
+    "date": "2026-06-30",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Group Celebrates Multiple Cannes Lions Awards for Advanced Tech Campaigns - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTy12MUNFNVpVOVhodnZUY1FoX05WZDRpOUVlbjhreU1TbExJb1dxV0JNN083UXRYaFBXUzFWaUJPMmJ2ZkFNOU1RSEM4cTcwR0xTV0d0SU9TSTFrNDZEMk53Q1kxaTJaZmFrZDN1LX",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTy12MUNFNVpVOVhodnZUY1FoX05WZDRpOUVlbjhreU1TbExJb1dxV0JNN083UXRYaFBXUzFWaUJPMmJ2ZkFNOU1RSEM4cTcwR0xTV0d0SU9TSTFrNDZEMk53Q1kxaTJaZmFrZDN1LXBzSEg4V3k5NzJ6WDhrWVJQWE54dkRQUHR1d00wZUJfNnJPb0ltRVpDLVhaRmVsRC1iMVd4bDF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-085",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Stock Falls After Big Gains as Auto Industry Wrestles With Copper Prices - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9ldC0zS3pFM2xwSjlmOHYwNzdQZ19XVnFVd1ktZ0VhWDBIRWVVX245UnExQm5iY2Z3WXRjR3J4V3dRU0hCc1o3c3NIQ2R0aXRpT21xaERPZnk4NkNqenhGUUVfdHB3bmZQWmlSdUo3d2",
+    "sources": [
+      {
+        "name": "tesla",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ldC0zS3pFM2xwSjlmOHYwNzdQZ19XVnFVd1ktZ0VhWDBIRWVVX245UnExQm5iY2Z3WXRjR3J4V3dRU0hCc1o3c3NIQ2R0aXRpT21xaERPZnk4NkNqenhGUUVfdHB3bmZQWmlSdUo3d2RWMkYzRFNRRW5leWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-086",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminum - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVFpeFR4N3puS3JJcVpXREZhVzZiSVV0aS1qc05uWk1UVHQyNnBkS0E3TnRQdkNaSzFTN2RRdllDYWhHV3NIRjQ3amgxOVJ5MXJua3J2VWltODlJRmdFTWlhMmJrTFdFb1h1dHZieX",
+    "sources": [
+      {
+        "name": "tesla",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVFpeFR4N3puS3JJcVpXREZhVzZiSVV0aS1qc05uWk1UVHQyNnBkS0E3TnRQdkNaSzFTN2RRdllDYWhHV3NIRjQ3amgxOVJ5MXJua3J2VWltODlJRmdFTWlhMmJrTFdFb1h1dHZieXU3MkxydGIxdUVrbV9VY2JkZW51V24zZEprMXRuVTBuOVMwQVVGT1Z4cVBHOWpMM3QxbHB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-06-30-087",
+    "date": "2026-06-30",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis Is Bringing Back A 30-Year-Dead Brand For Legal Reasons - Carscoops",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1jcTFHSy1DR2wtLVU0UURXeDFIeWJnelpkckI5aHBVRkVDdG81c3FjR0x6eHlqZElDN1cwbEpOa2JLZlRYdkdmY2tGcU1aTFdEamI2eGdKNlJLZVJkbXlGektKLVozYUM5bUdrUVFYOG",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jcTFHSy1DR2wtLVU0UURXeDFIeWJnelpkckI5aHBVRkVDdG81c3FjR0x6eHlqZElDN1cwbEpOa2JLZlRYdkdmY2tGcU1aTFdEamI2eGdKNlJLZVJkbXlGektKLVozYUM5bUdrUVFYOGxkSDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-06-30-088",
+    "date": "2026-06-30",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis expects to make decision on South African plant in coming months - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUI4UWlGbEVsdDFVTEpEbXU3UDVRRGxpTWVlQWlzM052TFQwVTJ1eHlFbnpUMWVUTkJsci0xZ3hILVUycUZ5M2RJTGstMVJ2VGNwa2JfZ2NRMWNYdkZJM3Z1bnczbjBXc3RYaEQtYi",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUI4UWlGbEVsdDFVTEpEbXU3UDVRRGxpTWVlQWlzM052TFQwVTJ1eHlFbnpUMWVUTkJsci0xZ3hILVUycUZ5M2RJTGstMVJ2VGNwa2JfZ2NRMWNYdkZJM3Z1bnczbjBXc3RYaEQtYi1tRnhCRVYtRWZEelhQZ196REcxM1ZwZXJpWVg5TV9FbDNHVTJLWVAtbkVtVk50NS1NbXlKUGRfWTdLWVp1UFBRMHR0OUxEZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-06-30-089",
+    "date": "2026-06-30",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FIAT Unveils the New Topolino Sport Special Edition: A New Spark of Fun for a New Generation - media.stellantis.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd1VzaGFZRDRoZUZlQTNTTWdUVk5xa2c3VU53MmthZE43QlJZbTdnczZPc0h2R0xhTHpnWHhhU1RCODJGbm8zNUlyNTBfTERadWRLTWRfSTBTdW85MHRFZDdLY2kwVXJySW5PWGFET0",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd1VzaGFZRDRoZUZlQTNTTWdUVk5xa2c3VU53MmthZE43QlJZbTdnczZPc0h2R0xhTHpnWHhhU1RCODJGbm8zNUlyNTBfTERadWRLTWRfSTBTdW85MHRFZDdLY2kwVXJySW5PWGFET05KdkgxVjRza3pKRmtoQmpjcFduVElXTDU3THZsbERRSUlIcF9CbEZhZE9fSWM1SkxqRVV4c1BuTDBTbGNaR1dmMHR5TGptdWtzUWw0MENMOVBxakpha1I3UFVZMlJqMUVpZjJvdS1FSEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-06-30-090",
+    "date": "2026-06-30",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Half a million European mass-market B-SUVs produced at Stellantis Tychy plant, a milestone marked by an Alfa Romeo Junior - media.stellantis.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNc1luWlhOMHRXVDd4a0ttZzN1a1lYeWhzQXpCaUpiYnZDbm0yenQ0czBoT1FJUGFvWTYwSXZkZ2hzbk41cUl3eVVZTFpzanM5bjlJdjhQZDdaSkZwWlZYX1RBakhFRzdya3BFSG5LZm",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNc1luWlhOMHRXVDd4a0ttZzN1a1lYeWhzQXpCaUpiYnZDbm0yenQ0czBoT1FJUGFvWTYwSXZkZ2hzbk41cUl3eVVZTFpzanM5bjlJdjhQZDdaSkZwWlZYX1RBakhFRzdya3BFSG5LZmpVLXUzTEhDblIyREtMaWhTdEFOSWhzeDdrS0NDemhyWXFOVU1sZ2lXODVyQl9DOE5ubG11Qkh2Xy00RjlXTWpXY3VuZ0c1SkoyNFdQRElMQlc5V3F1dEhsWFhWLUQ0UnFaRjl3MUFHY2FUWjEtazdocjJQbWJTaWoyM1RGR0RIYndCZ2xaaVk4MjJsYVRYZkRrNGJWSC1lTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-06-30-091",
+    "date": "2026-06-30",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FIAT and the Governorate of the Vatican City State together for sustainable micromobility - media.stellantis.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemdwRExlOGdPUFlTWVBuQnZsa25oQzhIaUpJNXpOVTZ3YnJIc2c4ZVB6aW04eVFzbzg1b1FyWlNLdW0zanpObDhvVUxkRTZaSjRJVlM2Q1R4Z2U3eHRGeEpla1BSRFdWU0xtU2RZb0",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemdwRExlOGdPUFlTWVBuQnZsa25oQzhIaUpJNXpOVTZ3YnJIc2c4ZVB6aW04eVFzbzg1b1FyWlNLdW0zanpObDhvVUxkRTZaSjRJVlM2Q1R4Z2U3eHRGeEpla1BSRFdWU0xtU2RZb093eXNNWUxYUnY1TjFyOVY5Mk43cFh1c1pzMDU0dEJFZ3NnMi1KUlR1NHhsTVBCdVRaOXdGWlhIQm42c29SM0NGR2ctOThTTjhtNG9Gam1iWFZvRFNSMlRodVJYZmMtQU53Qy1HMW5R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-06-30-092",
+    "date": "2026-06-30",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis names Santo Ficili as Maserati CEO - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUEwakN3T25obFF4eXlHUHFYWlhGcWFXQmNOQ1BVQlh0Y3drMkhKOHlzOFJBY29LUTV4V0xHMG9IRzB5T3NXX2FZME82OGhzdEpCdW1DcUdicnRXcUZsMG9CNzJCaWYyNE4yQXFvaU",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUEwakN3T25obFF4eXlHUHFYWlhGcWFXQmNOQ1BVQlh0Y3drMkhKOHlzOFJBY29LUTV4V0xHMG9IRzB5T3NXX2FZME82OGhzdEpCdW1DcUdicnRXcUZsMG9CNzJCaWYyNE4yQXFvaUg2RmZEeE1zeUxkcDk5a216NGt2OWJWakdoUU1Gd1djY1d1SWFXNmdEeUF4Tm1xWVhiUVpQRUEzRFBtVjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-093",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "2027 Ford Bronco Filson Shares This One Part With The Ford Expedition",
+    "summary": "Something no other Bronco offers from the factory.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/2027-ford-bronco-filson-shares-this-one-part-with-the-ford-expedition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-094",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Super Duty Tops Heavy-Duty Truck Segment In Initial Quality",
+    "summary": "For the second straight year.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/ford-super-duty-tops-heavy-duty-truck-segment-in-initial-quality/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-095",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Ford Ranger PHEV Cleaner, Cheaper To Run Than Gas Generator",
+    "summary": "A superior option all around.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/ford-ranger-phev-cleaner-cheaper-to-run-than-gas-generator/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-096",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Consumer Backlash Forcing Automakers To Bring Back Physical Controls",
+    "summary": "Largely because they can be frustrating to use.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/consumer-backlash-forcing-automakers-to-bring-back-physical-controls/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-097",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Carlex Named 2026 Ford Supplier Of The Year",
+    "summary": "The glassmaker topped the Crisis Management category.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/carlex-named-2026-ford-supplier-of-the-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-098",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Recalls 740K SUVs, Pickups Over Rollaway Risk",
+    "summary": "The transmission park pawl may engage while the vehicle is in motion.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/06/ford-recalls-740k-suvs-pickups-over-rollaway-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-099",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tesla expands massive safety feature worldwide in latest update",
+    "summary": "<p>Tesla has expanded the footprint of a massive safety feature worldwide with a recent Software Update labeled as 2026.20.6. The expansion of the &#8220;Blind Spot Warning While Parked&#8221; feature",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-expands-massive-safety-feature-worldwide-latest-update/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-100",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla sends production Cybercab with no steering wheel, pedals to on-road testing",
+    "summary": "<p>Tesla confirmed this morning that it has sent the first production units, manufactured with no steering wheel or pedals, to on-road testing in Austin, sharing video of the first rides with no human",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-sends-production-cybercab-no-steering-wheel-pedals-on-road-testing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-101",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Someone Keeps Stealing Entire Truckloads Of Tesla Batteries",
+    "summary": "Thieves have made off with trailers loaded with Tesla battery packs straight from the factory nearly a dozen times since December.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/800187/tesla-gigafactory-batteries-stolen-trucks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-102",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California's New EV Incentive Is Almost Here—With Special Benefits For Rivian And Lucid",
+    "summary": "One key restriction on the $135 million incentive program won't apply to vehicles from California-based EV brands.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/800208/california-ev-credit-rivian-lucid/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-103",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "An App Flagged This Tesla Battery As Degraded. The Car Said It Was Worse",
+    "summary": "A four-year-old Model 3 Performance scored 88% battery health in Tesla's own test—lower than its owner expected, but close to a prediction by a third-party app.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/800168/tesla-demo-car-battery-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-104",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Genesis confirms the GV90 launch date as its ultra-luxe SUV nears arrival",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Genesis-GV90-launch-date-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Th",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/genesis-confirms-gv90-launch-date-debut/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-105",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla poaches 17-year Intel veteran to lead its ‘Terafab’ chip plant",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Tesla-SpaceX-terafab-e1774190764202.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-para",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/tesla-intel-veteran-terafab-director/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-06-30-106",
+    "date": "2026-06-30",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BYD’s flagship electric SUV is so smooth that it won an anti-motion-sickness certification",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/BYD-anti-motion-sickness-award-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragra",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/byds-flagship-electric-suv-wins-anti-motion-sickness-certification/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-107",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "You can now check when you’ll be able to order your Rivian R2",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Screenshot-2026-06-30-at-11.55.32-AM-e1782835541301.png?w=1600\" /></div><p class=\"wp-block-paragraph\">Rivian ha",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/you-can-now-check-when-youll-be-able-to-order-your-rivian-r2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-108",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla begins ‘engineering tests’ of first production Cybercab in Austin",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Tesla-Cybercab-validation-unit.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/tesla-cybercab-engineering-tests-austin/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-109",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jeep scraps two EVs in Europe, but three new SUVs are on the way",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Jeep-Recon-EV-Europe.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">Jeep wil",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/jeep-scraps-two-evs-europe-three-new-suvs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-110",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Beachman unveils new Aviator electric bike lineup, with upcoming 125cc-equivalent model",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/beachman-motorcycle-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Can",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/06/30/beachman-unveils-new-aviator-electric-bike-lineup-with-upcoming-125cc-equivalent-model/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-111",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "negative",
+    "title": "New EV Sales Have Cratered, But the Used Market Is Setting Records",
+    "summary": "<p>Used EVs just notched a record quarter of sales in the U.S. according to new data, and we're just getting started.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/new-ev-sales-have-cratered-",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/new-ev-sales-have-cratered-but-the-used-market-is-setting-records",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-112",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Feds Might Flip the Script on Right to Repair Vehicle Emissions Systems",
+    "summary": "<p>President Trump is urging the EPA to clarify what repairs are legal, reduce reliance on CARB, and reconsider enforcement against those who try fixing their vehicles in \"good faith.\"</p>\n<p>The post",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/feds-might-flip-the-script-on-right-to-repair-vehicle-emissions-systems",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-06-30-113",
+    "date": "2026-06-30",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Recalls 740,000 Trucks and SUVs That Could Roll Away in Park: TDS",
+    "summary": "<p>The recall covers 2018-2021 Ford and Lincoln models including the F-150, and until you get yours fixed, it's best to engage the parking brake every time.</p>\n<p>The post <a href=\"https://www.thedri",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/ford-recalls-740000-trucks-and-suvs-that-could-roll-away-in-park-tds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-114",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Daily 5 report for June 30: The profit lesson hiding in slower car sales - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnZyaGlobzRJS3lncVY1Y2RNa2g2dHlRamxNbUJfV095MjdFcXVZZFRVSmlTQ09JUjNIV2lvd3VwMEl4MndJRzNvWFRpdW1RX1hFZ1VOd0lFNDd2S3l1LXctQXYxTnhrY0djRWV4Sm",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnZyaGlobzRJS3lncVY1Y2RNa2g2dHlRamxNbUJfV095MjdFcXVZZFRVSmlTQ09JUjNIV2lvd3VwMEl4MndJRzNvWFRpdW1RX1hFZ1VOd0lFNDd2S3l1LXctQXYxTnhrY0djRWV4SmdPZlVqWWlMX0dPT2hWY3o4UlJLNnVSY0YzekUyeDBqS2JUekt2eWVJdG55Y0lZWmw4bFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-115",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The EV Market Is a Mess, but the EVs Are Finally Good - Hagerty",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF95anUxVmpBanhGVGJ1WUtib2NEbVNUd3NzUUljYTJtWTRLUzFUMmNPeE5RQ2l1UVFRYzh6RTZUSHFsbzFLOEprcHUyZ1Nqa0g2MDQya2IwV0xtdkFnR2RVMTBlNjlZMjRFLVNBeD",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdF95anUxVmpBanhGVGJ1WUtib2NEbVNUd3NzUUljYTJtWTRLUzFUMmNPeE5RQ2l1UVFRYzh6RTZUSHFsbzFLOEprcHUyZ1Nqa0g2MDQya2IwV0xtdkFnR2RVMTBlNjlZMjRFLVNBeDhIWmRPTTVXQTBuQUhSYnhsMzN2OXdjbzhBLXZtOFBaLTl0dEk4Smc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-116",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "positive",
+    "title": "New EV Sales Have Cratered, But the Used Market Is Setting Records - The Drive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUZ2TGVtdW5VRllHT1NhMzYzWmwzRDdTV0N3UUNLeUg3TGEzQklidlhMb193ZWRTeXdVRWp1NEdJU3ZONEVsZENLYWJzSU5fMTc5YkJpRloxOWZkQVk1YVZFNVlGUTl6bkVhOVBld2",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUZ2TGVtdW5VRllHT1NhMzYzWmwzRDdTV0N3UUNLeUg3TGEzQklidlhMb193ZWRTeXdVRWp1NEdJU3ZONEVsZENLYWJzSU5fMTc5YkJpRloxOWZkQVk1YVZFNVlGUTl6bkVhOVBld2JLNVJ3dFpSOHpKZEF2Ry1PUkExZzJzRjFRWWt4dWtmZ1JPQWFiOWpkT2hCYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-117",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrari Luce Electric Car Sells Out Quickly in China - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYjZyQ3RwZmltbGxFcS01NkM5eDlkOHlpYThqemxqYi1hZDhZcWhtV2R0UUVTQjRSVk4ybDQxTVUtRlFoTzF1OV9neURDbXpSTzhhSTNjN194b2pwYk9QSThzQ19OaGR4Sjg3V3pmU2",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYjZyQ3RwZmltbGxFcS01NkM5eDlkOHlpYThqemxqYi1hZDhZcWhtV2R0UUVTQjRSVk4ybDQxTVUtRlFoTzF1OV9neURDbXpSTzhhSTNjN194b2pwYk9QSThzQ19OaGR4Sjg3V3pmU2tYR3FqTWpDUURYR3VJaWNUdmpOX2s3b2lSbGtTVXBNVmNXRktmR2IyUXhDeEt5XzZaOXdsclhsTlZFMFR0SEF0TE40S1lfcjE3aGxwVFExTW1ZZlNpZXlfQWtBcktCOTlXMWlRMm5LdXpoZHVGR3FKcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-06-30-118",
+    "date": "2026-06-30",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Automotive vs. Tesla: Which Automotive Stock Is a Better Buy in 2026? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVFFXMk1UM0RXU0p1dGlMTGhqRTFKMlh1b1V5eUVBdE5YTlFUSXpxZVkteWM0Rjkzd2VwZ3RzZ1ZVT2NwNlRBN3pJWlgxSk5manpjbTl1cnZvdVpMeVZKc3otQXkteHZIVFU1eG03bi",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVFFXMk1UM0RXU0p1dGlMTGhqRTFKMlh1b1V5eUVBdE5YTlFUSXpxZVkteWM0Rjkzd2VwZ3RzZ1ZVT2NwNlRBN3pJWlgxSk5manpjbTl1cnZvdVpMeVZKc3otQXkteHZIVFU1eG03bi1mcTZzcGV5WV9MdFRudEdBTFRLM2VBYkw5UE9JY3lFeGFNeU1Nc2hYRE5EY2M3VDdBTnZNVVc5cEg4djJlOVE4dWZTdWF1cUVNdERqWUF3X29KREFvbTJBUTA1T0tlVUFiZUJGTEprU1FmSlZROHNqc0tDbklnOTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-119",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "earnings",
+      "industry_general",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Electric Vehicle Battery Manufacturing - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMzJTREtucko4a2toQnJlRUpqR281aDQ2X1c1NEgzT21ISWRLZFdJdG9fb1VzWkl6cTh3MEhIc2tEcjZJMG5vWXFlRnpLemIxdms0WTBDVXhuei1lcENLdWtSa09YUFlXWngwaWVubG",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMzJTREtucko4a2toQnJlRUpqR281aDQ2X1c1NEgzT21ISWRLZFdJdG9fb1VzWkl6cTh3MEhIc2tEcjZJMG5vWXFlRnpLemIxdms0WTBDVXhuei1lcENLdWtSa09YUFlXWngwaWVubG0tVzZfMHpYajlUOXhWQXo2M1RlNnhvRmM4ckJUT3M3V0FxbFV1MkN6OWZYbjFldk5qOUNBWTE3OTZ0S0JSeko1TE5qa2tDSENiOXUxdW9Sbzg3aTNCQmhkcWpLVnJCMjJsQXJwRWpJSkhBZUt3V0M4OEdzRkZXRVZHN0tSV2ctUTBlTklTZGpnR0ZnVE9Kdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-120",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "James Pond’s Aston Martin Found A Puddle With A License To Drown",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Aston-Martin-Vantage-flood-UK-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/aston-martin-vantage-flood/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-30-121",
+    "date": "2026-06-30",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VW’s ID. Tiguan Will Be So Much More Than A Facelifted ID.4",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/SB39923-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: ",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/vw-id-tiguan-spied/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gm-2026-06-30-122",
+    "date": "2026-06-30",
+    "companies": [
+      "gm",
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GM Throws Shade At Ford Over Who’s More American But Can’t Even Crack The Top 20",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/34tfvrced-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15p",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/gm-ford-most-american-jab/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-123",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dodge Revives Its Purple Obsession For The Charger’s 60th",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/DG027_334CH-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bott",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/dodge-charger-purple-haze/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-124",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "No, California Isn’t Banning Performance Tires, But It Might Decide What Aftermarket Tires You Can Buy",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/ixfm8s87ure0og1go22txlkn-home-manufacturer-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\"",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/california-replacement-tire-regulation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-125",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fiat Revives The Multiplina And Rolls Out New Topolino Editions",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Fiat-Multiplina-Concept-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"marg",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/fiat-multiplina-concept-and-topolinos/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-126",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Stolen BMW M4 Fled Police At 130, Then Split In Half On A Sign Post",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/M4-Florida-crash-Jun3026101-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/bmw-m4-crash-pursuit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-127",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If Dodge Built A Charger Hellcat In 1971, It Would Look Like This",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/000003-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 1",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/dodge-charger-hellcat-restomod/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-128",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A V8-Powered 2+2 With RX-8 Suicide Doors Is Just What Lotus Needs",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Lotus-22-Render-16-copy-1024x576.webp\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"mar",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/lotus-v8-hybrid-concept/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-129",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The White House Wants To Make It Easier To Fix Your Own Car, Right-To-Repair Crowd Says It’s Not Enough",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Holiday-Safe-Driving-01944-Nissan-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" s",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/white-house-repair-memo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-30-130",
+    "date": "2026-06-30",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota’s Global Sales Keep Sliding With A China Collapse It Blames On Gas Prices",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/TMMC-RAV4-Production_SCA3997-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" s",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/toyota-global-sales-decline/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-30-131",
+    "date": "2026-06-30",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Strips The New Ioniq 3 Down To Its Cleaner, Cheaper Self",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Hyundai-Ioniq-3-7-copy-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/hyundai-ioniq-3-standard/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-132",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"ma",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-06-30-133",
+    "date": "2026-06-30",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis Is Bringing Back A 30-Year-Dead Brand For Legal Reasons",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Fiat-Pandina-Tributo-Autobianchi-main-copyrrr-1024x576.jpg\" class=\"attachment-large size-large wp-post-ima",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/06/stellantis-pandina-autobianchi/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-134",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shocker: Ferrari's First EV Is An Instant Hit In China",
+    "summary": "The Ferrari Luce is a controversial electric vehicle from the Italian automaker, but not everyone is unhappy.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/800186/ferrari-luce-sales-orders-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-135",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Porsche's Toy Story Cars Raised $3.0 Million For Charity",
+    "summary": "Porsche's Sonderwunsch team spent 350 hours hand-painting each vehicle.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/800197/porsche-pixar-toy-stor-cars-sold-charity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-136",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW Just Reinvented The X5. Here's What's New",
+    "summary": "Neue Klasse styling, five global powertrains, and a controversial design change mark BMW's boldest X5 yet.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/800117/2027-bmw-x5-horsepower-price-details/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-137",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "America's Most Popular Car Colors Shouldn't Shock You",
+    "summary": "But there are some surprise hues that are becoming more popular lately. ",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/800113/car-colors-usa-popularity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-30-138",
+    "date": "2026-06-30",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota Says Reliability Gives It The Edge Over Chinese Rivals",
+    "summary": "The world's largest automaker also cites quality as one of its main advantages.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/800143/toyota-reliability-edge-chinese-rivals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-06-30-139",
+    "date": "2026-06-30",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota & Joby Aviation Are Really Trying To Build “Air Mobility for All” — Or So They Say",
+    "summary": "<p>Small electric aviation vehicles have been getting hyped for &#8230; several years. I remember a writer on CleanTechnica who was obsessed with electric vertical take-off and landing (eVTOL) aircraf",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/30/toyota-joby-aviation-are-really-trying-to-build-air-mobility-for-all/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-30-140",
+    "date": "2026-06-30",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OMG, I’m In Love — New Hyundai IONIQ 3 Is It!",
+    "summary": "<p>Look, I get it — most people want bigger vehicles, big and bigger. But I don&#8217;t really understand it, even if I know the logic well. I simply have a strong preference for smaller vehicles. (St",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/30/omg-im-in-love-new-hyundai-ioniq-3-is-it/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-141",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California Advances New Clean Vehicle Incentives While Trump Administration Continues Rolling Back Affordable Clean Transportation",
+    "summary": "<p>Yesterday, California leaders reached an agreement in the state budget to provide new funding for zero-emission vehicle (ZEV) incentives for light- and heavy-duty vehicles. This agreement will reaf",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/30/california-advances-new-clean-vehicle-incentives-while-trump-administration-continues-rolling-back-affordable-clean-transportation/",
         "type": "rss"
       }
     ]
@@ -3414,6 +6185,144 @@
     ]
   },
   {
+    "id": "volkswagen-2026-06-29-129",
+    "date": "2026-06-29",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Under siege from Chinese automakers, Volkswagen sells engine business - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQjR1QzRsejJDWVh5Vjh2VFlqU2lNM2FlQy0tbklqNVBTWG9BX2dsWGV5Zlh0MTR4aWdQNjJxb3RkcUp2XzRHNnNNRVNzM3ktUUhfSnBnaFhrMW05ak1QX0NMNUtmNWN2N3pYa0Jpc3",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQjR1QzRsejJDWVh5Vjh2VFlqU2lNM2FlQy0tbklqNVBTWG9BX2dsWGV5Zlh0MTR4aWdQNjJxb3RkcUp2XzRHNnNNRVNzM3ktUUhfSnBnaFhrMW05ak1QX0NMNUtmNWN2N3pYa0Jpc3RlcUNhanZ2ZDBwc0MwOUF2TVhrVzhCMnJnaU16cVMzZG9wQVNFdGc0UGEtdWF0UmcyUl8wMC15YVhGM2RIbV9PUDc3T1BhUVRKYURGX00xRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-06-29-130",
+    "date": "2026-06-29",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen considers four plant closures, 100,000 layoffs - irishsun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3ZlZGk1LXFDSF9JbnVXQ2dzdTJ3T3FISzJzSDdvUXQxNlJqX1lycG0wYW9IcTZsMktHZ21XbVhTNlR3eW53MExqYXE0RE1VRHhjNjRxZXYtLUVCTWNzUEFyb3pBX3dfTF9mMEF2VT",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3ZlZGk1LXFDSF9JbnVXQ2dzdTJ3T3FISzJzSDdvUXQxNlJqX1lycG0wYW9IcTZsMktHZ21XbVhTNlR3eW53MExqYXE0RE1VRHhjNjRxZXYtLUVCTWNzUEFyb3pBX3dfTF9mMEF2VTM1NDZUZWdCR05nUlhWcDlGNzE3YzdvSE9jSGlMYlJEU1loX0tFSmRqMzl5WkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-29-131",
+    "date": "2026-06-29",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Publishes 2026 Sustainability Report - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWV9oeEpUeUkxTHBnUHlneTJhb2ZCX0lBbEFDb294UzJTbWJvTWZONVpUYWY0R2gzRkZJZTFuaV9Ba09NeWdqRUs1YllxcVNhLUdZc0RVRjA2d2dJUGtnNXRoOGp5ekhOaVQ0Z3g2Wn",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWV9oeEpUeUkxTHBnUHlneTJhb2ZCX0lBbEFDb294UzJTbWJvTWZONVpUYWY0R2gzRkZJZTFuaV9Ba09NeWdqRUs1YllxcVNhLUdZc0RVRjA2d2dJUGtnNXRoOGp5ekhOaVQ0Z3g2WnNONElIaFR2SUtPZzBZQnZzcjFHU3FxNVpZc2Yyc2hVdXVIcHpKbU9r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-06-29-132",
+    "date": "2026-06-29",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor Unveils New Stage-Based Goal of the Tournament Voting for FIFA World Cup 2026 - Hyundai Motor Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmVaZlowZF85Qm13TU1oS09GcU9fLWJ3WjdVUVFfNG5vQUdfSjgzX0JqQ2RjMkNmTVNucHNqNy1jQ2FGNUtmdkhRODQwSjFQVENPeG83cHdueHVjZnA4bmZzcGtCTnFsbXJiMGh6NH",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmVaZlowZF85Qm13TU1oS09GcU9fLWJ3WjdVUVFfNG5vQUdfSjgzX0JqQ2RjMkNmTVNucHNqNy1jQ2FGNUtmdkhRODQwSjFQVENPeG83cHdueHVjZnA4bmZzcGtCTnFsbXJiMGh6NHhGZEFXd1d1eDAyRGw3MWY5WE5EdkQ2clBXazVzTk5laXhRcFlPLW9nVVotNV9ZYXc0M3ZPemFoQjN4V3AyZS1HVVVrYmhpM3pKRzVsbDhvMVB0VnM2Z05uY3ppVHNrZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-133",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jeep plans six-model range in Europe by 2030, including China-built large SUV - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTVKNi1RX2xsa2Z0ZWQ1YU93N1lUWGcyV01Yamxxc0QwTGhLajVEU3hrRkFlNkYtX3pRUWVoZ000Z0RCb1hoczdWWFRGR24xMkFYclhmamFNYUV0NGJnVkpTNlc4cmNvd18xeEh5ZF",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTVKNi1RX2xsa2Z0ZWQ1YU93N1lUWGcyV01Yamxxc0QwTGhLajVEU3hrRkFlNkYtX3pRUWVoZ000Z0RCb1hoczdWWFRGR24xMkFYclhmamFNYUV0NGJnVkpTNlc4cmNvd18xeEh5ZFA4MWtaWWI1REdZZUlWMDg4Nw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-134",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Hybrid vehicle sales surge as EV demand slows - Finance & Commerce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTZCRmVZU2tLLWZYOTZ4U0R0X0NubGRTSGtUWlVSVW8zalAzTGRlY2ZwaGw0UV9jbF8zNWRZcjkwS2VVLTY5NUJSX2VqNXhxWVA5LU1MUWdUT3NLQzNhMFVTamVSeS1VM01TVDE0Q0",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTZCRmVZU2tLLWZYOTZ4U0R0X0NubGRTSGtUWlVSVW8zalAzTGRlY2ZwaGw0UV9jbF8zNWRZcjkwS2VVLTY5NUJSX2VqNXhxWVA5LU1MUWdUT3NLQzNhMFVTamVSeS1VM01TVDE0Q0E1dnd5R05ZbjV2dHB1TmYyWFVkdWc0MHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-135",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Guest commentary: Why chasing sales volume records is no longer the goal - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM29zNHVxcjVLNXZqOTV4NnNSRzhKZ1hQTEdIZjNaa01lQ3h4VnhCdWNqdHZXRHZTb2ZNcG9xU3dwTlFIdjMzdGpmZF9fNHp1UnRxWjBZYVNpUUR4U0ZjWUpRZGdpMjBNZlM2akREMH",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM29zNHVxcjVLNXZqOTV4NnNSRzhKZ1hQTEdIZjNaa01lQ3h4VnhCdWNqdHZXRHZTb2ZNcG9xU3dwTlFIdjMzdGpmZF9fNHp1UnRxWjBZYVNpUUR4U0ZjWUpRZGdpMjBNZlM2akREMHVYbkM5M2FoQWpOM2Y5X1pqdDFQVlNTQkVUVG5MQzNwZnhiaklzWDZ4UkwzUlFNejM4Q2swS2RwemdUdndnR21LR2V0VENCZTRENjdsdEhwdWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "posco-2026-06-28-001",
     "date": "2026-06-28",
     "companies": [
@@ -4281,6 +7190,27 @@
       {
         "name": "tesla",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEFmME1tMWJqdVYzdENZN2dEb016UDlFZWFPdHVuWXJVQ2dteHowUmlNY0FoTjB4dkNMc29GVFk5WXpFVmc1UVNQaDJrSWJYdFRwU0FROGhfM3Z2WWVaczQzeGdSNnIwS2RIRDZOaW93bFRMTjdWWk5XdFB6dzFGOE5qUi1VU1JHLVA3WmxwejFMQWpleVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "posco-2026-06-28-047",
+    "date": "2026-06-28",
+    "companies": [
+      "posco"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "POSCO Holdings Inc. (PKX) a High Dividend Mining Stock Poised for Low Carbon Steel Opportunities - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1FVeTdyNEhPdmJ5aGFaRzRGenF5VU5lNzI2bjFwM2lwS0RhTUpuT3hzd1pZX1FjREduV1RidTgyZEJ2WU9zYTRUckpFdTVSalljRGRZMDZvR1kzdmp5WWt4MlVyRGkzSkpUbTJLak",
+    "sources": [
+      {
+        "name": "posco",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1FVeTdyNEhPdmJ5aGFaRzRGenF5VU5lNzI2bjFwM2lwS0RhTUpuT3hzd1pZX1FjREduV1RidTgyZEJ2WU9zYTRUckpFdTVSalljRGRZMDZvR1kzdmp5WWt4MlVyRGkzSkpUbTJLakYwVTh6Q3duRnBaem1WbUdzRHJjOTljQ21Ub0laeWxqVUR4NFZPRUM0?oc=5",
         "type": "rss"
       }
     ]
@@ -5333,6 +8263,25 @@
       {
         "name": "motor1",
         "url": "https://www.motor1.com/news/799947/koenigsegg-interview-evs-synthetic-fuels-combustion-engines/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-055",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "1536 Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTkxsWmtHSnhHOUxreVRkOUM3SVN6blJBT0t2SDVtQS1pQVhpeU01dHBHZEFzMjRHS2xBSzR6VXlxdlFiMkRqVjItbXB5dWR2VlBqTDVza01rQ2QwelJlNjIxNUhndEJJWVBiQ0xnaz",
+    "sources": [
+      {
+        "name": "hota",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTkxsWmtHSnhHOUxreVRkOUM3SVN6blJBT0t2SDVtQS1pQVhpeU01dHBHZEFzMjRHS2xBSzR6VXlxdlFiMkRqVjItbXB5dWR2VlBqTDVza01rQ2QwelJlNjIxNUhndEJJWVBiQ0xnazVHQThLdjgw?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 328,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 37,
+  "gate2_fail": 44,
+  "passed": 151,
+  "gate2_samples": [
+    "Beyond Barriers to Partners! POSCO and JSW Steel Shape the Future of Indian Steel - 포스코그룹 뉴스룸",
+    "ArcelorMittal (NYSE: MT) details 2025 mining payments to governments - Stock Titan",
+    "ArcelorMittal publishes its 2025 Payments to Governments in respect of extractive activities report ",
+    "Bridgestone Releases 2026 Bridgestone Integrated Report - Bridgestone EMEA newsroom",
+    "Cheng Shin Rubber Ind. Co., Ltd. Actuals & Estimates (TWSE:2105) - TradingView"
+  ]
+}

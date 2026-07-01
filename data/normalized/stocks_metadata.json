@@ -1,152 +1,152 @@
 {
   "nippon_steel": {
-    "earliest": "2005-03-18",
-    "latest": "2026-06-30",
-    "count": 5252
+    "earliest": "2004-12-20",
+    "latest": "2026-07-01",
+    "count": 5317
   },
   "posco": {
-    "earliest": "2005-03-14",
-    "latest": "2026-06-30",
-    "count": 5268
+    "earliest": "2004-12-14",
+    "latest": "2026-07-01",
+    "count": 5333
   },
   "arcelormittal": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "bridgestone": {
-    "earliest": "2005-03-18",
-    "latest": "2026-06-30",
-    "count": 5252
+    "earliest": "2004-12-20",
+    "latest": "2026-07-01",
+    "count": 5317
   },
   "cheng_shin": {
-    "earliest": "2005-03-30",
-    "latest": "2026-06-30",
-    "count": 5219
+    "earliest": "2004-12-30",
+    "latest": "2026-07-01",
+    "count": 5284
   },
   "kenda": {
-    "earliest": "2005-03-30",
-    "latest": "2026-06-30",
-    "count": 5219
+    "earliest": "2004-12-30",
+    "latest": "2026-07-01",
+    "count": 5284
   },
   "fuyao": {
-    "earliest": "2005-03-30",
-    "latest": "2026-06-30",
-    "count": 5174
+    "earliest": "2004-12-30",
+    "latest": "2026-07-01",
+    "count": 5239
   },
   "saint_gobain": {
-    "earliest": "2005-03-11",
-    "latest": "2026-06-30",
-    "count": 5452
+    "earliest": "2004-12-13",
+    "latest": "2026-07-01",
+    "count": 5517
   },
   "3m": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "denso": {
-    "earliest": "2005-03-18",
-    "latest": "2026-06-30",
-    "count": 5252
+    "earliest": "2004-12-20",
+    "latest": "2026-07-01",
+    "count": 5317
   },
   "continental": {
-    "earliest": "2005-03-14",
-    "latest": "2026-06-30",
-    "count": 5414
+    "earliest": "2004-12-14",
+    "latest": "2026-07-01",
+    "count": 5479
   },
   "aptiv": {
     "earliest": "2011-11-17",
-    "latest": "2026-06-29",
-    "count": 3672,
+    "latest": "2026-06-30",
+    "count": 3673,
     "history_complete": true
   },
   "magna": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "hyundai_mobis": {
-    "earliest": "2005-03-14",
-    "latest": "2026-06-30",
-    "count": 5268
+    "earliest": "2004-12-14",
+    "latest": "2026-07-01",
+    "count": 5333
   },
   "valeo": {
-    "earliest": "2005-03-11",
-    "latest": "2026-06-30",
-    "count": 5452
+    "earliest": "2004-12-13",
+    "latest": "2026-07-01",
+    "count": 5517
   },
   "hota": {
-    "earliest": "2005-03-30",
-    "latest": "2026-06-30",
-    "count": 5219
+    "earliest": "2004-12-30",
+    "latest": "2026-07-01",
+    "count": 5284
   },
   "tyc": {
-    "earliest": "2005-03-30",
-    "latest": "2026-06-30",
-    "count": 5219
+    "earliest": "2004-12-30",
+    "latest": "2026-07-01",
+    "count": 5284
   },
   "toyota": {
-    "earliest": "2005-03-18",
-    "latest": "2026-06-30",
-    "count": 5252
+    "earliest": "2004-12-20",
+    "latest": "2026-07-01",
+    "count": 5317
   },
   "volkswagen": {
-    "earliest": "2005-03-14",
-    "latest": "2026-06-30",
-    "count": 5414
+    "earliest": "2004-12-14",
+    "latest": "2026-07-01",
+    "count": 5479
   },
   "gm": {
     "earliest": "2010-11-18",
-    "latest": "2026-06-29",
-    "count": 3924,
+    "latest": "2026-06-30",
+    "count": 3925,
     "history_complete": true
   },
   "ford": {
-    "earliest": "2005-03-16",
-    "latest": "2026-06-29",
-    "count": 5355
+    "earliest": "2004-12-16",
+    "latest": "2026-06-30",
+    "count": 5417
   },
   "hyundai": {
-    "earliest": "2005-03-14",
-    "latest": "2026-06-30",
-    "count": 5268
+    "earliest": "2004-12-14",
+    "latest": "2026-07-01",
+    "count": 5333
   },
   "byd": {
-    "earliest": "2005-03-18",
+    "earliest": "2004-12-20",
     "latest": "2026-06-30",
-    "count": 5246
+    "count": 5307
   },
   "tesla": {
     "earliest": "2010-06-29",
-    "latest": "2026-06-29",
-    "count": 4024,
+    "latest": "2026-06-30",
+    "count": 4025,
     "history_complete": true
   },
   "stellantis": {
     "earliest": "2010-06-09",
-    "latest": "2026-06-29",
-    "count": 4038,
+    "latest": "2026-06-30",
+    "count": 4039,
     "history_complete": true
   },
   "honda": {
-    "earliest": "2005-03-18",
-    "latest": "2026-06-30",
-    "count": 5252
+    "earliest": "2004-12-20",
+    "latest": "2026-07-01",
+    "count": 5317
   },
   "yulon": {
-    "earliest": "2005-03-30",
-    "latest": "2026-06-30",
-    "count": 5219
+    "earliest": "2004-12-30",
+    "latest": "2026-07-01",
+    "count": 5284
   },
   "hotai": {
-    "earliest": "2005-03-30",
-    "latest": "2026-06-30",
-    "count": 5219
+    "earliest": "2004-12-30",
+    "latest": "2026-07-01",
+    "count": 5284
   },
   "etf_carz_etf": {
     "earliest": "2011-05-10",
-    "latest": "2026-06-29",
-    "count": 3806,
+    "latest": "2026-06-30",
+    "count": 3807,
     "history_complete": true
   }
 }
