@@ -1,0 +1,313 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:45:35.232846Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-02-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Shinhan Cuts Hyundai Mobis Target Price on Weak Peer Group - Seoul Economic Daily",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkQ4bUNtUmNCNDhWTm9SVnNfcmxQcDR2bGpCal81UE8zV3F1V0JhbzlkeDJFaXUzLWxvQU1ZZF90RGF3aTh1UzhDeDRKQnNpSUFhajM4RVhyeWRuU2dHOGZqUTNMLWdzSGMyc1U4Vm1LVXlCVFBUVzZMcm00RHA1WEk2a0YyX0w2SVlhcmJYVUdCU2k1NGF5cG5lSTNZVmxfRUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-07-02-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD Set to Overtake Tesla Again in Fully Electric Car Sales - Bloomberg.com",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjhrZG0ybTQwMlBjd1REc1YzdmV1RHlNNjM3WWZKbEEtSVFHeDRpRlpfemxIcWpWMkc1QkhXTDg2bW96TkVrNFdOQUNDUkdKcUxXOUVqY2gyazl6LVduRFdGSm16Z3NhU05TWUQyUmppWmNmenNYY09mUUQ0ODlLZ3pFLWF0b1dfTGwzbDROd0Q1dldWQ3l4Z2JaaGVKZi1NNEtNRkkybw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-07-02-019",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD set to overtake Tesla again in fully electric car sales - The Business Times",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3E1MWtucWNONUVSR1B0QWlGUzBRci1pQ0g3UDlJdi1PU0pmb2VFNjZRaGJDYTA5dHluUEMxSzRnd1RnQUVQVDVMaEVuTFFLNVhJNkxwSUc1SV9iWXo2X29jZVZ4dUJuM19SMGV3SmVzRzZNZzZjMmk5N011SHdsQU4wNW9fWUo5MkR1SmtNUE5SZUVydDk0SFFsQ3NDRVNTUWc2Q2g2enh0LUpTM1JyLXQ0M056MUtXQlc0QllKeEF1UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-02-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Although Hyundai Mobis is drawing attention as a core robot parts company beyond traditional auto pa.. - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Dci1RUGV5N01FT3RXMVlmRHdUaXpfRFpJWjJKMDVrWVlzV3lzWWpiSHB4cFdnSFRSaGU5X3Z0V2F6SnZFa196MVBpNkI3LVk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-07-02-028",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tesla stuns with new record EV sales in Australia, with Model Y beating 8,000 mark for first time - The Driven IO",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbkkxMVItMldCVmx3ZWdWbjNoNWdfaG9PSHV3SEd6Q2IxaFZURm9taUtMTjBOT0hyMElpUDRNRkdsdjMxcWJ2MTh2aDBYZEtSOWtaYl9JRVJOMGJhZ1VCV1M5ZjFEajJCYkpxNm91eUNyYzlVbVYwUHZDcEN2ZXE5NzZhWVRCWEluTVV3ZFdGNVRuaHk2RzFYalhOUHRUcnZVbnpSLXprYmNoN3M0MDVvTU1Yd05JUE5hSWZTQ0hrY3NwdWRJbThnSXdFOG9JeDZkQTd4ZGtfTG5NZERRVDJOd05zaWVYeW8wdGxVNXJabGlYdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "auto_sales"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 34,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "guidance",
+        "count": 4
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 339,
+    "too_old": 144,
+    "gate1_blocked": 32,
+    "gate2_blocked": 51,
+    "passed": 140,
+    "pass_rate": "38.1%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+      "POSCO Establishes Triple Core in Steel, Lithium, Energy - 조선일보",
+      "POSCO resets portfolio, expands into energy, lithium - The Korea Times",
+      "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+      "Cheng Shin Rubber Ind. Co., Ltd. Actuals & Estimates (TWSE:2105) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、大陸集團相關動態：「Shinhan Cuts Hyundai Mobis Target Price on Weak Peer Grou...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Shinhan Cuts Hyundai Mobis Target Price on Weak Peer Group - Seoul Economic D...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "BYD Set to Overtake Tesla Again in Fully Electric Car Sales - Bloomberg.com（汽車銷量、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

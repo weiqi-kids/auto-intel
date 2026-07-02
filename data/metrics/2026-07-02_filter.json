@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 339,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 32,
+  "gate2_fail": 51,
+  "passed": 140,
+  "gate2_samples": [
+    "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+    "POSCO Establishes Triple Core in Steel, Lithium, Energy - 조선일보",
+    "POSCO resets portfolio, expands into energy, lithium - The Korea Times",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+    "Cheng Shin Rubber Ind. Co., Ltd. Actuals & Estimates (TWSE:2105) - TradingView"
+  ]
+}
