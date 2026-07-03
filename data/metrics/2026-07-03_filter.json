@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 312,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 27,
+  "gate2_fail": 56,
+  "passed": 163,
+  "gate2_samples": [
+    "Nippon Steel Corporation - Encyclopedia Britannica",
+    "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+    "POSCO Group Adds Energy to Core Business - 조선일보",
+    "POSCO Expands Beyond Steel to Become Key Resource Supplier - Aju Press",
+    "POSCO resets portfolio, expands into energy, lithium - The Korea Times"
+  ]
+}
