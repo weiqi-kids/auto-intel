@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 375,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 25,
+  "gate2_fail": 47,
+  "passed": 105,
+  "gate2_samples": [
+    "NSSOL Public Shareholders Support Proposals Seeking to Prohibit and Require Greater Transparency Reg",
+    "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+    "POSCO Expands Beyond Steel to Become Key Resource Supplier - Aju Press",
+    "POSCO Group Adds Energy to Core Business - 조선일보",
+    "POSCO resets portfolio, expands into energy, lithium - The Korea Times"
+  ]
+}
