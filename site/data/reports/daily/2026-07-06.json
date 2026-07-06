@@ -1,0 +1,291 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:09:12.609484Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-06-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "POSCO, Hyundai Steel, Dongkuk, SeAH Steel Q2 2026 Earnings Outlook - News and Statistics - IndexBox",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUhKeHhmSkZXQmVQR0RyMm9zTVoxTXdEMWxScm9ES1A4dmlxNEFGYkZMcU02azF0a1h1TGd5NFVoXzZKa3c2YXk2ZU9mS0RaVEhUcFMybVBIWS11cUNqTnlLd1lPWFN2RVhvQ1o2VnRfTDdnUEU0di13cy1qWVhKcnNsVmI0WFQ0TEFlOHZQWExCY2RFMFFZR2padUVtTjM1Z1A2dDJWc2Z1VFV4UmQ5ZVRJVnFoQmYxRVYxVlFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-07-06-027",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Stellantis-Backed Tesla Rival Leapmotor Enters Mexico, Marking First North America Expansion Amid Canada - Benzinga",
+      "companies": [
+        "tesla",
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVHZkOWxJYXlZNC1xTWdhTF9vRnBKNkFiRXNYa0ZQMHhtYlVNNHBGZ1VGMzJJQXQ1WjZQdV9UNWRYRDVNV0Nna29fdUF5aXE3LUUzS0stdVZaVFp5OU0yaEFRdW9Xekc0aF81ckVDVVRLZWFLdWYtMXNyT01NajkwNTVNWWszSno3dHRqS01SMmZpSFhxZlF2eDhDbHJza1F4LXIwekx2dEZzQk13ZVdEamI1OHJ5bm5tX0JaZWFUb2dBWUQ4VUVMQ0x3eDFlZFBJYzNmek8xRjl2cURCWjZRNnVNUFhUVFVGX295cjgzWm1iRnpwbFFiRUhQNGV4Rm56Smlv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-06-035",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "UK New Car Sales Surge 11.4% in June as EVs Reach Record 30% Market Share - Electric Cars Report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWp1Vld1RW91TDNQVTdrUHU2TGVQQk1xY29ZbWdwOUgwa0lOem1INDJseDJMTUZjRURsOXJZbDE1TTFZdjRXaTBpbEtzdXdZdTFHUDVnQWc5Ulk0M1R1SF8tTEF6bnlTY2ozU0VVZUE5RS1PWWlfY19NUHNoZjN2X1NPR0VxWjdFN0wzOVpBUjZTYXpQODhDaGt5WUVNV0xXajl1U3FuQ2c0SGoxNXAtdQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-07-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO has unveiled a new three-pronged business strategy - GMK Center",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnpOdGZBXzNfNGdnbmc2UF81RGJ5OHdvQUJyWGVGYkxDdzl5VUtFVWdMYlZVa1AtUmV5OGE4bzBhUzVvbmFxNXE1aVc0RzZ6WFQ0c3E3V0t2eHZDZ1lVYTRaRjZVaURMMDdFTkVDdzFlOGRBNjl2cVBmSEVER0dDQ2hRUTU0MDAxQlZwaNIBkgFBVV95cUxNMTcyalhGQlMxVnhhYXBJbHdLUTVWTFlzUC0zUTJaSVhoWl8tWnRLbjZ5NEVCUkdBcVdjdzljQ2dQbTFPcXFkTlJMWUxtMHBYenc1TTFUMWt3Y01kYm1xNllEVnZCbXY1b2w3ckZxZHA4MnZ6NllESHBwVmVWTS11d2VZaFROOENHYTNWNTFfMzBPUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-07-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Group Strategic Plan: Sixfold Profit Growth by 2035 via Lithium and Renewables - News and Statistics - IndexBox",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT3F5WHZDbTlZTU9LWnBMQWh6ZHBtZFprRFViRGZDNFV2QzhqT2x3bGJ4THRKRUlTcktCMmtmNW44cmlfd1dHa1MzdFkyWkhDRkVrR242T3JEWlN0WnIyZ2xvLWZ0Y3M2eEZzd21SVXhkNTZzZnV6WXV4S2M5aU5lbjF6d0lFU0hXX0lJMjI0TEw3cHRKeTMweHMwWGcxdGlRYWZqSEFZb21tdGhFbmlXM25HVWNaQUJ2Rkg5T3RUM1JJTXJCTTZKTTdYRW85R1di?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "parts_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 57,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 52,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "posco",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 699,
+    "dup_title": 382,
+    "too_old": 148,
+    "gate1_blocked": 25,
+    "gate2_blocked": 52,
+    "passed": 92,
+    "pass_rate": "29.0%",
+    "gate2_block_rate": "16.4%",
+    "gate2_samples": [
+      "NSSOL Public Shareholders Support Proposals Seeking to Prohibit and Require Greater Transparency Reg",
+      "Why Does POSCO Exist? - Aju Press",
+      "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+      "The securities industry predicts that POSCO Holdings (POSCO Holdings) will post a sluggish performan",
+      "POSCO Group Adds Energy to Core Business - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 57 則事件，焦點為Hyundai Motor、浦項鋼鐵、大陸集團相關動態：「POSCO, Hyundai Steel, Dongkuk, SeAH Steel Q2 2026 Earning...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "POSCO, Hyundai Steel, Dongkuk, SeAH Steel Q2 2026 Earnings Outlook - News and...（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "Stellantis-Backed Tesla Rival Leapmotor Enters Mexico, Marking First North Am...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
