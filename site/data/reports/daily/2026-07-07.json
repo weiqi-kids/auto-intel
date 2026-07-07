@@ -1,0 +1,284 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T11:12:55.922582Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-07-07-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Stock Down 40% in a Month—Is Hyundai Mobis' 'Robot Fantasy' Falling Apart? - 한국금융신문",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84c0JRdE9ZUW9pUzNsZTd3Tlc2LWdtaDg0bWFEMG1GMC1oLVliYnd0TWM2Q3JKTUZvTWQ4MDBnTGNubUhUN1BIaU4tNFFXWV9zUmpvajVCa1FxZ0cxOWxPRDM5amVLQ0tZOVZ5M21yeEplUEE1OG1xNXFncko?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-07-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Pecém advances hot-rolled coil mill project with $6.8 million engineering investment - SteelOrbis",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWhHVUVHN3ZlZEpNbW5Cd3lfdVRZcHBGZnRlalctbU12bzVhX0hqRHBqRGZHb0htUVROWWV0eEd6UEJUZGlkUW53WktLN1RKUTRVWVJjMEhScDljOWQ2c1Y0dDM0d0xPTEIwckRRSVo4cDRnaDRxeEg0R1JZR1BMeHFsbG5iZngyRFB6cmxGZXBWdk9SWWxqRmliNktJNjNOemREYlpTbno0VnBySFhSa1lldUNnbG93RzBkZVRhc1hYUHc0VjJ6MWRONmRHVlJTcjRyLXpNX2FWLTl5MUxxemNETUg5eTV2c0VYZjBYTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-07-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ARCELORMITTAL : Deutsche Bank reaffirms its Buy rating - marketscreener.com",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZE4wR1lYQWNBbE44SmJKd0ptZUNqclBWUnpMWE0zTmVLLS05YVdXbnJiX0l4Ykd1Zi1zRzBBT2NPcFQ1dkptZmFWRnZRSElnUU5KZ0xMakw3dVhTWDVsWGl2S0ZBWHVSQ0dYRzNxYjlpaVNuVHVHXzZ4dmQ1V2RxNTduV29kUTRXd1ZZM1A3V1B4Rm1MQVZEMXZyNEljeHdad09oUUNzMkg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SAINT GOBAIN : Deutsche Bank sticks Neutral - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHZzMnZkTmE3SVVXZmNRa3MwS0xuS3BqejVwM19BZnBRVmdmNFZGaEpiajdrMFN5UDdzNV84cnBXRUdtTkxkUGx3cnNfQmNJRjBKR2cwa01kclcxYzdBUXAtZmJVTHYyZzNKVkZKaFVta0V6V0M4Q2d6bC13dHFPaWlNUmF4T0FSemtvLUQ4ZkQxNEpYaEhjVWdn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-07-07-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Whole of Nation Approach to Continental Defense - Small Wars Journal",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PdE9OS19OUUlkNVVka0h6QjhXNktQdzk2MWZPVGY3TmtrOVZvRjQ2MDdISHg1QmhqaU1idW9yRGJEWG5hQjkyOFRIS003RHR4QVdqYnF2aGJ2RXJBOEZYdDVuSHlhS252TmdZNjhiSE9YOVZZMUFF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "parts_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 41,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 9
+      },
+      {
+        "id": "continental",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "parts_price",
+        "count": 1
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 702,
+    "dup_title": 330,
+    "too_old": 146,
+    "gate1_blocked": 29,
+    "gate2_blocked": 50,
+    "passed": 147,
+    "pass_rate": "39.5%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "CRU: Posco to focus on three core sectors - Steel Market Update",
+      "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+      "Why Does POSCO Exist? - Aju Press",
+      "POSCO Group Adds Energy to Core Business - 조선일보",
+      "POSCO Establishes Triple Core in Steel, Lithium, Energy - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為Hyundai Motor、大陸集團、Ford相關動態：「Stock Down 40% in a Month—Is Hyundai Mobis' 'Robot Fantas...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Stock Down 40% in a Month—Is Hyundai Mobis' 'Robot Fantasy' Falling Apart? - ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "ArcelorMittal Pecém advances hot-rolled coil mill project with $6.8 million e...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "零件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 330,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 29,
+  "gate2_fail": 50,
+  "passed": 147,
+  "gate2_samples": [
+    "CRU: Posco to focus on three core sectors - Steel Market Update",
+    "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+    "Why Does POSCO Exist? - Aju Press",
+    "POSCO Group Adds Energy to Core Business - 조선일보",
+    "POSCO Establishes Triple Core in Steel, Lithium, Energy - 조선일보"
+  ]
+}
