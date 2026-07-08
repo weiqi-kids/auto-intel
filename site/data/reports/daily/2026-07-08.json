@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:23:27.084360Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-08-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Gerry Abadiano is KBL-bound, signs with Ulsan Hyundai Mobis - ABS-CBN",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFFOY01oeTBaV1Q1V0hVNXRtVnA4SDZXUEc2WUFONWVwQkxSUGx3cHFlR3dna243aW9ZV1RDN1VYZk5FRERrYW1oQnFyLUsxcXMyQTEwM1ZaYjN6UTRWQnc0eGpRWmMySUhucWNxdXRmR2J6TlBZTFhJZmRneG9LQ2pYUmt3aVdyb2FhWDFmbGVmdU1TaDI2MDJmTEllNllDcWFzOXdLejd2bEJpRHhwMlZjaUY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-08-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to hold 'PLAY PHOEBUS Sports Festival Season 2,' a non-season fan participation event, on the 19th - starnewskorea.com",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1abW1HRHJwbUtRNjZoNEczb0dyU0dpZm1RaXNWRnFiWGJEWGVTTFE2aTNTUmE4Q1BIWTVhOEs0TUlfbEh6VkxFNDZQTUE0bGhlWFJGalZIeVdac04tVkVIdkExM3JLaHRVejliY1JTWUJUSjlKbnp3dTJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-07-08-039",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD beats Tesla in global race; China market’s ‘do-or-die’ crisis: 7 EV reads - South China Morning Post",
+      "companies": [
+        "byd",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUFiTjJRT2dDam5LQ1BxMExOT1ZsQXVwb3N3NE5UUFJsdzlKUmVTRlVQOHBHNEFhRm9QbnhVWHFYRmtVN21zdTVjMVJXekdrZTB5UG9ydmd6ZmhUbl9WSmNsS1NhVGlxWFRFVmRkcVlIZGJHZkxiemYtV2lVMmJHdkhQUDZsSEd6ZG9hNGU2V2p4VFZ6YVI4cFk0bFhrUlRXeno3NExGd19nVkdMM1dCckI2dVRxVDdiNkhnREw1TUh3dFVhenN1ONIByAFBVV95cUxOUUlJOWdSaEdVOWlZSWxMYTIzR1AwVDNwQ2xGNGpBdXNReUhERTFzTzJRdmVvbEh4WnprQjJScHMyTXdpY3dVY2gxSFQtTU1raTlucHRvem5HWkE5LXVnd0c4YVk4Tm53YnpmXzhWVVNUcXFVX3RaRG8wMGttN2NsS2VkbVJzUDFCdHNDbXJqeDQxNThUa0xMSDVYeVNfakJ5dkM5bTdWS3djeTMyR29CMlFBcDJKNndZYV9pN2w3RkF6OGZtS1U3OA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-08-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Official Announcement] Hyundai Mobis signs 'Filipino guard' Abadiano, completing foreign investor roster following Bezley and Prim - starnewskorea.com",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DTFdZbmszNVhqZnJhaXZzcFlVTlBOSXU2anl6OEYzVmFkdkpyU2lHV0FIdmRtVEJHQkk0a1ZOOTEwU1dFWHI2d3pRYTkyUEluV3JmSEdBQzVDTnJ5YU93X2tkVzlxZU5DSHVGMVFHWmJwS3oyNnI1QjV3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-07-08-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Ulsan Hyundai Mobis recruited Philippine guard Jerry Abadiano as an Asian quarter player. - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wQjV0aUdVWV9EakRnZVNkWjNLaUdoOFRzeFJMM2lnRUlqXzByVi1rdWE3QkJseW01cEFCdTBnNlJJSHN1SUlIajRCdkpKeEo3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 52,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 48,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "earnings",
+        "count": 26
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 702,
+    "dup_title": 314,
+    "too_old": 144,
+    "gate1_blocked": 42,
+    "gate2_blocked": 50,
+    "passed": 152,
+    "pass_rate": "39.2%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "CRU: Posco to focus on three core sectors - Steel Market Update",
+      "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+      "Why Does POSCO Exist? - Aju Press",
+      "Here's Why You Should Hold Onto ArcelorMittal Stock for Now - Yahoo Finance",
+      "Bridgestone Golf Celebrates Gotterup’s Third Win of the Season, Powered by TOUR B X - The Golf Wire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 52 則事件，焦點為Hyundai Motor、Ford、Hyundai Mobis相關動態：「Gerry Abadiano is KBL-bound, signs with Ulsan Hyundai Mob...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Gerry Abadiano is KBL-bound, signs with Ulsan Hyundai Mobis - ABS-CBN（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis to hold 'PLAY PHOEBUS Sports Festival Season 2,' a non-season f...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
