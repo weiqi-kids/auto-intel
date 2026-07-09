@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T11:00:17.055063Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "honda-2026-07-09-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Honda and Nissan Form Alliance to Tackle Competition from Chinese Automakers After $9 Billion Loss - CPG Click Oil and Gas",
+      "companies": [
+        "honda"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkVRSjByUjRzVTNEVVhndEhlaXR2RC1HZktDREVhNzk4TTVuQ19DdFo1cHNVbjY2RzRCeWxzUUtwa21mS21zQUxKQmRzcEVDVlB6S0Z1aXk4OFZ4OXQ0OFlkTlAwWnUtblBwbHRTNDJ0NzBIVnNpU1NqbFYzR01ETUp3MUd1N3hLcjZENFh3TUJJcUpjc2tNdDF0VzUwXzFpMm9YZkt4Skh0ZWhBVkczSExqaXpENjd1cjQ0S1JXWVQwbC0tdGtzVW02Q2lxN21QRlZ6X0xHX0o?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-07-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Pecém approves first phase of hot-rolled coil project in Brazil - Yieh Corp.",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmlIb1pwM09sbWdlQ2o4aUExRW1idGdqRXlmQklXMVhJZmZBUFN6TFMyejh6OHd4elNxSTQ4aVRWYUZZOHVCMi1NdlhoSUJ0bHhyNXp0ZWRwTjlvVFlrVzgxQ1lSNURHdlQzdERaYmg1RzVKaWNMMi03UE5SRnNzaG5tOUxfcllRT3ZNa0k0alJ6dEYxWUQ0cFNNQ1lYNjE0QS11R1BlZVdzVTFMZGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US lowers subsidy rates for two Vietnam tire makers - European Rubber Journal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEg0a0tNdmQ2RE1zME1KY2piLW1zSDlXVjN1UmVCekJkYzZPVnRyR05HUkpWaWhVbEp2dUZDay16WGQ5Q3ZGMnJuSElyMS1tX2JsVjkwLWZhU3Q3R3hMekJpeVpaXzBOUFczQlhfRnpMUWJmcHZxVG9PSUxkMGJTMGI5YWtCTm4teHBaVVhiOTV2RDBTSExwdy1aOEpybUVNa0VtdS1uaFFQM1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-07-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Against Amnesia: The Venezuelan Earthquake, the Historical Moment and the Continental Question - CounterPunch.org",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0Q4MlNPaGVFTndDWm4yWnNQd3BSSE1KZkJNVkxrODNtZXFOaE1fSzJNNFRlbkMtLU1RS3BXTTlaaG4wYzRBb3JXV19rWGZybjVxcVZUaDBVWXF0NFBjeUltM2d4a2pIM1AxcHVNUjFFSVZmUjJucGxkX3Q0V0R1MVBXZDc0cDVfaWpDUERYMWozQU13UUViTEhNNFloM29yRHowYXdrcTJtdUNqSnlfZlpJazY2WVVfdlowdFZpdHZFcEVFQzd6eHdNbzFWUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-07-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "2022-2026 Ford Bronco Recall: 36K Fender Flare May Detach - Pickup Truck +SUV Talk",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzc0bVRHREVzSFJBcHBVcUU4eW1jUzdMbmJja0JicDVnUXJXNDJXSGdNRHdLNDZ3cXBrdHk3aDVReUxCeVpBdl8xUjhQSDhFRENoY2NiSV9zMmY0b29mZVdyNEliMFRMTDNuTXA1ckFjRTEzUjdEOXQ1MUJTTWZMS25jUGxEU1oyeFdjRG56UHBtQ1RUWXJaZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 31,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "posco",
+        "count": 2
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "ford",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 688,
+    "dup_title": 327,
+    "too_old": 145,
+    "gate1_blocked": 41,
+    "gate2_blocked": 51,
+    "passed": 124,
+    "pass_rate": "34.3%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Toa Pharmaceutical, Nippon Steel, and others (additional) Rating - 富途牛牛",
+      "CRU: Posco to focus on three core sectors - Steel Market Update",
+      "Why Does POSCO Exist? - Aju Press",
+      "Posco bets W16.7tr on lithium, energy beyond steel - The Korea Herald",
+      "Here's Why You Should Hold Onto ArcelorMittal Stock for Now - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為Hyundai Motor、浦項鋼鐵、大陸集團相關動態：「Honda and Nissan Form Alliance to Tackle Competition from...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Honda and Nissan Form Alliance to Tackle Competition from Chinese Automakers ...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "ArcelorMittal Pecém approves first phase of hot-rolled coil project in Brazil...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
