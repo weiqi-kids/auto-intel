@@ -1,0 +1,306 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T11:08:50.942359Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-07-10-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai & POSCO to begin building $5.8 billion Louisiana steel plant - Yieh Corp.",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVJkS0lrbE51SU1tWVh4M2VkcGdHdHEtYXA1MU1TYUctUFE2Z0UxUnpKMXd4VjhYTEpkV0FGV0FhSWpKZFdoeGZUQnQ0bFBWN0Z4VjFCa3pBaDMxeUdYNFBHTkVObUdka2lrSkpLcHN2Q3FEdkUtbVdNWW5ucWlGMnE1bWJzVnhSemxGNUE3d2UyTUpBUGxjVzl3enQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-10-012",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor, Kia, GM Korea on verge of strike amid faltering wage talks - The Korea Times",
+      "companies": [
+        "hyundai",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmM4WmlIa2hWN28tNlh6VEJXT3ZzLWVvVGd5XzZyZG1FUEhVOEZjclJmUnh5NGNLSmMzY0VldmdtWldqQXZkZWpLSWtfNWYzVFVfeEVZemRGYzJ6cUQ4X0JodHVLWUdGc3I5WUhGM3k0Y2RWckg2ckRadWRjakFyRVpOV1dueWJhN2wyQUZMVUtrWUx3WXFISU1McTg4VVY1bHJKZHJhSlVfSkVLenRNMDJuXzc0N080cG80cjFTU2QyelB5VmRuc0xra0fSAcwBQVVfeXFMUGJjOFppSGtoVjdvLTZYelRCV092cy1lb1RneV82cmRtRVBIVThGY3JSZlJ4eTRjS0pjM2NFZXZnbVpXakF2ZGVqS0lrXzVmM1RVX3hFWXpkRmMyenFEOF9CaHR1S1lHRnNyOVlIRjN5NGNkVnJINnJEWnVkY2pBckVaTldXbnliYTdsMkFGTFVLa1lMd1lxSElNTHE4OFVWNWxySmRyYUpVX0pFS3p0TTAybl83NDdPNHBvNHIxU1NkMnpQeVZkbnNMa2tH?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-07-10-019",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Automakers' share in China NEV exports in June: BYD leads with 34.2%, Tesla 4th with 7.2% - CnEVPost",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmF6ZnExR3RNV0JvSkZiMXY1TDQ3Q2VUV3YycFZTakN0djZmLXRWelFnX25yQldLYmZaNHBuaFltNHlobkJpNGdQMlZvSkZtU2pEMElJV1NqSnE0U2NjcWFiWHAyQWVXR2QwU25VRUZIaTFaOXRiWG5UMGgwVkcxS0FR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-07-10-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal Shares Soar Nearly 6%, Outperforming the CAC 40 - Idéal Investisseur",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFd6ekRPZm1XYkhPSlNZck9FM191akJCX2ZYS3lWREdRUHAwUWQ3RHlvcGlWZVllUmJhQTZhTTNVVUFxcDV2RTVwQUQ3OXJ0OUFidnJQVk9OZGUxT21peW5xSWFDNk1FRVlpWDljZzE4d1NBcHQwMG5ZLXdtREIyRkM4cHFweURZSnhoNmJzVXgyYm8zQ29UWnhjdk92cWxmbTR3NUctTC12azdRQmNqaGk5ZExXcXJvemc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-07-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Group unveils 2035 targets with focus on steel and lithium investments - SteelRadar",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWd6dTR1RThsVHphYU5BVGxSS0NxNmZ2MENydWQ2cE1Bd2c0alFQN2syNC1WNjFrdTd3b0ducDVSalhQM0ZUOFlVNXZMZUhTTlhfMkhscjh5MnBVZHlwSUF0ZFhiTGs3a0J0S00wRzhUd056QjBTbl9tZXp0R0hIcnhkN2hFOGdUODRURk5HZ05oWGdSNWRCbEFCb09WaGR3ZmhtQUVVaEQzd2EwbGRNblZqVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 39,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 9
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "arcelormittal",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 330,
+    "too_old": 141,
+    "gate1_blocked": 34,
+    "gate2_blocked": 43,
+    "passed": 157,
+    "pass_rate": "41.9%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "CRU: Posco to focus on three core sectors - Steel Market Update",
+      "Why Does POSCO Exist? - Aju Press",
+      "Here's Why You Should Hold Onto ArcelorMittal Stock for Now - Yahoo Finance",
+      "Why is ArcelorMittal stock rising today? - Investing.com",
+      "Bridgestone Arena named ACM Arena of the Year for record eighth time - WZTV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、安賽樂米塔爾相關動態：「Hyundai & POSCO to begin building $5.8 billion Louisiana ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai & POSCO to begin building $5.8 billion Louisiana steel plant - Yieh C...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Motor, Kia, GM Korea on verge of strike amid faltering wage talks - T...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

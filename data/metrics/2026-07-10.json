@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-10",
+  "total_events": 46,
+  "by_company": {
+    "posco": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "hyundai": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 18,
+      "sentiment_avg": 0.08
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "industry_general": {
+      "count": 32,
+      "sentiment_avg": 0.06
+    },
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "auto_tariff_trade": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "byd",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ]
+}

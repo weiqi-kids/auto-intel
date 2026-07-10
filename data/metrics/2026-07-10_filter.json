@@ -1,0 +1,16 @@
+{
+  "total_raw": 705,
+  "dup_title": 330,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 34,
+  "gate2_fail": 43,
+  "passed": 157,
+  "gate2_samples": [
+    "CRU: Posco to focus on three core sectors - Steel Market Update",
+    "Why Does POSCO Exist? - Aju Press",
+    "Here's Why You Should Hold Onto ArcelorMittal Stock for Now - Yahoo Finance",
+    "Why is ArcelorMittal stock rising today? - Investing.com",
+    "Bridgestone Arena named ACM Arena of the Year for record eighth time - WZTV"
+  ]
+}
