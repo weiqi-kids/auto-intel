@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 344,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 27,
+  "gate2_fail": 53,
+  "passed": 127,
+  "gate2_samples": [
+    "Why Does POSCO Exist? - Aju Press",
+    "Here's Why You Should Hold Onto ArcelorMittal Stock for Now - Yahoo Finance",
+    "A Look at ArcelorMittal SA (MT) After 5.0% Gain -- GF Value $27. - GuruFocus",
+    "ArcelorMittal SA Stock (MT) Moved Up by 5.54% on Jul 10: What Investors Need To Know - TradingKey",
+    "Why is ArcelorMittal stock rising today? - Investing.com"
+  ]
+}

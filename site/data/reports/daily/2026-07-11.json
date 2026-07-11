@@ -1,0 +1,258 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:42:44.301663Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-07-11-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Volkswagen sales plunge as German automaker lays out plan to slash number of brands - TelegraphHerald.com",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFMzamcxNjB4a0k1bzdMVDlZd1VMMW5GQ3hnUWJrTmpsNDE0NHFfQ0lRVm1Xd0JXdWlKWXFoMTN2ZVJESVRHMXVDM2lGbEd6UUhSNThzMEkyT3pqNHAwWk5WTFNUR2Y2WjdXVG4tSlBnOG15SXFFM0xDTGQwV0RfdHowMndjMGNSNzN5NWY4UmhpbUg5TExfcHRlbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-07-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "J.P. Morgan upgrades ArcelorMittal (0RP9) to a Hold - The Globe and Mail",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbzg2TkhGRVlYdFdrTi1VMVdtUzRtLXh3MEhyRlF2RFVzcmdtZ2ZHZUZETjcwdGw1TFhORzNZTGl1SThYbEFfS0FOYVhQeVlYejFIU0VRdHlTVjJYTV8tZk04cXZybjJkbm1QVDJvalRKMV9TdzE2WE1EamxEMGdJbTBkY2NIYkZWN1AzUEZoZ2xjSDcxRHdfRWlaU2Q3RnVLTzB6Szh0SGpsNzdKNlY3WGM4ci1kNklXU1A2RXAyOHhVN0phX2dhV2ZBdE5VQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-07-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental AG (OTCMKTS:CTTAY) Short Interest Down 93.0% in June - MarketBeat",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGQ4TFVjSHFWcE1wNk00Tkx5aHcwNEo3Vk1uZmNfZzV1dDZSMm5fQ0xuM2dQcWZGTVZMUkNLUEp4cDJKbzBzZ1p2SXRYYVhYa09pcHE1OW9uM2R0YkZMOEJZVl9tQjNIRmNicE1Qdlpfalo1T1FGcl80U2tmc2p6YS04YTNJYlBLcFpuLXhETzVjR0hnVVBaMEpVUFA3YXN1MHIyNEdzZF81ZkY5clpYSEcwRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-07-11-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "1999 Ford P2000 Prodigy Sedan Heralded A Nonexistent Hydrogen Future - Ford Authority",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1VucVpzUXBFNzl4bWFnZmV3YVB3TXRQU1RPck4yaVZWR3R0cXFhOHgxTzZRUkk3aGZ2UDJPUFdZRlRlZnh5dHdPV2JjRVdpNFVTcmtITjN4QkxldkNmS2RZNlR0TkVJUnpfTm9NNVBaenlCT3JyVm52ZjNZYnIxaXdCdlJhX18wbXpKTy1NcFo5bW9xM01MQ3h6UUtOalFVTlRlSHRn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-07-11-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ford Motor Co. executives tour plants to address quality - The Detroit News",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTWRDeU5lOGdtQmVmR0dQRklEaHdEU1Q2RE50U25jYUJDdmY1el9ySGZMRkc4cm5hZ0xkRVBSRHlnVmZPVWpZcWJFbEt2UlJSLWJCSGJ2WDJxVVcxM3R2UkpmVlk4TDJYVkY3c1Rrckg0TmFycElJOUJTQ2txZFhQc1BGRllxNXdtMWJla3hSdXZnRUNNdVQ5UDZDV0tBa0xfUmdueEdpTTJKZndTMkdrOTNRRFBnUlRfRXFRNXlCanFISTZqSFBtclpCMDdobFNpaWlZWHo2dWtVd0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 9
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 344,
+    "too_old": 155,
+    "gate1_blocked": 27,
+    "gate2_blocked": 53,
+    "passed": 127,
+    "pass_rate": "35.1%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Why Does POSCO Exist? - Aju Press",
+      "Here's Why You Should Hold Onto ArcelorMittal Stock for Now - Yahoo Finance",
+      "A Look at ArcelorMittal SA (MT) After 5.0% Gain -- GF Value $27. - GuruFocus",
+      "ArcelorMittal SA Stock (MT) Moved Up by 5.54% on Jul 10: What Investors Need To Know - TradingKey",
+      "Why is ArcelorMittal stock rising today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為Ford、Volkswagen、大陸集團相關動態：「Volkswagen sales plunge as German automaker lays out plan...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Volkswagen sales plunge as German automaker lays out plan to slash number of ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "J.P. Morgan upgrades ArcelorMittal (0RP9) to a Hold - The Globe and Mail（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
