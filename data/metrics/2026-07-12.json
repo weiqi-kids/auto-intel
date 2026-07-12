@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-12",
+  "total_events": 25,
+  "by_company": {
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

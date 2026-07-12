@@ -1,0 +1,16 @@
+{
+  "total_raw": 700,
+  "dup_title": 395,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 24,
+  "gate2_fail": 52,
+  "passed": 69,
+  "gate2_samples": [
+    "CRU: Posco to focus on three core sectors - Steel Market Update",
+    "POSCO Targets Lithium, Energy to Transform Business Portfolio - TradingView",
+    "ArcelorMittal SA Stock (MT) Moved Up by 5.54% on Jul 10: What Investors Need To Know - TradingKey",
+    "A Look at ArcelorMittal SA (MT) After 5.0% Gain -- GF Value $27. - GuruFocus",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+  ]
+}
