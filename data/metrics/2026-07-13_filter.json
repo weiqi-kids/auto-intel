@@ -1,0 +1,16 @@
+{
+  "total_raw": 145,
+  "dup_title": 62,
+  "no_date": 0,
+  "too_old": 5,
+  "gate1_fail": 20,
+  "gate2_fail": 25,
+  "passed": 33,
+  "gate2_samples": [
+    "1978 Ford Mustang II King Cobra With 44K Miles Up For Auction",
+    "1999 Ford F-150 SVT Lightning From 'The Fast And The Furious' Currently On Display",
+    "Clankers Go Crazy For Fake 2027 Ford Ranger News: AI Slop Report",
+    "FIA And Red Bull Looking Into Issue That Caused Ford F1 Crashes",
+    "2000 Ford Prodigy HEV Concept Looks Like An Alternative World Fusion"
+  ]
+}

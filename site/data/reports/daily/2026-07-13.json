@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:20:56.740191Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-07-13-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VW Group Boss Admits The Real Problem: Its Cars Aren't Profitable Enough",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.motor1.com/news/801402/vw-boss-admits-cars-not-profitable-enough/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-13-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US Road Deaths Are Nearing A Record Low, But Cyclist Deaths Hit A 40-Year High Last Year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.carscoops.com/2026/07/nhtsa-traffic-deaths-decline/"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tesla readies its autonomous Cybercab and Robotaxi cleaning service",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.teslarati.com/tesla-cleaning-robot-cybercab-robotaxi-service/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Dead Fisker Ocean May Finally Get Hands-Free Driving—With An Asterisk",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/801422/fisker-ocean-dead-ev-hands-free-driving/"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 145,
+    "dup_title": 62,
+    "too_old": 5,
+    "gate1_blocked": 20,
+    "gate2_blocked": 25,
+    "passed": 33,
+    "pass_rate": "39.8%",
+    "gate2_block_rate": "30.1%",
+    "gate2_samples": [
+      "1978 Ford Mustang II King Cobra With 44K Miles Up For Auction",
+      "1999 Ford F-150 SVT Lightning From 'The Fast And The Furious' Currently On Display",
+      "Clankers Go Crazy For Fake 2027 Ford Ranger News: AI Slop Report",
+      "FIA And Red Bull Looking Into Issue That Caused Ford F1 Crashes",
+      "2000 Ford Prodigy HEV Concept Looks Like An Alternative World Fusion"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為特斯拉、Volkswagen相關動態：「VW Group Boss Admits The Real Problem: Its Cars Aren't Pr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "VW Group Boss Admits The Real Problem: Its Cars Aren't Profitable Enough（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "US Road Deaths Are Nearing A Record Low, But Cyclist Deaths Hit A 40-Year Hig...（汽車產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,174 @@
 [
   {
+    "id": "tesla-2026-07-13-001",
+    "date": "2026-07-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla readies its autonomous Cybercab and Robotaxi cleaning service",
+    "summary": "<p>A Texas permit just confirmed Tesla's cleaning robot is coming to service its Cybercab and Robotaxi fleet.</p>\n<p>The post <a href=\"https://www.teslarati.com/tesla-cleaning-robot-cybercab-robotaxi-",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-cleaning-robot-cybercab-robotaxi-service/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-002",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The Dead Fisker Ocean May Finally Get Hands-Free Driving—With An Asterisk",
+    "summary": "Fisker never delivered its hands-free driving system before going bankrupt. Now, an open-source solution may make it happen.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/801422/fisker-ocean-dead-ev-hands-free-driving/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-13-003",
+    "date": "2026-07-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "See How Tesla Tore Down The Model S Factory To Build Robots Instead",
+    "summary": "The Fremont factory built the world’s first truly modern EV. A part of it is now being converted into a humanoid robot plant.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/801412/tesla-model-s-model-x-factory-teardown/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-004",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/mercedes-amg-cla-45-festival-of-speed-2026-charlie-brenninmeijer-2.jpg?quality=82&#038;strip=all&#038;w=1600\" /",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-005",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Five-Seat SUV Makes 1,193 HP, Nine More Than A Ferrari F80",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/Denza-N8-007-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bot",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/denza-n8-reveal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-006",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waze Can Now Steer Motorcyclist Around Potholes And Speed Bumps",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/Waze-Updates-Carscoops-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margi",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/waze-ai-motorcyle-update/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-007",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "US Road Deaths Are Nearing A Record Low, But Cyclist Deaths Hit A 40-Year High Last Year",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/Original-9393-AudiSpokeconnectedbikesreleaseimagecyclistetron-copy-1024x576.jpg\" class=\"attachment-large s",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/nhtsa-traffic-deaths-decline/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-13-008",
+    "date": "2026-07-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jetta And Taycan Among 10 Cars Facing The Axe At VW Group: Report",
+    "summary": "Several important nameplates are allegedly facing the chopping block.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/801413/vw-group-discontinue-10-cars-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-07-13-009",
+    "date": "2026-07-13",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VW Group Boss Admits The Real Problem: Its Cars Aren't Profitable Enough",
+    "summary": "Further cost-cutting measures are underway to turn things around.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/801402/vw-boss-admits-cars-not-profitable-enough/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "posco-2026-07-12-001",
     "date": "2026-07-12",
     "companies": [
@@ -498,6 +667,459 @@
       {
         "name": "carscoops",
         "url": "https://www.carscoops.com/2026/07/tesla-driver-asleep-bc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-12-026",
+    "date": "2026-07-12",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2026 Ford Maverick Lobo: Live Photo Gallery",
+    "summary": "A decent truck for a $43K sticker.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/07/2026-ford-maverick-lobo-live-photo-gallery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-12-027",
+    "date": "2026-07-12",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1987 Ford F-350 Fire Truck Added To U.S. Heritage Fleet",
+    "summary": "Still looks pretty clean.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/07/1987-ford-f-350-fire-truck-added-to-u-s-heritage-fleet/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-12-028",
+    "date": "2026-07-12",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 Ford Hypercar Shows Off Some Skin In First Teaser: Video",
+    "summary": "A clearer look at its shape.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/07/2027-ford-hypercar-shows-off-some-skin-in-first-teaser-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-12-029",
+    "date": "2026-07-12",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SpaceX reveals Starship Flight 13 launch date",
+    "summary": "<p>SpaceX is preparing for the 13th integrated flight test of its Starship system, with a targeted launch as early as Thursday, July 16. The 90-minute launch window opens at 5:45 p.m. CT from Starbase",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/spacex-reveals-starship-flight-13-launch-date/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-030",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Chinese Micro EV Makes The Fiat Topolino Look Bare-Bones",
+    "summary": "The €8,000 Astraux tiny EV has all the features you would expect to find in an actual car, despite technically not being one.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/801381/astraux-al7-well-equipped-microcar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-031",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BMW's U.S. Sales Are Up. But Its EVs Are Struggling",
+    "summary": "BMW sales surged 13% in the U.S. in the second quarter. PHEVs grew while pure EVs struggled. ",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/801304/bmw-q2-2026-sales-us/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-032",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volvo Electric semi trucks charge up American Truck Simulator",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/the-road-just-got-more-volvo2-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragr",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/12/volvo-electric-semi-trucks-charge-up-american-truck-simulator/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-033",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VMAX launches new full-suspension VX2 Lite e-scooter for a mere $799",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/vmax-vx2-lite-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Swiss ele",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/07/12/vmax-launches-new-full-suspension-vx2-lite-e-scooter-for-a-mere-799/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-034",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Your Memory Betrays You: Watch These 1980s Supercars Lose a Drag Race to a Boring Crossover",
+    "summary": "<p>Don't let your inner child watch this drag race between a Ferrari Testarossa, Lamborghini Countach, Porsche 944 Turbo, and a humble EV.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/your-m",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/your-memory-betrays-you-watch-these-1980s-supercars-lose-a-drag-race-to-a-boring-crossover",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-035",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Finally, an Objective Test to Determine How Distracting Car Touchscreens Are",
+    "summary": "<p>The average time to perform a task using a touchscreen was longer in this test than one conducted four years ago. That's not how this is supposed to work.</p>\n<p>The post <a href=\"https://www.thedr",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/finally-an-objective-test-to-determine-how-distracting-car-touchscreens-are",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-12-036",
+    "date": "2026-07-12",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Only Two Yellow 2006 Ford GTs Left the Factory Without Stripes, and One Is for Sale",
+    "summary": "<p>This isn't a Photoshop job. It's an incredibly rare spec of the first-generation GT road car.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/only-two-yellow-2006-ford-gts-left-the-factory-w",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/only-two-yellow-2006-ford-gts-left-the-factory-without-stripes-and-one-is-for-sale",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-12-037",
+    "date": "2026-07-12",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Put Its Kill Switch Behind A $7.99 A Month Paywall",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/Ford-Start-Inhibit-2-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/ford-start-inhibit-police/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-038",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Last Real Bugatti Was Finished By A Chrysler Designer",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/Untitled-1-1-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: ",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/bugatti-type-101c-x-sale/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-039",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dodge’s Newest Crossover Is Almost Dead With Fewer Than 90 Left",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/DG024_050HN-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bott",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/dodge-hornet-inventory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gm-2026-07-12-040",
+    "date": "2026-07-12",
+    "companies": [
+      "gm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Leaky Window Cost A GMC Sierra Owner $1,000, Now He’s Suing GM",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/2019_GMC_Sierra_AT4_-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"ma",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/gm-truck-window-leak-lawsuit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-041",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Priciest Repair On A Used EV Isn’t The Battery",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/Charging-MG4-Jul726101-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margi",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/used-ev-repair-data/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-042",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mini’s 2026 Aceman JCW e Is The Quick One, The Fun One, And The One To Avoid | Review",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/342frevc-rtfggbd-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bott",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/mini-aceman-jcw-review/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-07-12-043",
+    "date": "2026-07-12",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chery Patents Reveal A Compact Pickup That Could Take The Ford Maverick Formula Global",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/2027-Chery-Small-Pickup-Red-copyrrr-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\"",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/chery-compact-pickup-truck/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-044",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aston Martin Keeps Its V12 By Promising To Sell Almost None Of It",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/THE_DAWN_OF_A_NEW_V12_ERA_01-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" s",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/07/aston-martin-v12-future/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-045",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bugatti's Last W16-Powered Track Car Is Now Street Legal",
+    "summary": "You can now enjoy the 1,825-horsepower hypercar legally on the road from Lanzante Limited. But will it actually be enjoyable? ",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/801315/bugatti-bolide-street-legal-lanzante/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-046",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "It Was The Best Of Times, It Was The Worst Of Times For Electric Car Sales In America",
+    "summary": "<p>Electric car sales in the US are trending upward again, after plummeting last year when the Inflation Reduction Act was repealed. </p>\n<p>The post <a href=\"https://cleantechnica.com/2026/07/12/it-w",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/12/it-was-the-best-of-times-it-was-the-worst-of-times-for-electric-car-sales-in-america/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-07-12-047",
+    "date": "2026-07-12",
+    "companies": [
+      "tesla",
+      "toyota"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla’s Profit Per Vehicle Has Been Dropping Significantly",
+    "summary": "<p>I just saw the headline &#8220;Tesla&#8217;s profit per vehicle drops 40%, within Toyota&#8217;s striking range.&#8221; Now, I&#8217;m not sure why this came out as news at the moment, as it&#8217;",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/12/teslas-profit-per-vehicle-has-been-dropping-significantly/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-048",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hydrogen Injection Can Make Diesel Exhaust Look Cleaner. The Carbon Math Still Fails.",
+    "summary": "<p>A cleaner-looking diesel exhaust plume is evidence about smoke, not climate performance. Onboard hydrogen-injection systems ask customers to skip that distinction: they use electricity produced by ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/12/hydrogen-injection-diesel-smoke-not-climate/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-049",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China About To Get 156 New Electric Vehicle Models!",
+    "summary": "<p>In the second half of 2026, a whopping 156 new electric vehicle models are expected to hit the Chinese auto market. Thinking from the perspective of an American looking at the US auto market, we do",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/12/china-about-to-get-156-new-electric-vehicle-models/",
         "type": "rss"
       }
     ]
