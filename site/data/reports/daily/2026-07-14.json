@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T10:03:17.759976Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-14-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Posco and Hyundai are developing innovative electrical steel to improve the efficiency of electric vehicles - megaproject.com",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3F1aDY1RHdndGhzNmR4WjNWTXZZX1F2YmJKMzhwblRlZG5idTcta1FfclVSTFhleDFGbVplQ0FjT2NSb3Vldm1oSDhZVW9Ud0RURHNGYzBEVHNUTDlWWUJCY25ySG1LUU16UmdGeUxubG1MZ0JOaTR0SjY5ZFFsQ2NqX1QwNnNRQXRBWmNhNUNObVFDMmpCYXVaQU5UaG5UZE1YUDFneDI5bFpvLTcxU3hyQlQxZWd2Nkx1SWtwdjBHdXZBQTlHbURNYThpNnhmRzJxRnRrXzV2QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-14-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "POSCO, Hyundai Steel See US Tariff Burden Eased - Seoul Economic Daily",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEw5WklPZ1RJREVJTnR1QmdfRHczNGlRd2NXaDhHSzVYVlNKeXFBOEc3SE1paHZoY2FET2JZRDBoUUVvVFBPRGlWbmRhUUN3eEM2eGMydm1lSWJTSEU0QlUzMkpVRzNSQmkzSVUtdmRGSUJxaFJpcnpHeHJyOXJBOWpqLWJsWVJ5akZ5U3pnbElwZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SAINT GOBAIN : Bernstein sticks Neutral - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmdLSlhMQnJKUXRGQ0dnUGlvUjNKa3FadGgtaG90YXJhbnZOVUVFRU1sREJZU2o3Vl9uNlc3ajVmOEw1a2k4aHFSTXYtNm91al8wZDd4dE9VQ1VBOWFsR2U0MVRqZlVGVnRhaFdaOTUtaDhvQ1VmSDFfX1M3Z3NSZkNoS215cFcyR0gyY19qNjZpQ3pQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-07-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental Expands Retread Portfolio - Modern Tire Dealer",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUZoZUx1X1pzUl9LZHFtNHU5TEh4R1o0ZjdZLWtoRzUtMFFhZ2NqSUMxaXdiczlYUzAwV0VsQjJhY21SRjFsQXFIUkQ2NElIUkFTc3BTVGhSRjhtRkZuWWhqTVdqelV3Ql9aM0xLTDRmV3NtXzhteUY3dl9YbFBPc2xWbm1WTXJVWWZQV2VtRW4wSjNMLURYUGpCRGFrUEcxUjZwTUt6Yw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "There’s One Gap Remaining in Colorado’s Section of the CDT. What Will It Take To Finally Fix It? - 5280 - Denver's Mile High Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03UHk4UVdGVnB3a3Q4b1JobWpObk9EUXkyZGEteEJoOGJYRjd4NGVqSFpnSmwyZHI1YXczeFN5OF9LZ056YmRwck5SNXFfbkpHUFFDR3k0dmlhM3daTGh5V2ZRQnJEeW94WXJfdDJ3ajJ1TVFYQ0FleXp3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings",
+        "ev_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 31,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      },
+      {
+        "id": "posco",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 292,
+    "too_old": 160,
+    "gate1_blocked": 29,
+    "gate2_blocked": 47,
+    "passed": 180,
+    "pass_rate": "43.3%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "POSCO Targets Lithium, Energy to Transform Business Portfolio - TradingView",
+      "ArcelorMittal Calvert updates work on new project - fox10tv.com",
+      "Why is ArcelorMittal stock rising today? - Investing.com",
+      "ArcelorMittal SA Stock (MT) Moved Up by 5.54% on Jul 10: What Investors Need To Know - TradingKey",
+      "A Look at ArcelorMittal SA (MT) After 5.0% Gain -- GF Value $27. - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為Hyundai Motor、Ford、Volkswagen相關動態：「Posco and Hyundai are developing innovative electrical st...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Posco and Hyundai are developing innovative electrical steel to improve the e...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "POSCO, Hyundai Steel See US Tariff Burden Eased - Seoul Economic Daily",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

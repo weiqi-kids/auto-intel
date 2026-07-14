@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 292,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 29,
+  "gate2_fail": 47,
+  "passed": 180,
+  "gate2_samples": [
+    "POSCO Targets Lithium, Energy to Transform Business Portfolio - TradingView",
+    "ArcelorMittal Calvert updates work on new project - fox10tv.com",
+    "Why is ArcelorMittal stock rising today? - Investing.com",
+    "ArcelorMittal SA Stock (MT) Moved Up by 5.54% on Jul 10: What Investors Need To Know - TradingKey",
+    "A Look at ArcelorMittal SA (MT) After 5.0% Gain -- GF Value $27. - GuruFocus"
+  ]
+}
