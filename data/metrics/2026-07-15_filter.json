@@ -1,0 +1,16 @@
+{
+  "total_raw": 707,
+  "dup_title": 332,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 36,
+  "gate2_fail": 53,
+  "passed": 134,
+  "gate2_samples": [
+    "'Passing on On-Site Technical Excellence' POSCO Selects 2026 Master Craftsman - 스포츠조선",
+    "POSCO Targets Lithium, Energy to Transform Business Portfolio - TradingView",
+    "ArcelorMittal Calvert updates work on new project - fox10tv.com",
+    "Why is ArcelorMittal stock rising today? - Investing.com",
+    "ArcelorMittal SA Stock (MT) Moved Up by 5.54% on Jul 10: What Investors Need To Know - TradingKey"
+  ]
+}
