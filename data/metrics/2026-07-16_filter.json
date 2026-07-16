@@ -1,0 +1,16 @@
+{
+  "total_raw": 709,
+  "dup_title": 319,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 41,
+  "gate2_fail": 48,
+  "passed": 141,
+  "gate2_samples": [
+    "'Passing on On-Site Technical Excellence' POSCO Selects 2026 Master Craftsman - 스포츠조선",
+    "Technician Who Battled Molten Steel for 38 Years Honored as a POSCO Master Craftsman - 매일경제",
+    "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+    "ArcelorMittal Calvert updates work on new project - fox10tv.com",
+    "Chris Gotterup’s Bridgestone irons are a rarity. Here’s what else is cool about his setup - GOLF.com"
+  ]
+}
