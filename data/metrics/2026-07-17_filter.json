@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 333,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 32,
+  "gate2_fail": 41,
+  "passed": 148,
+  "gate2_samples": [
+    "Technician Who Battled Molten Steel for 38 Years Honored as a POSCO Master Craftsman - 매일경제",
+    "'Passing on On-Site Technical Excellence' POSCO Selects 2026 Master Craftsman - 스포츠조선",
+    "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+    "ArcelorMittal SA (MT) Shares Fall 3.3% -- GF Value Says Still Ov - GuruFocus",
+    "ArcelorMittal Calvert updates work on new project - fox10tv.com"
+  ]
+}

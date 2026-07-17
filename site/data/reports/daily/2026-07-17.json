@@ -1,0 +1,310 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T10:03:08.617258Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-07-17-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Micron inks long-term automotive AI chip supply deals with Qualcomm, Hyundai Mobis, Samsung’s Harman - KED Global",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SdnM0WFZvTmFQTGV0Q2t5UExiN2hkYlNaRjJwd2JBNzBIcldoZ2NxRmtlalhGQ29nUXdVTkl0WkVCN0hUOGZONmJ3Um1JeWNlcjlWSG9Ia0lhVFYxZG5rbWxTZEgtVTB4Q2dKWHc5Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-07-17-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Micron signs auto chip deals with Qualcomm, Hyundai Mobis - Tech in Asia",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWRja2FrbjU5X3VESG10VkQ4SENLN3VyWDlxLTQ2WTdwWUxfTUktYnJJLU9tZTZheC1yNTdhVjExbU5ROEp2VkgzdTYyUkx6V0ZkZjNEdXRydmFyTU9VY2JfX0l1WlRLbm9UekVDQWxxWmJJcWF6UUNTMktxR0FzcXVCWExfeVBvTkk4OWRELVJJYnlOUUgzYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-07-17-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD says it can overtake Toyota without selling cars in the US - CarExpert",
+      "companies": [
+        "byd",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGhaRXhPM0d5dU1wTktIbnN1NWhWU2JpZExWYWJhM29EVy1KZU92LTRud1RJbXZTZHI5cTI3U2lBTGxkczdRMkJYMHZLc3NXZHRNME05akJVbUpnYTRsd2RTNjlYb0JTcVpidzlEWDUyQVpFSm9VUUxFUTlYUlF4ZVVwOEV0Z2U2V1JTQ2dVWFdzcnV5RXlwMVJBYTk0UUJYbnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_mobis-2026-07-17-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Micron locks in auto memory deals with Hyundai Mobis, Harman - The Korea Herald",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fa2d4WllhX3F4M2dsNENFend1NjI5QVJoLXpQMVF6V25BOWU1dXByUUdkdl9RWEdjNFpWWlpqS1RhcV9KaGRrTlVhSHViZmZDbEFIY0VlSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai_mobis-2026-07-17-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Micron Locks In Qualcomm, Hyundai Mobis and 5 Other Auto Giants With Multi-Year Chip Supply Deals - finance.biggo.com",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43OXN4WDk1VlNKa01JcGlKZ2pMZE8zSTA5YlBsUHN2NkJHVnhtQmZMTVkyTnZWZmZSbTFVTUFoRFQ5SnNLNUlOWFBLUk5yZEgzWE9BZ1FmdFpac3JKUldUUUVqc1pWQjZESHNaUzVWemsxRTNHYUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "parts_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 34,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "parts_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 333,
+    "too_old": 152,
+    "gate1_blocked": 32,
+    "gate2_blocked": 41,
+    "passed": 148,
+    "pass_rate": "39.7%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Technician Who Battled Molten Steel for 38 Years Honored as a POSCO Master Craftsman - 매일경제",
+      "'Passing on On-Site Technical Excellence' POSCO Selects 2026 Master Craftsman - 스포츠조선",
+      "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+      "ArcelorMittal SA (MT) Shares Fall 3.3% -- GF Value Says Still Ov - GuruFocus",
+      "ArcelorMittal Calvert updates work on new project - fox10tv.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為Hyundai Motor、Hyundai Mobis、Ford相關動態：「Micron inks long-term automotive AI chip supply deals wit...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Micron inks long-term automotive AI chip supply deals with Qualcomm, Hyundai ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Micron signs auto chip deals with Qualcomm, Hyundai Mobis - Tech in Asia（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "零件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
