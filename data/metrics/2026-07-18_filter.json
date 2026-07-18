@@ -1,0 +1,16 @@
+{
+  "total_raw": 703,
+  "dup_title": 364,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 30,
+  "gate2_fail": 46,
+  "passed": 108,
+  "gate2_samples": [
+    "Nippon Steel Oita FC - Brew Saga, 18/07/2026 - Kyushu Soccer League - Match sheet - Transfermarkt",
+    "Technician Who Battled Molten Steel for 38 Years Honored as a POSCO Master Craftsman - 매일경제",
+    "'Passing on On-Site Technical Excellence' POSCO Selects 2026 Master Craftsman - 스포츠조선",
+    "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+    "ArcelorMittal Calvert updates work on new project - fox10tv.com"
+  ]
+}

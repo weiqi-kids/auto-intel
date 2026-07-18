@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:38:21.674682Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-18-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sierra Club North Carolina Reacts: NextEra & Dominion File Application to Merge, Form Country’s Largest Utility",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/17/sierra-club-north-carolina-reacts-nextera-dominion-file-application-to-merge-form-countrys-largest-utility/"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-07-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ford (F) Warns US Auto Industry To Get Ready For Chinese EV Rivals - simplywall.st",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVlPQks4UGJlSnBXejNDZjYxaE5qbW9kSGdnLTZtZUNRbWZCMkx6Uzd4X1NrSHBjVkFZZV95T29nc3EtbFdkZ2R1LXZGbnp1Ui1LSUg3Y2JodW5lQXBoMWNSWUVKUnl5ZzQwSXg5cThjSXFiSHFfVjlxRmJ6Y2VzaTZxYTl0T3I0WW1fZnZMUkp2Tk56WUI4RUE2aEhjNG1iWENPS0g4QUhCRGtrYTNaeEMzZGd2RzktMUo2TzdMdktCWWNSZUHSAcsBQVVfeXFMTk9odW1rNldlSnQ4UTZzU3dWRzZ1VkhHR1R3a21pZ29PYWZhTElybGJiOFdzdFlnQTE3QVVlRzFzTVp1VklXNXJsM0FoaDl2bDk5d1MxTVJGckxZMXBqUDl6UTNHRVNmOEJtRnFFd19vU1R6d3pVdC0zYl9Nd2ctVmhSeVVzc3ZSYnRnZ2c2Sy02eGNvYnlkQUR4MXBXbk1BM19JeXdFLW4yTmpLZldpUlpIbnY1ZVYwamFWZ29KcDB1bHFhdGJJQ0UzUzQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-18-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IM Motors Dealers in Multiple Cities Face Operational Crisis; Company Says It Is Accelerating Resolution - Gasgoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObGdNM3lpb1E3Z1FxRWVwclBqSVhCRjRTS2l6Ti12Rl9nUjBya05mTXlmRzVrRnprRXc1b1Jqc0xuanN1VnRYZkN5YWJmdF9FZ3VldzllVEdEZldZY0lhLU9FVTE0dTdNTW5VNS1JMGlBVUtwUzEzNi1KdDJBOTdGVHJidlBBazNGWFdHWnoxUm9wUUEtb2YweTZCTmN1cW9jTXhPazRvSDdkZjl6UFlWcUMwYmxqaV9qN2NqYi1mNWtBd09OSEQ3X0xldGVGay1sNV9kTVQyVlVJODdZN2hYX0Vfa2V4U3NfWDh0cGVqaXpnbUJTYVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "byd-2026-07-18-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Gasgoo Express] BYD's Cumulative Deliveries in Thailand Exceed 130,000 Units; IM Motors Officially Responds to Operational Crises at Dealerships in Multiple Regions - Gasgoo",
+      "companies": [
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNTzRVX25TSzQ2UHZmNXREVHJ6cFp1RTQ1ODVXN2E4S3RRdk1DVzF4UHVYUC0xSmF4d1JuUG9qWENndzAyZmg3THFkbXFza0tqSDdVUmt0RXNTYmJJNUZjbWdCcTNmcTljX1AyTV9fRkZMRWhYcUIzYXJiTFY3MG1zaV9DUFlIei1hOUk3YXdaTnVHaWtfd2lqMDRobjJvaFN6UGtxblhaU3FiSExLVUlnS2tPaUVvMUxCc1dSV2ZTU29ZUkRnanVOWDlTN2k1WXlnWV8tRTloS1NBZkJTZEoyTER4OTF1R2ZpVHBUdi1yY2xMdk44VmUxQ3ZESVpVQXVHNEtzVkh3clFyREdtSFkxeG9DcElnbEFtNFdkMVRkRk5JRXotejl1MU9saVFvdDFwRE50NWY5dzlMMXVIQU1lVFJxclhUcHlGOFFhYmMzZ1JabFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-07-18-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Endgame: The Decline & Fall of the Western Automotive Industry",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/17/endgame-the-decline-fall-of-the-western-automotive-industry/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 703,
+    "dup_title": 364,
+    "too_old": 155,
+    "gate1_blocked": 30,
+    "gate2_blocked": 46,
+    "passed": 108,
+    "pass_rate": "31.9%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "Nippon Steel Oita FC - Brew Saga, 18/07/2026 - Kyushu Soccer League - Match sheet - Transfermarkt",
+      "Technician Who Battled Molten Steel for 38 Years Honored as a POSCO Master Craftsman - 매일경제",
+      "'Passing on On-Site Technical Excellence' POSCO Selects 2026 Master Craftsman - 스포츠조선",
+      "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+      "ArcelorMittal Calvert updates work on new project - fox10tv.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Ford、Toyota、BYD相關動態：「Sierra Club North Carolina Reacts: NextEra & Dominion Fil...」。主要關注主題為汽車產業通用、財報、汽車銷量，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sierra Club North Carolina Reacts: NextEra & Dominion File Application to Mer...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Ford (F) Warns US Auto Industry To Get Ready For Chinese EV Rivals - simplywa...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
