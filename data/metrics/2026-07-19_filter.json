@@ -1,0 +1,16 @@
+{
+  "total_raw": 698,
+  "dup_title": 408,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 27,
+  "gate2_fail": 42,
+  "passed": 65,
+  "gate2_samples": [
+    "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+    "ArcelorMittal Calvert updates work on new project - fox10tv.com",
+    "ArcelorMittal SA (MT) Shares Fall 3.3% -- GF Value Says Still Ov - GuruFocus",
+    "Chris Gotterup’s Bridgestone irons are a rarity. Here’s what else is cool about his setup - GOLF.com",
+    "History’s Mysteries: How A Tiger, A Rock And Bridgestone Created The NIKE Tour Accuracy - MyGolfSpy"
+  ]
+}
