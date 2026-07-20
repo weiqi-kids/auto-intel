@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-20",
+  "total_events": 49,
+  "by_company": {
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 8,
+      "sentiment_avg": -0.06
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 24,
+      "sentiment_avg": 0.04
+    },
+    "industry_general": {
+      "count": 35,
+      "sentiment_avg": 0.0
+    },
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "ev_penetration": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

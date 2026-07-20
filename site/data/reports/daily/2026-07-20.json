@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:57:04.152597Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-07-20-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Expands Robotics Investment as Core Business Profitability Comes Under Pressure - IT조선",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yTWpxWVktSnI1ZHhRTmpuOTJEd1lULXdURmZ6eVpRcHBGcW5NcG85a2JXSUlvNmNPMjNNdmpMbDBseGRjXzhnWHdVMjlDZXVxYlVOckY4elljWk92TFVrZjVRNTlJY0tWOUxxaERmYkdlcmFO0gF0QVVfeXFMT3JNanFZWS1KcjVkeFFOam45MkR3WVQtd1RGZnp5WlFwcEZxbk1wbzlrYldJSW82Y08yM012akxsMGx4ZGNfOGdYd1UyOUNldXFiVU5yRjh6WWNaT3ZMVWtmNVE1OUljS1Y5THFoRGZiR2VyYU4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-20-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "China's car market heads for worst year since 2021 as sales plunge 20% - CNBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEtFQmNzSDZuZ2tQdjlfMUFrSm1paWpDWFlOa0R4WkVHZ1FMazluaDNhcU9LNmlCMnlrRXFOZDBucFpza09tVTExUUdZRy1samZ5M2g2RHlnaTNnR3NLdXk1d3FjaWdvNEp2RFlFVDlMc3h6dl9tNkp1Mk1pN2s1WGpscE1nNDItNlpPVG5TZHU1bTjSAZgBQVVfeXFMTmFYZ09tbFRKb3lndGZ3LXZ2aHVIN0lDbGpKWV9TaklGREhHRUZCajVaUFh1MTN2MVByckVVVm9URGFkQXliVjg3UEhYR3dIR0k0SzFFR3hrM0haa1ZucWozY1c0NTFYd0NsSW9wZmNtZkVRc2NMV0U0OFFucnZieklKb0JVSkpvT1FpS3FSbFMtQ3BITTI5U1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-20-034",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "India EV Retail Sales Hit Record High in June 2026 as Electric Vehicle Penetration Crosses 12% for the First Time - EVTech.News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1g4VkRmczNmTjZPV181ZUlrMlpwYnhTRDg4MTlJTS1TOHZXcE1WbGJBanN0ZHRzcUc4d21FaXhTd3U1RzRnVllXNW9RR0d5aXlOU0FDNWdlSjM2U2FyYWdPblVVdklxMTZQQUdMam1OTjRuSU51OF93eERTU3RTLUc3VVQ4RDVWYmE3X0thN0NxLUFmajdQX21jZ3dpSkZsTVVHU0hYSHRQcUNMY2hndE9UM0t5b2tJLU9hU1BZUi1tUXB1VFQ3VTdlZGdSbjRPeV9jS1hKcEpuUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-07-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades steady as margin focus grows after strong 2024 earnings - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdEx6SWcxWXYycjZMeW8tUjZzbGhLTm5pTHc4SGJTTHVLdDE5M2M2Ymx2bzduY2NFQWtfQXdpTUZEeFFqNjdxRVFlMzExZHVXMGtaUTlNbkNIZmlQU1BXbnZpSm9YYlJWamRkeTdDeWk3OUlaX2hEellLVnFaX2tsSEpvZmpibjJ6blMtX3laX2NsVWt2RmZjUlk0VnV4UkhxTG5yd1ZwbWRPTWVPMkY5N0lfWWRoQkV2OUdEU2hvRFlqVzRiNmE3TDZObw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-07-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental Carbon faces alleged violations at Oklahoma carbon black plant - European Rubber Journal",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWhkNExuT0NfNmY2Nlc1eUg1OEpNbnVTMDZyWjVULWZIRENxSDVuZl95OWJuODgybGFUaWN4Q2hIbmRvZnM4YkowSFY4dy1wZDVoUXROXzVSNDl4QkV4ZVVoUlVWd0tiQm84aGw3Y3ozNXJsVk9pYWYtV0pjNXFOeDVQVV80cGdRSks4a3FIVHcyYk9PNDllcHQ5OEZXeWlwQWlqVTFMVXhXaG9EeHFMNlVvY3E4LTlUOS12d0RmSF9rMldxRzFaQ0RB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 43,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 24
+      },
+      {
+        "id": "ev_penetration",
+        "count": 10
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 380,
+    "too_old": 161,
+    "gate1_blocked": 29,
+    "gate2_blocked": 47,
+    "passed": 84,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+      "Chris Gotterup’s Bridgestone irons are a rarity. Here’s what else is cool about his setup - GOLF.com",
+      "History’s Mysteries: How A Tiger, A Rock And Bridgestone Created The NIKE Tour Accuracy - MyGolfSpy",
+      "Enterprise value to EBIT forward of Cheng Shin Rubber Ind. Co., Ltd. – TWSE:2105 - TradingView",
+      "Saint-Gobain to Acquire EGFA’s Lexington Glass Fiber Operations - CompositesWorld"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「Hyundai Mobis Expands Robotics Investment as Core Busines...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Expands Robotics Investment as Core Business Profitability Come...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "China's car market heads for worst year since 2021 as sales plunge 20% - CNBC（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
