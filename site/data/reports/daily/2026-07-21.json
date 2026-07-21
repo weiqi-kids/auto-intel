@@ -1,0 +1,274 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:29:16.508538Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-07-21-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Exclusive] Hyundai Mobis completes sale of Lamp Business Division... final deal to be signed on the 24th - 매일경제",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBReUZiU3Zub2lIaVNOeHlxbEFISE5SdFpXNlVBYThlN3J1QWZJc2RXZGxiZDRrcmc2aTNIRklfNmhXVGhBUk1FbE5VTXFGNG9pQlNr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-07-21-040",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tesla's Q2 Earnings Miss Expectations Amid EV Market Challenges (TSLA) - GuruFocus",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWNUa3RwLU01bHFHYmdCSFZnVU5FTUpPR1ZiZGxMZzdSV2xYWk10bURqOEtpZ3FVOS1KN2FvcE5aUTJublFNU0J5bVRhNGRLN2VQQmhtYWFQSEJNUXJXd2ZHMnpNSWhaMUlGZmg1WTNPRWVRQUxJNkFLY19oMDhNWVRNNmpqbDRXRi04UnBjUEZKLS11SnJyeUtJdUgxLXpDSk1OZzVpcFFrZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-07-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan: Nippon Steel revamps scrap procurement ahead of EAF expansion - BigMint",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFhBRm1fbUU4RVNzTUJnQXc5Ymhfb0hYblpNd2xYZVZIRHB0TUNFcUp3Y2UtOC0zVmdiWkpnc2JDSGpLN1FsZlFHRUJHdUp1V1B2SE5pUWdZZnpQYTBXeUp5eG1SZ1p1MUtBbDdNMUhzY2xsQ1d5QTZJbEJsdy1KMFBhMjlpb0xxdGxXNVpzUDJSZXpJX3oyZzNkYjRzSXM0ZUtKUTVGN24ydnhxNUpkZ3pwcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bridgestone-2026-07-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone Survey Reveals UK Driver Scepticism on EV Costs & Charging Points - - Insurance Edge",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEs1c1NoanRkUTZLQlhtUjJmdmI5Yll1Rm9oZjdKS2FFWkQzQWxOOC1GNkhaUTlpU2lpaGFiR2FaWEpJbGFFWkoybTF5eUktUl91bVNvNmU0d2hXb0lYb1VNcUQ2dk0xaUNMT1BJUUJ0a2tYWE41VjlwdUZsZ1JWM3h5TVl1QVhWb2p0eF95THdfcU1waVQ0eTlwVmFfWEhfYUJieGZzTTJFZWpIdEVGQjRaSlg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-07-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades steadily as resilient cash generation supports valuation - Ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcWtqQmloWHdEbUZsZGFoak9BMnVXanQ2Z0pHNU9lU2NzUDl2Z21UWVpMSm1vY1hFWlFvVGcyVjl1Nmc0RUQ4dGdZMUttVWRHS09rNGlnQ0MzNmhWbTBBUHc4bU1uQ3hrM3dZRnM3angtN3h3cEpzc1Y4N014V2NrLUVndzRxd2FPU2lBeVJ5Tlh1cmROanRKRW9XQXl0MUxtQ2ZvQjhIMDZvNXpIZGdMY0NhdS1kZ1Q5Q1k1azVHdFZRb2FGUnY1NnZ4SQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 43,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "byd",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 33
+      },
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 686,
+    "dup_title": 311,
+    "too_old": 156,
+    "gate1_blocked": 36,
+    "gate2_blocked": 49,
+    "passed": 134,
+    "pass_rate": "35.7%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+      "ArcelorMittal stock holds on 21 July 2026 after fresh investor context - Ad-hoc-news.de",
+      "ArcelorMittal Shares Climb 3% Leading the CAC 40, Up 114% Over the Year - Idéal Investisseur",
+      "Chris Gotterup’s Bridgestone irons are a rarity. Here’s what else is cool about his setup - GOLF.com",
+      "Saint-Gobain to Acquire EGFA’s Lexington Glass Fiber Operations - CompositesWorld"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為Hyundai Motor、BYD、Ford相關動態：「[Exclusive] Hyundai Mobis completes sale of Lamp Business...」。主要關注主題為財報、汽車產業通用、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "[Exclusive] Hyundai Mobis completes sale of Lamp Business Division... final d...",
+        "level": "red"
+      },
+      {
+        "text": "Tesla's Q2 Earnings Miss Expectations Amid EV Market Challenges (TSLA) - Guru...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

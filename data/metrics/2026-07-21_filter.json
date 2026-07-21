@@ -1,0 +1,16 @@
+{
+  "total_raw": 686,
+  "dup_title": 311,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 36,
+  "gate2_fail": 49,
+  "passed": 134,
+  "gate2_samples": [
+    "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+    "ArcelorMittal stock holds on 21 July 2026 after fresh investor context - Ad-hoc-news.de",
+    "ArcelorMittal Shares Climb 3% Leading the CAC 40, Up 114% Over the Year - Idéal Investisseur",
+    "Chris Gotterup’s Bridgestone irons are a rarity. Here’s what else is cool about his setup - GOLF.com",
+    "Saint-Gobain to Acquire EGFA’s Lexington Glass Fiber Operations - CompositesWorld"
+  ]
+}
