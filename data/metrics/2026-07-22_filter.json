@@ -1,0 +1,16 @@
+{
+  "total_raw": 694,
+  "dup_title": 318,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 36,
+  "gate2_fail": 51,
+  "passed": 130,
+  "gate2_samples": [
+    "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company",
+    "ArcelorMittal Shares Pop 105% in a Year: What's Behind the Surge? - Yahoo Finance",
+    "Nashville Stampede Set for Bridgestone Arena Return - RFD-TV",
+    "Chris Gotterup’s Bridgestone irons are a rarity. Here’s what else is cool about his setup - GOLF.com",
+    "Saint-Gobain to Acquire EGFA’s Lexington Glass Fiber Operations - CompositesWorld"
+  ]
+}

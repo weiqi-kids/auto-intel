@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:29:11.205902Z",
+  "updated_at": "2026-07-22T10:30:26.125498Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "正新",
       "ticker": "2105.TW",
       "currency": "TWD",
-      "ar": 8295944000,
-      "ar_prev": 10095590000,
-      "ar_qoq": "-18%",
+      "ar": 9822105000,
+      "ar_prev": 8295944000,
+      "ar_qoq": "+18%",
       "ar_period": "QoQ",
-      "inventory": 16468259000,
-      "inv_prev": 15262925000,
-      "inv_qoq": "+8%",
+      "inventory": 16123357000,
+      "inv_prev": 16468259000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "continental",
@@ -415,17 +415,17 @@
       "name": "東陽",
       "ticker": "1319.TW",
       "currency": "TWD",
-      "ar": 6309518000,
-      "ar_prev": 4560489000,
-      "ar_qoq": "+38%",
+      "ar": 4520519000,
+      "ar_prev": 6309518000,
+      "ar_qoq": "-28%",
       "ar_period": "QoQ",
-      "inventory": 3179109000,
-      "inv_prev": 3359931000,
-      "inv_qoq": "-5%",
+      "inventory": 3341359000,
+      "inv_prev": 3179109000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "valeo",
