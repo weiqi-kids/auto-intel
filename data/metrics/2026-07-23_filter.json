@@ -1,0 +1,16 @@
+{
+  "total_raw": 712,
+  "dup_title": 321,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 36,
+  "gate2_fail": 51,
+  "passed": 142,
+  "gate2_samples": [
+    "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+    "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company",
+    "Bridgestone Study Finds Main Reasons for EV Adoption Hesitation - Fuel Cells Works",
+    "Nashville Stampede Set for Bridgestone Arena Return - RFD-TV",
+    "Saint-Gobain to Acquire EGFA’s Lexington Glass Fiber Operations - CompositesWorld"
+  ]
+}

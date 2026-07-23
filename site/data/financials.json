@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T10:30:26.125498Z",
+  "updated_at": "2026-07-23T10:27:20.636977Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -59,13 +59,13 @@
       "ticker": "5108.T",
       "currency": "JPY",
       "ar": 1093109000000,
-      "ar_prev": 985082000000,
-      "ar_qoq": "+11%",
-      "ar_period": "QoQ",
+      "ar_prev": 1037345000000,
+      "ar_qoq": "+5%",
+      "ar_period": "YoY",
       "inventory": 885458000000,
-      "inv_prev": 917024000000,
-      "inv_qoq": "-3%",
-      "inv_period": "QoQ",
+      "inv_prev": 945285000000,
+      "inv_qoq": "-6%",
+      "inv_period": "YoY",
       "inventory_applicable": true,
       "alert": false,
       "quarter_date": "2025-12-31"
@@ -279,17 +279,17 @@
       "name": "建大",
       "ticker": "2106.TW",
       "currency": "TWD",
-      "ar": 3650047000,
-      "ar_prev": 3943113000,
-      "ar_qoq": "-7%",
+      "ar": 4326105000,
+      "ar_prev": 3650047000,
+      "ar_qoq": "+19%",
       "ar_period": "QoQ",
-      "inventory": 10117992000,
-      "inv_prev": 9300062000,
-      "inv_qoq": "+9%",
+      "inventory": 10125043000,
+      "inv_prev": 10117992000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "magna",
