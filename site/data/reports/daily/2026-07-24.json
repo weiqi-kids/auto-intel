@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:23:56.085423Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-24-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Co Q2 Operating Profit 975.2 Billion Won, Up 12.1% Y/Y - TradingView",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUWV3X215TXdrSGlsVHREcE9lcUQzOUg2QXVFVVZrQVBaU05MYzZ1dEhOdnVMODI0a214U0JjcHdLLWR1emZZdmlzODNjSDJ2RF9jRndRYTdKd0p1QWczbVJpTDkxUE45OW5BUzZMUWZ4TTRMYWhOOFNrdHBDUUU2WVZoeHZBQkJKTHN0Z0hSOGVKYW1DSGtSbWZfZmtoOHNscmZSOTcxME4wZzZ0QkY1V0F1UkRsT3c0anFrZ2F4TXAzeGtoVG43ZDc3a3Uya0w4T3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-07-24-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis posts record Q2 profit - Aju Press",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EeFRCQWdaTXRIejgyZEZqdkZOTnBCS2ZnYWtQSzNNSWNFTGt3S3ZiZVVzLWJTcUxmVGk3eENjR3FybDVsRG9FVnJJR00yU3IxU2dOLUd6ONIBV0FVX3lxTE5EeFRCQWdaTXRIejgyZEZqdkZOTnBCS2ZnYWtQSzNNSWNFTGt3S3ZiZVVzLWJTcUxmVGk3eENjR3FybDVsRG9FVnJJR00yU3IxU2dOLUd6OA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-24-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "(LEAD) Hyundai Mobis Q2 net rises 13.5 pct on high-end parts, weak won - Yonhap News Agency",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XQS0yTWVWX2h6VE40TWkzbmVUcDBLcnNBQno2NDkyX1NtNzd0QkhRQW1KcDc0bmhjZWtXWUFER3pucjZJNmtVbHlRX3dtdi1HTWthU2IyMHVUUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-07-24-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis launches humanities training to boost family travel and teamwork - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXpDcVh1U0otVXh0OHR1aW5wNEtpVUZGYTVtWnhjRlBJN1d4Q0JoYXMtTE1QZU90dWdoNDV0bzU3ci1PU0tkSnlzT1lBX1dEWlZQenlrdUZvWWVFSFBvRVNjZG1xWFpxSHE2UklQWFZmbXAtQ21UVjM3ODNkbXMxQ3BR0gGWAUFVX3lxTE0yZ1lFb2RCMk5EM21NeWgtWi1CTEpUQm5TYUl3Y1lIdnhhNTlTNkVMT0VWVmxMVENobUhtTUxOTG1HbTRZOEh3OUNQakRfNjRoTUlxaHNWRTlYNWEzNmxKSDRlMjJHVkJTajBLYXM5WXpKc2REMmhoWS11bXRzYWZ1ZEV6M21pcHQwczRVZm45dWNNUmNhdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-07-24-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis (012330) Earnings: 2Q Operating Profit Surpasses Estimates Despite Sales Dip - Smartkarma",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeUFZYUdPZERkY1RLVzNxMnh5SGM2NXZVbkFmQ1YwVkJrcUxKNzhGcm9JRGp5WGxFOE9zSVlVTm5iekg1QnpjdUpzeWhWa0Z5UC04UGk3RnFtRW9xN0hjTzFic1B0LXJWUmxjRzZhNWtlU0RxRWY3REJwN2NoR042MEN2ZjB3aTZSbFM0NkFXSXJzVUhMV0V1d2xfWVhGdndISlF4Y2RaTFZuZTYtNWpQckhyVGRUUFUzS2dqSTVVaGp3N2JjbE5qbjdrOXB2MmlZU3VUQXRfbXZUMmRQZWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 9,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 37,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 14
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 9
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 28
+      },
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 319,
+    "too_old": 151,
+    "gate1_blocked": 37,
+    "gate2_blocked": 49,
+    "passed": 152,
+    "pass_rate": "39.1%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "ArcelorMittal, Moeve sign Spain’s largest energy-saving certificates agreement - EUROMETAL",
+      "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+      "Moeve and ArcelorMittal Sign Largest Energy Savings Certificate Agreement in Spain - News and Statis",
+      "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company",
+      "Patterson school district receives $25,000 adaptive sports grant from Bridgestone - ttownmedia.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為Hyundai Motor、Hyundai Mobis、Ford相關動態：「Hyundai Mobis Co Q2 Operating Profit 975.2 Billion Won, U...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Co Q2 Operating Profit 975.2 Billion Won, Up 12.1% Y/Y - Tradin...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis posts record Q2 profit - Aju Press（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

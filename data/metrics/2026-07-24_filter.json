@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 319,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 37,
+  "gate2_fail": 49,
+  "passed": 152,
+  "gate2_samples": [
+    "ArcelorMittal, Moeve sign Spain’s largest energy-saving certificates agreement - EUROMETAL",
+    "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+    "Moeve and ArcelorMittal Sign Largest Energy Savings Certificate Agreement in Spain - News and Statis",
+    "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company",
+    "Patterson school district receives $25,000 adaptive sports grant from Bridgestone - ttownmedia.com"
+  ]
+}
