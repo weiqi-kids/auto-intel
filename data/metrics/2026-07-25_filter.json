@@ -1,0 +1,16 @@
+{
+  "total_raw": 705,
+  "dup_title": 343,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 33,
+  "gate2_fail": 58,
+  "passed": 123,
+  "gate2_samples": [
+    "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+    "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+    "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company",
+    "ArcelorMittal, Moeve sign Spain’s largest energy-saving certificates agreement - EUROMETAL",
+    "Adaptive Sports Ohio selected for Bridgestone funding initiative - Wooster Daily Record"
+  ]
+}

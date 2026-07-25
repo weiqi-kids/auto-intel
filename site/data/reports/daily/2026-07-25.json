@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:53:31.762545Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-07-25-015",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Weekly roundup: Ford ratifies Canadian labor deal, Used-vehicle prices ease, GM's core earnings rise - CBT News",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xWkVSOHBRb2daWHZkUHFwWXlYNW13eG5JVXJSRGNWVVloc0xoWmU0RTJjejNGN1RfeklTYk9EcHlseFBkZFh0TGNMSEJaMUtVR0hBSEpuaENDcC1KNnhjVmJR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "continental-2026-07-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental Drift: The sad sight of a Europe running on inherited reputation - Open Magazine",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazhUNUc2dEQ2RGFjcVc0aE1yQ1h6R1NsY1pNOUN3aHo2QmlMbmtDWGpPMEZwaXlOYzFsN0o3VTZPZFJjRFdlcEdWWVJva3Jwdkx1VmMwNFVLTXZuaHVzYnFjMmFlUmNZXzRnTWtxUF9xVkxZY0NHckt5dVR3cldxZUdXU2hMbEU0QlRMSVZJc2l0YjlxOEFEVjRIejZBZEpEclh0WDA0d2oySzd0YmJQbg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-07-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PNC Financial Services Group Inc. Sells 175,340 Shares of Ford Motor Company $F - MarketBeat",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWk5iUjhnbWQyZHVJNVZlWUd3Q29sOENOOThyWXpxVzZkSUtoU1AwdFNQZy1MVmdDVGota0J1SEpTcmdrU2wzUi1LV3JlV0NMcGVPRkRUWmZpTzZ0REFZYlFWOG4zY2JqOWtpRU50cTNhSHp3RnJ3OHB3R2lJdzFPcWxEUXlEUUpfYnhDb2VpSHVFaXBlbFNtZmZhUjk5NFBpUmFFc1R1aXJucWMtOENCd2RHODk2aE5DUUtMZF9WcFBVRFpKZ0l3Vkg3RHhCWGpHeWN3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "stellantis-2026-07-25-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Officially Announces Two Key Appointments! Stellantis Bolsters China and Asia-Pacific Management Team - Gasgoo",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONWZlTGxsVEtQWlQ1UlN2cnlVbHVoUTRQelZ3bVdQTnEwaUFSYlBuSlBhZzNSSXQzVURKQy01N3cwWmNRN3ZVQWxZeGJwSkhhY3pKZXdnbEpkZjVrOE5NU0tubUszYlozbDhHQnE3dno1d1dFUjJWNGRzSDlFM0QtVnI3aWVIRVM3X0FfWm5fTnEzUmduSm96WW83NFE3MHd2bk5jZFFJWnJFUFVaUVMxbm9WNWZJSV9LTmN0emNTaUp0Y1hMTXIxekhoXzhPR2U5ZW10SkFXQ01HSHlma0djZ3hMRE1qOUZwU0FYTU9zLWd2OEdo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-25-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Confidence in the traditional dealership model remains strong + Penske Corp. and Mitsu move to take Penske private - Car Dealership Guy News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTI3UnBPNUZnWE84TS0zdXlISVdYTnVseGl3Ty13WUJmR2pBWTlNYVRVeHpHVVdWQ0hCM3Q4Qi1LdWNWSlEwdXoyalpnbW56aGdfNDgtdzR3RHZsM3JNVVV2cHdLbEZCbVlDQW5NN1A1LTFfblYtLWxLWkdGQzZRdWROaE42Y3l2U0hOa0lBQXVaSlBoRUNHcWYzeUdGNml0WHN6b3JJa3hkdi1oR1l2YTFyVk1GenBUZXUtaHZ2WXVyVk1PLXlQUE14eUFfZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 1
+      },
+      {
+        "id": "stellantis",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 343,
+    "too_old": 148,
+    "gate1_blocked": 33,
+    "gate2_blocked": 58,
+    "passed": 123,
+    "pass_rate": "34.0%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+      "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+      "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company",
+      "ArcelorMittal, Moeve sign Spain’s largest energy-saving certificates agreement - EUROMETAL",
+      "Adaptive Sports Ohio selected for Bridgestone funding initiative - Wooster Daily Record"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「Weekly roundup: Ford ratifies Canadian labor deal, Used-v...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Weekly roundup: Ford ratifies Canadian labor deal, Used-vehicle prices ease, ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Continental Drift: The sad sight of a Europe running on inherited reputation ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
