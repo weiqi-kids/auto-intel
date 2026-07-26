@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T10:04:22.500004Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-26-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Posts 12% Increase in Second-Quarter Operating Profit - thelec.net",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81bVRabloyWTdjbkpQaFJMUGVoYm8tc3ZtWDdYY2w4Y09aOVRFWVNrSmlKempUdTNtc1dQb2xWbEhNWkRMN05KVEk2RENWVFRDNWNtSmh1ekRDUnI1b1doTHpoR0JON2M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-07-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal (ENXTAM:MT) Stock May Be 26% Undervalued On Cash Flow Strength - Yahoo Finance",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMi1VOXFLQm5hMHRHZklORl9lR1lCRmJWZjdhdHVQWlkwVldVQ3FQU1QyY1BvemR5RW9JSlZwQVh3aEhvLTFlVW5TN0tPX2Y1Mk02MWdqcUt0UElzSEF0RFNoOFljSkJBNFJMSl9KaVR3VWY4MWxlZ2d6WnBMdmVKWEJsYzlxbmFZMEtUVHRMajlaMkg2TzA3ZC00Y0dFUms?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-07-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal (ENXTAM:MT) Declares Dividend And Updates Consensus, Is The Stock Fairly Valued? - simplywall.st",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLUdwZ1F0TlFyMVhUeVRmeVlpMHR1cEIwRDJuQnQ0eG0xbV9nSUZmSzZQZURUWmotRHpZcGFIS1ZDRG5TWUx5SEpTbTBzZVVValUybEk2QW5EVlVITy1fUmRNeTFwNUxGcDBGT1N4TnlDeTNvY3g0RmlzUFllV09DcHVQd2VPZXV2NHUxM29JWlZpZGN1UUhrUUpWTE1YcUhDMXFfQ3dLM2NLNjdWRi01LUEyelViZXcweXlkeDBRZFRobkNYaDdrUlNTb2hZdmJi0gHWAUFVX3lxTE9wb2dac0RNeUpSYmlNa0Y5S2JfeVFrYVZueFBCcDEwUW1UcFVHd2NtaXR3eHZkZmI0TmNFZzFfN0Z0bjl5b0VsUjBHeEEzeXhYekxzOGJ6N0xfb0hXSTdEN3Fra0ZVUTJUaktGcmRCMHp6MGtSY1JxNnFUZzgycnhYSUFTang0bHFxS2Y0eV83ODZheG0waVBLZkp1S3dSVko5TXJUN2RnOUoybVpCMWgxNzh6aUNreGU0V2M0STNiLUdEU2E5ZFM0MFg0UjdUMVNqSG8td2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fuyao-2026-07-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A-H Premium Weekly (Jul 24th): China Longyuan, CNOOC, Fuyao Glass, ZTE, Nci - Smartkarma",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGNrOVRkbWZMc3cxRnQ3M0x2Vnd2ZGtEcjFyNmpWS0I3V2tMS3liQ1RMX2VRTTZDSmNOUXBYYWNTY3k5N0VXZVBaNmxLc0dRcHhVN1Y5NG1IQVVQQk5iVGVURVJ0aUdaNHRtNm9vTEwxNnd1QkdmX0d3aUxHTVdHMFRuZVJhOHhUbHdYbHVVVlpXbzBYTThXU29jVWZmbDFkUm56OW9MRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-07-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock finds support as margin focus follows solid 2024 results - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa21fR29vUVZ2R1JBWXJ2MHVDVFRIdlItVFNlRGpnN2JOVDlzS3g2WE1ibmhaX2tLM0c0ZnVmMjdkUGotNXg1eFQ3ZWxWMTUtRFE5ZkluNWd6cFVsYkdLbDNzTWlMdDY5SHEtQ2VmYlJSSE9vd3ZsQXJsTVVFNkJocVFMcjM4NWlWT2NlTkIzdFhDdWZ3RERhLUwxLW1yVjJ2V2tNN2xON0k2dWZwSWlHR25iT0dlN2FIbnF4SEV5b0Zlc0Vw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "bridgestone",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 700,
+    "dup_title": 385,
+    "too_old": 155,
+    "gate1_blocked": 30,
+    "gate2_blocked": 53,
+    "passed": 77,
+    "pass_rate": "24.4%",
+    "gate2_block_rate": "16.8%",
+    "gate2_samples": [
+      "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+      "POSCO Group maps out resource-led strategy, targets $127.8 bil. sales by 2035 - The Korea Times",
+      "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+      "ArcelorMittal, Moeve sign Spain’s largest energy-saving certificates agreement - EUROMETAL",
+      "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Hyundai Motor、Ford、安賽樂米塔爾相關動態：「Hyundai Mobis Posts 12% Increase in Second-Quarter Operat...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Posts 12% Increase in Second-Quarter Operating Profit - thelec.net（財報）",
+        "level": "red"
+      },
+      {
+        "text": "ArcelorMittal (ENXTAM:MT) Stock May Be 26% Undervalued On Cash Flow Strength ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

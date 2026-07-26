@@ -1,0 +1,16 @@
+{
+  "total_raw": 700,
+  "dup_title": 385,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 30,
+  "gate2_fail": 53,
+  "passed": 77,
+  "gate2_samples": [
+    "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+    "POSCO Group maps out resource-led strategy, targets $127.8 bil. sales by 2035 - The Korea Times",
+    "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+    "ArcelorMittal, Moeve sign Spain’s largest energy-saving certificates agreement - EUROMETAL",
+    "From instinct to real-time insight: Transforming steel sales with AI - McKinsey & Company"
+  ]
+}
