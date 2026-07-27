@@ -1,0 +1,279 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:29:45.120053Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-07-27-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Click e-Stock] \"Hyundai Mobis: Solid Earnings and Robotics Expectations Drive Target Price Upgrade\" - 아시아경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXRUgwYnBRaEFPdG1uQTRJTTZtX0lGTVhNQmxqUUY0aDZGWUZKVGdGX0tNREJIOE1LQWtfU09hWi1DaXRqcjlSdzEwak5lVF9rN2t4Y05meUF4YmtCbmotVzZDWGJTRUVFWk5tNTZZYTVOZVZIdkJhQUpkTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-07-27-014",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford and General Motors get upgraded by Jefferies, which sees sharp gains ahead - CNBC",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV09kSXBiZWVWVE9EYkZYdXJfMDc3WjdtRFJ5ODRJVzFzdHkzWnlVWmNSOHBYcXZJcE9hNC1sUkkyTjY3QWFJc2g4VUtxLXE3SjRqR21WSW11SnFDWGVjLWhEVENEV2pzSFp2bDNSTDNHYWVpd19SbWJySFhsbGpPbGJhZ1JiaEtBU1RQVE1XdXluUC0tbFJiU2Zfa1FGdGc0RzhmcFN6TC1jNW5JUTJNNG56Q1pwUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-07-27-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to Deliver Atlas Prototypes - Businesskorea",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XeGE4czZadXJiZ1pLRTZlTmprVkNBTzhwUDZrR21LbGF1anp1TE93eFJsS2tVeGNSSkRRaGRndjcyYlVWaDZyN3VLT0hQckZFN3NMOXNzTm9JVFpGdGczcExjcm84alN4UHhtZ0F5dzNxZ3hP?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-07-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Posco Group restructures in full blitz to supply core resources - Korea JoongAng Daily",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWJhNTg1SWhMdmlNc3BxUEkxQVZNS05IcVJJYVNkTDN4VHh2M3VEODVPQkxNVmZyUGY0OG9FX0g4YzZoMWhrWUVucjhpbENEd291ZmowdWtIZmZmUGRBajVPdFQ4eDBmNExWOG9FQlNQQ2xKN3VTSmF2eFREcWRmUHJfREdKQk9feDdwNnE4Q2U5T3BfMTFxbWllN2paZ0hzVDFuMFVJRzV2M3d3dy1DYTdHSzNsdm8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-07-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal to standardise digital operations across global dry bulk terminals - Smart Maritime Network",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmNmNm1CYkhSR1NZSkZkZzVreGU4Q1pvLVAtSmJmUV85VVBTbTVDQ09vOVU5SDNWVTk4SUJQbTVXV3RoTFN4ZmxqQjFxUlROUTdNNld6QlZLVXFwNFVNd1RJblFvT3c0YnpFWGlFZVRveldnRDEwd0JzQV9pUkxJRHNIQ3I0cHU1UXF5VkQ3UmZ6Y1N4bVpmUEpBclU4Z2ZUb3NvcDVCSWhzSGlKUkZPWlBIMlRFN0VhMGxGV1FBVV93aEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 49,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 699,
+    "dup_title": 380,
+    "too_old": 142,
+    "gate1_blocked": 31,
+    "gate2_blocked": 52,
+    "passed": 94,
+    "pass_rate": "29.5%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+      "Steeling a cut? 19 booked for ₹5.4cr kickback racket - The Times of India",
+      "POSCO Group maps out resource-led strategy, targets $127.8 bil. sales by 2035 - The Korea Times",
+      "Moeve & ArcelorMittal: Record CAE Agreement in Spain - Moeve Global",
+      "ArcelorMittal, Moeve sign Spain’s largest energy-saving certificates agreement - EUROMETAL"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「[Click e-Stock] \"Hyundai Mobis: Solid Earnings and Roboti...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "[Click e-Stock] \"Hyundai Mobis: Solid Earnings and Robotics Expectations Driv...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Ford and General Motors get upgraded by Jefferies, which sees sharp gains ahe...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
