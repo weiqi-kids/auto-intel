@@ -1,0 +1,16 @@
+{
+  "total_raw": 707,
+  "dup_title": 307,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 35,
+  "gate2_fail": 41,
+  "passed": 169,
+  "gate2_samples": [
+    "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+    "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+    "POSCO Group maps out resource-led strategy, targets $127.8 bil. sales by 2035 - The Korea Times",
+    "POSCO DX Transitions to AI Native: Equipping Both Physical and Agentic AI - 아시아경제",
+    "ArcelorMittal Marion seeking new employees at July 31 hiring event - Crawford County Now"
+  ]
+}
