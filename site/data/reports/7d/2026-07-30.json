@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-30",
+  "date_range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "generated_at": "2026-07-30T10:29:39.180596Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-07-24-006",
+      "date": "2026-07-24",
+      "title": "Hyundai Mobis Co Q2 Operating Profit 975.2 Billion Won, Up 12.1% Y/Y - TradingView",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 188,
+      "last_week": 136,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 216,
+      "last_week": 177,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": 0.03
+    },
+    "ev_penetration": {
+      "this_week": 32,
+      "last_week": 29,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": -0.06
+    },
+    "auto_sales": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.09
+    },
+    "auto_tariff_trade": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 13,
+      "week_over_week_change": "-69%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "saint_gobain": {
+      "event_count": 8,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    },
+    "continental": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "magna": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "hyundai": {
+      "event_count": 56,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "hyundai_mobis": {
+      "event_count": 15,
+      "sentiment_avg": 0.1,
+      "rank": 7
+    },
+    "volkswagen": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 13
+    },
+    "ford": {
+      "event_count": 47,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 16,
+      "sentiment_avg": 0.09,
+      "rank": 6
+    },
+    "stellantis": {
+      "event_count": 30,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "toyota": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "gm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "arcelormittal": {
+      "event_count": 24,
+      "sentiment_avg": -0.02,
+      "rank": 4
+    },
+    "bridgestone": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "posco": {
+      "event_count": 9,
+      "sentiment_avg": 0.03,
+      "rank": 10
+    },
+    "byd": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "honda": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "cheng_shin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "tyc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 790,
+        "last": 809,
+        "change_pct": -2.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-24",
+      "event_count": 157,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 61,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 57,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 123,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 163,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 137,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 92,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-24 ~ 2026-07-30）共 790 則事件，重點為「Hyundai Mobis Co Q2 Operating Profit 975.2 Bill...」。聖戈班情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "聖戈班",
+        "reason": "本週情緒偏負面（-0.2），共 8 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "麥格納",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
