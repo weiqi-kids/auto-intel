@@ -1,0 +1,257 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:43:53.195582Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-07-31-017",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford and GM Attempts to Go Beyond Cars Deserve Skepticism - WSJ",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzVLZjI0QnZab2F6ZDJ3c0lxRmRoeXk4dEszSlRBZm0wXzhGdVhDeXpyM2RyUUFqUUk0Q2p0b1B0LWZidjVwSnR1cVNWQlBIZTFsSzZTMF8zX0E2SlBNTjFPTGUyRjBPRXZ2djZmRVFhTlh0SzJaV0x6MkFlTFdYTnkxWDFHMmdock5tVmg1Sm1SajRIX0ROUWlVZG5IcHc3N0pr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-07-31-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain's H1 Net Income, Sales Decline - marketscreener.com",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXy1yeTAtR3NhYWVCWHZuU01rYlJPZ3E1T3BBTk5wZzV5b1lzcU1Gc2k5M0t3MHVOdmQtUFNWTURHb0FCbldUY3Q2UWJtZmZEX1piYmsxeUZCckphNkF5WVUyTENKTjBxZ3RBdkxTbW9LZzhrNlZXM2xHLVNtNnFMTldGY0pGZnlyUjFfZVNueDlQMlZkdHJlT0V0cw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-07-31-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Why Ford (F) Is Up 5.0% After Q2 Loss, Dividend Hold And Geely JV Announcement - And What's Next - simplywall.st",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnFweVI4TkhCeWgwQjlfTDl1QVRWaFNtTmZGYldzTmVJSXVpQUlNNFd6VW9TRklGcDdHSzAzak9BX3cxZ3dPbFc3Zy1RQ0pCOW82V29hQjBsdm9LLVBBVnQyVnJLUDVBVDVud0xSMlI0VlEzTDdIVjlJaHdpa1BIY1otR2tKX0JYbENMSXgzcjNCbF9qaWYzMXZtM2I0U1dwM0tXM2FwOEtPUmtxeldybko3NUZqWjhqUlVXYjdyNUduRzNCeHfSAcsBQVVfeXFMT083LUZXc2Yxd0I1c3QtZE10dDljSWxONHA5RFFiUDZReUk1b09rcW0yb3RsZ3FzUTdQbE9Rck1tdkNwYlM5UllsQlA2Nm1IcGZFTFZRUU5BbFJQVU5keGxNRWlaLWl5ZHFUajczQUJPeEN5bFBVM2Z5OFNDTldvQ1phNUpoUG5QNGhiN3Q0MVk5OXl5OXdxdS1zQTd3NjIzOWtzNTBHMkNGeUxUT2xxcUJnQ3pMOTQ1dC05NmJ5RjNYa3VCdzF1N0E0NzQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bridgestone-2026-07-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Brisa Bridgestone Sabanci Says Production At Aksaray Plant To Be Temporarily Suspensed For Planned Maintenance From August 6 To August 13 - TradingView",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPd3RVTEVCdjluZVA5cUN4cS00MFJpUHJ1Z0R5dnRJR0VNLTlPUUFRN3p2Ykk0X2FQTFBLNXcwdXVLZl9FTzNOektFZmNqMUlZa2ZtMkZsTGtLbW10eFdFd29yem5Ld2JnRC0yaGVMcTNtRlRQTU85QzNjT0RRTjM4MV9JbV9nS0xrMUh2VjM0TUVsdmt1NU1vUmJzMXZPYi0yV1hJZlFvMDNiUkpGN0NUWTBQNWI4ekVOSTRLZV9UdXduX2NGNjF1RHJobFowc1EzdkJlT3Z6VTJ6dDJYMWRYYVBaY1J6RzJMdnNVUkFhV2lFdW9RUnhPRmxvWmg0OWkzSWNQcVB2VXNPUFlnR1Q3YlVQd3ZYUjZjZko5ZGZ0SUM5TnNyTnZGQnFZM2lOUF9G?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why is Compagnie de Saint Gobain stock surging today? - Investing.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcjRnNHo5LXVLV2t6V0ZYTUszaDBzUEJkT3pYdjJkXzZvaXRkaV9vWFROWHpvUFFjNFNVeDlXalZoSjFpdFl0ckhsWEExZTBQQ1d3b3NUaUdiSjFiNnM0UmhrUkpHZTlxVTlGanU1eV92UmswWVNvTFNwb0FHd2hYREJRSDUxNGNZdXgtUUZPQXNPc1lzNXMzOWh3Z0hBX0kwdnVqZ2plTTlCN2tVdndMODRPa2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 58,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 50,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "magna",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "saint_gobain",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "earnings",
+        "count": 30
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 709,
+    "dup_title": 291,
+    "too_old": 158,
+    "gate1_blocked": 27,
+    "gate2_blocked": 44,
+    "passed": 189,
+    "pass_rate": "45.2%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+      "POSCO prepares anticircumvention complaint against Malaysian stainless CRC - SteelOrbis",
+      "POSCO DX Transitions to 'AI Native' Company - 조선일보",
+      "A Look at ArcelorMittal SA (MT) After 5.5% Gain -- GF Value $27. - GuruFocus",
+      "ArcelorMittal S.A.: ArcelorMittal reports second quarter 2026 results - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 58 則事件，焦點為Ford、Hyundai Motor、麥格納相關動態：「Ford and GM Attempts to Go Beyond Cars Deserve Skepticism...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford and GM Attempts to Go Beyond Cars Deserve Skepticism - WSJ（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Saint-Gobain's H1 Net Income, Sales Decline - marketscreener.com（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

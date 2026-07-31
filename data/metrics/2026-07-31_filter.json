@@ -1,0 +1,16 @@
+{
+  "total_raw": 709,
+  "dup_title": 291,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 27,
+  "gate2_fail": 44,
+  "passed": 189,
+  "gate2_samples": [
+    "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+    "POSCO prepares anticircumvention complaint against Malaysian stainless CRC - SteelOrbis",
+    "POSCO DX Transitions to 'AI Native' Company - 조선일보",
+    "A Look at ArcelorMittal SA (MT) After 5.5% Gain -- GF Value $27. - GuruFocus",
+    "ArcelorMittal S.A.: ArcelorMittal reports second quarter 2026 results - Yahoo Finance UK"
+  ]
+}
