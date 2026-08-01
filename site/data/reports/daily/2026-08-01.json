@@ -1,0 +1,243 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T10:03:53.986501Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-08-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Video: Course Preview for the 2026 XC European Continental Championships - Pinkbike",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE92cFZldVlfQVhER1NRM1dybmpnVy1xX1lkWmpiU2h6WGtac3pRVFlyS0x5LWJkSkNEWTBWLXVVZkFoczM1Q01qaVQ1Q0NRWDRFUV9WX0NnOUtXQXlaNHhSbURfNjNaazQ0d3JYUDNpcmhFTHNUQTl3Sm9Ic0pFZ0l2OUpvX1hIYXFIOG04Y0E2X1N4RE1WLVlzbGdGRjUxZGJKTUlLeXRyZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-08-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What is Toyota? The world's largest automaker explained - qz.com",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1UQ2NWUkJKVVh0MDU2VzFETTJzaVFwalNHeW51TWZsUTQtR2ZGQy12TGxkMW1Zd3dKdGxqczYwaGFydDQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-08-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ford Made Boring Cars Popular. It Doesn’t Want Them Anymore. - WSJ",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdXFNZ3Vxd1Focl9hdDhCUEJlWVFwU0F0QzU2R1pZTFpBNHN4eWx1OV8zaVBlWjh4SnpNa1pGWS1oQUlPdDQ5Q19HU3pGV3Z3cmdTQUIxbTYyQjUtNi15NlYxQTdCajVlNEswdE1XdmluY2RDdVhqaHNFZjZwLWR3RzljYmlOUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-08-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tesla hits 10 million vehicles: The EV maker that forced the auto industry to change - Gulf News",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTVXUjVmVFlVWjdDVHZUV2ZyMWh3VTh1Si1JQzhLY2x0cDNFRk84a1dHek1UMVFqVHZxY0xsQ1VCVjNQaVBoZlVEc0wzNlk3S0hhNDVwc2lpRFp3d3dLdmVmOVJqcXQ2aWRMb1dhUlJQcFZGdXdFQUJ5TVBlR0ZQekNwSFRfdVRONmRRVTI2alpKNXNOSUcyb25vaDZmMW16RDhWa3JZY0hMM0tQVmhHTnhXM3BFdGNOeUFSTzlaV2dLYnpM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "stellantis-2026-08-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stellantis Q2 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQelVEblM2UHFxNWk1M1ZKbE4taXZEaFRONlFvN2c4c3MxTHpSUEQ4NVpReTBVUGZuVkwyRkN6bW9FMi1TMU9kRWRxcmI3R1B0ekJXQzBPd3BTTUd6eWVXejdkS1Q4X0ZMSGFUWUd4TGdTekFGWkdpa0ItcVlIUnFLeDNMeVotSU5GWXRkbkdIQVlUcEphTjgtMTA1WkM0aVhBT05KMFBR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      },
+      {
+        "id": "continental",
+        "count": 1
+      },
+      {
+        "id": "magna",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 686,
+    "dup_title": 322,
+    "too_old": 158,
+    "gate1_blocked": 30,
+    "gate2_blocked": 48,
+    "passed": 128,
+    "pass_rate": "35.2%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+      "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+      "POSCO prepares anticircumvention complaint against Malaysian stainless CRC - SteelOrbis",
+      "POSCO DX Transitions to 'AI Native' Company - 조선일보",
+      "Manufacture Alabama adds ArcelorMittal, Evonik leaders to board - Alabama Political Reporter"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Ford、斯泰蘭蒂斯、大陸集團相關動態：「Video: Course Preview for the 2026 XC European Continenta...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Video: Course Preview for the 2026 XC European Continental Championships - Pi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "What is Toyota? The world's largest automaker explained - qz.com（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

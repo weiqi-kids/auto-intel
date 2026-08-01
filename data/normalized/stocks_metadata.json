@@ -13,8 +13,8 @@
   },
   "arcelormittal": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "bridgestone": {
@@ -49,8 +49,8 @@
   },
   "3m": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "denso": {
@@ -67,14 +67,14 @@
   },
   "aptiv": {
     "earliest": "2011-11-17",
-    "latest": "2026-07-30",
-    "count": 3694,
+    "latest": "2026-07-31",
+    "count": 3695,
     "history_complete": true
   },
   "magna": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "hyundai_mobis": {
@@ -115,14 +115,14 @@
   },
   "gm": {
     "earliest": "2010-11-18",
-    "latest": "2026-07-30",
-    "count": 3946,
+    "latest": "2026-07-31",
+    "count": 3947,
     "history_complete": true
   },
   "ford": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-30",
-    "count": 6683,
+    "latest": "2026-07-31",
+    "count": 6684,
     "history_complete": true
   },
   "hyundai": {
@@ -139,14 +139,14 @@
   },
   "tesla": {
     "earliest": "2010-06-29",
-    "latest": "2026-07-30",
-    "count": 4046,
+    "latest": "2026-07-31",
+    "count": 4047,
     "history_complete": true
   },
   "stellantis": {
     "earliest": "2010-06-09",
-    "latest": "2026-07-30",
-    "count": 4060,
+    "latest": "2026-07-31",
+    "count": 4061,
     "history_complete": true
   },
   "honda": {
@@ -169,8 +169,8 @@
   },
   "etf_carz_etf": {
     "earliest": "2011-05-10",
-    "latest": "2026-07-30",
-    "count": 3828,
+    "latest": "2026-07-31",
+    "count": 3829,
     "history_complete": true
   }
 }

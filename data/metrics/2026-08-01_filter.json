@@ -1,0 +1,16 @@
+{
+  "total_raw": 686,
+  "dup_title": 322,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 30,
+  "gate2_fail": 48,
+  "passed": 128,
+  "gate2_samples": [
+    "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 680.91, Implies 10% Upside - TradingVie",
+    "Japan tentatively rules China, S. Korea steel items sold at dumped prices - Japan Today",
+    "POSCO prepares anticircumvention complaint against Malaysian stainless CRC - SteelOrbis",
+    "POSCO DX Transitions to 'AI Native' Company - 조선일보",
+    "Manufacture Alabama adds ArcelorMittal, Evonik leaders to board - Alabama Political Reporter"
+  ]
+}
