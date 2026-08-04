@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-04",
+  "total_events": 57,
+  "by_company": {
+    "nippon_steel": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "toyota": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "ford": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 30,
+      "sentiment_avg": 0.13
+    },
+    "guidance": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "parts_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 32,
+      "sentiment_avg": 0.12
+    },
+    "auto_sales": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
