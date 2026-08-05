@@ -1,0 +1,273 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:40:46.198311Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-08-05-022",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "EVs take 21.7 pct of new car market in July, as BYD and Tesla lead continuing surge in electric car sales - The Driven IO",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ1pfOXdvRTZZVks0a0NMODJwR1JKeXhyY1czRjhPRnNaZ0J6Y29JT3NlZlFKMm1fOTZWVDJ4Zmh3Q2x3ZXY4Z3NQN2hTQ2lSanJidGFvUDZnOWg4aUlpY24xRnpGamVVZkY4c3I5MTd5Y1dkNXdiN0lfQXZIMlJSRHZfYmhhMUpWamtUMFlfUVV3OFZUWmZRdEJydy1lTlJuaEtFV3R1LWdta0x4S2Y1R3ZhYW4wY2M0T3Y0cUoybG5SSWMyNHN0RVh0czU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "honda-2026-08-05-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Japan's Honda reports robust results after its first ever annual loss - GazetteXtra",
+      "companies": [
+        "honda"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd1U1N25yRHFtT0ZaNTctaTZodmxfQ3BFV1JHREhNY082UTFKZ0RQUV92X2tPVlpTMTdxbWFaNktvcXcxRk5mX2lZMWdBVTd1aVBVazBkNmRkOTBBRTh4S1cxZkJUOFZFOWVWOU9reFNmUS1EdzdJN2cySG1XYzExeXBmeFoyUFVBUEFiTXVlc2dncEVhSDROTUMwUlNiQzJWS1JZVUFSai1vak1CSEdMVmN6S3c4VFl1aWRlU3Rkb1pzaTE3d1diZkhQTl9ZdThIdWd6bklXbndVaXh5SlM2QWpKcDJ1OWdyTzNNRXZKdmpObjBERWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-05-029",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Australians cut ties with servos as EV record sales continue - ABC News & Headlines – Australian Broadcasting Corporation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEplUURia3F2dndaRnpvNEVvcnJQWFhiTHFOVDV0TWVUR0ZZVGZKN0VuZGVpREdRazJEd012d3NwNGlZVlhrNjRJbzJDclVXNnRITDJXTk51Tk12cTg4eVBWY1ZYbXpDNjVWUXd0WWNidEZFaVBneWs2ZU91Z18wVGhSeS1EQ1RIR2NabHY2a0xSdkVMN0h2XzJpNUNrcFF5T00yT3A1QVRzSXR2SU5r?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-08-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Returns to Profit in Fiscal 1st Quarter - nippon.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjMUVHd29mNlQtRDc0TDRrOTdQVG9BSGRNQU9qazRTcU9iNzFlQWk3ZW93S01Oa0ktUGdONUNrRGh4WnByU1kyWEc1TnN0aUxDWC1hYXNEY2txakZh?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-08-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan Earnings Wrap: Ibiden, Nippon Steel Rise; Daikin Falls - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3FWZGI2a3VLQ1RpbXdOaXlPTHRsSjMweDFLcHRpM2gyeUQwNHh3dHpuWktSNXJsRzZVU2lra1hobjNERVVVSGpfQU00S1VGMm8xejZUZGY0ZFNsdVVndTBRT0cxQUtxSy16SlVPNTVmVVh1TGlYbzl0enpnSWtjRlpXUVVuRlRtV3lhVW0zSGU4M2JoaWxaYi1sU3JvN2pmTTIzbmJjclhOOEdaTnNV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.32,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 31,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "honda",
+        "count": 3
+      },
+      {
+        "id": "nippon_steel",
+        "count": 2
+      },
+      {
+        "id": "ford",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 711,
+    "dup_title": 335,
+    "too_old": 154,
+    "gate1_blocked": 34,
+    "gate2_blocked": 36,
+    "passed": 152,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+      "POSCO Labor Talks Extended Ahead of Strike Right - Businesskorea",
+      "ArcelorMittal Stock Is Gaining Monday: What's Going On? - Microsoft (NASDAQ:MSFT), ArcelorMittal (NY",
+      "Paris appeals’ court highlights the importance of economic substance in intra-group royalty arrangem",
+      "Tame Impala and Djo perform at Bridgestone Arena on The Deadbeat Tour - Knoxville News Sentinel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為Hyundai Motor、BYD、Honda相關動態：「EVs take 21.7 pct of new car market in July, as BYD and T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "EVs take 21.7 pct of new car market in July, as BYD and Tesla lead continuing...（汽車銷量、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Japan's Honda reports robust results after its first ever annual loss - Gazet...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
