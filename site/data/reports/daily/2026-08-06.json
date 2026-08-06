@@ -1,0 +1,265 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:44:08.863960Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-08-06-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Posco, Hyundai Steel raise auto and ship plate prices to recover profits in Korea - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3ZFSWUwelVSY0NvbGVISzRaZEJXbDBxWUdzck5ESlFMQ3g0dGgwSzhnUG5FTnFhamlUVXdDVnpsS1BKS3ZRTG1ud0dCam9VNTlsbTQzQ2hhOTZmb2hwNWNzVVZFUy1TekNMTmRvV0w4UkFKWkh6RVRCaXhfU21xUXRn0gGWAUFVX3lxTE5mUk1ORUx6ejVwSXJmWUxWQjgybDl6bjRKRXFwQndBSTV0ZHh3bFRtME9fYTd3SGZGd2Z3YlNrOEhmTTRXbGxuQ0cwTHNub3BuZEpZZUNRVVo3V1NVbTZyMkVGZEd1Nk0wSFpQb3NDYS1GazNJMmpxazNNMEVXLTQ2QmZKQ2dRRGhhTGZRRVV2VEVhSHRrdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "honda-2026-08-06-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Honda still down as Toyota, Nissan, Mitsubishi restore auto production after Japan’s deadly earthquake - Automotive News",
+      "companies": [
+        "honda",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1BWYVdhUVJaR3l3bV9VWkZQamdfc3pvTXE2NGlCMFZaWU00YzVzU29rRVI1N0pwU05zWmFDWHdYdmw0MjFVeC1HYkpkZUlMX2h1cFp0ZmQ2M2JzdTRGdjJhYk5VS3JzNU1fbjBsNGR5S0R2T3hXZlR0VWlhUnpJUVA1YWtxMjZacU5oc0E0bE91MlEyNnNHd051ZUZfSXc2SkFvWmRhc0hVRC1oZEk2emtsX0ZuUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-06-028",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Latin America EV Sales Report: 10% EV Market Share Surpassed in Q2! - CleanTechnica",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWDJ0MGw4bks3d04xYmJkTnZTZkhwS21EbFpfSDBnMFZoNDNQdDc3QlBnRTROVFc0aGhVZFIyR215ak9TeTV6T1JuTmdUaDhaZHZxc1dGS0lwUVRzZk40di00eUpjY2ZwZDlqSDM5R25wdGhJMTh1MXJCWGNZaHliYl9hMzRMOVl2aXI0X2Z6MkptdjNMLVZZNXgtb3JRdVdzX25Zdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-06-042",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Latin America EV Sales Report: 10% EV Market Share Surpassed in Q2!",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/05/latin-america-ev-sales-report-10-ev-market-share-surpassed-in-q2/"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal restarts BF at Fos-sur-Mer - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43cDlLSkNnbTRJVjlEVVh1a081a3AzTk9ZWGozYTRvQUw0QUZ0Wi1HMnlvRFFaQ3VRd1BQRzBjZjU2M3NxWXJtTU1Sem5sVnVyRkIyVTFjOXM3eGEweFhGOFRRbjc0aHE1N3JUNmNSNlQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "honda",
+        "count": 2
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      },
+      {
+        "id": "ford",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 326,
+    "too_old": 166,
+    "gate1_blocked": 40,
+    "gate2_blocked": 43,
+    "passed": 133,
+    "pass_rate": "34.8%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+      "POSCO Labor Talks Extended Ahead of Strike Right - Businesskorea",
+      "Paris appeals’ court highlights the importance of economic substance in intra-group royalty arrangem",
+      "Live, in Photos: Tame Impala and Djo at Bridgestone Arena - floodmagazine.com",
+      "Tame Impala and Djo perform at Bridgestone Arena on The Deadbeat Tour - Knoxville News Sentinel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為大陸集團、Hyundai Motor、Honda相關動態：「Posco, Hyundai Steel raise auto and ship plate prices to ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Posco, Hyundai Steel raise auto and ship plate prices to recover profits in K...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Honda still down as Toyota, Nissan, Mitsubishi restore auto production after ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

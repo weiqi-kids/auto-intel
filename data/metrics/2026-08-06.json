@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-06",
+  "total_events": 45,
+  "by_company": {
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "continental": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "honda": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 17,
+      "sentiment_avg": 0.15
+    },
+    "industry_general": {
+      "count": 35,
+      "sentiment_avg": 0.09
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 2,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

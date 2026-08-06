@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 326,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 40,
+  "gate2_fail": 43,
+  "passed": 133,
+  "gate2_samples": [
+    "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+    "POSCO Labor Talks Extended Ahead of Strike Right - Businesskorea",
+    "Paris appeals’ court highlights the importance of economic substance in intra-group royalty arrangem",
+    "Live, in Photos: Tame Impala and Djo at Bridgestone Arena - floodmagazine.com",
+    "Tame Impala and Djo perform at Bridgestone Arena on The Deadbeat Tour - Knoxville News Sentinel"
+  ]
+}
