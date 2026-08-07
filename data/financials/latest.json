@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:44:04.438941Z",
+  "updated_at": "2026-08-07T09:04:32.073301Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -59,13 +59,13 @@
       "ticker": "5108.T",
       "currency": "JPY",
       "ar": 1093109000000,
-      "ar_prev": 985082000000,
-      "ar_qoq": "+11%",
-      "ar_period": "QoQ",
+      "ar_prev": 1037345000000,
+      "ar_qoq": "+5%",
+      "ar_period": "YoY",
       "inventory": 885458000000,
-      "inv_prev": 917024000000,
-      "inv_qoq": "-3%",
-      "inv_period": "QoQ",
+      "inv_prev": 945285000000,
+      "inv_qoq": "-6%",
+      "inv_period": "YoY",
       "inventory_applicable": true,
       "alert": false,
       "quarter_date": "2025-12-31"
@@ -466,17 +466,17 @@
       "name": "裕隆",
       "ticker": "2201.TW",
       "currency": "TWD",
-      "ar": 163680111000,
-      "ar_prev": 165069629000,
-      "ar_qoq": "-1%",
+      "ar": 1415789000,
+      "ar_prev": 163680111000,
+      "ar_qoq": "-99%",
       "ar_period": "QoQ",
-      "inventory": 10418867000,
-      "inv_prev": 12143045000,
-      "inv_qoq": "-14%",
+      "inventory": 10463029000,
+      "inv_prev": 10418867000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     }
   ]
 }
