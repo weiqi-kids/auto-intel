@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:47:48.432786Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-08-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO (PKX) Q2 2026 Earnings Call Transcript - AOL.com",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfRXoxbDEybFVvbkNQY0MtX0lLS0w5bGtGdmJfeFZwZjhxM01MRkc4UzRSMEpHdFdIc3J0SXJmZ3pfaWtSNU13dFRXbnhqOFZlUUZKeXlkM3JuVHU3aFZHbHJ5QTZLM21FLVgzZFotR0hHRENNbURBVkZR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "magna-2026-08-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Magna International Inc (MGA) Shares Surge 3.8% -- What GF Score of 80 Tells Investors - GuruFocus",
+      "companies": [
+        "magna"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXZWeWZha29HWjctV0tMdVVHWmZRTy1VMUJfTXdEN0lVbmQwd21tcEV5ZDQ4S1lxYjgyb1JTVTdkQXYya2cweUIzcnpacEVfWHBLMGdFVVdaN2pCanc0WVlHZGtKUUZTa3ZLWHluMnhZQXpnNmFOcmNjVWlJVC13Z1ctYjdObHVTRnJkdDJDb25uWTNndTJzTWFrTHhlVjRjRjZrWnZkVzlfTmNjQTFRWS1GZHlObG5Vc0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-08-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Denmark's electric car surge hits 97% of July's new car sales for private buyers - The Cool Down",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkV1Z3B1d01ZemlJUDZRWmNfV29mR0JkejRMdjR1TDRGcU1ET0FNQ3pMcUdNTUNwMlFrNmFMRFpUeUdZelFJMDg1dlEwR0ZiTUM4Q2Z5NmNjRWRvaVhVWnE0OTRndXB2c05kMHQ4RWx1T1lPYTJ5QTFrcWxLV1JvT2hGQkYxZDdSb21oVnpMVG55eUxVcmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-08-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hyundai IONIQ 9 Gets New Calligraphy Black Ink Flagship Trim in Europe - Electric Cars Report",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQm1kZGFIYkt1WGFnZmxIRjcxWnRyRDYxUGg5Qjl3Zk81ai00Vk9PRlBYLU5rZ08xTGtDM1hQNDZjbGxNWVhiczNyREE2MHEwMDJWZ3MxY3l4N25rRHhvU3pobXU3RmtHRHI1QzVqSW9QWXZpdWRrcWgxT2pPVHNSSDlkYmdYUXZHWTVPVTV1dTZoWWNnZlZrQ0hfcGRyNGhXV1ZpTnRYY0pwZWw5UlFv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-08-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Heritage Fleet Manager Picks SVT Ranger As Favorite Vehicle",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/08/ford-heritage-fleet-manager-picks-svt-ranger-as-favorite-vehicle/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "posco",
+        "count": 1
+      },
+      {
+        "id": "magna",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 713,
+    "dup_title": 342,
+    "too_old": 164,
+    "gate1_blocked": 34,
+    "gate2_blocked": 54,
+    "passed": 119,
+    "pass_rate": "32.1%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+      "Nippon Steel’s US Steel Bet Is Paying Off - Finimize",
+      "Gear Trials: Bridgestone Tour B XD-7 - GolfWRX",
+      "Live, in Photos: Tame Impala and Djo at Bridgestone Arena - floodmagazine.com",
+      "ETFs Investing in Cheng Shin Rubber Ind. Co., Ltd. Stocks - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Ford、浦項鋼鐵、麥格納相關動態：「POSCO (PKX) Q2 2026 Earnings Call Transcript - AOL.com」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "POSCO (PKX) Q2 2026 Earnings Call Transcript - AOL.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Magna International Inc (MGA) Shares Surge 3.8% -- What GF Score of 80 Tells ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

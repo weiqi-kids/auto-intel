@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:04:32.073301Z",
+  "updated_at": "2026-08-08T08:47:44.077294Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "安波福",
       "ticker": "APTV",
       "currency": "USD",
-      "ar": 3798000000,
-      "ar_prev": 3477000000,
-      "ar_qoq": "+9%",
+      "ar": 2434000000,
+      "ar_prev": 3798000000,
+      "ar_qoq": "-36%",
       "ar_period": "QoQ",
-      "inventory": 2746000000,
-      "inv_prev": 2561000000,
-      "inv_qoq": "+7%",
+      "inventory": 2038000000,
+      "inv_prev": 2746000000,
+      "inv_qoq": "-26%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "arcelormittal",
