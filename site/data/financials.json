@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:47:44.077294Z",
+  "updated_at": "2026-08-09T08:48:55.927715Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "本田汽車",
       "ticker": "7267.T",
       "currency": "JPY",
-      "ar": 4327711000000,
-      "ar_prev": 4082497000000,
-      "ar_qoq": "+6%",
+      "ar": 4271413000000,
+      "ar_prev": 4327711000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 2531166000000,
-      "inv_prev": 2425337000000,
-      "inv_qoq": "+4%",
+      "inventory": 2550113000000,
+      "inv_prev": 2531166000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "hota",
