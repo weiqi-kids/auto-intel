@@ -1,0 +1,16 @@
+{
+  "total_raw": 693,
+  "dup_title": 356,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 27,
+  "gate2_fail": 41,
+  "passed": 88,
+  "gate2_samples": [
+    "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - jp.ibtimes.com",
+    "Primer: Kenda Rubber Industrial Co., Ltd (2106 TT) - Aug 2026 - Smartkarma",
+    "Saint-Gobain, Microsoft Partner to Advance Sustainable Construction and Data Centers - USGlass Magaz",
+    "Gallery of Results of the 5th Saint-Gobain Architecture Award – Habitat - 25 - ArchDaily",
+    "Gallery of Submissions are open for the 6th Saint-Gobain Architecture Award - 1 - ArchDaily"
+  ]
+}

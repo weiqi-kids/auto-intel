@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:27:31.126273Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-08-10-031",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Non-China EV Market Surges 30% as BYD, Chery Charge Ahead; Hyundai Motor Group Slips to Fourth - finance.biggo.com",
+      "companies": [
+        "byd",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3Q1U3UkRwV2lqeTFqeThWMHBUQk90MC1rWDh1N1hkaXJQMC1DZDBDdjlvMVRKMklwVmJEMUdZcDVSSklhNmFfaEVTQmwyQlk5T3ZsWnppYWxLMUJLTzhjekt2MVlSOV90azZxU0VhWlNCZWtQMXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-10-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor preferred shares outperform on dividend support - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIMWpMSFhQQUQ4dDRCbUlCYXdYaWdyT0ItVHFEQi1CbUpzXzhadGpnN1JETWNsY1ZNM3dYbXRuVzBUcURMUFNkVE56cWE0NlhBX2p5TGx4NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bridgestone-2026-08-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone lifts first-half earnings 20% as all regions report sales growth - european-rubber-journal.com",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVdLM2xfNklIS0YtSmVKc2tGWWV6SzFHb09NSUJ4S3hMNlpnb1Myb0E2R3ZkODZ2ay1yVVJOWVhqWTB2dXVKMVZKdVk2LWZhVWRQZHZuZmlfZ2Rndkd2bHo3TFhQZkZQQUx2SGd4eFQ4RUVrci1XMHNLU09rc25ET2wwX1ZUODJ2dWRvcElVeFVwX2M0M2paVDc0YUlpalh0M2cyNWFPcG40YmZ2QlFoSS1FTGlocjRZM0pHVnJ2cGpoV0EzOWNxbjVOYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-08-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "B&V: Smackdown with two great promos, Continental Cup Collision - F4W/WON",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXYwQ20tTzR2N0t3bl9acGlDTU5KanVxM0d5QjF0THNUdmxtTjhvMjV5THFXSW5kMmFmR1dFai00V3VCU2JhdGJIckxBMVg5OFZDNUIwRXNxMU1GYU1NNGZzUzBwUEFnR3hXR0xXU0pYOHZkM1c3SXdmMHVBZHBDcUp4UEZHZ1pQR2JRZUxLSmhuZ1FuekZqMVZOejZqMUJvX2Z6WlJ3dENZY0Q2LXFxb0J5d1JEbHht?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-08-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eddie Kingston’s Cinderella story scores win in AEW Continental Cup - Cageside Seats",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTRRaW1xajI3YkxBdEpoYldxUjlhNHppNm9ZdVpHX3FXUWVLWVY1dDFwQ1QzUTFMM1ZINENOVkt0WVBpVjRrRDAtSUlSOXJPa3lZZHdSVDhLZkREemh2aXJFeWh4SkNFMHVFcFI2aVlJNmlRYkEyMm10X2J0anhNRjMtYmVYV3FSbGszWXY1Qmp0aVpUckpUR0tuNlRfY0xEWkRYcl9LbkZHQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "byd",
+        "count": 2
+      },
+      {
+        "id": "bridgestone",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      },
+      {
+        "id": "auto_tariff_trade",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 693,
+    "dup_title": 356,
+    "too_old": 181,
+    "gate1_blocked": 27,
+    "gate2_blocked": 41,
+    "passed": 88,
+    "pass_rate": "26.1%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - jp.ibtimes.com",
+      "Primer: Kenda Rubber Industrial Co., Ltd (2106 TT) - Aug 2026 - Smartkarma",
+      "Saint-Gobain, Microsoft Partner to Advance Sustainable Construction and Data Centers - USGlass Magaz",
+      "Gallery of Results of the 5th Saint-Gobain Architecture Award – Habitat - 25 - ArchDaily",
+      "Gallery of Submissions are open for the 6th Saint-Gobain Architecture Award - 1 - ArchDaily"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為Hyundai Motor、Ford、大陸集團相關動態：「Non-China EV Market Surges 30% as BYD, Chery Charge Ahead...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Non-China EV Market Surges 30% as BYD, Chery Charge Ahead; Hyundai Motor Grou...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Motor preferred shares outperform on dividend support - 매일경제（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

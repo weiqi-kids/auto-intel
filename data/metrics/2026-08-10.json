@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-10",
+  "total_events": 40,
+  "by_company": {
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "continental": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "hyundai": {
+      "count": 13,
+      "sentiment_avg": 0.08
+    },
+    "honda": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 18,
+      "sentiment_avg": 0.11
+    },
+    "industry_general": {
+      "count": 30,
+      "sentiment_avg": 0.05
+    },
+    "ev_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "auto_tariff_trade": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

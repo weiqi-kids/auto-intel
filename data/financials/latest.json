@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:48:55.927715Z",
+  "updated_at": "2026-08-10T09:27:26.270738Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "普利司通",
       "ticker": "5108.T",
       "currency": "JPY",
-      "ar": 1093109000000,
-      "ar_prev": 1037345000000,
-      "ar_qoq": "+5%",
-      "ar_period": "YoY",
-      "inventory": 885458000000,
-      "inv_prev": 945285000000,
-      "inv_qoq": "-6%",
-      "inv_period": "YoY",
+      "ar": 1137735000000,
+      "ar_prev": 1093109000000,
+      "ar_qoq": "+4%",
+      "ar_period": "QoQ",
+      "inventory": 935234000000,
+      "inv_prev": 885458000000,
+      "inv_qoq": "+6%",
+      "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "byd",
@@ -109,17 +109,17 @@
       "name": "大陸集團",
       "ticker": "CON.DE",
       "currency": "EUR",
-      "ar": 3624000000,
-      "ar_prev": 3230000000,
-      "ar_qoq": "+12%",
+      "ar": 2658000000,
+      "ar_prev": 3624000000,
+      "ar_qoq": "-27%",
       "ar_period": "QoQ",
-      "inventory": 3169000000,
-      "inv_prev": 3067000000,
-      "inv_qoq": "+3%",
+      "inventory": 2577000000,
+      "inv_prev": 3169000000,
+      "inv_qoq": "-19%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "denso",
