@@ -1,0 +1,257 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T09:02:36.222091Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-08-11-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Union Calls More Strikes, Losses Top 1.8 Trillion Won - Seoul Economic Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVBtcUg4Y3FzdEZxMUVKZ1VLSVM5Q3B3UUdOcE1FeTJWRkx6OWNZS3FZZzAxQUhXVzN5UDZDT1VidlFPV3h4RjFLTFJXNk1xbm5OZG9LVE9fUW8yMmpPUElUaGdqVjlLQ3F3YzlMazFMNFZmRkd2ZXF2c0U2MnRfTEFtR2NxbEd3c1dKc0t1bXRWR3VpcnU2dEtn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bridgestone-2026-08-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone Gives Golf Balls to Buyers of Potenza, Turanza, and Dueler Tires - 매일경제",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MYndxWlNHX1p0bjV0cjN5b0dTb3Q1dTJkcXNaUF9nSTNiSUVkWmZMSmtnMFlMMzRrRFJCQmpaM2dVa0JEOGxQQXNPd0YtRWtKak9z?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-08-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain triggers SA materials probe into Chinese and Saudi imports - Business Day",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMV9LWHlPQ3hYbDJrR2tBOUZLSlNPV2pZUEp0bjV4clNuV1pEd19rLV91el90SUpCWURCODNvWlFZcm5sd1JSdlVrYUFoWVZzZW15U01FR2JLZ0ZnM2ZnQUM4c3NEY2JobnZsSUZjSE5hS0l1dE5XOXJvMWthdjVfb3M5MENGdWhkY1o3M3F4OURsT0RPNU8xeTU1V0U0XzZFOEJIVmd2aGJDTEFHaGFXaC1zU1pwZGlIaXV5Q2ozd1o?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-08-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Paraguay and Argentina seal continental titles in Under-15 and Under-16 South and Central America Championships - IHF",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTlNHakpHcE93eHFwbVlmX0tiQzFWVmd5LTVhdFZ5TEQ1Z2wxR2NwVzVVa0dsNnk1RnNnQUFEMkNoQWY0eE83OTRrdmZnUTM1cDRGXzV4eVNLdjZjbzlkMWlVbDJEd0NVd3JnNUxCb1NuTm9hNXdGS081ZUF3QUl5VThZb0stYnV1eU1iZWJ1WU4xa0t3Nk53ekhzbVh1anJxa2lzUndORlNJczJJNlh1Mm5TWG9KQVBH?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-08-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ford conservation deal protects 245 acres near Marshall battery plant - Battle Creek Enquirer",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRUFRajQ3TEM4NHJjM3RzZkVSelBlM1h0X1M4MDQ5QjdPS05HenpBYXR1WXBGU3NIVG1SVF8wc0xwQnNsbGttYVdqZ0xwbll2NGpfVTZsRjhzREsyVjVOY0E0ejFEN1VGUW5VeXFiOXMtVDN3b2RNb00tU0EwOXNNdTBTblNFcC0weC1pRXlnODhTUEtxLTRoYlJHNXp5NVh5OUNtM1k0NzVoRkQ4eGw1VEhsTjd3YVpKLTVUUmRZeXA3TmtYTV9WS1RGNHJ1eUNNdExnRGk3bFFpYTdhWlB1VW1B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "posco",
+        "count": 1
+      },
+      {
+        "id": "bridgestone",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 703,
+    "dup_title": 341,
+    "too_old": 158,
+    "gate1_blocked": 25,
+    "gate2_blocked": 47,
+    "passed": 132,
+    "pass_rate": "36.5%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+      "POSCO Holdings taps five brokerages for $1.8 bn PRS financing - KED Global",
+      "UConn, LSU women's basketball to meet at Bridgestone Arena - Nashville Post",
+      "Tame Impala at Bridgestone Arena, Nashville, TN - Music Connection Magazine",
+      "Bridgestone (TSE:5108) Posts Strong H1 Results, Is The Rally Already Priced In? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為Hyundai Motor、Ford、浦項鋼鐵相關動態：「Hyundai Motor Union Calls More Strikes, Losses Top 1.8 Tr...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Motor Union Calls More Strikes, Losses Top 1.8 Trillion Won - Seoul E...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Bridgestone Gives Golf Balls to Buyers of Potenza, Turanza, and Dueler Tires ...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

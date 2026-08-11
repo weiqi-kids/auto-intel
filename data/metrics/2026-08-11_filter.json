@@ -1,0 +1,16 @@
+{
+  "total_raw": 703,
+  "dup_title": 341,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 25,
+  "gate2_fail": 47,
+  "passed": 132,
+  "gate2_samples": [
+    "Nippon Steel Solutions starts Alli Coworker sales with 10-minute AI builds - International Business ",
+    "POSCO Holdings taps five brokerages for $1.8 bn PRS financing - KED Global",
+    "UConn, LSU women's basketball to meet at Bridgestone Arena - Nashville Post",
+    "Tame Impala at Bridgestone Arena, Nashville, TN - Music Connection Magazine",
+    "Bridgestone (TSE:5108) Posts Strong H1 Results, Is The Rally Already Priced In? - simplywall.st"
+  ]
+}
