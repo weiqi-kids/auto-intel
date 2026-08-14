@@ -1,0 +1,16 @@
+{
+  "total_raw": 713,
+  "dup_title": 307,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 34,
+  "gate2_fail": 45,
+  "passed": 153,
+  "gate2_samples": [
+    "POSCO Rebuts Japan’s Anti-Dumping Duties - Businesskorea",
+    "ArcelorMittal remains Morgan Stanley’s preferred way to invest in European reindustrialisation - the",
+    "Franklin man pleads guilty in $15M Bridgestone fraud, faces up to 40 years in prison - WZTV",
+    "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX",
+    "Franklin Man Pleads Guilty to Wire Fraud Charges After Defrauding Bridgestone Americas - Williamson "
+  ]
+}
