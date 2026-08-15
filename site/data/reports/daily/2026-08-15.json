@@ -1,0 +1,252 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:33:57.992631Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-08-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of America Corp DE Reduces Position in ArcelorMittal $MT - MarketBeat",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGg4bUJ2RkpYM2t5em5WQVZNQWQtdzNHNDZLa2pEZlhDaTVzRGdSQ2l1Zi1YNWdiaXZtY04wUFpIUXoxYU14RmliaW05TV9fVk8xQmhCNlNLUjdfLTlabldmT1FITExTYm9UdzVVOEN1bXNqVm1RRjRUMTBXbUxLYWR4TjliaWFLUXR4Q0ZEUFVCNG5RMnU5bzBHWVFtdEZZdXlKQUYyV0N4ZkRhamN4T2xBb05mYlJzcXpCY0ln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-08-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal owner's son-in-law buys stake in Liverpool FC - Liga.Biz",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzQ3RHFreEJRa1Y5aHFrX1M3S1NXREhnTmF6dmZ6VFdzZ3RUUXRMT1BfZXpXbGhxRHhFRFJkOGJSU2xucXhBdk95aERXaGU1bTlPSE1OcmFuYmlPYVdGWEhBOUNrRVZFMGIyWTdwX19jRlBsNjFXYTl6bi1jdDdBa1RRR2dDUXMzQkR4cW5WYi03SUVyMy1rOXhSOW04Y1Y0Q3QtM2VRSdIBrAFBVV95cUxQMGgwNXNBbWI4dnQ5RzBXWUwwUUFxVTA3LXBmSDNmN0ZEbUpKeEE2QUxPbjZWdWtMLUhnV19YSEJXLTdIb2p5M2Qzdm9CYVZGWFE0NC1tczMzZXFtRjRROE5fYnlQUTI3QVYtdG9FZUZSeUZqTWx5NmozbTBiZVdiV1VUM2xNUGlxcDhfQzNHY1NBcXU2bTZWUV8xc01QNmEwU0R3RWZ6SFlhQlVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "magna-2026-08-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Magna International (NYSE:MGA) Downgraded by Wall Street Zen to \"Buy\" - MarketBeat",
+      "companies": [
+        "magna"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHNQT1lPd2tOWTg2cGJibEt3dl9teWFLRnY5RlhpRXBKVy03ekhENkFhdnM3Q2M0a2o3SUlCOXhBZ25lcXA4NVp6UC13VkVJM3JTOE91TTJWcHppTTRSQzZYVHBselpyOVJvNnpDcVF4TElIVUZxNkJNX1pibG8wM2ZrVmVKMnFXLWx5NmY3aU5KU3E2cC1vbzQtZkF6eDdlYkVxTmtpTkJET3FrNzBQaVVOS3dEcXlJc1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-08-15-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs? (update)",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/08/14/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-15-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "VinFast’s Vietnam Sales Surge as EVs Enter a Tipping Point",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "ev_penetration",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/08/15/vinfasts-vietnam-sales-surge-as-evs-enter-a-tipping-point/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.35,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 9
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      },
+      {
+        "id": "magna",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 717,
+    "dup_title": 326,
+    "too_old": 164,
+    "gate1_blocked": 38,
+    "gate2_blocked": 40,
+    "passed": 149,
+    "pass_rate": "38.1%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "POSCO Rebuts Japan’s Anti-Dumping Duties - Businesskorea",
+      "Franklin man pleads guilty in $15M Bridgestone fraud, faces up to 40 years in prison - WZTV",
+      "Franklin Man Pleads Guilty to Wire Fraud Charges After Defrauding Bridgestone Americas - Williamson ",
+      "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX",
+      "Saint-Gobain Adfors American settles hourly wage class action for $1.95 million - Claim Depot"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Ford、安賽樂米塔爾、麥格納相關動態：「Bank of America Corp DE Reduces Position in ArcelorMittal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bank of America Corp DE Reduces Position in ArcelorMittal $MT - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "ArcelorMittal owner's son-in-law buys stake in Liverpool FC - Liga.Biz（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

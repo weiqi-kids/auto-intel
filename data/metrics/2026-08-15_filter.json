@@ -1,0 +1,16 @@
+{
+  "total_raw": 717,
+  "dup_title": 326,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 38,
+  "gate2_fail": 40,
+  "passed": 149,
+  "gate2_samples": [
+    "POSCO Rebuts Japan’s Anti-Dumping Duties - Businesskorea",
+    "Franklin man pleads guilty in $15M Bridgestone fraud, faces up to 40 years in prison - WZTV",
+    "Franklin Man Pleads Guilty to Wire Fraud Charges After Defrauding Bridgestone Americas - Williamson ",
+    "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX",
+    "Saint-Gobain Adfors American settles hourly wage class action for $1.95 million - Claim Depot"
+  ]
+}
