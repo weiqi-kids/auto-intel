@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-16",
+  "date_range": {
+    "start": "2026-08-10",
+    "end": "2026-08-16"
+  },
+  "generated_at": "2026-08-16T08:34:45.612426Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "byd-2026-08-10-031",
+      "date": "2026-08-10",
+      "title": "Non-China EV Market Surges 30% as BYD, Chery Charge Ahead; Hyundai Motor Group Slips to Fourth - finance.biggo.com",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 102,
+      "last_week": 103,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 193,
+      "last_week": 167,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.02
+    },
+    "ev_penetration": {
+      "this_week": 31,
+      "last_week": 26,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.09
+    },
+    "auto_tariff_trade": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 9,
+      "week_over_week_change": "-78%",
+      "sentiment_this_week": -0.25
+    },
+    "auto_sales": {
+      "this_week": 10,
+      "last_week": 14,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": -0.02
+    }
+  },
+  "company_7d_summary": {
+    "bridgestone": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 12
+    },
+    "continental": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 3
+    },
+    "ford": {
+      "event_count": 45,
+      "sentiment_avg": 0.01,
+      "rank": 2
+    },
+    "hyundai": {
+      "event_count": 48,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "honda": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "tesla": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "posco": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "saint_gobain": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "stellantis": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hotai": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "gm": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nippon_steel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cheng_shin": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "toyota": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hyundai_mobis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "arcelormittal": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "magna": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "volkswagen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 839,
+        "last": 877,
+        "change_pct": -4.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-10",
+      "event_count": 135,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 135,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 186,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 156,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 162,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 53,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-10 ~ 2026-08-16）共 839 則事件，重點為「Non-China EV Market Surges 30% as BYD, Chery Ch...」。Bridgestone表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Ford",
+        "reason": "本週出現 45 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 48 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 714,
+  "dup_title": 392,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 35,
+  "gate2_fail": 47,
+  "passed": 66,
+  "gate2_samples": [
+    "POSCO Rebuts Japan’s Anti-Dumping Duties - Businesskorea",
+    "Russian missile strike on \"ArcelorMittal Kryvyi Rih\" — two killed, 13 injured - Українські Національ",
+    "Franklin man pleads guilty in $15M Bridgestone fraud, faces up to 40 years in prison - WZTV",
+    "PBR Stampede Days at Bridgestone Arena - Nashville Guru",
+    "Franklin Man Pleads Guilty to Wire Fraud Charges After Defrauding Bridgestone Americas - Williamson "
+  ]
+}
