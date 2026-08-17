@@ -1,0 +1,16 @@
+{
+  "total_raw": 689,
+  "dup_title": 340,
+  "no_date": 0,
+  "too_old": 199,
+  "gate1_fail": 33,
+  "gate2_fail": 52,
+  "passed": 65,
+  "gate2_samples": [
+    "POSCO Rebuts Japan’s Anti-Dumping Duties - Businesskorea",
+    "Franklin man pleads guilty in $15M Bridgestone fraud, faces up to 40 years in prison - WZTV",
+    "PBR Stampede Days at Bridgestone Arena - Nashville Guru",
+    "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX",
+    "Franklin Man Pleads Guilty to Wire Fraud Charges After Defrauding Bridgestone Americas - williamsons"
+  ]
+}
