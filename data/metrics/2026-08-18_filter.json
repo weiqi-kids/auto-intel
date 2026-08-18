@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 307,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 32,
+  "gate2_fail": 56,
+  "passed": 148,
+  "gate2_samples": [
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "POSCO Rebuts Japan’s Anti-Dumping Duties - Businesskorea",
+    "Missile strike at ArcelorMittal (NYSE: MT) kills 2, halts output - Stock Titan",
+    "ArcelorMittal – Geert Van Poelvoorde - E & MJ",
+    "Gear Trials: Bridgestone Tour B XD-7 - GolfWRX"
+  ]
+}

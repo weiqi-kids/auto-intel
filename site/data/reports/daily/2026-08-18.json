@@ -1,0 +1,260 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:41:57.318031Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arcelormittal-2026-08-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal restoring operations at its Ukraine plant - ETHRWorld.com",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkxjZldSanpjRGZnZ0NOME1wZm8tNHpRYjdidkloX1VJQktvT2ktUnZqblZYRGE3b05zaDMtMUJSZnk1STdSdldFNkJnS294ZWdlX2ZOUkRaN0FrSE1VMHFtQXlxOTVVbENDX2hWbkdKT3VZdVVmdUx2eEZkQ2prNElmXzhwcVFvYWpQN2dRaXNfRnoyeldjMmhBcndCcmlGS0t3XzNhZ3NyRi0yYkIxSjNVaGhzQk4tWjR0Vm8yaEtPQdIBxwFBVV95cUxOSmZkdmlXRVl4UHg4Z0tKN1FmaXIzcnl0bTRoblZVLWpGRDdaTDdqdUdsbXlldVgzdmJlbnlmYzJqRHY3N01rVDJ5ak0zRnJ3WkNWNC1wVzBNTTZJNjhvQTlWZDhrdnhpeGR1MXhQSHZBbXhRRkx0WUNkZVZ0T1JyVEJKamdIdTBSdGlwVWVickFuSml2cjllcXNWTFZnZEdZaE1pbWRaenJWOTZqUFNEd09EYk92Y3VjVjRMVkx5ajNkWnp5ZEVN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "bridgestone-2026-08-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone launches Potenza Race R for Lamborghini Revuelto SV - Tyrepress",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWUxWGN6TEtINVQ4QmxidExQRUZ1c0EyWmJubHFiZjhoNW5OaDJWaWhPU29rQTBkbHVNMV83LVh6VjVqZ0hxbzNlVEc5RkNINEU1OHlCYmp6Rzh4UXVETDJyc1V2UkMxeXZiWTZNeVpfMjlZWVd6RVo4Z3lGaGZuWTA0dVJoN2Nwa1RWODJ6WHBmSVRfNE1RZHZqRDdEVWs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-08-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental goes wide open up-front with new Aero 111 32mm tyre option - endurance.biz",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPak9DWVVZUUJnUjdDanNlV2xOYk9XbVM2NkhyZjZ1WU5aY2NUZWc0aXVuek1IcHBrakctUzdKMnJQOVVraUNKS1Q5ZXc4QkE5ekcxQUtTUEpLeXc3OWFLZGNBb3M1OVRBRlJQS2g5aVVKUU9mTkJVYXdUQ094bG5BREhrQ2FIWkRBeGlOQTRLZDBLUGlQUnN0Y09OT3lPam9HQUN2OXhST0txWHl4aGZmNDJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-08-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flputnam Investment Management Co. Makes New $2.34 Million Investment in Ford Motor Company $F - marketbeat.com",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTzFVeUt6aVJnamJrZFlhWVI2ZnFBZGFENVpjYnBvZVRYaTNPTmFtWGo3aWxNWTRtWFY3ZXdVM0YxR0JGWExoaUp3aUE2UVV2cVRibXh6OUp3U3dLQ1NJcFpnN085TVctLXlsZjN0bW8yaFhVTjNDNGNfQzYyQzkzY2l1cDVhaUxVRWpuWTNUckZGWFd3RlhiblFFeFFXd1lrYzVCVFNWUDZjNjRJNXZnRnNRTHdkcGdhWXlpNWZvd3pKcXZFRTk2ZUQ0cENzbk0xeHBYVW0tempyOW5iRGtuWGI0TWJLUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-08-18-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "143,000 Shares in Ford Motor Company $F Acquired by Buckland Partners Management Co LLC - marketbeat.com",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUNoblFUX1R5dVpRU2xWeWYzX1ZqWXlicWpLT3hJcEk0S1lKaldfSEpCY1kyUTR2QmtrZFBoTU1LUjhDd2Jxdzg4VUR4T0hkQTNWeUt3TXE4Q3c2LWNua1czemVYQTJRZDlmbFI1Y2h0QTdCM2ppWW41QVlJN2V1cmlENnNEVVM1eW5XaWVMb2V3alItM3lVaDFReUZkX2FZdklvajlULTE0dnA3SU1qS2tLang5amkySGNmNFVjYkw1TWg3VGVaemRFWEhhNVExZ29jSUp2NkZkMXlrejZ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 307,
+    "too_old": 165,
+    "gate1_blocked": 32,
+    "gate2_blocked": 56,
+    "passed": 148,
+    "pass_rate": "36.9%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+      "POSCO Rebuts Japan’s Anti-Dumping Duties - Businesskorea",
+      "Missile strike at ArcelorMittal (NYSE: MT) kills 2, halts output - Stock Titan",
+      "ArcelorMittal – Geert Van Poelvoorde - E & MJ",
+      "Gear Trials: Bridgestone Tour B XD-7 - GolfWRX"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為Hyundai Motor、Ford、特斯拉相關動態：「ArcelorMittal restoring operations at its Ukraine plant -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ArcelorMittal restoring operations at its Ukraine plant - ETHRWorld.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bridgestone launches Potenza Race R for Lamborghini Revuelto SV - Tyrepress（電動車滲透率、財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
