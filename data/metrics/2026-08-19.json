@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-19",
+  "total_events": 36,
+  "by_company": {
+    "posco": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "fuyao": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 10,
+      "sentiment_avg": -0.1
+    },
+    "stellantis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 17,
+      "sentiment_avg": 0.06
+    },
+    "ev_penetration": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "industry_general": {
+      "count": 28,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

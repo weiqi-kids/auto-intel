@@ -1,0 +1,16 @@
+{
+  "total_raw": 696,
+  "dup_title": 305,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 33,
+  "gate2_fail": 49,
+  "passed": 140,
+  "gate2_samples": [
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "ArcelorMittal Shares Up 25% in 3 Months: What's Driving the Rally? - Yahoo Finance",
+    "Missile strike at ArcelorMittal (NYSE: MT) kills 2, halts output - Stock Titan",
+    "Gear Trials: Bridgestone Tour B XD-7 - GolfWRX",
+    "Ex-Bridgestone Americas employee to forfeit $21M earned from stolen funds - Compliance Week"
+  ]
+}
