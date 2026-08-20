@@ -1,0 +1,16 @@
+{
+  "total_raw": 698,
+  "dup_title": 331,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 33,
+  "gate2_fail": 51,
+  "passed": 117,
+  "gate2_samples": [
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "ArcelorMittal Shares Up 25% in 3 Months: What's Driving the Rally? - Yahoo Finance",
+    "Missile strike at ArcelorMittal (NYSE: MT) kills 2, halts output - Stock Titan",
+    "Gear Trials: Bridgestone Tour B XD-7 - GolfWRX",
+    "Fuyao Glass Industry Group Co., Ltd. Unsponsored ADR, each representing 0.25 ordinary shares (FYGGY."
+  ]
+}
