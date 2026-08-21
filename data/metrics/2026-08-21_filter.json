@@ -1,0 +1,16 @@
+{
+  "total_raw": 711,
+  "dup_title": 327,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 36,
+  "gate2_fail": 46,
+  "passed": 133,
+  "gate2_samples": [
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "ArcelorMittal Shares Up 25% in 3 Months: What's Driving the Rally? - Yahoo Finance",
+    "ArcelorMittal : Receives a Buy rating from Jefferies - marketscreener.com",
+    "Missile strike at ArcelorMittal (NYSE: MT) kills 2, halts output - Stock Titan",
+    "Megan Moroney's 2026 Bridgestone Arena Shows in Nashville, Tennessee: Everything You Need To Know - "
+  ]
+}

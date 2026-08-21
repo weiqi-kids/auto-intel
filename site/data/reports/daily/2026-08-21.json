@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:45:47.644359Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gm-2026-08-21-024",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Closing In. - WSJ",
+      "companies": [
+        "gm",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3VzWnMzNHhpRmgybnVkTmp0R1YyV1AzeVQ4UnZuWC1KdmNFcFNRcFMySjJTSHRJMEJqaW1CenJMMzFzb3c2V05uT1hZaFR0UjZHUlQ2VXJzWTJiSUlOeXJLOW9NYnBJQjJQdlF2cG9ZNUFqUTZUbVJmWGV3ekxfazFEMW5fQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-08-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Steelworkers warn PM: Learn from ArcelorMittal - Trinidad Guardian",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0ExQkRHdERtOThSU1NMalpMUTBSM3BUZ0k2NWdtby0zRDlxSGlueVRNX2NqQWVUQndHQ0dZTGFKNmFXMUh2S3hLQ3NvQnZmaWlHb3d6eDNmdXp0YW5GYURHcG8tVzNvT0E5aE0wLTJyNXpkMi1ES3ZUcGVOSk0ycVZKVDZFbjNiYkt6Q25jdGp4Vmk2d0MyVGxiemJxN2pr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-08-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain stock trades below 52-week peak as investors digest recent earnings - Ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUxBTzcwNDBPSU5QREI0dk5UU0JXM0t3NnNLRkk1N21PdjFCbWNwSjFoemVfdnZfcUxMVHZub1J0ZlRXc2hQNHBMSVdIRE9ocE51aVUyMkt0NERPTl8yMm9yNkoyMHZHeGxVMTV1Z0s4S0QyZjhoWTNrMk5zMnZkeVJfbU4wRTltR2hYcnRXQWNtSjBreHJlWmQyNGcydllkenZ5d2IzRGhpTkpKNV80bWhNMHZvcFBLR1NraXhJd2xOU2RUcU50V0Z0bk0tT1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-08-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental signs HoA for 50% stake in Phoenix from Mercuria - Offshore Technology",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlpvcm5QdGYyWXhGR1YtOU1KbUw4dzZSV3lPS2h1Nmh5YW42cm9vYzduRmtXY0NLZ1FaTk9nQzVsSW5FNkFYMGc5REFNT0dQUmU4akVSMjlEYmE1WGJRYUtYNnB6Q3o1ZnNwS3ItOGQzd1pTcFduRjhCWVMxSGdyanhOU2FUclgyZUtXS3hTNEtXUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-08-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of New York Mellon Corp Buys Shares of 51,598,382 Ford Motor Company $F - MarketBeat",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWdURDBaZXZtdnVFcTBwNFptUTRKaHMxWF9KVlpTV2VzNFB5VlJIb1NZUDFhWWpzMnMtVEYwNlQ1UTI2RGZ3RGVLZm9KWnBLZWFOR1g3a2t5WHhIVVIyTW1iVkE1dG84cE1ZSlpkbHFCRlh5dUN1UlpqZC1iZGdad1dQaTRsd0lpcW1VNHJwaVl6OW1Ma1JxQ3B3R08waWUwUnpKUjNuSGU1cEpKTFB6Nm5BSzd6OWdaT1hib3ZVbnhWZUtZWndHbkxUYWtkNnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 32,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 711,
+    "dup_title": 327,
+    "too_old": 169,
+    "gate1_blocked": 36,
+    "gate2_blocked": 46,
+    "passed": 133,
+    "pass_rate": "34.6%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+      "ArcelorMittal Shares Up 25% in 3 Months: What's Driving the Rally? - Yahoo Finance",
+      "ArcelorMittal : Receives a Buy rating from Jefferies - marketscreener.com",
+      "Missile strike at ArcelorMittal (NYSE: MT) kills 2, halts output - Stock Titan",
+      "Megan Moroney's 2026 Bridgestone Arena Shows in Nashville, Tennessee: Everything You Need To Know - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Clo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Closing In. - WSJ（汽車銷量、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Steelworkers warn PM: Learn from ArcelorMittal - Trinidad Guardian（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
