@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-22",
+  "total_events": 23,
+  "by_company": {
+    "continental": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 5,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.09
+    },
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.17
+    },
+    "guidance": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "ev_penetration": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

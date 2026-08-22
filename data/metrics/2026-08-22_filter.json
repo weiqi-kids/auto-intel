@@ -1,0 +1,16 @@
+{
+  "total_raw": 692,
+  "dup_title": 329,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 42,
+  "gate2_fail": 42,
+  "passed": 114,
+  "gate2_samples": [
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "POSCO Under Chang In-hwa: Debt Tops 30 Trillion Won, Credit Rating Downgraded Despite Capital Effici",
+    "ArcelorMittal Shares Up 25% in 3 Months: What's Driving the Rally? - Yahoo Finance",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+    "Megan Moroney's 2026 Bridgestone Arena Shows in Nashville, Tennessee: Everything You Need To Know - "
+  ]
+}

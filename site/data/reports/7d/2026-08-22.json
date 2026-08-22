@@ -1,0 +1,192 @@
+{
+  "date": "2026-08-22",
+  "date_range": {
+    "start": "2026-08-16",
+    "end": "2026-08-22"
+  },
+  "generated_at": "2026-08-22T08:35:11.547984Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-08-17-045",
+      "date": "2026-08-17",
+      "title": "Judge Approves $11.5 Million Settlement Over Mexican Engineers’ Claims at Kia Georgia, Hyundai Mobis - Law Commentary",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 89,
+      "last_week": 105,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.05
+    },
+    "industry_general": {
+      "this_week": 135,
+      "last_week": 195,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.04
+    },
+    "auto_sales": {
+      "this_week": 2,
+      "last_week": 10,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    },
+    "ev_penetration": {
+      "this_week": 16,
+      "last_week": 32,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.09
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 3,
+      "week_over_week_change": "+167%",
+      "sentiment_this_week": 0.06
+    }
+  },
+  "company_7d_summary": {
+    "arcelormittal": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "continental": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 38,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "stellantis": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ford": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "byd": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "toyota": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tesla": {
+      "event_count": 12,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "bridgestone": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "posco": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 10
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "saint_gobain": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "honda": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "gm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "hyundai_mobis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 699,
+        "last": 909,
+        "change_pct": -23.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-16",
+      "event_count": 39,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 150,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 137,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 124,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 111,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 115,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 23,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-16 ~ 2026-08-22）共 699 則事件，重點為「Judge Approves $11.5 Million Settlement Over Me...」。特斯拉、浦項鋼鐵表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 38 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
