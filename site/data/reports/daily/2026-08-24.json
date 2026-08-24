@@ -1,0 +1,281 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:53:08.557386Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-08-24-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Releases 4,000 Miho Spine Loaches with Employees' Families - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tV2wwbG0yZnAtSldlQ21Fem1XYXU1RlA3TW9ST250UTZ6UXQ2N1FsZnpIZTdRdHdBelZBcm9ZMnFUcHA4VHZsTjVTd1hObVR0cjZn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-24-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "\"10,000 Miho spine loaches released\" ... Hyundai Mobis carries out biodiversity conservation efforts - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDM3lsY1JIZXJRWFZ6ODllQ1NodVd6bURTSWFHMTN6VUM1eUh0WTRINmRzd1N2UmdzOHJPVzNzNk5MZEo5aVMwanVJcDBsZGthTFJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-08-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SG (SGE), an Ascon specialized company, will establish a joint venture (JV) with POSCO International.. - 매일경제",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNcVJjQ1AzdGd1U3N3M0hBZGJGUXRqTWd6X0ZGdUFHN1g5U2xBVGl6Q0FpeVR4WDU3U3RwT1ZSOUlmNkt1LVVXbmptN2F3YzQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-08-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley bullish on ArcelorMittal as tighter trade curbs boost steel outlook - Investing.com Australia",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1pkaFpmRzBveFlQRldMdUdtSWc1M2t5b084MGhmR1lqYzlJcGFxa2lNQVl4SmxhWUhZRTRsdjVuam1qYXg3ZXk3ZEtfQmJMZm9GUXJfcmNtQ25ROElQUVFYYTZSN0tfaG5aR1VTNVVHOFpLTmFZU2J5TTktTWptMlg0MlFVR2dhMlRLaHZBYVFIekF5NHhKaVZQT1FKbHRQblQ0N3cwTUQwc0JhbVFpS3pKRUotUklRVzdYNXVjR044QlVtT1VYNFdwTGtmczJjOTdjQg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cheng_shin-2026-08-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cheng Shin Rubber: 2026H1 net income surged 43.8% year-over-year, driven by higher revenue and improved margins - TradingView",
+      "companies": [
+        "cheng_shin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQenZnLXotT1JGM3JFMmg5UjF3dmJHVGdQTDlIZE5fSW5OeFZGaTZMd0dmMDNRRWtwR0liai1NM251Sm9FaVhKLUhRUU43T1NlSW9HTExoRHlaaUNiWjNlUHA2MDZybmkxT2VuaVRNN1l5Z1FTOENORlo2VmdIcWdMelNIY0RocVBMU2xOVUtZSTU0elprZmxVMmxNRmtJM0xOUkZKbVU5X3BuY1ZYUGZYNkJPTGlZWnNEX1c5YkppejVySUpNTkhNLVZZMTZnYk1mWlQ4cDB5Unhkc1U2NGs3RmJRYXJ2STgyRVVTNEMtRmN6SGpyQkxUNDZMUS0xWWs2cWlUcHFhVTV4YTJIVWJhR1c5UXlkZW9EODNN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 35,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 689,
+    "dup_title": 373,
+    "too_old": 163,
+    "gate1_blocked": 37,
+    "gate2_blocked": 50,
+    "passed": 66,
+    "pass_rate": "20.9%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+      "Simmons, POSCO Collaborate on Aviation-Steel Mattress Springs - 조선일보",
+      "ArcelorMittal Shares Up 25% in 3 Months: What's Driving the Rally? - Yahoo Finance",
+      "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+      "Megan Moroney's 2026 Bridgestone Arena Shows in Nashville, Tennessee: Everything You Need To Know - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為Hyundai Motor、Ford、Volkswagen相關動態：「Hyundai Mobis Releases 4,000 Miho Spine Loaches with Empl...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Releases 4,000 Miho Spine Loaches with Employees' Families - 매일경제（財報）",
+        "level": "red"
+      },
+      {
+        "text": "\"10,000 Miho spine loaches released\" ... Hyundai Mobis carries out biodiversi...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

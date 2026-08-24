@@ -1,0 +1,16 @@
+{
+  "total_raw": 689,
+  "dup_title": 373,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 37,
+  "gate2_fail": 50,
+  "passed": 66,
+  "gate2_samples": [
+    "Nippon Steel: Direction Was Right, Timing Was Wrong (OTCMKTS:NPSCY) - Seeking Alpha",
+    "Simmons, POSCO Collaborate on Aviation-Steel Mattress Springs - 조선일보",
+    "ArcelorMittal Shares Up 25% in 3 Months: What's Driving the Rally? - Yahoo Finance",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+    "Megan Moroney's 2026 Bridgestone Arena Shows in Nashville, Tennessee: Everything You Need To Know - "
+  ]
+}
