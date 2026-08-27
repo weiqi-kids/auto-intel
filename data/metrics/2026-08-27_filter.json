@@ -1,0 +1,16 @@
+{
+  "total_raw": 673,
+  "dup_title": 288,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 42,
+  "gate2_fail": 42,
+  "passed": 140,
+  "gate2_samples": [
+    "POSCO Union Calls Company Blockade a Declaration of War - Businesskorea",
+    "Posco documentary spotlights steel’s second life - The Korea Herald",
+    "Simmons, POSCO Collaborate on Aviation-Steel Mattress Springs - 조선일보",
+    "Canada should be ready to cut electricity, critical minerals, Ontario's premier says - PBS",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+  ]
+}

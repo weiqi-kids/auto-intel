@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:59:40.247554Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-08-27-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Regional power cuts slash costs at POSCO, Hyundai Steel in South Korea - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUR1a2haTTlWbHdhMGtJcTRwYW1HU21TS3duWHA3a0pxSzJUS05xeHM0ajN5cFlaVVRWUUdGZWdDN2Q1ZnhReTBnV3VzYVRiTTBGNVh3RFpFUzM0SnNTN0l2X2IyY0tDQzBiOFAxeTNEdmFsVWhncWhyb3AtcmphVTl30gGWAUFVX3lxTE5hOERVbWZQcml6QjBxVUFGZWFudGV2NFdOcERDZW9nd3Y5bXRPRmVYNklfaHNQTDRIUEljYjYxVWtLQ0JTOHhIMVhjbkJWazFvanJUaFZ5dHZzS2V5UmhTbTRmc0hYSWVFZUlPaGVYcXpXaTZkczdsdUNqbTdpUTV2MDlBd2w2R1hBd0k1VWRQV2ktSXZVdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "volkswagen-2026-08-27-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Fitted with Continental Tires: New Volkswagen ID. Polo - WebWire",
+      "companies": [
+        "volkswagen",
+        "continental"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PYkNfaEllQzVweklyalBHRkROb1lWOUQ5S2dYeTk0aXdncUZzdG5tcGo1SWlfS3dFMkx0T0RnUVItN2phOUNsYjdYVDUzajFRb1lqcnQtTFcwYjN3RFdkQ1o3d1NfM3da?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "stellantis-2026-08-27-039",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Newly Developed \"Two-Motor Hybrid Drive Module” Adopted for STELLANTIS New “Jeep Cherokee” - denso.com",
+      "companies": [
+        "stellantis",
+        "denso"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jeWM5eEhDRGhEcUlHVEl6b0kzVkNmSXJyMHNBWXZoT2FyS0ZwVHUwUWNnOWotN0F3WmJReG8zLTdzamgtTGN1NkVOWGVQazk2eUNnZk1GeVpKbnRPeDZFZVRYWHpkYmpQek55S1dEZEM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-08-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO International's Sales Network Tested by US, EU Trade Barriers; Turkey Workaround Also Blocked - finance.biggo.com",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NWhlWUJJeTBNWWNCRFRkT25NQTZZTUNtckxWYk9pOHhKbjFaYk1SQ2dHbnVybkg2SjZvTVFsc3BhS0MzQVMtMzVaQVUyb3pLTXBxYTFDeG1oRG5kcmd3ckd3MEExRTNGR093ME5aVnBZQXI5RUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-08-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal: Regionalization Is Creating A Structurally Better Steel Company (MT) - Seeking Alpha",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhSc2o3dTYtVjdvNHRWMFYzY2FYQ25hcnl2am5MWFhZREdXc0R1VDd4cXNmYVd4SG1hN2NUNHd3RjdpRXRfN2pYTW5hUk1RNkRXSDVPaEotZ1kzUG42RDh6YnFwX2lfU3RDR1ZmajZRcDRxLWFBVUFVcGVBLWZxckFOS2VHTXMtb2tCWFlfYlViZmpNazZHVWFHVWdWVk1Md2E5amkzZFRYeWNMR3A3NmJXMFlWRHhTY3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 57,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "toyota",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 85,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 80,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 16
+      },
+      {
+        "id": "ford",
+        "count": 13
+      },
+      {
+        "id": "stellantis",
+        "count": 9
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 57
+      },
+      {
+        "id": "earnings",
+        "count": 30
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "auto_tariff_trade",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 673,
+    "dup_title": 288,
+    "too_old": 161,
+    "gate1_blocked": 42,
+    "gate2_blocked": 42,
+    "passed": 140,
+    "pass_rate": "36.4%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "POSCO Union Calls Company Blockade a Declaration of War - Businesskorea",
+      "Posco documentary spotlights steel’s second life - The Korea Herald",
+      "Simmons, POSCO Collaborate on Aviation-Steel Mattress Springs - 조선일보",
+      "Canada should be ready to cut electricity, critical minerals, Ontario's premier says - PBS",
+      "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 85 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「Regional power cuts slash costs at POSCO, Hyundai Steel i...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Regional power cuts slash costs at POSCO, Hyundai Steel in South Korea - CHOS...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Fitted with Continental Tires: New Volkswagen ID. Polo - WebWire（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
