@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-28",
+  "total_events": 107,
+  "by_company": {
+    "nippon_steel": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "toyota": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "saint_gobain": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "continental": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    },
+    "hyundai_mobis": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 17,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "parts_price": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "earnings": {
+      "count": 40,
+      "sentiment_avg": 0.01
+    },
+    "ev_penetration": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "industry_general": {
+      "count": 66,
+      "sentiment_avg": 0.02
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "earnings",
+        "ev_penetration"
+      ]
+    },
+    {
+      "from": "nippon_steel",
+      "to": "toyota",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "parts_price"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T20:06:21.839094Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-08-28-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Volkswagen ID. Polo Gets Continental EcoContact 7 Tires - The EV Report",
+      "companies": [
+        "volkswagen",
+        "continental"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYjVKVG5DV05TNTVYWUlDVklDQ1d4M2VTc2xncGRudWtsbUJuU3lxV08zY2llcm4temhyZDhTUjdxbjZJT1JYbFR1RzMwYWh4Tld5bVV3WGlSRlFPb2hCbk1VLU8yUjFtNm92bA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-08-28-027",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hana Bank joins Hyundai Mobis to support small suppliers - The Korea News Plus",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EWHdDQTBycHVnbzY2cVVGa3phblFxMFQ2VmZub0FWVDZQeUZucDhaMlB2VDZFTHVzTkJJcmFIT2RFdHFaamVtei1GVi1qYU1JTXF2YW81ejVrWUdHODFfeWdHc0xNZmVqUk5KWTBNUGtWS0Ytbmpn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-08-28-031",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to Provide 500 Billion Won in Financial Support to Suppliers - thelec.net",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54Q29xTXZ4V3V2aXdBRUhKMFFkc2R0UUducWxVY2NaVTlFcUg1cTR6OXdWaVlzU2lGVFhuam5jY3NySWZGM3pPcG5qN2syMG1YMFZBV1FFemlTd3g0cUw4YnVwZmpVRVU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-08-28-090",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "BYD overtakes Tesla in global EV market - AzerNews",
+      "companies": [
+        "tesla",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jbEZldms5djBMTDZLQ1U1MzBBZnpOaHlNTFFkckx2bG9fdnk2Z0YtQkJDYWhhOTVnR3JTX214SHY4d0g4MGFvejJtdVItalM5MDNIOQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "toyota-2026-08-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Toyota, Nippon Steel Agree on Steel Price Hike from Oct. - nippon.com",
+      "companies": [
+        "toyota",
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [
+          "toyota"
+        ],
+        "suppliers": [
+          "nippon_steel"
+        ]
+      },
+      "topics": [
+        "parts_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmFwaHYzd1FZQVVKSXRUNC1nbkEzcy1jSVZya1o4c0QxRDFwUTJtY1RBck5WU0tPRS1UM1N2U09rOVFTbjJ3WjlPWlVGMUw5LS1vaGF2VnMtNktxbXJ6OE52YTRLbVJFaDB3QVptWE55NndaMTBmZ1RQNWRlS3gzVmthc01xcHFlMzhDUU8xQUQwWWo2Ymp2czhJbzgzZTZzdlN3RE1kUVoxRWM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "parts_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 66,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "earnings",
+        "ev_penetration"
+      ]
+    },
+    {
+      "from": "nippon_steel",
+      "to": "toyota",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "parts_price"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 107,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 101,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 17
+      },
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "continental",
+        "count": 10
+      },
+      {
+        "id": "tesla",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 9
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 66
+      },
+      {
+        "id": "earnings",
+        "count": 40
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "parts_price",
+        "count": 3
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 694,
+    "dup_title": 313,
+    "too_old": 161,
+    "gate1_blocked": 45,
+    "gate2_blocked": 37,
+    "passed": 138,
+    "pass_rate": "36.2%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Ankur Mishra joins ArcelorMittal Nippon Steel India to lead media relations - afaqs!",
+      "POSCO Union Calls Company Blockade a Declaration of War - Businesskorea",
+      "Canada should be ready to cut electricity, critical minerals, Ontario's premier says - PBS",
+      "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+      "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 107 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「Volkswagen ID. Polo Gets Continental EcoContact 7 Tires -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Volkswagen ID. Polo Gets Continental EcoContact 7 Tires - The EV Report（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hana Bank joins Hyundai Mobis to support small suppliers - The Korea News Plus（財報）",
+        "level": "red"
+      },
+      {
+        "text": "零件價格話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

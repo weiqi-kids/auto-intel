@@ -1,0 +1,16 @@
+{
+  "total_raw": 694,
+  "dup_title": 313,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 45,
+  "gate2_fail": 37,
+  "passed": 138,
+  "gate2_samples": [
+    "Ankur Mishra joins ArcelorMittal Nippon Steel India to lead media relations - afaqs!",
+    "POSCO Union Calls Company Blockade a Declaration of War - Businesskorea",
+    "Canada should be ready to cut electricity, critical minerals, Ontario's premier says - PBS",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+    "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX"
+  ]
+}
