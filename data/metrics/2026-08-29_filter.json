@@ -1,0 +1,16 @@
+{
+  "total_raw": 710,
+  "dup_title": 404,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 47,
+  "gate2_fail": 36,
+  "passed": 63,
+  "gate2_samples": [
+    "POSCO Union Calls Company Blockade a Declaration of War - Businesskorea",
+    "ArcelorMittal stock hits 52-week high at 75.7 USD - Investing.com",
+    "Canada should be ready to cut electricity, critical minerals, Ontario's premier says - PBS",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+    "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX"
+  ]
+}
