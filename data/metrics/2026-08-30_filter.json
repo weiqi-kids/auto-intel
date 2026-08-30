@@ -1,0 +1,16 @@
+{
+  "total_raw": 691,
+  "dup_title": 395,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 41,
+  "gate2_fail": 40,
+  "passed": 45,
+  "gate2_samples": [
+    "POSCO's Shared Growth Group is the \"Steel One Team,\" here we go! Through the activities of the POSCO",
+    "Posco documentary spotlights steel’s second life - The Korea Herald",
+    "Simmons, POSCO Collaborate on Aviation-Steel Mattress Springs - 조선일보",
+    "ArcelorMittal stock hits 52-week high at 75.7 USD - Investing.com",
+    "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX"
+  ]
+}
