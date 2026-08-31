@@ -1,0 +1,16 @@
+{
+  "total_raw": 696,
+  "dup_title": 349,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 35,
+  "gate2_fail": 32,
+  "passed": 129,
+  "gate2_samples": [
+    "Posco documentary spotlights steel’s second life - The Korea Herald",
+    "POSCO's Shared Growth Group is the \"Steel One Team,\" here we go! Through the activities of the POSCO",
+    "ArcelorMittal stock hits 52-week high at 75.7 USD - Investing.com",
+    "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX",
+    "IN HAND: TaylorMade Ghost Spider S Putter at WGC Bridgestone - GolfWRX"
+  ]
+}

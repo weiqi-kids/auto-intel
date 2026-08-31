@@ -1,0 +1,328 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T16:00:24.100886Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "honda-2026-08-31-019",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Analysis-Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs - WTVB",
+      "companies": [
+        "honda",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdTgzQ2hFZXNKZkJrQmRWQmdhb2JiUjJZd2dKdTl5akRIWmZYa0VvbDNXRWp1UTBib1RoLVc0LTQ3Sm1UWFlIalN5U2xCZ0J5aWNiLU5nU2ZiRmEzQ1dYdjV1VGQtOXozNEhFWm5QZExWVmpjNzdjYUpWN2lDU0U1YXNGQkk1S01WZGJtSmw4UjFHTWo4bVBIaUxTcmhOWlE2OHZpUlpZX3BRYUZZbzBr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "honda-2026-08-31-020",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Toyota, Honda face biggest hit from Trump’s proposed 50% tariff on Canadian cars - The Business Times",
+      "companies": [
+        "honda",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUxaWUxXRktrQll6T04tVEU3Z0FIcXpTRzc4Z1RiV3pxMzRMNUFHd0xNNENmWEM5dGVmdzFwcnJqTUo3R1lkWlVnb0dpTnE5WkFlcHQyLVpNbkFLZUF6WnVYaUlQd0hER0ZoYW5HYUg1ell3MmFBRUw4ODFrSmJRQ19OYV9lVGs0a3otNllVX0pHYUZ6R1AxVE9wQ2pzUldwWURNdVNIUjNXYUpYQ3RSTi1xRjJKWlJTLWxGeQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "gm-2026-08-31-041",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Unifor turns focus to Stellantis after wrapping up deals with General Motors, Ford - Toronto Star",
+      "companies": [
+        "gm",
+        "ford",
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa0U2d0JTOUpQZzdNSnctTC1CWHp1amowN1FwRkNfUmNrb1E4SWJ2cnljTEx5U1RRZURNUjFHT1Y0a2pZb0tnYllJd3NYa1BNMDlJQjJ6eUFLSExWVFVHN3hNbmtBOThtb2V3dk1tanBwaVRVOEJwVk1EekRadWFrdzZZU2hLY1VtTjFDRnc5TlhRRWhmWTF3Mm4tU3Q4Qlg2M2t4ZlRjZkFPdnB2Yjh1Tk11Y3ZENDZmV0VoYjRUUXhBMDVxcWdoaGQyUTVzYjRJSFZaWDQyeC15OFIwdVFKZk5MdElZYzhScnVsOHdIZ3BsV21xMGk4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "honda-2026-08-31-051",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Analysis-Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs - Yahoo Finance",
+      "companies": [
+        "honda",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGZNNmhIajhIVkp0bEh0T29qZVJoaG1oSWlLUE81N1QwV1hJRkxlVEtydmRaam9CQXhQMEJnMUZwY3lza2xoc0ZqemVieDloaDlxYnJVVmZqbzQ4NDl3Szl4U3FEUFJHLVI3REVkenlDUkxzS2RaNDQwN0Zjd2ZtNkdqbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai_mobis-2026-08-31-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Women's Archery Team Opens First Archery Corporate SNS Channels - 조선일보",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkJGWUhxVkJyZE9taFFmLW55Um4xMDh0SUVzSkZaLUJtVzV1RzVuYUdESGtGQmVWYWtPXzVRUnc1emVFczNSODJKWUQzZFFITmxGMHBmc3FoUWlJaG5zakpLQS1wWGtGdFE1eDE5XzF5U2F3LXp5aTZrOVlKU2hfTkF0UFIxdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 60,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "honda",
+      "to": "toyota",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "gm",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "honda",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
+  "stats": {
+    "total_events": 94,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 86,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 16
+      },
+      {
+        "id": "honda",
+        "count": 13
+      },
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "stellantis",
+        "count": 11
+      },
+      {
+        "id": "continental",
+        "count": 7
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 60
+      },
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 696,
+    "dup_title": 349,
+    "too_old": 151,
+    "gate1_blocked": 35,
+    "gate2_blocked": 32,
+    "passed": 129,
+    "pass_rate": "37.2%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Posco documentary spotlights steel’s second life - The Korea Herald",
+      "POSCO's Shared Growth Group is the \"Steel One Team,\" here we go! Through the activities of the POSCO",
+      "ArcelorMittal stock hits 52-week high at 75.7 USD - Investing.com",
+      "Mitsubishi “Silver” Kuro Kage Shaft Spotted @ WGC-Bridgestone Invitational - GolfWRX",
+      "IN HAND: TaylorMade Ghost Spider S Putter at WGC Bridgestone - GolfWRX"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 94 則事件，焦點為Ford、Honda、Hyundai Motor相關動態：「Analysis-Toyota and Honda may get stuck with the bill for...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Analysis-Toyota and Honda may get stuck with the bill for Trump’s Canada tari...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Toyota, Honda face biggest hit from Trump’s proposed 50% tariff on Canadian c...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

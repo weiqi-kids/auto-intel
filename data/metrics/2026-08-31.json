@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-31",
+  "total_events": 94,
+  "by_company": {
+    "posco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    },
+    "honda": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 16,
+      "sentiment_avg": -0.03
+    },
+    "byd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "stellantis": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 60,
+      "sentiment_avg": 0.03
+    },
+    "ev_penetration": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 32,
+      "sentiment_avg": 0.03
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "honda",
+      "to": "toyota",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "gm",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "honda",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ]
+}

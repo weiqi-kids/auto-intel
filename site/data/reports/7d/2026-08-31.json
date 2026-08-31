@@ -1,0 +1,248 @@
+{
+  "date": "2026-08-31",
+  "date_range": {
+    "start": "2026-08-25",
+    "end": "2026-08-31"
+  },
+  "generated_at": "2026-08-31T16:00:24.267634Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "fuyao-2026-08-25-031",
+      "date": "2026-08-25",
+      "title": "Glass Roofs With Integrated Solar Panels Are Ready for Mass Production at Tesla Supplier Fuyao - autoevolution",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hyundai",
+      "company_b": "toyota",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "continental",
+      "company_b": "volkswagen",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 269,
+      "last_week": 146,
+      "week_over_week_change": "+84%",
+      "sentiment_this_week": 0.03
+    },
+    "ev_penetration": {
+      "this_week": 28,
+      "last_week": 21,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 148,
+      "last_week": 88,
+      "week_over_week_change": "+68%",
+      "sentiment_this_week": 0.02
+    },
+    "auto_sales": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 10,
+      "week_over_week_change": "-90%",
+      "sentiment_this_week": 0.0
+    },
+    "auto_tariff_trade": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "parts_price": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.13
+    }
+  },
+  "company_7d_summary": {
+    "bridgestone": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 16
+    },
+    "saint_gobain": {
+      "event_count": 11,
+      "sentiment_avg": 0.13,
+      "rank": 8
+    },
+    "continental": {
+      "event_count": 30,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "valeo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "ford": {
+      "event_count": 65,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hyundai": {
+      "event_count": 63,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 26,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "honda": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "gm": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "posco": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 14
+    },
+    "toyota": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 7
+    },
+    "arcelormittal": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "volkswagen": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "stellantis": {
+      "event_count": 33,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "denso": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 15
+    },
+    "magna": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "hyundai_mobis": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "byd": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 658,
+        "last": 748,
+        "change_pct": -12.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-25",
+      "event_count": 126,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 95,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 118,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 139,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 37,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 49,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 94,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-25 ~ 2026-08-31）共 658 則事件，重點為「Glass Roofs With Integrated Solar Panels Are Re...」。汽車產業通用、財報、電動車滲透率為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Bridgestone",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "聖戈班",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
