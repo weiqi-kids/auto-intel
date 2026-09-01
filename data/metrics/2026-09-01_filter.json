@@ -1,0 +1,16 @@
+{
+  "total_raw": 681,
+  "dup_title": 302,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 36,
+  "gate2_fail": 47,
+  "passed": 137,
+  "gate2_samples": [
+    "Nippon Steel shares rebounded sharply as European brokers raised their target prices, anticipating a",
+    "Big day in Ascension: DEQ hearings on Hyundai-POSCO steel mill set for 6 pm - 10/12 Industry Report",
+    "ArcelorMittal stock hits 52-week high at 75.7 USD - Investing.com",
+    "How do Predators install ice at Bridgestone Arena? An inside look at the process - The Tennessean",
+    "Bridgestone Arena begins installing ice for upcoming Predators season - The Tennessean"
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:18:01.489948Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-09-01-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Industry minister heads to United States for G20 talks, Hyundai-Posco Louisiana steel plant groundbreaking - Korea JoongAng Daily",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSHdJMlJfU0xoYmtjNUhiTlZ6NGxtVzRoYzY4cTZWVGJDS1RtZEU5dE1rMktneGVLdjdWMl9XX1hVTkJET29uMERVVmFybVREMWJ2OElILXpBYVdKaHlLbzVSYjhTVnl5bmJnaWtXSHFHNlRCTXVGRmZtX0VWdHltOEVNeUNZUWQ5ZGQtbVE2emNDWWVfRTE0YjlBR2ZvNlZDaUpGeGFOYXF3cDRoZmhrYTViLWI5M3NjTEJSUWkxT0VQOXJWbkNsSEpScm1qajdNdGQ0dEZOOEpvSDVKbG4xbFZaMkJ5azBsMUFhREN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saint_gobain-2026-09-01-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain stock declines nearly 3% and remains below its key moving averages - Idéal Investisseur",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSG5GdXFHRllMTjNSbnhFNjFBNExfUXhiMjNrTWRTbTVNcmVpMTBzSGUxNEkzZHVMVlB6NHZ3WmZEV0FiNUQ4NFlqa05ScVQ1RlJGRkxPRkdSbjQ3ZW40VGpCcm5hUEZYdTFLMFdCQUNWc2pfX2d6SkRUeGM0UDdHcHRLa3lOWElzdWx1WlhmeGprNi1BYkg1d2RVVWRUa0JmaGF4bjhDRDhoT09JemFFWTNocmcxZHNQMFRwMEkxdUFkUmFvZ09ORHpzTThkWk4wVEZj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-09-01-021",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says - Reuters",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-01-065",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hybrid Vehicles Gain Ground as EV Financing Share Declines - EC&M",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODItRTZaWVVsOVQxV1ZFaVFXWmU0clhpX0RaVGgxV2hOVFl1bjBWRjlyN0RzMjM3bDMwNjZiQ2s1MXNLSkVYd3d5Rk5RSEVnSWs2YmVFVXlIRXJLaG54N2pWaGxHbzBqdDlnWDExd3QtZjNaOERHUHh0NWJucHNEYkY0eGVzdFNSLVRCMzlGRVNRQV9UVHpOekpiY2tJZG5zamo4VHRZQWg5aTk5aThQMGVWdk5ralk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-01-067",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "EV Revolution Gets Real: China's Market Slump, Record Recalls, and the Industry's USD72 Billion Pivot - LUXUO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY0JMTDYyOWJIOWgwcE5BSWl5R3dGdFprOXBnOXU5aEdWMW9oeVF2NWJ6X1Nxc1phSS1VdmxrYlZkZGIyLS1LanI5UElLWFNKb25ZZk4weHkyOG9qUUdqUDdBVGVVX3Q3YTZ3cEZFYmg0NG1veHpiNGg0SkN1d3V4TGpuTm1HcVhyMFBQbmpqdEdESUZIb3ZBZzR3ZDVTWl9vVFdlZFlCdjNRaGlhUFV2eEtiQXBoRkhwUDZ3dHN6SlREdE1CeU1DemR4QTdWWU0zYVNjZ0RaWnBlTFFfVHdseWN3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 48,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "honda",
+      "to": "toyota",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "auto_tariff_trade"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 79,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 63,
+      "negative": 8
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 16
+      },
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "magna",
+        "count": 8
+      },
+      {
+        "id": "stellantis",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 48
+      },
+      {
+        "id": "earnings",
+        "count": 43
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "auto_tariff_trade",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 681,
+    "dup_title": 302,
+    "too_old": 159,
+    "gate1_blocked": 36,
+    "gate2_blocked": 47,
+    "passed": 137,
+    "pass_rate": "36.1%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Nippon Steel shares rebounded sharply as European brokers raised their target prices, anticipating a",
+      "Big day in Ascension: DEQ hearings on Hyundai-POSCO steel mill set for 6 pm - 10/12 Industry Report",
+      "ArcelorMittal stock hits 52-week high at 75.7 USD - Investing.com",
+      "How do Predators install ice at Bridgestone Arena? An inside look at the process - The Tennessean",
+      "Bridgestone Arena begins installing ice for upcoming Predators season - The Tennessean"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 79 則事件，焦點為Ford、Hyundai Motor、麥格納相關動態：「Industry minister heads to United States for G20 talks, H...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Industry minister heads to United States for G20 talks, Hyundai-Posco Louisia...",
+        "level": "red"
+      },
+      {
+        "text": "Saint-Gobain stock declines nearly 3% and remains below its key moving averag...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
