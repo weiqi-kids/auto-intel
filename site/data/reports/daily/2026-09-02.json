@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:40:10.096814Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-09-02-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Eyes $1 Billion in Robot Revenue via Atlas Components - finance.biggo.com",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xYndfQWxwM2lGOG83T21MNDZUV0dHaU5LaWxVRl91WllhRXl3Vi1RcjJwU28yX3E5X015Skt0bTdWMl9LZWprM2JGdmxBOFcxbVNhdDV4NDJKLXFKX2pxZmxTRVNPeWJrdU9Rel8xS0Z6amFzOVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-09-02-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Lands Full Atlas Actuator Orders - Businesskorea",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqVzlsZGdPV3JEUWhYbTdKUHdOTUFvbWRtaVlRS0hJM29HUS1KWHlERXM2Qm1kUlhxVTRXNmtkM2xrUEdDNVRyNWNpSG1LeHFZQy1Md3RvTWgyYnZMYVNIMVdyc0R1VmlINmpjWkFTZFhvMlJo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-02-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Kia sets record US sales in August as Hyundai slips; green vehicle deliveries reach new highs - KED Global",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGNFo4ZjNtcUpyOThPaEt5b0huS3VtaG1KYnNjek1qenR0NFd2cDJvVFNwWTVpanU2bmVWYVowQ3YyYnpGc0Vya0tDLVgtNUdNbXZzVjQtSjU3WlU0UjBSWkk3ODJSbmdDSGxGUlIwOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-02-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Kia Posts Record August U.S. Sales; Hyundai Slips 1.9% - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vMVhaMmJFQ0ZrdEZQTWlnbE03R1lCTmhjSGZqbU1IVzlNa1F1Z1ZmT2NhV0x2ejcxMGNaT3QyOERsOWphRnFicXlBNXZxSE1nMl9jbHlsazFka29xdm4wakQ2WElsMUZ0OGlPWVFFTVdRb1BpdEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-09-02-040",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tesla posts another near record sales month in August, pointing to \"structural shift\" in Australia's EV market - The Driven IO",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1prVDBzN2RJZ002YlFlUjlsbTZ2VGVOVkRjVVJZR1hJY1pXTEgySDVEa25nRjVza3lJOHhhVV9xT2l0dEI0aTJ6WGhtQmFYX0FfSGZ4Q3FTek5KLXNwdC1Od25Yam81RC1tRUlfbFBySUR6QnNjTUxESV8xZDVCSm1qcTRhRjVOeGRaT1hLUWNzQmRiQzM1b3BlRzBpSksxZTBzcjlCWDdKS3RDYlBfeGw4Yi1BLXNoNF9MZnFua2NlRndJa2ZCVzNyUmtqWnR6ME5obUtR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 42,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 10
+      },
+      {
+        "id": "ford",
+        "count": 9
+      },
+      {
+        "id": "posco",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "auto_sales",
+        "count": 5
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 685,
+    "dup_title": 296,
+    "too_old": 174,
+    "gate1_blocked": 41,
+    "gate2_blocked": 40,
+    "passed": 134,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Big day in Ascension: DEQ hearings on Hyundai-POSCO steel mill set for 6 pm - 10/12 Industry Report",
+      "Posco chief calls for stronger Korea-Australia resource ties - The Korea Herald",
+      "Posco documentary spotlights steel’s second life - The Korea Herald",
+      "POSCO plans steel processing center in Yantai - Yieh Corp.",
+      "ArcelorMittal will invest nearly US$1 billion in Brazil - bnamericas.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為Hyundai Motor、Ford、浦項鋼鐵相關動態：「Hyundai Mobis Eyes $1 Billion in Robot Revenue via Atlas ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Eyes $1 Billion in Robot Revenue via Atlas Components - finance...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Lands Full Atlas Actuator Orders - Businesskorea",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

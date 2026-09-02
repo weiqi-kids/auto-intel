@@ -1,0 +1,16 @@
+{
+  "total_raw": 685,
+  "dup_title": 296,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 41,
+  "gate2_fail": 40,
+  "passed": 134,
+  "gate2_samples": [
+    "Big day in Ascension: DEQ hearings on Hyundai-POSCO steel mill set for 6 pm - 10/12 Industry Report",
+    "Posco chief calls for stronger Korea-Australia resource ties - The Korea Herald",
+    "Posco documentary spotlights steel’s second life - The Korea Herald",
+    "POSCO plans steel processing center in Yantai - Yieh Corp.",
+    "ArcelorMittal will invest nearly US$1 billion in Brazil - bnamericas.com"
+  ]
+}
