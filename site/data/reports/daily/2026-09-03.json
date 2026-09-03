@@ -1,0 +1,255 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:43:00.625023Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gm-2026-09-03-002",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Ford Rival GM Launches In-Vehicle Camera Recording",
+      "companies": [
+        "gm",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/ford-rival-gm-launches-in-vehicle-camera-recording/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-03-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China E-Mobility Weekly Digest: Chinese EVs Reshape Vehicle Markets In the Global South - The China-Global South Project",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzM0Qnk3eWMxMzVwREhrTjU1cGFUNWd2VFpCMlRHajlWMGdkQXY3U2RtQUhxQ1U4Mk9zbi13MVBsSXBPcDZnbzNScDFfc2tJYUg2UENwcDhOLXdOZ1pjZE5VMUl5Ykw2TU1TZy0yb1NUSWtMaUZIbUtOUlV0UDd4YkVFN2dKc2xVZ2pSY3I1bGdtcXp4ekJTMC16Y2hXYUtr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "volkswagen-2026-09-03-025",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Volkswagen Rumored To Close Four German Plants, 140,000 Jobs At Risk",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.motor1.com/news/807017/volkswagen-shut-four-german-plants/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-03-032",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analysis: China’s CO2 Emissions Fall in Q2 2026 Due to Plummeting Oil Use",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/09/02/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use/"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-09-03-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ford wants to sell 100,000 Fathoms in the $30k EV truck’s first year",
+      "companies": [
+        "ford",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/09/03/ford-wants-to-sell-100000-fathoms-in-the-30k-ev-trucks-first-year/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 34,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "byd",
+        "count": 4
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      },
+      {
+        "id": "gm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 107,
+    "too_old": 79,
+    "gate1_blocked": 36,
+    "gate2_blocked": 20,
+    "passed": 99,
+    "pass_rate": "42.3%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+      "ArcelorMittal (MT)’s Italian Exit Raises Questions About Growth and Capital Discipline - Yahoo Finan",
+      "ArcelorMittal will invest nearly US$1 billion in Brazil - BNamericas",
+      "ArcelorMittal raises long product prices in Europe by EUR 20/Tonne - SteelRadar",
+      "EV Exec Says Ford Fathom Owners Won't Tow Anything With Their Pickups"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為特斯拉、Ford、BYD相關動態：「Ford Rival GM Launches In-Vehicle Camera Recording」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford Rival GM Launches In-Vehicle Camera Recording（汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "China E-Mobility Weekly Digest: Chinese EVs Reshape Vehicle Markets In the Gl...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
