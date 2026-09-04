@@ -1,0 +1,16 @@
+{
+  "total_raw": 687,
+  "dup_title": 242,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 34,
+  "gate2_fail": 46,
+  "passed": 209,
+  "gate2_samples": [
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Nippon Steel shares rebounded sharply as European brokers raised their target prices, anticipating a",
+    "Big day in Ascension: DEQ hearings on Hyundai-POSCO steel mill set for 6 pm - 1012industryreport.com",
+    "Posco chief calls for stronger Korea-Australia resource ties - The Korea Herald",
+    "Slab Imports Rise as ArcelorMittal Ends Duisburg Steelmaking – Stainless Espresso - steelnews.biz"
+  ]
+}
