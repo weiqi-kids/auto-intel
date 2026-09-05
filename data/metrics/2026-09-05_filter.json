@@ -1,0 +1,16 @@
+{
+  "total_raw": 692,
+  "dup_title": 309,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 26,
+  "gate2_fail": 64,
+  "passed": 143,
+  "gate2_samples": [
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Hyundai-Posco steel mill project moves forward as Modeste residents raise health, community concerns",
+    "Hyundai Steel breaks ground on Louisiana mill - Gonzales Weekly Citizen",
+    "Hyundai breaks ground on Louisiana steel mill. Is it green enough? - Canary Media",
+    "Hyundai Steel, POSCO Break Ground on $5.8 Billion Electric Arc Furnace Steel Mill in Louisiana - fin"
+  ]
+}

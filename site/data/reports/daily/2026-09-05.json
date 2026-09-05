@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:45:16.566665Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-09-05-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai-Posco steel mill project moves forward as Modeste residents raise health, community concerns - Yahoo",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNUpVaVpvQWpHYVlpNENBSjNWMF9LaGw1OHFsNnFiYjJFbVVhWmFBcEVWS1VxOFpnVXo1NW1wZTB4MXJ5Q2JuWm11WDZXX3lPMVVjMlBRcnhmLUJyeEs0eWFJZjlGY2l2ZDlTd2pFSHAwcDEtQmcxZG52S2ExMGxPNFJtX0M5ZDZ2N1Qw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-09-05-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Steel, POSCO Break Ground on $5.8B U.S. Steel Plant - chosun.com",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMG84YUQ1WkVXbnFjVFJ3bEVxdXF5UkFDSjJNTnJLTXRPSmdIWTNQQzRsQkJzeFdaMVAxWTBpUERyQ3FPQWVXakVvUWUwTUE0d0pWYkF3YVpaMjhidXFnTXpxTjNiTlA5RVgxcDBZc1QwOTFQVWhVVEpOaFFDeWJwVXNWQ0Y1VUoy?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-09-05-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai, POSCO break ground on $5.8 billion low-carbon steel mill in Louisiana - Aju Press",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wWDZhNm1xWlJUWTNpeGZ5X2dLZmZrUWhfNVYxZm5ucTFLOVF5RktIUi1YYXRKNkVYMUVvNUx3eEt3UFNVbnM3V2FSTjQ1UnNEeDB3RnhMcldfTGPSAVdBVV95cUxOZGNJeWpwT3o1WmVCNG5odWhrVXh0dXZ1SFFVbEpVS2V0OHhjMDZJVWltdmI2Q3ZCUmtjMjFDeEEyNDZzUWJwT1JHNDNXNk9hajQ5a2d5cVU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-09-05-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai-POSCO eyes U.S. steel supply chain beyond cars to robots, rockets - Aju Press",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91V00wNkxJVlZadGtqWk5ZX2ZLSUVFZHRZUTBFckhJUnpsTmRKbng4eGdqNnhuWXRpSlRyVC10S2NxZnBRUTBMQWJRa3RnMTVwUWFLc1ZpM2MzMzDSAVdBVV95cUxPWGw5ZTQ2OWFRVERqU3EtNTZvZm9KbG1nUWt4Z0p5ZEp5VG8xRHZQYXJJUy14LXVLRlZBWFVwRV9nWHlIS1hJWm16eWlST3FCZ3pJcFE4akE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai_mobis-2026-09-05-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Battles Japan's Defense, Foreign Player Reliance Under Coach Yang - chosun.com",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTnlacDhvZlJ1M1hIMVZXelZKeTRJdkQ4VG84VjkycGhzNldMb2M5ek5MMm1kZkx3NXc2aURvUl8tQUljblAtN29iQWJSN2tQTlJkSUdqWWZwYlh1aC1ieGI3RGtHUU1zcDZxak1Wdms1QU5hOWVBQUY2U0c2Szhnd3Z2TDhLZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 18
+      },
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "posco",
+        "count": 5
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 2
+      },
+      {
+        "id": "toyota",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 692,
+    "dup_title": 309,
+    "too_old": 150,
+    "gate1_blocked": 26,
+    "gate2_blocked": 64,
+    "passed": 143,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "16.7%",
+    "gate2_samples": [
+      "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+      "Hyundai-Posco steel mill project moves forward as Modeste residents raise health, community concerns",
+      "Hyundai Steel breaks ground on Louisiana mill - Gonzales Weekly Citizen",
+      "Hyundai breaks ground on Louisiana steel mill. Is it green enough? - Canary Media",
+      "Hyundai Steel, POSCO Break Ground on $5.8 Billion Electric Arc Furnace Steel Mill in Louisiana - fin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為Hyundai Motor、Ford、浦項鋼鐵相關動態：「Hyundai-Posco steel mill project moves forward as Modeste...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai-Posco steel mill project moves forward as Modeste residents raise hea...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Steel, POSCO Break Ground on $5.8B U.S. Steel Plant - chosun.com（電動車滲透率、財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
