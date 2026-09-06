@@ -1,0 +1,202 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:06:37.187254Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-09-06-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "NASCAR Ford Driver Sees Toyota As Main Title Threat",
+      "companies": [
+        "ford",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/nascar-ford-driver-sees-toyota-as-main-title-threat/"
+    },
+    {
+      "rank": 2,
+      "event_id": "honda-2026-09-06-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Honda Accord Driver Causes Crash, Then Blames Ford F-150: Video",
+      "companies": [
+        "honda",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/honda-accord-driver-causes-crash-then-blames-ford-f-150-video/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Expedition Discount, Lease, Finance Deals For September 2026",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/ford-expedition-discount-lease-finance-deals-incentives-offers-september-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-09-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Jacket Lets You Dress Like The Ford Hypercar",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/new-jacket-lets-you-dress-like-the-ford-hypercar/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2020 Lincoln Aviator Shinola Concept Part Of U.S. Heritage Fleet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/2020-lincoln-aviator-shinola-concept-part-of-u-s-heritage-fleet/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      },
+      {
+        "id": "honda",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 137,
+    "dup_title": 67,
+    "too_old": 0,
+    "gate1_blocked": 21,
+    "gate2_blocked": 27,
+    "passed": 22,
+    "pass_rate": "31.4%",
+    "gate2_block_rate": "38.6%",
+    "gate2_samples": [
+      "Classic Ford Performance Models Selling For Big Money In 2026: Video",
+      "Rebodied 2023 Ford Bronco Owned By Blackbear Up For Auction",
+      "Revived V10 Powered Ford Mustang Makes More Power Than Dark Horse: Video",
+      "Ford F-150 Raptor Conquers 2026 Vegas To Reno",
+      "2027 Ford Super Duty Lineup Gains New Neptune Blue Color: First Look"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Ford、Toyota、Honda相關動態：「NASCAR Ford Driver Sees Toyota As Main Title Threat」。主要關注主題為汽車產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "NASCAR Ford Driver Sees Toyota As Main Title Threat（汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Honda Accord Driver Causes Crash, Then Blames Ford F-150: Video（汽車產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
