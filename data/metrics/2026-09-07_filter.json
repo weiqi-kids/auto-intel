@@ -1,0 +1,16 @@
+{
+  "total_raw": 686,
+  "dup_title": 324,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 23,
+  "gate2_fail": 51,
+  "passed": 120,
+  "gate2_samples": [
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Cliffs, US Steel, USW negotiations continue - Recycling Today",
+    "From White House pledge to Louisiana, Hyundai's $5.8b bet takes shape - The Korea Herald",
+    "Hyundai-Posco steel mill project moves forward as Modeste residents raise health, community concerns",
+    "'AI learns from our masters': Posco's vision for the AI-powered steel mill - 헤럴드경제"
+  ]
+}

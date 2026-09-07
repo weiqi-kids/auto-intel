@@ -1,0 +1,292 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T14:07:04.430219Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-07-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai-Posco breaks ground on new auto steel plant in US - Yahoo Finance",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ096ZEZxdE1JZEd0MEJQaTItUm85SEFTQXNoSFN3elRBLVdaeUozZnMtMmRwSTBtMU5zMHpvT04wVmpBUmRoVEpNYjJXS3lFZkpaaGhQV0xlMVU0cUFseDdONlk1b1F1RUJpa2kzYno2X1ljQ2FtcVlyZE01VUwwSF9ubmNBTnc3NW9jQmJUM1ZlOGM1N3B4Q0lQUkFNdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-07-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai-Posco breaks ground on new auto steel plant in US - Just Auto",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXZmakhrNDBfY28yemN5M3RVQkFCdVBqUE9IdjNYbWhEZnJIaWNzeTV0MS04OURNQV9uTzVNWWl1VUthUlVpN2FBUzRCZ3NsR3lNVkpBT3NKalJ6d204XzRqVFA0bXF1akIxQ29ZQkZENi05bU1mZVhIc1cxNnhNTHZkdzNrNkdzc1lBaVVMUURLRnM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-07-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Steel and POSCO Partner on Louisiana Mill with Different Purposes - Businesskorea",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13d2tLOVRjTzFqMU1KNmphZDBEeXl2WG40RUtRYWd1MlVENVZDbkVGNjI2MU9HZWxnM3VBdEQ2SC1IbldGSUJheGJ3ejRlVm1CMzJVNW5CZWMzamdQZnRsOUJ6M2xkaWtYX3paaUlDNnZjbllC?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-07-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Steel, POSCO Collaborate on U.S. Steel Mill - chosun.com",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmF2V0wzOThpX0pFNjY4WjBwd1ZTcnZvd0hkaUo1ZWtGTmF6cEZ5MGJzZ3pmbkp3M3hlbVZwTmZOdGhrOEVLNmlDc0ktTW9rdEtkcG9HZkk1STlSallJVHcwSnlKVjI3NUZzcXpfdmtnQjkyTkdBRDlyYWpNb1JtVWpEZno0UnZi?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-09-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO and BHP partner to advance hydrogen-based steelmaking technology - SteelOrbis",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd1ptNFgyMVEySDJIRXNDVkpVaFVnOTRyckF6QjBrT0tEQzI1RWJ5TTJhWk8zZHU2MFJ5NDlxeVA3enIzLUV0eVJhUXdkOF9mMC1aeWFQZXNpazladU1RYXo0MEFhR3MwOTRLMGR6eUpKakQ2akEzS19VWGp4dVFKNUgtTkZkNjVGbHRMbFJ3WUpqVDZUQkEwcndUMU91QlR2dThSbDdNWnNqM1MwVTBIM0liUHhOLTEwbjFYYXV4djVlTVhLMW85M2Z1SDk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "parts_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "posco",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 59,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "stellantis",
+        "count": 7
+      },
+      {
+        "id": "posco",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "parts_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 686,
+    "dup_title": 324,
+    "too_old": 168,
+    "gate1_blocked": 23,
+    "gate2_blocked": 51,
+    "passed": 120,
+    "pass_rate": "33.1%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+      "Cliffs, US Steel, USW negotiations continue - Recycling Today",
+      "From White House pledge to Louisiana, Hyundai's $5.8b bet takes shape - The Korea Herald",
+      "Hyundai-Posco steel mill project moves forward as Modeste residents raise health, community concerns",
+      "'AI learns from our masters': Posco's vision for the AI-powered steel mill - 헤럴드경제"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「Hyundai-Posco breaks ground on new auto steel plant in US...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai-Posco breaks ground on new auto steel plant in US - Yahoo Finance（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai-Posco breaks ground on new auto steel plant in US - Just Auto（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "零件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
