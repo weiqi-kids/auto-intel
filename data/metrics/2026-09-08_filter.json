@@ -1,0 +1,16 @@
+{
+  "total_raw": 673,
+  "dup_title": 320,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 26,
+  "gate2_fail": 43,
+  "passed": 115,
+  "gate2_samples": [
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "Cliffs, US Steel, USW negotiations continue - Recycling Today",
+    "Nippon Steel : Notice of Financing by Subordinated Loan - marketscreener.com",
+    "From White House pledge to Louisiana, Hyundai's $5.8b bet takes shape - The Korea Herald",
+    "POSCO faces deeper crisis as union warns of 1st-ever strike amid cheap Chinese steel, protectionism "
+  ]
+}

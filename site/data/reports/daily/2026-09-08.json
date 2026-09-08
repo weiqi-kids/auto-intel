@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:44:12.988126Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-08-047",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "China's car exports stay strong in August but domestic sales decline more - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2VEOFBFc3FIc0xlQVlKbUd3UjRSTE92NUFlQXI5c3Jlb0pMVk9CUGl4R2czaDNTak9rSHNmYVJRVjVtRmdDTnZPQ3kzUHBkdnJBSnhYaW1jVjQ4YkNNNl9uRHppNi00c0tzcy0zUHlSU2o3Zkd3V2Vvd2tzVGFGa2hDcFNqdzMzQ0hYNzFubUpyUEx0aDJlUjZSb1lzcXBlRk92cFFtN24xN1dNak5GV2RJanc0cDVBRTlXWV9uVWt0NV8wMFplVUhFOFIydw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-09-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel raises $200M in subordinated loan to refinance 2019 bonds - Dealroom",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdENtRmFYYW1rb2oxWllRSmx5b0NTb1NCOWhEdE9haHJoZm5IV2poWnh1M3FRU0JQbGJadW8wb0RFWUY2cWw5aXUzNWxJX3ROaFNVcnB0c1p2T1hDYjRvRVBqWjMtZ183OVFtQ2dYZzlfZkZXUS1lVlNHUU15dU14MzRGTlNrenZISl9vMV8xLXRDWUhfQzBSTWxOLTFHRVRoYVZuelVB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-09-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "S&P to Qualify Nippon Steel's Subordinated Loan as Having Intermediate Equity Content - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLU1nMW5mRDNNOWlwZHJULXFTQjZuanU0cVBuZC1rZVBKQWgyNHhweFdUeUhaQ2FaeTJpcTc4Z24ydnR1MUlPVjFBTEw0anhaNHlIbWZ1Yzg1QkdieExiek1PVjhubzFuUXhuSTRidk5aYzRLc09xa01HN1FTU3RabHp4em9mbnBwWjJXbzVadDlEc2JhcWFuSzB3WEZHUkNqdkxlLWVCWHFmOUpvUGYtbEoxdTJlVkdHTWk1dzZyU1FDV2NFWjk2aElYS0tvZDlOTkJUOQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-09-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Posco injects W480b to expand premium auto steel production - The Korea Herald",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zQXpQa0hqX1VUbDAzR0lrYXI4V0J4V0U3c2EwNjh0NkNJMmFzbkd5Zkl3a2R5TjRNdHgyMURlSkNNVmxyNjg4cng2UUFDR1VtS0tyQ2RUaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-09-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "(LEAD) POSCO to invest 480 bln won in automotive steel plant by 2028 - Yonhap News Agency",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5eHc5ZnNtbUJjMmN2TlU4MUJFNEplWDRlc3gwemt6Q3EySzkwc1hUNHRlcy1waURyZ3NDY2RCVFYwVmV6NEhXeEw0ajlPWk9VTkNyZWpuRnctUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 71,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 63,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "posco",
+        "count": 8
+      },
+      {
+        "id": "continental",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "earnings",
+        "count": 34
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 673,
+    "dup_title": 320,
+    "too_old": 169,
+    "gate1_blocked": 26,
+    "gate2_blocked": 43,
+    "passed": 115,
+    "pass_rate": "32.6%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+      "Cliffs, US Steel, USW negotiations continue - Recycling Today",
+      "Nippon Steel : Notice of Financing by Subordinated Loan - marketscreener.com",
+      "From White House pledge to Louisiana, Hyundai's $5.8b bet takes shape - The Korea Herald",
+      "POSCO faces deeper crisis as union warns of 1st-ever strike amid cheap Chinese steel, protectionism "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 71 則事件，焦點為浦項鋼鐵、大陸集團、Hyundai Motor相關動態：「China's car exports stay strong in August but domestic sa...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "China's car exports stay strong in August but domestic sales decline more - R...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nippon Steel raises $200M in subordinated loan to refinance 2019 bonds - Deal...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
