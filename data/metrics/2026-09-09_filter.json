@@ -1,0 +1,16 @@
+{
+  "total_raw": 697,
+  "dup_title": 286,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 23,
+  "gate2_fail": 48,
+  "passed": 171,
+  "gate2_samples": [
+    "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+    "(LEAD) POSCO workers stage partial strike over wage dispute - Yonhap News Agency",
+    "Hyundai Steel POSCO Louisiana mill — $5.8B US Green Steel Bet - The Korea Daily",
+    "$5.8 billion Hyundai steel mill set to bring thousands of jobs to Ascension Parish - louisianaradion",
+    "POSCO workers stage partial strike over wage dispute - The Korea Times"
+  ]
+}

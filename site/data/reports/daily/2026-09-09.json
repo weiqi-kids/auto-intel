@@ -1,0 +1,289 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:50:36.955626Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-09-09-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Is Now An Opportune Moment To Examine Hyundai Mobis Co.,Ltd (KRX:012330)? - simplywall.st",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZDJSVG4zRER6bVVwN0IxU1drdUMzTmhXTmRmYzR4TmFKRjZwYzhpY0tmTUpfVVN2azJfUGEwNHhYbWVsbGt5WlN6TUJkd2tJazFkRnNrOUN6NjV2U1h4UzFMelp3TEVLWjRoUy1hUDlzX0xIaXkxcVVnWHhhSUVWeFdBam0taGJhOUxIRkpqNjFQZTZ2S3RuczhZeGVKM2RKLWFIQ0Z2WElKRkhfdFJHYkwyRU9fNDBlZ0M4NVpVTktxdHpFRzFlcngyR1R2ejNsVW1rbjBKYVcyV1R3SVhB0gHkAUFVX3lxTE1BSm1lZVhZQVlIYnFPaDlvX1ZZQ3piSG5xdzJBUEpseGctVEV0TVBuQWtNVzE1Zm02UUJJWjhLb2tRSExQemNtcXY0cldSRXpTRks3RGhLOUdwel9MRUF6a3pNbWlVRHlEMkZ6U2VYTFptcHZqa1R4X2VwanNrVnR6V1VnSUstWFd0ZUhMZUpKcXY3WG9YaTFka1NRbEwwQUFpcnM4YjlJZDU1bjI1MHpmNDFVRGNrZUhhS1AtandULTJEa2UyZDFWSjJXbFpGVk9UcDNiUHJBLUNSZmdXdjJETHFKcg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-09-09-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Showcases Prim's Dominance in Final Training Match - 조선일보",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzMzVW9wRWx2WGQ1YzFTQ0padGlocHdQaVNmVmphN3UtQXpTYTJLWmFWQV9VNnVvcWFuRlBja0hsMzBRNkcxTWxkTkw5NTNSQmR4MllzRWUwU0ZtV2prcE9QVS1uaGo5bkhaWkRSQWpfbXBZSVd1VnhPRTQwOHYxUGNUVndXdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-09-09-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Steel-POSCO U.S. Mill Hosts Community Event in Louisiana - Seoul Economic Daily",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTdrSUVud0tlZkVqVXNUTGhtUWNWWkZWMjVNSllhRlBYQkdJenI3ZVdXbDBnWHM4NEU1d3FWVjB2aHZMempXQjhhTVI1dkFxNUlXQXIzTU1pWTJYRjl6X19YMWJZWDVMUjdzYVBHZ2xPRmhqc0lzUEtKblhIY1E2T1VyTWI0SGRsNUVqRGIyemxmeFA4dzM2VGNn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-09-034",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor Securities, which recorded solid earnings in the first half of this year, up about 50%.. - 매일경제",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52cmJDMWdsR19teHo0ai1TSzEwZTY0UndXTVlaQktqZlZSQ3c1Ymx6bUE2bDdZZHg2VHNsS2g1SDZnQkphdEZHdTEtS3hwaWs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-09-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Posco expands production capacity for premium automotive steel - Yahoo Finance",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWVXUmhBQ3J2MjdTOFVSQjFaRGpHa0c2NEZpTGxEMzV4NVpuRThYaEdsbHZNdWdXUWU4TzJxNWhmeXFWdzRiQ1Z0Yll0aXR2eG41N3NqM1A4ZlRHdTFJVWpjSzdjZkU2dkt6RU5iQTJKODYyWG5RTTNBbTJ3eVFjMHoxYV9ra3VfeXNpR0gzM3BNT0ZYYlkzRUc4WWljTjJmbHpzUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 53,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 77,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 61,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 11
+      },
+      {
+        "id": "posco",
+        "count": 8
+      },
+      {
+        "id": "stellantis",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 53
+      },
+      {
+        "id": "earnings",
+        "count": 34
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 697,
+    "dup_title": 286,
+    "too_old": 169,
+    "gate1_blocked": 23,
+    "gate2_blocked": 48,
+    "passed": 171,
+    "pass_rate": "41.6%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Nippon Steel delivered on its promises. Now it’s the union’s turn | Opinion - PennLive.com",
+      "(LEAD) POSCO workers stage partial strike over wage dispute - Yonhap News Agency",
+      "Hyundai Steel POSCO Louisiana mill — $5.8B US Green Steel Bet - The Korea Daily",
+      "$5.8 billion Hyundai steel mill set to bring thousands of jobs to Ascension Parish - louisianaradion",
+      "POSCO workers stage partial strike over wage dispute - The Korea Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 77 則事件，焦點為Hyundai Motor、Ford、浦項鋼鐵相關動態：「Is Now An Opportune Moment To Examine Hyundai Mobis Co.,L...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is Now An Opportune Moment To Examine Hyundai Mobis Co.,Ltd (KRX:012330)? - s...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Showcases Prim's Dominance in Final Training Match - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
