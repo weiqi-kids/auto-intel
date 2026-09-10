@@ -1,0 +1,303 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:48:39.883001Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-09-10-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Expands R&D Into Robotics - thelec.net",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55S2UzNHVjQUR0Q29uTXNiQ0lyOUd4ZHJYeEtqZDdPMlpMYXBQNy1oejQtVnpvTmdQZDN2M29hbER0Q1Nsem54RThRWkQ5aU1DbnVvVndPNWlkaWxYeGYzdEdielE5alU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-09-10-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis showcases 60 future-mobility technologies at Korea R&D Tech Day - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWNDa0RSUzBwQS1vMkR0bjBuWEh1SXlsdEgtSXNJWmpSemU3MnV2N3JxekFoc1ZqQmlmcEtBZV96NFhDZURsaHhBekpTYUxaSjdsQVlyNEd5eWozdlk4U05oa2pCdlNVSm1IdTJLQ2gwemlNQXlMTEpGUEMzX243X1R30gGWAUFVX3lxTFBxNmdGTmltVHpHTW5LZjV1N2JzcTFqQU5uOU4xelFtZHNRYVBFZ0dnM3VMY2xaZWUxeXpxdndDS0hWYm90eXRyQWJmMmpVcmU5eWJTUTZiSi04UEgtOEhBSkstZVB4QVBTbEk3aUFoOXlqb255UlFKcnN4TTU2N0JVbk9zamUtNjJfdzR3M01OZUZfLVB3dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-09-10-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "POSCO strike adds pressure as steelmaker profits decline - upi.com",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbG9OcmpZcFNUZzltdFZMRVI5NzlwYUs0SUFyOVZOdnd2TVZBdDhTVDIzSW1yYVdmeU5vX3BzMkJkekFQNFJNSWtwS3FNdzNuNFA1d3lCNEJQQmpiclBKR0dYZW5LeWxKcmdqUGVPSEJxU1ZXNUFMUDEzWjdudDliNG9jRkJCVWM1cGxj0gGQAUFVX3lxTE9xMzJTQXJYWHU2R3NtdTU5UXhVU3E3eWJXQXZrbDRBSElrR0dfdEFxd2R2VXB3RXRpWE1TT1NwV2FJTE43amtQOVliaWJqQWVrVVVEeFpUaFJWZURVZVMxdU9GTDlaQnhpcGxUTTdYYzhLdHN4TlR6cmlReUJkMllHTEdnZ2h6cTJteXY3S0JmSg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_mobis-2026-09-10-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Expands into Robotics, Showcases 60 New Technologies at R&D Tech Day - finance.biggo.com",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sUlhuWXBwUW04UWlNTWc5cVBjZTU0RFFQUWpwU0hINTVRVG9LREtHWjYyT1p6YUZvOGRIT0x5QUhGN0lwUzNfVVk1emlwWUNJQi05WGpBQVpCM2k3aWd0bWxCUXowVmczYVJERzJLREF1Z2l6N0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai_mobis-2026-09-10-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Unveils First Humanoid Actuators, Supplied to Atlas - Seoul Economic Daily",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckhVTmR2b1MtQXhkak9sLXh3YWJzUnViVXd1Vzc3QU9YaEdNaDlHODlrUnZEQ0dXMlRaUm0zV1JLSFZueV9kX09aYTJOVDIzR0FaMzhVd2xPSldXSm81ZFB1cHdYWkVTcEVfdDhTbUFUZDczQUxuUG40MlBsX0JKalNQTmc1UzBsaHAtZjFfaFp2RHItLWxVNmlUS05KbEU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 7,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 66,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 58,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 15
+      },
+      {
+        "id": "ford",
+        "count": 14
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 7
+      },
+      {
+        "id": "posco",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 702,
+    "dup_title": 302,
+    "too_old": 168,
+    "gate1_blocked": 32,
+    "gate2_blocked": 51,
+    "passed": 149,
+    "pass_rate": "37.2%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "$5.8 billion Hyundai steel mill set to bring thousands of jobs to Ascension Parish - louisianaradion",
+      "ArcelorMittal Shares Surge 69% YTD: Can It Sustain the Rally? - Yahoo Finance",
+      "Moeve and ArcelorMittal Partner on Green Hydrogen Steel - Fuel Cells Works",
+      "ArcelorMittal Increases Hot-Rolled Coil Prices in Europe for November 2026 - News and Statistics - I",
+      "Bridgestone’s Battlax Racing Street RS12 Selected as Original Equipment for Kawasaki Ninja ZX-10R - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 66 則事件，焦點為Hyundai Motor、Ford、Hyundai Mobis相關動態：「Hyundai Mobis Expands R&D Into Robotics - thelec.net」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Expands R&D Into Robotics - thelec.net（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis showcases 60 future-mobility technologies at Korea R&D Tech Day...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

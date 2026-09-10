@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 302,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 32,
+  "gate2_fail": 51,
+  "passed": 149,
+  "gate2_samples": [
+    "$5.8 billion Hyundai steel mill set to bring thousands of jobs to Ascension Parish - louisianaradion",
+    "ArcelorMittal Shares Surge 69% YTD: Can It Sustain the Rally? - Yahoo Finance",
+    "Moeve and ArcelorMittal Partner on Green Hydrogen Steel - Fuel Cells Works",
+    "ArcelorMittal Increases Hot-Rolled Coil Prices in Europe for November 2026 - News and Statistics - I",
+    "Bridgestone’s Battlax Racing Street RS12 Selected as Original Equipment for Kawasaki Ninja ZX-10R - "
+  ]
+}
