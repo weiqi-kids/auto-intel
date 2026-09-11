@@ -1,0 +1,261 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:43:04.437452Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-11-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis unveils Atlas humanoid robot actuator in Korea for first time - mkbn.mk.co.kr",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jajBidVlaSU9SZVVBQTdBMEs3WjFzN3NuTGUzd0liSXd4NnBndlhENVoxOEJWZnM1eTNYcEVfUUxBODVCU1RTQWlqb3ZWRmZidlczaHRR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-11-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai: Q1 U.S. Sales Reach Record 205,388 As Hybrid Sales Jump 61% - Pulse 2.0",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjFOOUFYTFdTQzFIM09nT0FKNkVtUWRCU253cU9UVGcyYlAtR0FZSFlja0lienk0ZVpQRnVoQjZHVmdCOGRVSGowWDNnRG9BMlkxX29zTjhiV1h1R0tacGktOVU3dGw1UFRQcVJ1bkc5cUtFc0JBaHJSajFMem0xQjJrVmE2cHdUUTFxQtIBkgFBVV95cUxNaWFOQ3plWm1kY0ZhMVMzNi1aajlvWXhNSHRpendsV0ZQRldnRWhla0gwRGpra3lJS000Vlo4YVhSczkyR3o3ZlItU1pBbTBKZmhOVm53a2NxSFkwX2tQMWMtY1MyeGp6RmxjRm9GV1VYUnM2R2lWVDJjYmtmQXByQlpXWTZUWkpQalRxMXFBMkJoUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-11-054",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Australia surpasses 500,000 battery electric vehicles as EVC warns ‘the real race is just starting’ - evinfrastructurenews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZF9IMUFqZElfOWt2NXo2X1lTQ3RqTUpNZnRNZW1zZWQtQmlucExwQUVlVmp4RXJMaDZ1Q2g4T1hhSHpZSl85Z2pNbml5b3BxX3ZKVjFTel9NeHh5ODFhSFpKeEd4M2wyWUZ6Q2FOdmtSRnZReGxqUkN1dW54bWtPeU1URFB4elB0MGR6SXpDOXZzU0xiREluTGVwX0RXMVFGbG5kMFZWanlKcm9HWDU0ZmtINzZhWE1GQXRCc0xhS1h3T3JaSjhmeVJOVm5aRVhHaWdjYzF3QkdLNWpBWk9KcFNuMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-09-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Moeve and ArcelorMittal Join Forces to Drive Green Steel - ChemAnalyst",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMWstX3NiRWViOVB4ZHAzUzd3Q0VwUmVETk5BV2poX2RaTHV6UkZWWFl3akpYQ2tyUVFTbklMRDB2R2hXOEUtY0hMaDZWd3YwaDJzcGtBNVpGQzQ4Q3c5OVI2VXA4dUZMYnY4RkVzOEkxb0tCNTcxT3BCbkxYNjhlb0kwQ2RLTk01TVY3UF8yUWpCc0NVcXNGYW0ycmtlYWRvU1RhVUVjenNBOG9kclE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-09-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal (ENXTAM:MT) Stock Looks Reasonable As Its 184% Run Continues - simplywall.st",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOFJ0VnA2dFRKeEdrQk5xOTY0bzdfazQ4R2hnWmJDcHVtMDhsSGVNeExCN0tUR01senlWaWdGTl8zdDFSUFJmejZ6N3liRjByaEdrdDROWkVtV19nNWFRZS04azRSemFfempnbEhEdk1Wb01RS1NwbGNLMHJNOVgwSXlGRWRpYmhQMHo4MlRCeERZM1h6b0hnMzFsTFBFRk9MVkFZYWk1TWdjdmwxSVdEZ3dPaGZKTUFjVzV6a2hMLVdSS3IxZzZ1SWJ5WDBXX1RP0gHWAUFVX3lxTE1MMTE5VVR5OS1KZE5fTXJuUDhpNmNFMFo0Q1NkSXQzdjdPS2Q3bXZzX3dPb056QjRjV1dBMGwxOEVIdFRBbVhSNHNKTVFEMmowX0pTcHQwdjUxWVNxR1cyOWViZW5kbkN1TVUwbTJVdjdKLVJFTGFnd19CU1dyNEVjYWg4LVJYTXAyMk14cVpQTTJJTl85OUp4MElPRkY5REZGMG1NNVRJdEFWNDdLS05QNVk1T1psdDRmSlBIQ1l0R09ubzIzeWRYeDhFZlR6Q1pfeEwweEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 64,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 57,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "continental",
+        "count": 5
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "arcelormittal",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "earnings",
+        "count": 29
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 702,
+    "dup_title": 309,
+    "too_old": 163,
+    "gate1_blocked": 32,
+    "gate2_blocked": 52,
+    "passed": 146,
+    "pass_rate": "37.2%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "$5.8 billion Hyundai steel mill set to bring thousands of jobs to Ascension Parish - louisianaradion",
+      "POSCO faces deeper crisis as union warns of 1st-ever strike amid cheap Chinese steel, protectionism ",
+      "From White House pledge to Louisiana, Hyundai's $5.8b bet takes shape - The Korea Herald",
+      "ArcelorMittal Shares Surge 69% YTD: Can It Sustain the Rally? - TradingView",
+      "Moeve and ArcelorMittal Partner on Green Hydrogen Steel - Fuel Cells Works"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 64 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「Hyundai Mobis unveils Atlas humanoid robot actuator in Ko...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis unveils Atlas humanoid robot actuator in Korea for first time -...",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai: Q1 U.S. Sales Reach Record 205,388 As Hybrid Sales Jump 61% - Pulse 2.0（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

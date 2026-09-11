@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 309,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 32,
+  "gate2_fail": 52,
+  "passed": 146,
+  "gate2_samples": [
+    "$5.8 billion Hyundai steel mill set to bring thousands of jobs to Ascension Parish - louisianaradion",
+    "POSCO faces deeper crisis as union warns of 1st-ever strike amid cheap Chinese steel, protectionism ",
+    "From White House pledge to Louisiana, Hyundai's $5.8b bet takes shape - The Korea Herald",
+    "ArcelorMittal Shares Surge 69% YTD: Can It Sustain the Rally? - TradingView",
+    "Moeve and ArcelorMittal Partner on Green Hydrogen Steel - Fuel Cells Works"
+  ]
+}
