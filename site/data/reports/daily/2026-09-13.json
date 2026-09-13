@@ -1,0 +1,247 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:13:11.467396Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-09-13-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hyundai’s 42dot to close gap with Tesla, Waymo in autonomous driving - The Korea Herald",
+      "companies": [
+        "tesla",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93LXVDQ283Wjk0bS1nMDM1ZzRQMDlqYm02SFNYTHFab1luMUo5cUxsS1EyLWMyUEZVazhhSW10ZGp5Z0dxRUZFaE83ZU1HVUN3MjlOV3dacw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "magna-2026-09-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stouffville to receive a 95-acre park at no cost, thanks to Magna International donation - YorkRegion.com",
+      "companies": [
+        "magna"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2J2cklnTTFnSTlEYkhjai0wOHJuSnU4bkUtSVR3ZEgtdE9RbUNJMTc3NUlWNURfcEgzOXJsd1FxdzFkenpyOG1VTTVlU1B4X1RjbkNDZUItU19GSldnb1VmTzNLdjRiYkNBUlN5WWVrcW1aa2R4M0I1b19FQWJMSzlNNGQ2aW5NY1YzUDdGOVBDcmk0dWJOV2h3LTI1Q2NVaDl1WVdRdmw0S2pYSU9DTUFrc1hJT1d2S0ZfVDlISHhWT05TMUlYYi1n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor to roll out in-house driver-assist system in 2029 - Reuters",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVhXVEpKMlIzcFp1cW5CS3VMQVZ4OE9NMWFJbnJ5V29Sdk1nZ1NTbXFhZGpFM0dfN2NKQ1l4aTdDUFVUb2tYaExkbVZiSFRZSVdfMm1sNzJLT1JlckY2TVROWHVlcFNzc1VybXp0SjZUWmkxV3pIQlo2QWxnTjNUOERpWEE1Ym1rTXBpNXZnaEFIbkN4cFV1SWpvLTZraDliTmdoeUZrRzVMSmVRU19mUW05UngwNDl6LTNOaXF3SUI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-13-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor Group targets hands-free urban driving by 2029 - The Korea Times",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWVyVFZnUGlZNjdzX0k4WVNIUjh5ZHhHbzg5dXY0S0xtTktCM2RZalI1bEVKajJLUUV2VzhPNU14blYxa2FnMEpLQi1qLVhzSGFWWUhSQjA3WnpzNTlJckxtdjNTZGtZenlLaEk5SlVoQVhXUlNfNFJ3QVhobFN6cm5tYVE5WFZ6blB1OTR5Z3IwR2Q4dkhCbGdFR2J5NlRpQUhwUGQ1ZUJBVWZSXzFDUkdianZiXzBXVHY5NjNR0gG-AUFVX3lxTE0xZXJUVmdQaVk2N3NfSThZU0hSOHlkeEdvODl1djRLTG1OS0IzZFlqUjVsRUpqMktRRXZXOE81TXhuVjFrYWcwSktCLWotWHNIYVZZSFJCMDdaenM1OUlyTG12M1Nka1l6eUtoSTlKVWhBWFdSU180UndBWGhsU3pybm1hUTlYVnpuUHU5NHlncjBHZDh2SEJsZ0VHYnk2VGlBSHBQZDVlQkFVZlJfMUNSR2JqdmJfMFdUdjk2M1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tesla-2026-09-13-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tesla Is Reclaiming the U.S. EV Market as Legacy Automakers Retreat - WSJ",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEJzUlJmQTdPanQ1YVJ5TDZtbG1IdDZlb0tZZmQ5V1Y1by1FOG9mS3lZcjZGYzB4TnpHYjBnbkV6T1Q0cUk2b1BTLXFCOXJwY1l2Ml9PTXNja2VpNEsxLXNfMU5FWWpIeWdMY2Etcm5SU01zSUpTR2lTVC04ZGpYY1RVd3BvMUhFcE0tQzJMZjNhcjBoNEdxX0p0dlVzemhtZXVrWkJ6emU3MndEa2RZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 10
+      },
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "magna",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 696,
+    "dup_title": 379,
+    "too_old": 154,
+    "gate1_blocked": 29,
+    "gate2_blocked": 60,
+    "passed": 74,
+    "pass_rate": "23.3%",
+    "gate2_block_rate": "18.9%",
+    "gate2_samples": [
+      "$5.8 billion Hyundai steel mill set to bring thousands of jobs to Ascension Parish - louisianaradion",
+      "POSCO to Build 450,000 Tonne Galvanising Line at Gwangyang - News and Statistics - IndexBox",
+      "POSCO faces deeper crisis as union warns of 1st-ever strike amid cheap Chinese steel, protectionism ",
+      "POSCO wage dispute leads to first strike in company history - SteelRadar",
+      "Explosion forces temporary shutdown of ArcelorMittal Spain's Gijón blast furnace A - SteelOrbis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Hyundai Motor、Ford、特斯拉相關動態：「Hyundai’s 42dot to close gap with Tesla, Waymo in autonom...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai’s 42dot to close gap with Tesla, Waymo in autonomous driving - The Ko...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Stouffville to receive a 95-acre park at no cost, thanks to Magna Internation...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
