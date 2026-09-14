@@ -1,5 +1,474 @@
 [
   {
+    "id": "ford-2026-09-14-001",
+    "date": "2026-09-14",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "2023-2027 Ford F-150 Recalled Over Fuel Tank Detachment Issue",
+    "summary": "Faulty fuel tank straps are to blame.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/2023-2027-ford-f-150-recalled-over-fuel-tank-detachment-issue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-14-002",
+    "date": "2026-09-14",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Says Australian Buyers Will Embrace New Lineup From China",
+    "summary": "Chinese vehicles have already been embraced by customers there.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-says-australian-buyers-will-embrace-new-lineup-from-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-14-003",
+    "date": "2026-09-14",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Super Duty Pickups Among Least Likely To Carry Salvage Titles",
+    "summary": "Likely due to their residual values.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-super-duty-pickups-among-least-likely-to-carry-salvage-titles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-004",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Cars Are Getting More Expensive. EVs Are Getting Cheaper",
+    "summary": "Americans are paying more for new vehicles, but the latest pricing data gives EV shoppers a reason to take another look.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808190/evs-are-getting-cheaper-august/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-14-005",
+    "date": "2026-09-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Volkswagen Just Unveiled An EV That Can Do Over 9 Miles/kWh",
+    "summary": "The “near-production” Mission Efficiency EV has the same underpinnings as the ID. Polo, but turns the efficiency dial to 11.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808168/volkswagen-mission-efficiency-concept-range-charging-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-14-006",
+    "date": "2026-09-14",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Tesla Semi Is Heading To Europe With One Big Advantage—And One Major Weakness",
+    "summary": "The American-built electric big rig trades range for payload.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808111/tesla-semi-europe-launch-specs-official/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-007",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here are the best electric bikes you can buy at every price level in September 2026",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/ride1up-vorsa-ft-header-fat-tire-bike.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-par",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/14/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-14-008",
+    "date": "2026-09-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Mission Efficiency: the XL1 comes back as 1,000-mile range electric car",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/DB2026AU00678_large-e1789392509132.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragr",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/14/volkswagen-mission-efficiency-the-xl1-comes-back-as-1000-mile-range-electric-car/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-09-14-009",
+    "date": "2026-09-14",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD unveils flagship 600 km electric truck with 1.5 MW charging",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/ETT-44_3_c3c270-e1789391729730.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\"",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/14/byd-ett-44-electric-truck-megawatt-charging/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-010",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Shell, FAW partner on better, safer electric semi truck batteries",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Shell-Starship-Hybrid-3.0-China-Photo-2.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-p",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/14/shell-faw-partner-on-better-safer-electric-semi-truck-batteries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-14-011",
+    "date": "2026-09-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Just Proved It Can Make an EV With 800-Mile Range Right Now: TDS",
+    "summary": "<p>The VW Mission Efficiency is another example of the company showing it can achieve remarkable feats of engineering, if it ever cared to share them with the public.</p>\n<p>The post <a href=\"https://",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/volkswagen-just-proved-it-can-make-an-ev-with-800-mile-range-right-now-tds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-14-012",
+    "date": "2026-09-14",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Says ‘Go For Launch’ As Roadster Gets Yet Another Reveal Date",
+    "summary": "<div><img width=\"1024\" height=\"531\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-194054-1024x531.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/tesla-says-go-for-launch-as-roadster-gets-yet-another-reveal-date/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-013",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Audi’s RSQ3 Is Dead, But A New Kind Of Speedy Q3 Is Coming",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Audi-SQ3-scoop-lead-Sep14261-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/audis-rsq3-is-dead-but-a-new-kind-of-speedy-q3-is-coming/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-014",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jeep Wrangler JL-2A Looks Back At The World War II Era",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Jeep-Wrangler-JL2A-New-usa-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"m",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/jeep-wrangler-willys-jl2a/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-14-015",
+    "date": "2026-09-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VW’s Hypermiling Supercar Is Back",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Miss-Effic-Sep14261-1-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/__trashed-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-016",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Detroit Wants Chinese Cars Banned But Trump Says Bring On The Factories",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/be8c44af35d8549484036c08081f7e2a-l.jpg-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/trump-chinese-cars-factories/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-017",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "It’s Only A Concept, But The Genesis Magma GT Is Very Real",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/4-Magma-GT-Concept-at-the-Tutto-Bene-Hillclimbaaa-1024x576.jpg\" class=\"attachment-large size-large wp-post",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/genesis-magma-gt-hillclimb/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-14-018",
+    "date": "2026-09-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VW Has Created A New Version Of The Ultra-Efficient XL1",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/VW-Mission-Efficiency-teaser-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/vw-mission-efficiency-teaser/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-019",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "BMW Is Making Driver Assistance Technology Even Easier To Use",
+    "summary": "BMW Maps with Driver Assistance merges 3D route guidance and live assistance visuals on Operating System X.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808178/bmw-maps-3d-view-integrates/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-020",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Massive Chinese SUV Is Quite Literally A Tank",
+    "summary": "GWM Tank 700 LWB adds a 2+2+2 layout, extra length, and serious towing muscle as it chases Yangwang U8L in China’s luxury SUV class.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808172/gwm-tank-700-lwb-six/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-021",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW Lets You Outfit X5 And iX5 With M Parts From Day One",
+    "summary": "New BMW X5 M Performance Parts add aero pieces, big wheel options and smarter cargo solutions for family and fleet buyers.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808147/bmw-x5-ix5-m-performance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-022",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump Opens Door To Chinese Car Plants In The US Before Xi Visit",
+    "summary": "Trump signals he could accept Chinese automakers building US plants with American workers while still blocking Chinese-built vehicle imports.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808120/trump-opens-door-chinese-car/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-09-14-023",
+    "date": "2026-09-14",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Just Built An EV That Can Go Nearly 900 Miles On A Charge",
+    "summary": "Volkswagen just build the world's most aerodynamic road car ever.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-024",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Ferrari 296 GT Modificata Is A No-Rules Track Car With 720 HP",
+    "summary": "Think of it as an uncorked version of the 296 GT3 Evo race car.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808101/ferrari-296-gt-modificata-debut/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-025",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Another Reason To Love EVs: Costco Is Rationing Motor Oil",
+    "summary": "<p>The cost-cutting firm Costco has been forced to raise prices and implement rationing, as US President Donald Trump's war in Iran continues to push up the cost of fuel and motor oil, too.</p>\n<p>The",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/14/costco-rationing-motor-oil-evs-iran-war-trump/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "saint_gobain-2026-09-13-001",
     "date": "2026-09-13",
     "companies": [
@@ -474,6 +943,171 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/09/12/tesla-unsupervised-fsd-full-self-driving-videos/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-13-025",
+    "date": "2026-09-13",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why SpaceX is finishing another space-internet system that isn’t Starlink",
+    "summary": "<p>SpaceX launched three final O3b mPower satellites Sunday, finishing a lesser known SES satellite network.</p>\n<p>The post <a href=\"https://www.teslarati.com/spacex-ses-03b-network-vs-starlink/\">Why",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/spacex-ses-03b-network-vs-starlink/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-026",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/weride-e-shuttle-zuerich.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Züric",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/13/zurich-airport-deploys-l4-autonomous-shuttle-without-a-human-monitor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-13-027",
+    "date": "2026-09-13",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Buy This NASCAR 1957 Ford Fairlane From When Stock Cars Were Actually Stock",
+    "summary": "<p>It's still a race car, but unlike today's Cup cars, this 1957 Ford started out as a true stocker.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/buy-this-nascar-1957-ford-fairlane-from-when",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/buy-this-nascar-1957-ford-fairlane-from-when-stock-cars-were-actually-stock",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-028",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Copart’s $1.9 Billion Bet Is About Controlling the Used-Car Pipeline",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/why-buy-at-copart-1589433233-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/coparts-1-9-billion-bet-is-about-controlling-the-used-car-pipeline/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-029",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ignore The Hate Because The Dodge Charger R/T Is A Truly Impressive Muscle Car | Review",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/sfgdrjyrdthergsergerg-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/ignore-the-hate-because-the-dodge-charger-r-t-is-a-truly-impressive-muscle-car-review/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-030",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Does AMG’s CLE 646 Stack Up Against The Mustang GTD?",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/GTDvCLESep1126888-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bot",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/how-does-amgs-cle-646-stack-up-against-the-mustang-gtd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-031",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Mitsubishi Eclipse Cross You Can’t Have Just Got Way Cheaper",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/2026-Mitsubishi-Eclipse-Cross-EV-1-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" al",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/the-mitsubishi-eclipse-cross-you-cant-have-just-got-way-cheaper/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-032",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARES’ Nevada Demonstrator Shows Why Rail Gravity Storage Is A Train Wreck",
+    "summary": "<p>ARES North America has now operated enough of its GravityLine system at Gamebird Pit in Nevada to make clear its deep limitations to people who didn&#8217;t simply do the grade 7 math and science c",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/13/rail-gravity-storage-a-train-wreck/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-033",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI May Be on Verge of Causing Internet Chaos, Economic Catastrophe — Warning from Top AI CEO",
+    "summary": "<p>I&#8217;m not going to lie — I don&#8217;t typically jump or get riled up by claims that AI is going to take over the world or threaten humanity, beyond the insane energy use and emissions issue, t",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/13/ai-may-be-on-verge-of-causing-internet-chaos-economic-catastrophe-warning-from-top-ai-ceo/",
         "type": "rss"
       }
     ]
@@ -1694,6 +2328,25 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/09/12/dense-fluid-pumped-hydro-duration-scaling/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-064",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VinFast PH Opens More Dealers, Nearing 60 Dealer Total Before Year Ends",
+    "summary": "<p>Vietnam-based electric vehicle manufacturer VinFast has accelerated its market penetration in the Philippines by signing strategic Memoranda of Understanding with 13 major local automotive dealer p",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/12/vinfast-ph-opens-more-dealers-nearing-60-dealer-total-before-year-ends/",
         "type": "rss"
       }
     ]

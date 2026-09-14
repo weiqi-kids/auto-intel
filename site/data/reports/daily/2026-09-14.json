@@ -1,0 +1,219 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:56:05.307974Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-14-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Audi’s RSQ3 Is Dead, But A New Kind Of Speedy Q3 Is Coming",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.carscoops.com/2026/09/audis-rsq3-is-dead-but-a-new-kind-of-speedy-q3-is-coming/"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-09-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2023-2027 Ford F-150 Recalled Over Fuel Tank Detachment Issue",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/2023-2027-ford-f-150-recalled-over-fuel-tank-detachment-issue/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Says Australian Buyers Will Embrace New Lineup From China",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/ford-says-australian-buyers-will-embrace-new-lineup-from-china/"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-09-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Super Duty Pickups Among Least Likely To Carry Salvage Titles",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/09/ford-super-duty-pickups-among-least-likely-to-carry-salvage-titles/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Cars Are Getting More Expensive. EVs Are Getting Cheaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/808190/evs-are-getting-cheaper-august/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "volkswagen",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "byd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 135,
+    "dup_title": 49,
+    "too_old": 0,
+    "gate1_blocked": 29,
+    "gate2_blocked": 22,
+    "passed": 35,
+    "pass_rate": "40.7%",
+    "gate2_block_rate": "25.6%",
+    "gate2_samples": [
+      "New Ford Inventory Levels Shrunk Again In August 2026",
+      "GM May Have Played Role In DoT's Letter To Ford",
+      "Ford Average Transaction Price Up Two Percent In August 2026",
+      "100 Year Old Woman Still Driving Her Ford Mustang: Video",
+      "American Ford Bronco Rejected For Australian Market"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Volkswagen、Ford、特斯拉相關動態：「Audi’s RSQ3 Is Dead, But A New Kind Of Speedy Q3 Is Coming」。主要關注主題為汽車產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Audi’s RSQ3 Is Dead, But A New Kind Of Speedy Q3 Is Coming（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "2023-2027 Ford F-150 Recalled Over Fuel Tank Detachment Issue",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

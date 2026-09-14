@@ -1,0 +1,16 @@
+{
+  "total_raw": 135,
+  "dup_title": 49,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 29,
+  "gate2_fail": 22,
+  "passed": 35,
+  "gate2_samples": [
+    "New Ford Inventory Levels Shrunk Again In August 2026",
+    "GM May Have Played Role In DoT's Letter To Ford",
+    "Ford Average Transaction Price Up Two Percent In August 2026",
+    "100 Year Old Woman Still Driving Her Ford Mustang: Video",
+    "American Ford Bronco Rejected For Australian Market"
+  ]
+}
