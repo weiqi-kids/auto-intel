@@ -1,0 +1,16 @@
+{
+  "total_raw": 697,
+  "dup_title": 279,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 36,
+  "gate2_fail": 54,
+  "passed": 160,
+  "gate2_samples": [
+    "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - Reuters",
+    "Russian Missile Strikes ArcelorMittal Kryvyi Rih in Ukraine for Second Time - energynews.pro",
+    "ArcelorMittal Kryvyi Rih has once again come under rocket fire - GMK Center",
+    "ArcelorMittal Shares Surge 69% YTD: Can It Sustain the Rally? - Yahoo Finance",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+  ]
+}
