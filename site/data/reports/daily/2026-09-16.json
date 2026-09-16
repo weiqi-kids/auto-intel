@@ -1,0 +1,281 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:17:19.726675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-09-16-023",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Toyota Moves to Consolidate Its Two China Joint Ventures; Hyundai Motor Bets 8 Billion Yuan on Rebuilding - finance.biggo.com",
+      "companies": [
+        "toyota",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NNG5SWThucFZyVEJjX1FwYnN2aTRndmlsVnR1XzR1NW44WjQ3R2R3amN4ejF5T3dFbmZxTm8wNnZsYm1IdVpkS3B5akNOVVduVG93eHBGSnlhcHBMR3pGTVU4NzZPX1JyQUhabDhzQ2NhSWJUNGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nippon_steel-2026-09-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel plans $1B investment in Slovakia's Kosice steelworks (NPSCY:OTCMKTS) - Seeking Alpha",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjZPR1NCQTI1Y3hwUGNDZVRaVzRLMlBxbEJSUGxINnFyd3FtMmpoT1pDV1QteXk0akZJMkVlWFFlQ3YzeXJnQmx5d2RhOFFtb3kwOHUwb1EydHY0TFQzSjlYQWotaEhBeS1oNjZXc0NWdzJMaVRWcXlQQi10SWFUUEpzelB5OVhybkMxU1lpS01fMTBJREM2NVdxeEFVLWZDaGJN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-09-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel : Slovak Operating Base U. S. Steel Košice Decides €0.9 Billion Investment for Sustainable Growth and Decarbonization - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTURYdVBWZmdiU3hXUFpyaHNGZzR0Vk0xU3E4OTQ4LUl5TEcwdFRnVjB3RUotQjFobjFqUXl2YXFKQ0JaSnY5WkNPZ3cxUU9XZkh6WWI5QVd4aFlnSHJjLUc4TmNWck1QaWJoMDJjWnRCbFVPUkFXaDV0bGtPbnZ1cTJJZVJmSGRZNi1ScnJ5SGd4cVlMVHRMRUFLTjVrcGJGb0tidmdUdmdtbjAtU3czOExfbkNMVkdidHRMcUZDNVI1bVQ1SnkyQ3lpMzJ2cFdySXFiMDV2X3lESVNXZVRneg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Labor unrest spreads across Korea’s steel, shipbuilding sectors - theinvestor.co.kr",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnWGdabTlhZV9vYUt4MFhiQ2lMeWwzSjN0eGZWamVobXR0Qm5wNG9GNjR2NUVVeU9sRUgyMG11U1RTYnptdnNvcG1tblFKWGJYR1RhZFl0M0RZQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-09-16-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Labor Union Launches 120-Hour Second Strike Amid Internal Rifts and Earnings Slump - finance.biggo.com",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTDN0RC13QkpyLVFVclhnZVFhT3JiYmJ0bUZnSkQ1NVBHZzJVN1hVZV9xQ0NuVzduNGh1YmJBQUhlaGxFNHFmMmpwclBpeEwwc2EtTWtVaGtxSFhoNEUwVjNKeUYzZFo5MGc1eDhJU1VxaWJoeGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "toyota",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 60,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 53,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "posco",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_tariff_trade",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 696,
+    "dup_title": 287,
+    "too_old": 169,
+    "gate1_blocked": 31,
+    "gate2_blocked": 54,
+    "passed": 155,
+    "pass_rate": "37.9%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Nippon Steel to Build New Electric Arc Furnace in Slovakia, Investing Approximately ¥160 Billion to ",
+      "Nippon Steel, Slovakia agree public aid for modernisation of U.S. Steel Kosice - marketscreener.com",
+      "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - Reuters",
+      "POSCO Labor Union Strikes Core Steel Facilities Again - 조선일보",
+      "Building Together: HYUNDAI-POSCO Louisiana Steel Marks a Major Milestone, Welcomes Nearly 700 Reside"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 60 則事件，焦點為大陸集團、Hyundai Motor、斯泰蘭蒂斯相關動態：「Toyota Moves to Consolidate Its Two China Joint Ventures;...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Toyota Moves to Consolidate Its Two China Joint Ventures; Hyundai Motor Bets ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nippon Steel plans $1B investment in Slovakia's Kosice steelworks (NPSCY:OTCM...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

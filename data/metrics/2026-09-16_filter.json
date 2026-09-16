@@ -1,0 +1,16 @@
+{
+  "total_raw": 696,
+  "dup_title": 287,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 31,
+  "gate2_fail": 54,
+  "passed": 155,
+  "gate2_samples": [
+    "Nippon Steel to Build New Electric Arc Furnace in Slovakia, Investing Approximately ¥160 Billion to ",
+    "Nippon Steel, Slovakia agree public aid for modernisation of U.S. Steel Kosice - marketscreener.com",
+    "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - Reuters",
+    "POSCO Labor Union Strikes Core Steel Facilities Again - 조선일보",
+    "Building Together: HYUNDAI-POSCO Louisiana Steel Marks a Major Milestone, Welcomes Nearly 700 Reside"
+  ]
+}
