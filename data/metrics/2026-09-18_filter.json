@@ -1,0 +1,16 @@
+{
+  "total_raw": 141,
+  "dup_title": 34,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 26,
+  "gate2_fail": 22,
+  "passed": 59,
+  "gate2_samples": [
+    "Future Ford EVs Could Get Customizable Charge Status Indicator System",
+    "Ford Partners Geely And Renault Will Team Up In Brazil",
+    "European Ford E-Transit Gets Upgraded Battery Pack",
+    "Ford Transit City Officially Heading To Brazil",
+    "Elon Musk’s Boring Company has big plans for Las Vegas by year’s end"
+  ]
+}

@@ -1,5 +1,264 @@
 [
   {
+    "id": "tesla-2026-09-18-001",
+    "date": "2026-09-18",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "New drone video shows Tesla’s Optimus Factory reaching a turning point",
+    "summary": "<p>New drone footage shows Tesla's dedicated Optimus factory steel frame nearing completion at Giga Texas.</p>\n<p>The post <a href=\"https://www.teslarati.com/new-drone-video-shows-teslas-optimus-facto",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/new-drone-video-shows-teslas-optimus-factory-reaching-a-turning-point/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-002",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV Charging Just Got Easier On One Of The Fastest-Growing Networks In The U.S.",
+    "summary": "After a quick initial setup, Red E Charge customers can ditch the smartphone app and leave the credit card at home.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808729/red-e-charge-plug-and-charge-automatic-billing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-003",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Best Rivian R2 Colors Are Now Up For Grabs In The Configurator",
+    "summary": "Two new exterior shades and a new, lighter interior are now available for the mid-size electric SUV.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808714/rivian-r2-best-colors-configurator-borealis-forest-green/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-004",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DERA LIVES! House votes to fund Diesel Emissions Reduction Act through 2029",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/electric_SEMI_TRUCK.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">This week,",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/18/dera-lives-house-votes-to-fund-diesel-emissions-reduction-act-through-2029/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-005",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Roads Have A Deadliest Hour, And It’s Not When You Think",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Nightshade-Sep17261-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-b",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/american-roads-have-a-deadliest-hour-and-its-not-when-you-think/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-006",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Porsche Tuner’s Singer Rival Was 17 Years In The Making",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Techart-GTclassic-v2-Sep18261-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/the-world-doesnt-need-another-964-restomod-but-techart-built-one-anyway/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-18-007",
+    "date": "2026-09-18",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Settles Potentially Costly Lawsuit Over Autopilot Death",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Tesla-Model-S-Firetruck-Crash-Fatal-2aa-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" al",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/tesla-settles-potentially-costly-lawsuit-over-autopilot-death/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-008",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "McLaren Set To Say Sayonara To Artura In 2028",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/McLaren-Artura-Goodwoodaa-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"ma",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/mclaren-set-to-say-sayonara-to-artura-in-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-009",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Buy A Maybach S-Class Now And You Could Get A C43 With The Savings",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Maybach-S-680-Edition-Emerald-Isle_1-sourceaaa-1024x576.jpg\" class=\"attachment-large size-large wp-post-im",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/buy-a-maybach-s-class-now-and-you-could-get-a-c43-with-the-savings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-010",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maserati’s Next Electric Cars Could Be A Large GT And SUV: Report",
+    "summary": "Maserati pairs Huawei tech and JAC production with Italian final assembly, reshaping its electric GT and SUV strategy and global rollout.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-09-18-011",
+    "date": "2026-09-18",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai CEO: Chinese Cars Could Crush US Market Without Guardrails",
+    "summary": "Jose Munoz argues Chinese brands could erode US margins like Europe unless tariffs and strict market-access rules stay firmly in place.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808738/hyundai-ceo-warns-chinese-vehicle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-012",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Max Verstappen Cruises Monaco Streets In Tuned ABT Audi RS6 Avant",
+    "summary": "Audi RS6 Avant blends near-supercar acceleration with real cargo space and towing muscle, explaining its pull for performance-focused daily drivers.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808726/max-verstappen-abt-audi-rs6/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-18-013",
+    "date": "2026-09-18",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota Confirms Hydrogen Hilux For 2028 With 248 Mile Range",
+    "summary": "Hilux FCEV production starts in 2028 for European fleets, with 248 miles of range, strong towing, and five-minute refueling pitches.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808707/toyota-hilux-hydrogen-pickup-targets/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-014",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Discounts on Kia EV9 Give It Ridiculous Price",
+    "summary": "<p>The Kia EV9 is one of the few three-row electric vehicles on the market. It&#8217;s quite large, and the interior and technology are very nice and high quality despite the vehicle being fairly affo",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/17/discounts-on-kia-ev9-give-it-ridiculous-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-17-001",
     "date": "2026-09-17",
     "companies": [],
@@ -1167,6 +1426,852 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/09/16/reckless-expansion-plans-blow-past-european-airports-carbon-limits/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-062",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ford Bronco Sport Discount, Lease, Finance Deals For September 2026",
+    "summary": "Nationwide lease offered on rugged crossover.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-bronco-sport-discount-lease-finance-deals-incentives-offers-september-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-063",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1986 Lincoln Town Car Limo With 24K Miles Up For Auction",
+    "summary": "A well-preserved prom night shuttle.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/1986-lincoln-town-car-limo-with-24k-miles-up-for-auction/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-064",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's Where Ford Maverick Hybrid Market Share Stands In America",
+    "summary": "It continues to be a popular choice.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/heres-where-ford-maverick-hybrid-market-share-stands-in-america/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-065",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Overall Ford Super Duty Production Rebounded In August 2026",
+    "summary": "Output continues to grow following last year's supplier fires.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/overall-ford-super-duty-production-rebounded-in-august-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-066",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Outlines How It Currently Tests Vehicles At Arizona Proving Ground",
+    "summary": "It's the perfect venue for extreme heat testing.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-outlines-how-it-currently-tests-vehicles-at-arizona-proving-ground/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-067",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ford Transit City Chassis Cab Launches In Europe With Three Variants",
+    "summary": "Custom conversions are available, too.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-transit-city-chassis-cab-launches-in-europe-with-three-variants/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-068",
+    "date": "2026-09-17",
+    "companies": [
+      "ford",
+      "gm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Rival GM Debuts New Infotainment System For 2027 Chevy, GMC Pickups",
+    "summary": "And it'll support Apple CarPlay and Android Auto.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-rival-gm-debuts-new-infotainment-system-for-2027-chevy-gmc-pickups/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-069",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Australia Lineup Revamp Will Also Include Commercial Vehicles",
+    "summary": "In addition to several new retail models.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-australia-lineup-revamp-will-also-include-commercial-vehicles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-070",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Uptime Services Launches In Germany Amid Connected Vehicle Push",
+    "summary": "Helping fleets avoid costly downtime.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/ford-uptime-services-launches-in-germany-amid-connected-vehicle-push/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-071",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 Ford F-150 V8, V6 Lineups Stack Up Well Against New 2027 Chevy V8 Engines",
+    "summary": "Cross shoppers won't find many big differences there.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/09/2027-ford-f-150-v8-v6-lineups-stack-up-well-against-new-2027-chevy-v8-engines/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-17-072",
+    "date": "2026-09-17",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla and SpaceX take “Terafab” Trademark fight to Federal Court",
+    "summary": "<p>Tesla and SpaceX sue a small Illinois firm after cease and desist letters over Terafab.</p>\n<p>The post <a href=\"https://www.teslarati.com/tesla-spacex-lawsuit-terafab-trademark-court/\">Tesla and S",
+    "sources": [
+      {
+        "name": "teslarati",
+        "url": "https://www.teslarati.com/tesla-spacex-lawsuit-terafab-trademark-court/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-073",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Hankook Made Long-Lasting, Long-Range EV Tires",
+    "summary": "The company's iON lineup of EV tires are designed specifically for the unique demands of electric cars. ",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/807719/hankook-demo-days-ion-tire/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-074",
+    "date": "2026-09-17",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "He Replaced The Battery In A Ford F-150 Lightning. Here's How Hard It Was",
+    "summary": "In some ways, it's a lot easier than swapping an engine. In other ways, it's harder. ",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808681/ford-f150-lightning-battery-swap/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-17-075",
+    "date": "2026-09-17",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyota's Hydrogen Pickup Is Coming In 2028 With 248-Mile Range",
+    "summary": "The automaker targets a towing capacity of roughly 5,500 pounds for the Hilux hydrogen fuel cell pickup.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/808641/toyota-hilux-hydrogen-confirmed-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-09-17-076",
+    "date": "2026-09-17",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD upgrades top-selling small electric SUV with more range, now starting at about $11,000",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/BYD-upgraded-Yuan-Up-front.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/17/byd-upgrades-small-suv-more-range-starting-11k/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-077",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volvo teases its new vehicle design, including a surprise inside",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Volvo-new-look-design-1.jpeg?quality=82&#038;strip=all&#038;w=1230\" /></div><p class=\"wp-block-paragraph\"><a hr",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/17/volvo-teases-new-vehicle-design-surprise-inside/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-17-078",
+    "date": "2026-09-17",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla to run public Megachargers at 3 Forum Mobility Semi depots",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Semi-Megacharger-with-Pilot-truck-stops.jpg?quality=82&#038;strip=all&#038;w=1137\" /></div><p class=\"wp-b",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/17/tesla-public-megachargers-forum-mobility-semi-depots/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-079",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Royal Enfield’s Flying Flea electric motorcycle finally goes global, revealing its Western price",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/royal-enfield-flying-flea-c6-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-parag",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/09/17/royal-enfields-flying-flea-electric-motorcycle-finally-goes-global-revealing-its-western-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-080",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "You’d Never Expect Land Rover’s Luxe New Defender To Pull Off Military-Spec This Well",
+    "summary": "<p>Land Rover's \"Wolf Series II\" tactical vehicles include a single-cab Defender pickup and an open-air buggy built on the D7X platform.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/new-mili",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/new-military-spec-land-rover-defende",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-081",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watch a Trucker Pump $1,000 in Diesel Fuel Without Filling the Tank",
+    "summary": "<p>Paying more than $1,000 in a single fuel stop is the new normal for America's truck drivers. </p>\n<p>The post <a href=\"https://www.thedrive.com/news/watch-a-trucker-pump-1000-in-diesel-fuel-without",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/watch-a-trucker-pump-1000-in-diesel-fuel-without-filling-the-tank",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-17-082",
+    "date": "2026-09-17",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "One Car, Many Models: How TuxMat Keeps Up With the Tesla Model X",
+    "summary": "<p>School run, date night, muddy trailhead—these custom-fit mats meet every mission you take your car on, whether that's a Model X or one of hundreds of other models.</p>\n<p>The post <a href=\"https://",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/sponsored/one-car-many-models-how-tuxmat-keeps-up-with-the-tesla-model-x",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-083",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nissan Wants You to ‘Feel That Lineage.’ It’s Betting Heritage Earns Credibility and Sells Cars",
+    "summary": "<p>Nissan North America's boss told The Drive the automaker will lean into \"subtle nods to the heritage\" and be \"true to our origins.\"</p>\n<p>The post <a href=\"https://www.thedrive.com/news/nissan-wan",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/nissan-wants-you-to-feel-that-lineage-its-betting-heritage-earns-credibility-and-sells-cars",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-084",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Range Anxiety? 2027 Chevy Silverado 3.0L Duramax Can Go 900-Plus Miles on a Tank of Diesel",
+    "summary": "<p>A larger 34-gallon tank enables the truck to drive further than your bladder can hold it on a long road trip.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/range-anxiety-2027-chevy-silvera",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/range-anxiety-2027-chevy-silverado-3-0l-duramax-can-go-900-plus-miles-on-a-tank-of-diesel",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-09-17-085",
+    "date": "2026-09-17",
+    "companies": [
+      "ford",
+      "gm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New GM Truck V8s Beat Ford and Ram on Horsepower: Here’s the Full Spec Download",
+    "summary": "<p>GM is stuffing next-gen small-block V8s under the hood of its half-ton Silverado and Sierra. The 5.7-liter is pretty stout, and the 6.6-liter takes it to another level.</p>\n<p>The post <a href=\"htt",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/new-gm-v8s-beat-ford-and-ram-on-horsepower-heres-the-full-spec-download",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-17-086",
+    "date": "2026-09-17",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Toyota Leans on Dealers’ Help to Lobby Against Tariffs: TDS",
+    "summary": "<p>Toyota's brand chief said that dealers “are asking to lobby on our behalf, on their behalf” to discourage lawmakers from embracing tariffs that raise prices.</p>\n<p>The post <a href=\"https://www.th",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/toyota-leans-on-dealers-help-to-lobby-against-tariffs-tds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-087",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The World Has Yet Another Widebody G-Class No One Asked For",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Larte-Design-Mercedes-Benz-G63-Widebody-1aa-1024x576.jpg\" class=\"attachment-large size-large wp-post-image",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/the-world-has-yet-another-widebody-g-class-no-one-asked-for/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-088",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Detroit’s Big Three Push Back Against Trump’s Chinese Car Invitation",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/ryuly89r6uegwfgbrhs-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-b",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/detroits-big-three-push-back-against-trumps-chinese-car-invitation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-089",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Osprey Land Rover Defender Is Hiding An American V8 Punch",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Land-Rover-Defender-Osprey-blue-new-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\"",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/this-osprey-land-rover-defender-is-hiding-an-american-v8-punch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-090",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The First Ram Rumble Bee Was Just Sold For $750,000",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Ram-1500-Rumble-Bee-Auction-Dana-White-6aa-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\"",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/the-first-ram-rumble-bee-was-just-sold-for-750000/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-09-17-091",
+    "date": "2026-09-17",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wild Toyota GR Hilux Will Tackle Dakar Without A Single Drop Of Gasoline",
+    "summary": "<div><img width=\"1024\" height=\"575\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Toyota-DKR-GR-FC-Hilux-4-1024x575.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"mar",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/dkr-gr-fc-hilux/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-092",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s Answer To The Jeep Wrangler Just Got A Live Axle Upgrade",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Tank-300-Hooke-Trail-Edition-1-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" styl",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/tank-300-hooke-trail/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-093",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lucid Wants To Put 25,000 Robotaxis On European Roads",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Lucid-cab-Sep172601-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-b",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/lucid-wants-to-put-25000-robotaxis-on-european-roads/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-094",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsuoka’s Tribute To The Original Corvette Involves Putting A Miata Under The Knife",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Mitsuoka-LA1-Mazda-MX-5-2s-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"m",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/mitsuoka-la1/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-095",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW’s Hydrogen X5 Is Now Closer Than Ever",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/BMW-iX5-hydrogen-nn-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-b",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/bmws-hydrogen-x5-is-now-closer-than-ever/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-096",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California Finally Eases Smog Rules For Classics After Jay Leno’s Long Campaign",
+    "summary": "<div><img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/09/Leno.2-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\"",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2026/09/california-finally-eases-smog-rules-for-classics-after-jay-lenos-long-campaign/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-097",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alfa Romeo's New Concept Car Will Give Us A Glimpse Of Future Models In Paris",
+    "summary": "Alfa Romeo says the concept is the car 'every Alfista has been waiting for.'",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808679/new-alfa-romeo-concept-car-teased/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-098",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California Finally Eases Smog Rules For Classic Cars Thanks To 'Leno's Law'",
+    "summary": "The new law will gradually exempt qualifying 1976–1985 collector cars from California’s regular smog-check requirements beginning in 2028.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808673/california-signs-lenos-law/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gm-2026-09-17-099",
+    "date": "2026-09-17",
+    "companies": [
+      "gm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chevy's New V8 Engines Ditch The Dipstick And Go Digital",
+    "summary": "GM’s new user interface has a digital oil level gauge instead of a traditional dipstick.  \n",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808667/chevrolet-silverado-v8-engines-oil-dipstick/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gm-2026-09-17-100",
+    "date": "2026-09-17",
+    "companies": [
+      "gm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GM Gives Us All The Details On Its New V8s: More Power, Better Towing",
+    "summary": "The new 5.7-liter and 6.6-liter V8s make more power than the engines they replace, but the smaller V8 has one advantage.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808674/gm-new-v8-engine-details-specs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-101",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volvo Promises New 'Low' Cars For The US, Which Should Mean Sedans And Wagons",
+    "summary": "Volvo's 13-car product offensive will include seven new models for Western markets, with the automaker hinting at new sedans, wagons, and larger vehicles for the US.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808665/volvo-planning-new-low-cars-us-sedans-wagons/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-102",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mercedes-AMG Electric GT SUV Reveal Date Reportedly Set For October",
+    "summary": "Mercedes-AMG’s ground-up electric GT SUV is reportedly slated to premiere in Stuttgart, anchoring the AMG.EA platform and the brand’s future performance strategy.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/808653/mercedes-amg-sets-date-first/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-09-17-103",
+    "date": "2026-09-17",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "No Wonder The Tesla Cybercab Launch Was So Underwhelming",
+    "summary": "<p>The Tesla Cybercab rollout in Austin, Texas has been colored by many questions, including a list of 21 specific demands for information from the National Highway Traffic Safety Administration.</p>\n",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/17/tesla-cybercab-robotaxi-questions-nhtsa-demands/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-104",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farm Electrification Should Start With The Work, Not The Tractor",
+    "summary": "<p>Ask whether agriculture can electrify and the conversation usually arrives at the same machine within minutes: the tractor. More specifically, the large diesel tractor working hard through planting",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/17/farm-electrification-starts-with-the-work/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-09-17-105",
+    "date": "2026-09-17",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis BOW Takes Autonomous Delivery to The Next Level",
+    "summary": "<p>HANOVER, Germany — Among the many electric vehicles at IAA Transportation 2026, the Stellantis BOW is hard to miss. It is small, green and looks nothing like a conventional delivery van. There is n",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/17/stellantis-bow-takes-autonomous-delivery-to-the-next-level/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-106",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "auto_sales"
+    ],
+    "impact": "positive",
+    "title": "Lynk & Co 08 EM-P Reaches 200,000 Global Deliveries",
+    "summary": "<p>Since its official launch in September 2023, the Lynk &#38; Co 08 EM-P has built a strong reputation through its performance, capabilities and customer acclaim. Expanding from the Chinese market to",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/17/lynk-co-08-em-p-reaches-200000-global-deliveries/",
         "type": "rss"
       }
     ]

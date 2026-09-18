@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:53:14.326177Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tesla-2026-09-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New drone video shows Tesla’s Optimus Factory reaching a turning point",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.teslarati.com/new-drone-video-shows-teslas-optimus-factory-reaching-a-turning-point/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EV Charging Just Got Easier On One Of The Fastest-Growing Networks In The U.S.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/808729/red-e-charge-plug-and-charge-automatic-billing/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Best Rivian R2 Colors Are Now Up For Grabs In The Configurator",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://insideevs.com/news/808714/rivian-r2-best-colors-configurator-borealis-forest-green/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DERA LIVES! House votes to fund Diesel Emissions Reduction Act through 2029",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://electrek.co/2026/09/18/dera-lives-house-votes-to-fund-diesel-emissions-reduction-act-through-2029/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Roads Have A Deadliest Hour, And It’s Not When You Think",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.carscoops.com/2026/09/american-roads-have-a-deadliest-hour-and-its-not-when-you-think/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      },
+      {
+        "id": "toyota",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 141,
+    "dup_title": 34,
+    "too_old": 0,
+    "gate1_blocked": 26,
+    "gate2_blocked": 22,
+    "passed": 59,
+    "pass_rate": "55.1%",
+    "gate2_block_rate": "20.6%",
+    "gate2_samples": [
+      "Future Ford EVs Could Get Customizable Charge Status Indicator System",
+      "Ford Partners Geely And Renault Will Team Up In Brazil",
+      "European Ford E-Transit Gets Upgraded Battery Pack",
+      "Ford Transit City Officially Heading To Brazil",
+      "Elon Musk’s Boring Company has big plans for Las Vegas by year’s end"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為特斯拉、Hyundai Motor、Toyota相關動態：「New drone video shows Tesla’s Optimus Factory reaching a ...」。主要關注主題為汽車產業通用、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "New drone video shows Tesla’s Optimus Factory reaching a turning point",
+        "level": "green"
+      },
+      {
+        "text": "EV Charging Just Got Easier On One Of The Fastest-Growing Networks In The U.S.（汽車產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
