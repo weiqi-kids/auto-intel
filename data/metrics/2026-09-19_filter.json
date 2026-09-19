@@ -1,0 +1,16 @@
+{
+  "total_raw": 695,
+  "dup_title": 310,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 29,
+  "gate2_fail": 65,
+  "passed": 133,
+  "gate2_samples": [
+    "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - Reuters",
+    "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+    "Santos plans long-term LNG supply to POSCO under 10-year agreement - SteelOrbis",
+    "POSCO Group accelerates resource strategy as global competition shifts - The Korea Times",
+    "POSCO Union Strike Linked to Chairman Election Rivalry - chosun.com"
+  ]
+}
