@@ -25,14 +25,14 @@
   },
   "cheng_shin": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "kenda": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "fuyao": {
@@ -91,14 +91,14 @@
   },
   "hota": {
     "earliest": "2000-03-30",
-    "latest": "2026-09-18",
-    "count": 6581,
+    "latest": "2026-09-20",
+    "count": 6582,
     "history_complete": true
   },
   "tyc": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "toyota": {
@@ -157,8 +157,8 @@
   },
   "yulon": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6643,
+    "latest": "2026-09-20",
+    "count": 6644,
     "history_complete": true
   },
   "hotai": {

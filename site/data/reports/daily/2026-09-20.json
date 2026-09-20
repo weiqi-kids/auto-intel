@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:58:01.113703Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "400 HP, Twin-Turbo V6, Zero Buyers: Why Lincoln Axed Its Best Luxury Sedan - CarBuzz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYndkeUQ0dUdpTDBVUVR1ZTNZbnZpTnNMM0F1WXFnZHRQR1c3bnBRUlAtTURTcHpOeWpydHpxWldVeFd0MXJ2UW5mYnU2cUQ1S0NGSXhjaEVQUU9FYTJ4NGRVNExaYlNtNFQtNzZwTEI2b0lJNmpsMVBObTY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-20-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Recalls Ioniq 9 After Two Alleged Power-Seat Injuries - Fort Worth Star-Telegram",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUENaYzZpYUdLZVU3R1V2WHYtRXhPbmlMQmFtX185Z2ZjdTQ3eGlUR2NJWldCdjdPYzhydi1oMWMwSXhBNEsxVUhET1FTWllKM0xKbTFJaDFuTzlGNWMwSkQwSUxudWJPbVMwZUppZnJNMUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-20-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Sounds Alarm Over Chinese Cars In The US - Carscoops",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzdiUXZ1NFkzME1vc0oxc0JfeWloNDVUZm5XeGhkSndybkFndHlOMTRkTE1XQ3ZlaW5LeU5PMnhtajN1N1hUdDVQQVpxZkhiVWZMRm04OXUzS2NpQWY2aVZqeXpEVWt4dWZhblZZRjIwMDZVc2V6VTdKcFk0Zmgwa3JuS0ZwVzg4ekp3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-09-20-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor Unveils First Full Redesign in Six Years: 'The All-New Tucson' with Sudden Acceleration Prevention and AI - finance.biggo.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15Q1plcVh6T191OGlBZ1lEamV1QnZYSTAzZkN1WDJlSVRFSEZvTGk5U19kTVpEZDZxOXNlSkYyRVZGblJJOHVhVUZUQ2xVY1p4ajljVXpvRXJhRnJOSHJkQlFrTlVGWTJ6c3U2R1pwNEtBdDBnRGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-20-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hyundai Tucson Enlarges, Debuts First Safety Technology - 조선일보",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTNVOWRlNlRDOGVzVWtRT2FuTWItdExUS3MtdGFQOWFETXhXMVBSY0xHRDQwMG5LMXRlR09VT1VHZkI2d3ZHbzVKYzk3MUdSS3oycDh3RUJRWTRlbU9QdkRJcU5wczQ3UlNjN0ZfQ1hiUjdNUFI5NHJYOERfMllvQVZfbDdvU2FV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 7
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      },
+      {
+        "id": "bridgestone",
+        "count": 1
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 678,
+    "dup_title": 325,
+    "too_old": 171,
+    "gate1_blocked": 33,
+    "gate2_blocked": 61,
+    "passed": 88,
+    "pass_rate": "24.9%",
+    "gate2_block_rate": "17.3%",
+    "gate2_samples": [
+      "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - reuters.com",
+      "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+      "POSCO Labor Union Expands Strike to Symbolic Steel Site - 조선일보",
+      "POSCO Group accelerates resource strategy as global competition shifts - The Korea Times",
+      "POSCO Labor Union Strikes Core Steel Facilities Again - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Ford、Hyundai Motor、斯泰蘭蒂斯相關動態：「400 HP, Twin-Turbo V6, Zero Buyers: Why Lincoln Axed Its ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "400 HP, Twin-Turbo V6, Zero Buyers: Why Lincoln Axed Its Best Luxury Sedan - ...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hyundai Recalls Ioniq 9 After Two Alleged Power-Seat Injuries - Fort Worth St...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

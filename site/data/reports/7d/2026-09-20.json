@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-20",
+  "date_range": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "generated_at": "2026-09-20T12:58:01.245777Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-09-15-170",
+      "date": "2026-09-15",
+      "title": "Hyundai Mobis Target Price Cut to KRW470,000 From KRW560,000 by Nomura >012330.SE - Bitget",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "gm",
+      "company_b": "stellantis",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ford",
+      "company_b": "tesla",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 196,
+      "last_week": 281,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 93,
+      "last_week": 172,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ev_penetration": {
+      "this_week": 15,
+      "last_week": 40,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.03
+    },
+    "auto_tariff_trade": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ford": {
+      "event_count": 39,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "volkswagen": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tesla": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 12
+    },
+    "posco": {
+      "event_count": 11,
+      "sentiment_avg": -0.04,
+      "rank": 6
+    },
+    "arcelormittal": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "saint_gobain": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "continental": {
+      "event_count": 14,
+      "sentiment_avg": -0.07,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 35,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "stellantis": {
+      "event_count": 23,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "toyota": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "magna": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "gm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "fuyao": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 15
+    },
+    "hyundai_mobis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "bridgestone": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 741,
+        "last": 857,
+        "change_pct": -13.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-14",
+      "event_count": 115,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 170,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 145,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 140,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 103,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 45,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 23,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-14 ~ 2026-09-20）共 741 則事件，重點為「Hyundai Mobis Target Price Cut to KRW470,000 Fr...」。Fuyao Glass情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Fuyao Glass",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Ford",
+        "reason": "本週出現 39 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Volkswagen",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
