@@ -1,0 +1,297 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:58:28.552113Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-21-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Takes Hands-On Safety Education to 7,000 Children Nationwide - mk.co.kr",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rZGtQUk4zZktSVGhXY0plWXc4Z1M3cXVRS2ZzVkc0S2tXWXhlUC1YVTBUemtOOURaZlFCc3RXbUdpbHNVblFsbDVtQ2RKUFhXMENz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-21-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Holds Child Safety Experience Event in Gwangju - Seoul Economic Daily",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGVLX1lpelc2Q1NVanFHMDgxLVZlQXlGOHdYSklKWnJFTlJ3VkdXS3o0NVFTV1Y1NE5KZGdhS2FwcTVkdEpFeHl4OFB0WnJHSkdYNDhFV2ZTckl2ZkkyNTFacU1MY3R1c1FFQzNRWUdJU3BKT0NWLUV1bFlfVFlkNkpVeEZCTjhvWnd3NF9KelI3Q0xwRmVyV0lyVk42RVgxUTMwcA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-09-21-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai-POSCO $5.8B Louisiana Steel Plant Groundbreaking - Fuel Cells Works",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTnM3ejkzS292TVcyWFN3QjFXekh5bllucHVWbVViYkRjTTFsYnBGQW9yT1J1MDJPSk55MGRORUhtei0zOGg2YTBJZnpHQWtoME9Bd0RQWExvNlI3b3gzM1ZTalBNLXcycC1mNXlEY2xRN3dXVmxwSElHbF9FbGhqWHlxYVlYTThjdWl1RElxWVhzeER2ejZ1eVM0M0s0RFFlM3RNbm9zMHJUUGF1bGxMVkxOV2s4ci1OOVpOSkZTYWlnMk1aSVkzWVFFX1BFRXpyWmNKWlJMRVZSd0FRT2R2ZU1n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-09-21-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal Brazil Long Products recognised as Brazil's leading metallurgical company for occupational health and safety - ArcelorMittal",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOc0FSY291RzF0S1pNM29nQW82SGtZSkZpX190WFR4Q1VLQjl3cmJFNE1Hb2VYdmw3WFFCMHhJWWE1RF9RNWVpSDBmUXFnaUxQbGtMNmcyeVo1OVlzbW5oMjZteUQ0VXNLbU5fVGppQ1Z4TUVPdmZLd2hZRDU2cEdtV21xNjlvTUphekVyTFpuX1RYWS1SQ0NDNTNFcEhIWE82T1JvOVpRZkNCdFZYQVlqaW84eDYyLXJ1dXdLMjJPMjN4N2VwRTJGaVFDUW02UERoTW9hVGRwUjdDQVgyMG9EalA4akM3a0o1NlFncE9qNkNOdmx1TW5zd19BZ25ySk1XQW9NeUJ5X1R1dlRwMzYyNk05MlBDSnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-09-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Commission approves up to $1.3 billion in bonds for Hyundai Steel mill - Gonzales Weekly Citizen",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcGtWS2E4S3BJTjZYSWRPQkpySGhXMk1WaTRWVnZJTnZLaHJoQU1ZOUszMTF4YUZSbVN0YVpqTm9ORXF1QU9hbXpLQXEtRVRxaGFIVGd5aWRWcXlpQ19fcmZqcm1hbFl2d3F0Y2Fxa1BJU0p1dFlpZWlCVk5IWnBrbzRYR0p0QWd2TlBXa09UUmp2S0I3Ml9MeTBVRG9ZUWdoaHRMemJpcVVlRFYzVUJvNGp1UjJkRHNxQWI4T0xfcjhYc2VUeU50X0pNaU5BajJaMG9HUA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 60,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 55,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 678,
+    "dup_title": 314,
+    "too_old": 165,
+    "gate1_blocked": 37,
+    "gate2_blocked": 57,
+    "passed": 105,
+    "pass_rate": "28.8%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - Reuters",
+      "POSCO Labor Union Expands Strike to Symbolic Steel Site - 조선일보",
+      "POSCO Group accelerates resource strategy as global competition shifts - koreatimes.co.kr",
+      "POSCO Union Strike Linked to Chairman Election Rivalry - 조선일보",
+      "POSCO Labor Union Strikes Core Steel Facilities Again - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 60 則事件，焦點為Hyundai Motor、大陸集團、Volkswagen相關動態：「Hyundai Mobis Takes Hands-On Safety Education to 7,000 Ch...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Takes Hands-On Safety Education to 7,000 Children Nationwide - ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Holds Child Safety Experience Event in Gwangju - Seoul Economic...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
