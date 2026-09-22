@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:14:43.210236Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-22-016",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Ulsan Hyundai Mobis Unveils 40th-Anniversary Commemorative Emblem - 조선일보",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmdFWHFXWEQ2MlJhVXZVeVI0aDhMLWhBNm1KMjhJLVZsR19kVWwxTGd0dGkxOHZJLVBUMUFVcmNOWllhRUpodWxSYzlhd2N3RXQwd1A1RzdQS3QzcVh0amFNT0R1MkNqMjBMWEFoLUoxbmRHYWlMVG9YUVlDeWtWWG5wVURuUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-22-044",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "80% of Auto Dealers Sell Vehicles at a Loss: Outdated Operating Models Pushing 4S Dealerships to Demise - eu.36kr.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRzlmSHllbHRQRnFMV3piWkdQTVZpQ3ItRTY1RzgwN1Y2S3dYS2I2OExTRl9LVDUzUlZQZ0R6OGJwWVVOSmJfSEN6NVhSdTQ5NnQw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "USW: contract talks with U.S. Steel “extremely disappointing” - mesabitribune.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU0pXcW01ejR2V1BZb2s5ajJIR0Q1UkVsbHA1alo2cTEwWWNFMmZUVnMyOXRfNUdSYVdTVjFTdlFNNllPSlNXZGtfeXFVbThDaWd4aGx4UTNubi1MMFlUMmd6WS11c1dMc1RqSzM3eUVPOExLekhjVi13RDlDR1UyZmpuWTdyb3pyamd2SWNjTWRlUDRmakRETmlfT3N0dENVa0JMN09PSVBUbjIwVkY1VWlVc2xtZzQyVW9nM19GZDVRUHVrM3UtczV2N3JoMlJTVGgtZHFWNEJFNHB1MGhkQ0pB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "$475M Fairfield Tubular Q&T Line: U.S. Steel Breaks Ground in Alabama - Construction Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNEY5TGVxU21jalRxVGtoNzV4dU9TYXVLVkpuRHRMb3JjS2FVNUtPSHNPVFFPMmk4eTFVZmRNZ240SmtrN2ljU2JKb3Y3cFZJSkF0MjNpSmxzM3A5UkJXMlczY0twWUxuQjJ1Q2VlbDlfVlNVXzhkcjB1d2FIQzV1MWtjS2lfbHMyRm43WG91LUxOQTUxLUJSczhXbGtrSE8zUmpkc3pB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-09-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO to Boost Automotive Steel With New Galvanizing Plant - Yahoo Finance",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0pRN2g4Ymg0Q2dQZF93RFl5Z2xWM2ZrbExYUzFjOUtNMWg1Rzl0NDdZU2hqNW1KTDNZeTZTLWZoUnU2VFJ4eDh5Y2RiZHYwVC03WW9vSTVQRXhWUl8tdENveEttVGJrMEhXeUxFQUczbzAtTldHOXpXTEszSHBHblFjVVRPaldTTlZPeTctX3Qzemc0dE56NWowaUZoVld2elg4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 60,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 75,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 69,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "tesla",
+        "count": 7
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "posco",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 60
+      },
+      {
+        "id": "earnings",
+        "count": 24
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 698,
+    "dup_title": 301,
+    "too_old": 152,
+    "gate1_blocked": 35,
+    "gate2_blocked": 63,
+    "passed": 147,
+    "pass_rate": "37.0%",
+    "gate2_block_rate": "15.9%",
+    "gate2_samples": [
+      "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - Reuters",
+      "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+      "POSCO Union Strike Linked to Chairman Election Rivalry - 조선일보",
+      "How ArcelorMittal Is Reinventing the Steel Sector - GMK Center",
+      "ArcelorMittal (ENXTAM:MT) Faces Ukraine Disruption As Its Valuation Case Looks Narrower - Yahoo Fina"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 75 則事件，焦點為Hyundai Motor、特斯拉、Ford相關動態：「Ulsan Hyundai Mobis Unveils 40th-Anniversary Commemorativ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Ulsan Hyundai Mobis Unveils 40th-Anniversary Commemorative Emblem - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "80% of Auto Dealers Sell Vehicles at a Loss: Outdated Operating Models Pushin...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

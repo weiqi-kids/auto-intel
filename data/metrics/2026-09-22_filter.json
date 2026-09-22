@@ -1,0 +1,16 @@
+{
+  "total_raw": 698,
+  "dup_title": 301,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 35,
+  "gate2_fail": 63,
+  "passed": 147,
+  "gate2_samples": [
+    "Australia's Santos signs two separate LNG agreements with POSCO Steel and Western LNG - Reuters",
+    "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+    "POSCO Union Strike Linked to Chairman Election Rivalry - 조선일보",
+    "How ArcelorMittal Is Reinventing the Steel Sector - GMK Center",
+    "ArcelorMittal (ENXTAM:MT) Faces Ukraine Disruption As Its Valuation Case Looks Narrower - Yahoo Fina"
+  ]
+}
