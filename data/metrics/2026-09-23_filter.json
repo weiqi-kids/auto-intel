@@ -1,0 +1,16 @@
+{
+  "total_raw": 700,
+  "dup_title": 299,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 29,
+  "gate2_fail": 57,
+  "passed": 160,
+  "gate2_samples": [
+    "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+    "POSCO Labor Union Expands Strike to Symbolic Steel Site - 조선일보",
+    "ArcelorMittal (ENXTAM:MT) Hit By Ukraine Missile Strike, Is It Still Below Fair Value? - simplywall.",
+    "How ArcelorMittal Is Reinventing the Steel Sector - GMK Center",
+    "ArcelorMittal SA (MT) Shares Fall 3.5% -- GF Value Says Still Ov - GuruFocus"
+  ]
+}

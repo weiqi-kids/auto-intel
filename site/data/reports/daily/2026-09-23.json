@@ -1,0 +1,269 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:29:22.215612Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "byd-2026-09-23-066",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BYD Launches Major 44-Metric Ton Electric Truck in IAA Transport",
+      "companies": [
+        "byd",
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/09/23/byd-launches-major-44-metric-ton-electric-truck-in-iaa-transport/"
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-09-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings stock falls 3.13 percent as steel outlook weighs - AD HOC NEWS",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0poM0hfUURTZUtycF9hUUdrd1VmNWVReExPVU5iV3N5c0MyVnVWenlDSmdUNDNQU29BaEVyb2pGako3TmI5VTBGWWtZdXJGekZLV1g4M3U5TWs4WjdfQXozeDZ2N3ZSTkZyY1o5WkNoQkEzY01fd1JXRzd5Z29VLW4xS2JkVlJoVW95V1NhVzRLeFhaU3lldk54ZzU5cVEzY2RMVW9MdzQ3UDNFX0lMNWQxQTlxdWQ3RjBOUzRySQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-09-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Details Mid‑September Share Buyback for Cancellation - The Globe and Mail",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEdwVG9yellxSWZadkNrZUFLQWg4M3dDc3FuQkR2WV9Wc3JhdnRCUTVmYTRqcE9pWVdvNTNsUnhkeGlid18yLVQtYVZOWnRNTHVMa2l5VWg1eW9TbXVoRnRwYWN0S2w4S1ZqU2VEaFlUeDhrNVRWcGtsYk1oaWJHUjBSNWhJV1dMTGZWdUJBTy13YUNfYzZYNkQxUDMxeHlpendvRVIwSzd1eDlCZ1d5MzctVm1aQ3RWNVNlLS11d0d5U1RQZXhrZ3J5dEFwcWwtRUt0dmNiS1kzYkRmYlhB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-09-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal stock gains 2.26 percent as buybacks continue - AD HOC NEWS",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE9mNVZGckRKcllOcGRnRnhmNkk0WWhPcnZQYjQzZW9ReVRLQzVwM3VXLWM1V2xkWDRteUFBLTdPeUxWYmV5UDc2NlE2Q1ZyZWFKc0RLWWI4WWtlMy1HVjF4ZFotUXRCaDdkSHpfUnQtX01BNkNZLXpqazE4S1dGSkdhVjlhQkZ4a01ZbzI4bm0yRGpCVG5FekQ1d0JNWkVMR2dJdmhSVW5HYjZCd0JHNllUc0o3T1Y5bkRkcHp0TQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nashville Predators preseason action against Lightning - The Tennessean",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOHdGTzFiT0syaDdsNk1PLWZCYWxJNXk0aVNBT0NHZ00wUTJqdEpDT1ZUcTdHLVM3Uy1kb3B1RTQ1aWJKbS1WZnI2TjN3dmZyZHJmRHJnV2djWG9DZWE1SG8zOEtiZ0tMal90ZUw2dkhfS2Z5MnNJZExrb1pEaUlnREJyQXA2bzIxa3NYMTlHT0F0MnJJYlcwVlE5TnZPZ1E1SkxmN2ZFbzBabFFxZml5aGJRalpvMC1iY0hVejlWa3Q1bmVFS0x3Zmk5UndOWGlrekNNSXRic1ZfUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 71,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 64,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 9
+      },
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 47
+      },
+      {
+        "id": "earnings",
+        "count": 27
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 700,
+    "dup_title": 299,
+    "too_old": 155,
+    "gate1_blocked": 29,
+    "gate2_blocked": 57,
+    "passed": 160,
+    "pass_rate": "39.9%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+      "POSCO Labor Union Expands Strike to Symbolic Steel Site - 조선일보",
+      "ArcelorMittal (ENXTAM:MT) Hit By Ukraine Missile Strike, Is It Still Below Fair Value? - simplywall.",
+      "How ArcelorMittal Is Reinventing the Steel Sector - GMK Center",
+      "ArcelorMittal SA (MT) Shares Fall 3.5% -- GF Value Says Still Ov - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 71 則事件，焦點為Hyundai Motor、Ford、大陸集團相關動態：「BYD Launches Major 44-Metric Ton Electric Truck in IAA Tr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BYD Launches Major 44-Metric Ton Electric Truck in IAA Transport（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "POSCO Holdings stock falls 3.13 percent as steel outlook weighs - AD HOC NEWS（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
