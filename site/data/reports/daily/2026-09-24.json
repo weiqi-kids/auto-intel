@@ -1,0 +1,283 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:25:31.646516Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-24-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis wire harness automated assembly pilot - Automotive Manufacturing Solutions",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWlBMmhpdzd3SVJHWldYZXZrS1EtRVZUN2JyQ0MzY2hsYkhwR0YwV0ljelJ0akxObEU0cHoyNnAweWFjNTJra0dJbHJsbGJnVWhuUjQ5UFhhS242OF91a3VQT2xCd09VVE95dkZlZjFxS3RSNVEtWlRRMGl5bjFiVlE1d1ZEZGtzWnFGSURuWjlvQkVHanZXUzNDM09jelVIR0Q2N19SUG5PZWFEcGtWMHpKNjRkd3hjQi13?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-09-24-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "New Patent Shows You May Be Able to Put a TV in the Hood of Ford's $30,000 Tesla Cybertruck Rival - Benzinga",
+      "companies": [
+        "ford",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNODl0bDB0R0FDZWcybDVTRVRHTldoSjRCZU5fUDNtRjB0UFZzWDFWQjlQUk5YaFExU09wUWVsWV96TEVmWTZwV016MzBOZHNSZ3l0QTZORWgxZVdGZDZUV2dGU1ZuNmFmbWtrQ20tdndvbVVYeUZrc1haTnRaMWdlamUxc2JpbmQ5bkRQZkdsWGE0a0tZanRUOU0zS1hkaUpBcENpRGE4bmR2VlZZT1UyclZFTHZLVU9qWVh4OG5iSDgxUTc4cHBESUUtZmhTX3JrdW56WkpjbkJsZmRHajNfbA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-09-24-051",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "EV Sales Plunge 31% In July, Hybrids Soar 86%",
+      "companies": [
+        "ford",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.motor1.com/news/809401/us-ev-registrations-fall-31/"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-09-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Holdings stock falls 4.71 percent despite Q2 gains - AD HOC NEWS",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHBwR1NBRHVfTERLbThjanZycVhfOXZsRDJ2NmZsWHRPbjM1U3FzMHQxX1Y2Y1hILTk1Y3JCX01HSE1kcnA0YlZIQVppS3dLOGphSllQMmtqNWJpbGhkUDhtWXZzMzZBOUtVb19TeVlHX3VhbkUwZmFZYV9jdURrNlAtVkF6b3VfaVFDaFNROTl1dllzWnBTVm5pZEl4dG9BQ21Gb0pKOGgwVUI3b2VTX1A5YmlPUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bridgestone-2026-09-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone Named Official Tire Partner of Sports Car Club of America - Morningstar",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcmxVc0J5eDBvSlAzSWRNM3p1bC1tR3o4MkNOWU1ORkp6a25GS0t3aWtvNjBJa2tacUtxZ0ZGbXhCQjRBZmRkRE11YnlfZjNFR0NuNldkVmVNcE81Q2JFaW9OWkNzeTRXdG5yU2VMMEVfT1haTGwwMUhlcFNLNVVMbjIzVW5GREpWSUtwc29Pa05wTVpmQ3RBclZ0OEF2TGRwTExFOWFtanVpTjkxNTQxMy1MYml3OGhGQlJsMkNPdG1lRVRKbno0MWVn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 47,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "continental",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "honda",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "earnings",
+        "count": 24
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 704,
+    "dup_title": 324,
+    "too_old": 164,
+    "gate1_blocked": 37,
+    "gate2_blocked": 54,
+    "passed": 125,
+    "pass_rate": "32.9%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Editorial: Hyundai steel mill will pay off. La. leaders need to explain how - NOLA.com",
+      "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+      "POSCO Labor Union Expands Strike to Symbolic Steel Site - 조선일보",
+      "A new force in the Ukrainian steel industry: how the war is changing the role of women at ArcelorMit",
+      "ArcelorMittal (ENXTAM:MT) Hit By Ukraine Missile Strike, Is It Still Below Fair Value? - simplywall."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為斯泰蘭蒂斯、大陸集團、Ford相關動態：「Hyundai Mobis wire harness automated assembly pilot - Aut...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis wire harness automated assembly pilot - Automotive Manufacturin...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "New Patent Shows You May Be Able to Put a TV in the Hood of Ford's $30,000 Te...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 324,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 37,
+  "gate2_fail": 54,
+  "passed": 125,
+  "gate2_samples": [
+    "Editorial: Hyundai steel mill will pay off. La. leaders need to explain how - NOLA.com",
+    "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy - thelec.net",
+    "POSCO Labor Union Expands Strike to Symbolic Steel Site - 조선일보",
+    "A new force in the Ukrainian steel industry: how the war is changing the role of women at ArcelorMit",
+    "ArcelorMittal (ENXTAM:MT) Hit By Ukraine Missile Strike, Is It Still Below Fair Value? - simplywall."
+  ]
+}

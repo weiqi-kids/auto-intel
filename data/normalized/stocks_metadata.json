@@ -1,8 +1,8 @@
 {
   "nippon_steel": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6666,
+    "latest": "2026-09-24",
+    "count": 6667,
     "history_complete": true
   },
   "posco": {
@@ -13,68 +13,68 @@
   },
   "arcelormittal": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-22",
-    "count": 6720,
+    "latest": "2026-09-23",
+    "count": 6721,
     "history_complete": true
   },
   "bridgestone": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6666,
+    "latest": "2026-09-24",
+    "count": 6667,
     "history_complete": true
   },
   "cheng_shin": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-23",
-    "count": 6647,
+    "latest": "2026-09-24",
+    "count": 6648,
     "history_complete": true
   },
   "kenda": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-23",
-    "count": 6647,
+    "latest": "2026-09-24",
+    "count": 6648,
     "history_complete": true
   },
   "fuyao": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-23",
-    "count": 6602,
+    "latest": "2026-09-24",
+    "count": 6603,
     "history_complete": true
   },
   "saint_gobain": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-23",
-    "count": 6867,
+    "latest": "2026-09-24",
+    "count": 6868,
     "history_complete": true
   },
   "3m": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-22",
-    "count": 6720,
+    "latest": "2026-09-23",
+    "count": 6721,
     "history_complete": true
   },
   "denso": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6666,
+    "latest": "2026-09-24",
+    "count": 6667,
     "history_complete": true
   },
   "continental": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-23",
-    "count": 6830,
+    "latest": "2026-09-24",
+    "count": 6831,
     "history_complete": true
   },
   "aptiv": {
     "earliest": "2011-11-17",
-    "latest": "2026-09-22",
-    "count": 3731,
+    "latest": "2026-09-23",
+    "count": 3732,
     "history_complete": true
   },
   "magna": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-22",
-    "count": 6720,
+    "latest": "2026-09-23",
+    "count": 6721,
     "history_complete": true
   },
   "hyundai_mobis": {
@@ -85,44 +85,44 @@
   },
   "valeo": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-23",
-    "count": 6867,
+    "latest": "2026-09-24",
+    "count": 6868,
     "history_complete": true
   },
   "hota": {
     "earliest": "2000-03-30",
-    "latest": "2026-09-23",
-    "count": 6585,
+    "latest": "2026-09-24",
+    "count": 6586,
     "history_complete": true
   },
   "tyc": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-23",
-    "count": 6647,
+    "latest": "2026-09-24",
+    "count": 6648,
     "history_complete": true
   },
   "toyota": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-18",
-    "count": 6667,
+    "latest": "2026-09-24",
+    "count": 6668,
     "history_complete": true
   },
   "volkswagen": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-23",
-    "count": 6830,
+    "latest": "2026-09-24",
+    "count": 6831,
     "history_complete": true
   },
   "gm": {
     "earliest": "2010-11-18",
-    "latest": "2026-09-22",
-    "count": 3983,
+    "latest": "2026-09-23",
+    "count": 3984,
     "history_complete": true
   },
   "ford": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-22",
-    "count": 6720,
+    "latest": "2026-09-23",
+    "count": 6721,
     "history_complete": true
   },
   "hyundai": {
@@ -133,44 +133,44 @@
   },
   "byd": {
     "earliest": "2002-07-31",
-    "latest": "2026-09-23",
-    "count": 5990,
+    "latest": "2026-09-24",
+    "count": 5991,
     "history_complete": true
   },
   "tesla": {
     "earliest": "2010-06-29",
-    "latest": "2026-09-22",
-    "count": 4083,
+    "latest": "2026-09-23",
+    "count": 4084,
     "history_complete": true
   },
   "stellantis": {
     "earliest": "2010-06-09",
-    "latest": "2026-09-22",
-    "count": 4097,
+    "latest": "2026-09-23",
+    "count": 4098,
     "history_complete": true
   },
   "honda": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-18",
-    "count": 6666,
+    "latest": "2026-09-24",
+    "count": 6667,
     "history_complete": true
   },
   "yulon": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-23",
-    "count": 6647,
+    "latest": "2026-09-24",
+    "count": 6648,
     "history_complete": true
   },
   "hotai": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-23",
-    "count": 6646,
+    "latest": "2026-09-24",
+    "count": 6647,
     "history_complete": true
   },
   "etf_carz_etf": {
     "earliest": "2011-05-10",
-    "latest": "2026-09-22",
-    "count": 3865,
+    "latest": "2026-09-23",
+    "count": 3866,
     "history_complete": true
   }
 }
