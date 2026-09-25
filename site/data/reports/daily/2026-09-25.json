@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:26:53.872506Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-25-020",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford Stock Falls as Hyundai Is Set to Outsell It for the First Time Ever - Barron's",
+      "companies": [
+        "hyundai",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFVlUnZ3OUNXTldWR2hMU0J3ZGtYRmd3VGg3RHNFdnM2YmNQYlV6ZWpUMkNkTFdQOWlEb2xGVkhfbWVVWmZRci1KZW1NNkk0OTRielpvbDgwS2xSN1lhUjN2dHpRNGx3YWRLQ1VlYll6QWoyMndCYUpKV3Ita0VKV2x4U3RqUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-25-022",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor poised to rank No. 3 in US quarterly sales, closing in on Ford - koreatimes.co.kr",
+      "companies": [
+        "hyundai",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHYzUVBSWHBieTdGUDE4ZzRzYm1GeDJkVUU0Tmt3V25WaU1ZazVtaHBvbXNmTVlhYlVVR1dnN3N2eENmX2RueFlucnE2ZlpiUnFBUk1iWTBsWXhQRG1pSWx0UmsyR0owamtNUFk5UEpNQk1DQzRLME5JMldQRUhZWFlkc204Mm5Sb0hYeXBPbF82ZFNjeXQ5TDN1QlVQTi1pQ21OaFJwckJLNW1BN0xveHE1WTN6MTkwNEF4THI5d1VaSnZWTW9oN1ZDQk4zcEdX0gHQAUFVX3lxTE5MdjNRUFJYcGJ5N0ZQMThnNHNibUZ4MmRVRTROa3dXblZpTVlrNW1ocG9tc2ZNWWFiVVVHV2c3c3Z4Q2ZfZG54WW5ycTZmWmJScUFSTWJZMGxZeFBEbWlJbHRSazJHSjBqa01QWTlQSk1CTUNDNEswTkkyV1BFSFlYWWRzbTgyblJvSFh5cE9sXzZkU2N5dDlMM3VCVVBOLWlDbU5oUnByQks1bUE3TG94cTVZM3oxOTA0QXhMcjl3VVpKdlZNb2g3VkNCTjNwR1c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-09-25-024",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "China's BYD Is About To Outsell Ford In Europe - Motor1.com",
+      "companies": [
+        "byd",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YRFlhN2M3ZDM2UFFyS1RfbWdER2ZLWlVXZWJQQTVWSVZSVEpWdXRBR195RTlvUURPNWtvb0Z3cXJtYUUxb2lfRWFzQ2VYU2ZuSDZ0eTk4aDN5OEJvWjYwRlI5RkNSWmdlWmdLYUxLanpMNnU0alE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-09-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Drops Plan to Restart Ukrainian Operations After Missile Strikes - wsj.com",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVE1YcXFTQjN6SlhCWFdhVURDRURJbW1JMmxYSVJtbm9sM21pQ01vd3lrYTFTT1gxaGtiM3pBakJkNEpOeTZVN1ZjcWtJVlVjVEpSbkVtMklFSC1nS01qMmhSSzJHLVl2dHhvS09zTm42WDhjWXhBQkowTzV1M1RMY3psU0dTWWhwSUlNSE04dzRIZkd0MHU5X2pvdkNaR0pfQ3BPSDZnUlI3QkI0eDQ5X1R3UnVOaUpiR0ZJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-09-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal to shutter Ukraine plant after Russian strikes kill workers - Financial Times",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3BOQWVOTFdNNjRCWDVQZHVzMXhEMlVuaXFmRnFZQ2M5WmxCMmhlVnZNWDVyWUVYbERCSERyUEZHM1BpY3dZOUR1NF9ydjgzUC1yelY1T1ZrSlJmYVBvVmk5MHg0NklPS1pSdUREVWVSYVBvVjJuNTF5bmNCUXRxY0hKSk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ford",
+      "to": "hyundai",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 59,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "arcelormittal",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 685,
+    "dup_title": 268,
+    "too_old": 169,
+    "gate1_blocked": 36,
+    "gate2_blocked": 55,
+    "passed": 157,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Editorial: Hyundai steel mill will pay off. La. leaders need to explain how - nola.com",
+      "Posco, BHP team up to advance hydrogen steelmaking - Hydrogen Central",
+      "ArcelorMittal to book $1 billion charge after missile strikes in Ukraine - Reuters",
+      "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+      "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為安賽樂米塔爾、Ford、Hyundai Motor相關動態：「Ford Stock Falls as Hyundai Is Set to Outsell It for the ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford Stock Falls as Hyundai Is Set to Outsell It for the First Time Ever - Ba...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Motor poised to rank No. 3 in US quarterly sales, closing in on Ford ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

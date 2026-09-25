@@ -1,0 +1,16 @@
+{
+  "total_raw": 685,
+  "dup_title": 268,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 36,
+  "gate2_fail": 55,
+  "passed": 157,
+  "gate2_samples": [
+    "Editorial: Hyundai steel mill will pay off. La. leaders need to explain how - nola.com",
+    "Posco, BHP team up to advance hydrogen steelmaking - Hydrogen Central",
+    "ArcelorMittal to book $1 billion charge after missile strikes in Ukraine - Reuters",
+    "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+    "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me"
+  ]
+}
