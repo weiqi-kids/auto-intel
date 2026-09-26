@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 315,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 35,
+  "gate2_fail": 47,
+  "passed": 134,
+  "gate2_samples": [
+    "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me",
+    "ArcelorMittal books $1bn impairment as Russian strikes kill five at Kryvyi Rih - Martin Cid Magazine",
+    "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+    "Luke Bryan & Friends Celebrate ‘Signs’ At Bridgestone Arena [Recap] - MusicRow.com",
+    "Fuyao Glass stock falls 0.74 percent as valuation stays in focus - AD HOC NEWS"
+  ]
+}

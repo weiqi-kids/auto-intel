@@ -1,0 +1,248 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:49:51.531821Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-26-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "The moment the question mark turned into an exclamation mark, Ulsan heated up.Ulsan Hyundai Mobis wo.. - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OanhCUVZMOG4xTEhkSGJZMS1NVkNsa29ESXNuOEd3VjQ2Q1JCYUtzTTFQZmZTbk8wRmdtRDBQbTVNMkwwdGMzMmJNaXppVm82?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-09-26-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hyundai poised to beat Ford and become top 3 U.S. seller for first time - Korea JoongAng Daily",
+      "companies": [
+        "hyundai",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3dnRXFSMjdQaXJ3T29BSWN0VjFKclFjQWdDdmlzc3J1LWtwRWNkNDVySlFoMlo2Q3hVTTNleXZ1MDJsZjZnYUFuaEc2cDVvM2pZeEg1ZGtoaGpuelljVjBrSm5HWjBFNGFvbEpGUXkyVDg4NEdJdENyNzNBaFRJZmhyR3RWd0VYRHNSNG1ob2JYdnJHUnpNWGRQQklOWDVHcC1vXzZyZ29tZlk2V1poRjMyZmtldmVGWkJ0dmh2SQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-09-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Russian Strikes Force ArcelorMittal Kryvyi Rih To Suspend Production, Killing Five Workers: 15 outlets compared - NewsCord",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRTJCZlFCZU5jNTIyS3RHYmg1TjQ3NWxsUG9uSmd5SnNzX0tFbmpSRkt5TmN4aFI5VFZtR01aOGoxVTVDVHhNWFJuVTg5TEtFN18wUGJnRFlaYlowWEVpTW9hd2xUNWEwZGdqeWV0VEpvNFBub3I4NjNzYUl5WHdvNUFDQVBlYUFaTXBYYm1uWXlrSXN5OTVaUXlEamRFN2QtOHlpWHNuRGZKMmxKS0V6SFhiSjRmcFF2WjcySGdfc1k4VnZob1lZZER4dVQ5X09qMWZ1SG9aUXNNNFF5a3N3WVRtd3dSTTN1ZEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ukraine war briefing: Russian attacks force closure of Ukraine’s largest steelmaker - The Guardian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaE9PR1hsSjJ4YnBYZHdDUHZFdkNWNzRWc2hMTm1hNkRNaWVVMkp2TDJjZk4wZDdsdS1fUjg1WjczdjM2YTVrUDQ4REhYZEl3UnMydmxjSnI1eEV4dGNPcERYZG5BQjZxd0FNZlRCQzVzZmE0R3o0bVVlX1d1Zm1qa3QxcWZ6TTd3VU41Ni00cktQT0doQlZtWGFGZjNJYWdBR0d3TFM3MnByMERONmhpdUxXTzBOSmlYbzExanRR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bridgestone-2026-09-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Luke Bryan Sells Out Bridgestone Arena for Seventh Time With Jason Aldean, Chris Stapleton, Carrie Underwood and More - rockumweb.com",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDlaR0hqYTlYNGFuUVVFVmFvYkROaVZna1JrVlRTVVlwMEp5UTB3NnJjeVpqUW50cTMzVU91NjVfT2ZqTndTQjRORElZUHlITnNBbXhkenB2M2xfX3c3U1F1TmpDQkhSZ3BQTGZ0OHpoT3oxMTdnM3Y2OGtlZDJ4dmU3dTFMWENCWUlmZGE0RzdfNDByemxObGNhYkhQYTZ0OUZXMEtzenY3UENpN2g1ckJFSW96QWZVVWQ2NFlDM09KN1VkUjJHd1lvSnl0RXp5NWV5M2kycFFjWm1FdUJjZnBnSGlFUkdQeXQw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 12
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 704,
+    "dup_title": 315,
+    "too_old": 173,
+    "gate1_blocked": 35,
+    "gate2_blocked": 47,
+    "passed": 134,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me",
+      "ArcelorMittal books $1bn impairment as Russian strikes kill five at Kryvyi Rih - Martin Cid Magazine",
+      "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+      "Luke Bryan & Friends Celebrate ‘Signs’ At Bridgestone Arena [Recap] - MusicRow.com",
+      "Fuyao Glass stock falls 0.74 percent as valuation stays in focus - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為Ford、大陸集團、Hyundai Motor相關動態：「The moment the question mark turned into an exclamation m...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The moment the question mark turned into an exclamation mark, Ulsan heated up...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai poised to beat Ford and become top 3 U.S. seller for first time - Kor...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
