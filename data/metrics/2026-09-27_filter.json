@@ -1,0 +1,16 @@
+{
+  "total_raw": 675,
+  "dup_title": 367,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 37,
+  "gate2_fail": 43,
+  "passed": 68,
+  "gate2_samples": [
+    "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me",
+    "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+    "ArcelorMittal expects $1B charge in Ukraine due to attacks - Breakingthenews.net",
+    "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - Yahoo Finance",
+    "ArcelorMittal books $1bn impairment as Russian strikes kill five at Kryvyi Rih - Martin Cid Magazine"
+  ]
+}
