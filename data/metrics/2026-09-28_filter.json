@@ -1,0 +1,16 @@
+{
+  "total_raw": 697,
+  "dup_title": 295,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 35,
+  "gate2_fail": 43,
+  "passed": 157,
+  "gate2_samples": [
+    "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - finance.yahoo.com",
+    "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me",
+    "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+    "ArcelorMittal expects $1B charge in Ukraine due to attacks - Breakingthenews.net",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+  ]
+}

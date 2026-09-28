@@ -1,0 +1,269 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:36:56.392006Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-09-28-032",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor, Kia Surpass 15 Million Cumulative RV Sales in U.S.; Poised to Overtake Ford in Q3 - finance.biggo.com",
+      "companies": [
+        "hyundai",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MTk9LZzRCbHB2VjNGOXVzSTh6bE10cm1XSkRENmR3RWRLaXZHX1VwQnVDQVQ0YUNfXzFuWEV6TDA1cWtiNWNsZE5ONjVDNGxmN1pobV9UeFJ1YTZUSUVrZlBhWTB5QU5HVHpWcVpqSVQ4MXZjSVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "continental-2026-09-28-021",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Pirate Boys Soccer Finish PCL Without a Loss (3 ties) as They Tie KCats - continentalenews.com",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW9KTW8yZzljaWhiSjlEZlhHWnZaNlNpQzJMRjdVSXNhRlNjWTJhVm5GNFNobERuZ1Q2dTNQbEsxSGVlX1JUV2ZVUEs5OGdCeVFzTWtxMmJsSzlCREo3TjVvYTV4VnlIdjBMODVBOGFKbEZHWS1Ib0hUaElQbG5LYmdWMGkzWVlpVVZZbkt5SGFDakRrbjlQcXY5dEt6ckxLNFh6bGNDWk9vUVVzWXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Paint Holdings (TSE:4612) Gains Momentum, Is It Still Below Fair Value? - finance.yahoo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVRwZ2VhbWJPMTFQeUJ2MHJONTN0VEVCNWcyZElxZTdxcE5hZDlXaGJPTHo5VTdLekFrWndaMVo5eWFXQ1ZlN0NOUktNSFRpZ3U0a0NoTzVGV2xjTXJOY0VyVXdmSHZud1pKeWs2djMyQmZKU25LTzRCUk90cjRDRXBBT05lQVdzMzRJYUZmdTJNTy03dEMtVkVjWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Steel, shipbuilding labor tensions to flare up after holiday recess - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnFTMU9KTkc4SHhhMUhuWjItSmZjTUtxWGVYdmNwUlVBa2dhdlBPWlBZWHFvTktEQ1NXcjJDdUV3SFpoMFZWQnZpYVJ0WkZpemF0ZUtuZEhMSmdrU2tNbTFyVzc4dkpfT0I1MUpycDJhUncwZEMzWExpb0Rxd0I2RThqUlhralVFQTYwSHNJUWc3cVpEbkh1ejJkRmNzMGhqMEw3Tk4xNmxfN2ZaU1ZGTWhJWmpUM0V2TUVUNDdiMTY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-09-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal stock last trades at USD 69.75 on September 28, 2026 - AD HOC NEWS",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEc0YmJVTzBwSHRicV9PYS1LTVo5UG45Q3ZCcTBzV3dCcXVObnZsUWllVkU3VGtDejU4a2hkNlpibzZmeGdPUHZMYWhRQXM3enNPQ3dwWTNzOVkyOUE2Snp5dlNuVmZudEhvcWo2bVU1Ukd3a0RZWmFUYWRtazN6Q3oyazVPWUZjR0xuWFhIU2tUSFdLRGtwa09tSE1aVm11YUhyYldwalU4TVNPcGViLXFwOEoxY1Zia0Y2OUFtUHg0dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 65,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 103,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 92,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 11
+      },
+      {
+        "id": "saint_gobain",
+        "count": 8
+      },
+      {
+        "id": "continental",
+        "count": 8
+      },
+      {
+        "id": "tesla",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 65
+      },
+      {
+        "id": "earnings",
+        "count": 41
+      },
+      {
+        "id": "auto_sales",
+        "count": 8
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 697,
+    "dup_title": 295,
+    "too_old": 167,
+    "gate1_blocked": 35,
+    "gate2_blocked": 43,
+    "passed": 157,
+    "pass_rate": "39.1%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - finance.yahoo.com",
+      "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me",
+      "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+      "ArcelorMittal expects $1B charge in Ukraine due to attacks - Breakingthenews.net",
+      "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 103 則事件，焦點為Ford、聖戈班、大陸集團相關動態：「Hyundai Motor, Kia Surpass 15 Million Cumulative RV Sales...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor, Kia Surpass 15 Million Cumulative RV Sales in U.S.; Poised to ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Pirate Boys Soccer Finish PCL Without a Loss (3 ties) as They Tie KCats - con...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
