@@ -1,0 +1,16 @@
+{
+  "total_raw": 698,
+  "dup_title": 324,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 30,
+  "gate2_fail": 51,
+  "passed": 139,
+  "gate2_samples": [
+    "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+    "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - Yahoo Finance",
+    "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - united24med",
+    "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+    "ArcelorMittal expects $1B charge in Ukraine due to attacks - Breakingthenews.net"
+  ]
+}

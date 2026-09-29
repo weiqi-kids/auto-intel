@@ -1,0 +1,277 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:44:25.134473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-09-29-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Photo] Seo Myeong-jin says, \"This season's Hyundai Mobis keyword is coach ##Ham Ji-hoon##'s weight change\" - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWW5qZHFxeFExcVlfLWxEZWhBZUM4Q1pmci12UEkyZTRXRU55MzdXRWQtVW1NcXZYeDhUTHZCc0FHNE5sQ2tISldSckVMbDZEM3VhMFBOZEwxc203QUE2MXFCbFFCZ0tVck9PZzdyeFRRTkMzUVJZdnBfSWg2YXVNdDFSNEVOXzNwYW9Vdm5nUXZUcWFIUGd30gGXAUFVX3lxTFBZbmpkcXF4UTFxWV8tbERlaEFlQzhDWmZyLXZQSTJlNFdFTnkzN1dFZC1VbU1xdlh4OFRMdkJzQUc0TmxDa0hKV1JyRUxsNkQzdWEwUE5kTDFzbTdBQTYxcUJsUUJnS1VyT09nN3J4VFFOQzNRUll2cF9JaDZhdU10MVI0RU5fM3Bhb1V2bmdRdlRxYUhQZ3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-09-29-050",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Toyota global sales fall 6.4% as China decline deepens in August - CBT News",
+      "companies": [
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxcWNVdV9qN2xGdzNVTnRFSEZKTTlCLXBlcXhQZndyazFrRTJ1dmZpWUE0UWRVSzFnSHVSd2RnQ1NHUVJzZ2RrUUxSN0FkdEZyTENMSXIxeGphUlZqeFBvOEdrYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-29-056",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Philippine vehicle market plunges 21% in August - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjdFYVFsdm5mVnlxeWNEanhFVHpPeDYxZmpVX08yNVN4VjdVVXZERG0yVFU0ZHFDbUVoYkJMLWVfcjBGT0Q1THJnMEROWDk4aVB0N3FWSWV0cWtKOGJMN0JEelFVYUlyZExWWDFNWWI5SFdkQW9UamVicktFV0hTc3hEQkFwdncxMGJHTXRyMHFmOGgxcEJUaFFR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-09-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel stock trades at EUR 3.66 as dividend date arrives - AD HOC NEWS",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0Vmb2luZndsTl9tSmJpUXhXQ2FuRm81VVZOcjk0UnlGTkRmd1dpeV8zbVpGMk9hcTdyQ0o3NmdJQkJnUDBLb2s2ZkVuVWZqN1U3UWR5SVliVUVSQkJBOWtfSl9RR096UWhLN1lTQ25PdHRoM1Bjb1ZZQlk2Z3VmMF9kLTFBakR1ZEt3V0QyLWRZNmYtNFdlbmtPdG9WNThvRjlWNEdGRkdfS2dOWGh4dWdDYnJJVEs0LUVld3d3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-09-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Exclusive: POSCO Pushes South Korea's First Private Nuclear Power Investment - 조선일보",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHFwRXFfVUg4c3Vxei1seElsQ01paGh6bENabk9mN2lhN1hQYVI1WjRQcHY0ME1mU0Z2OVJmNWpKTzBKSmFwMjV3c0h5Qjg5SHlMYmFKUUU5TzBkaHZmR2NqUkhZX0RVQ1NrckJ5ODA5dTFUTjBOd3o5OWpqd0RvNUI5M28xdnEy?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 61,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 80,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 73,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 10
+      },
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 9
+      },
+      {
+        "id": "toyota",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 61
+      },
+      {
+        "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 698,
+    "dup_title": 324,
+    "too_old": 154,
+    "gate1_blocked": 30,
+    "gate2_blocked": 51,
+    "passed": 139,
+    "pass_rate": "37.2%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+      "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - Yahoo Finance",
+      "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - united24med",
+      "ArcelorMittal unable to safely resume Ukraine operations after strikes (MT:NYSE) - Seeking Alpha",
+      "ArcelorMittal expects $1B charge in Ukraine due to attacks - Breakingthenews.net"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 80 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「[Photo] Seo Myeong-jin says, \"This season's Hyundai Mobis...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "[Photo] Seo Myeong-jin says, \"This season's Hyundai Mobis keyword is coach ##...（電動車滲透率、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Toyota global sales fall 6.4% as China decline deepens in August - CBT News（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
