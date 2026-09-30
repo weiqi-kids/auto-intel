@@ -1,0 +1,16 @@
+{
+  "total_raw": 700,
+  "dup_title": 300,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 29,
+  "gate2_fail": 46,
+  "passed": 169,
+  "gate2_samples": [
+    "Nippon Steel and Kanadevia Mutually Terminate Business Integration Talks - marketscreener.com",
+    "ArcelorMittal Suspends Gijon Long Products Output Until 3 October - News and Statistics - IndexBox",
+    "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - finance.yahoo.com",
+    "Steel Giant ArcelorMittal Halts Kryvyi Rih Operations Following Deadly Russian Attacks - UNITED24 Me",
+    "Kacey Musgraves Has the Balls to Go All-Out at Bridgestone - Nashville Scene"
+  ]
+}
