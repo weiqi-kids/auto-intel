@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T15:16:06.764049Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-10-01-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis agrees to sell its lighting business to OPmobility - Just Auto",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWpubFBXM3V0VVFlQUtvYy1oWUF4NGVTcWx6WVF3UzAwZ1VSRVVEcU1nZkFhZGZrbkdNbUN4OHZVbGxHUk9hNzc5bE1qUVhzRFcyTGhDbF9MdEhodF9TcFJDVjNoSFNHSWNoNUtwSm9mdjZCNzFRcE4ta3ZkWVRqbWc3ZVJjcFZNUUNUa0pIRlA2cjF0N0g0eUxGSFA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-01-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor America Reports Record-Breaking September 2026 and Q3 Sales - PR Newswire",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2wxQ25GTmVnakZFNzBiN1B3bk9mOEx3U2xPRU1zRWNNR0FPVmZxNElrSWtZSm5rZXNKd0pDbE1ib0tjYkxORjRMTWJwbzdWeE1NSjNpbG5kTkhDNXhVMDdCaDVzUHpsNkVGcTNydzFHOE13bS0td1h2TTdLWGFRbTh2cUJkTUw5eUJtUUpjQTFVc2J6WElNdFpPY1N0NDFMbThjd0UxVnQxMWhqVFZiNS1VVmhRcVp4T1d5emZIYUdfSkh4N0hBRg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "GAME DAY: Opening Night - Preds vs. Wild, Oct. 1 - NHL.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFRueVlQcVhWNFFwQ1Z6c2lFTEdLOW5hR2p2aTFpalJrMkxzeTZFeUxZN3B2RDEwbEg0MGt3Q1VXNE1vTWxxLWNOdi1DbWVEbzFWRzNiMlJmOEZYVnlNM0Zwa1FJd3hFZDhqNmYwS0xkT0tGT20wMFB5S1o0dTdjNFcxV1NKTThYLUgwMzVLUEY3dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "bridgestone-2026-10-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone Formula E World Premiere Bridgestone Takes on a New Journey as the Sole Tire Supplier for ABB FIA Formula E World Championship - PR Newswire",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVmpuaUhJcjdIdTU0SDE2N3hETUlCd2wxVHNzckxlcWgyN3dWTGdUZTdTbjNXZlpXTzFXRFlKWVZiQkRfR3FkU1VkNm1VWm1WaTVGU1pVaUs3Vm40RjNHdWVIenZQUGxsUXZORlZpU0NxRXpJNmJCRy1Pdmt4T0tCNFJfZEV2V0xHcjlGbm9BSkZLcjR2a2FNaHBUNWs1MXR5dkhMSVNva3lnYTNiQndyZE9uZEJHWW9OX2ZhRFZ6RFRIbzJpeTBLRVZoMFFRZTRSbG1VU3VRcXBvR3VRTjhyTjJBWVVLQ2hjeU4yN2xyV3FVWWRTNVVIWUtrMFpsVV83S0Yzc2hJWTNvNk56NXRvUTZHVUZFWF9lVzFiX0ZWWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bridgestone-2026-10-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Formula E: Bridgestone arrives, the single tire makes an exception to its history - autohebdof1.com",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRUVmeVlVSzFKQzNLc2FydjRJaC1wVGhOdUZ2dmY2bGcyNHFycDlRM0tCakR3YmpwSTd6X2VTTE9zZjZJRy1zREJtSkxOZUdhLWU5bmFpUlQtZVJDLW9uQ1ZBc2Mycm40Vk1ZS2lDdF9vWGlnMVdDbmI5LXdmWVoxY0ZvdVkwdzJUTmxwS3FUMDh6aEU0Q294NGpwU2prbnRhSDFHejZuSzVyUXI2aGRjQ0k3Rm5lYTdwZ01PVDNYbklGWjlfcFM4RUZmaTJnTWxHZ2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 70,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 89,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 76,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "ford",
+        "count": 12
+      },
+      {
+        "id": "bridgestone",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 70
+      },
+      {
+        "id": "earnings",
+        "count": 26
+      },
+      {
+        "id": "auto_sales",
+        "count": 6
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 704,
+    "dup_title": 302,
+    "too_old": 155,
+    "gate1_blocked": 35,
+    "gate2_blocked": 39,
+    "passed": 173,
+    "pass_rate": "43.0%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "ArcelorMittal Suspends Gijon Long Products Output Until 3 October - News and Statistics - IndexBox",
+      "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - Yahoo Finance",
+      "Bridgestone aims for circularity as it targets wider rCB use - Rubber News",
+      "New Nissan, improved Bridgestone discussed at Policy Talks - Williamson Herald",
+      "Saint-Gobain Creates Chief AI Officer Role - USGlass Magazine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 89 則事件，焦點為Hyundai Motor、Ford、Bridgestone相關動態：「Hyundai Mobis agrees to sell its lighting business to OPm...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis agrees to sell its lighting business to OPmobility - Just Auto（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Motor America Reports Record-Breaking September 2026 and Q3 Sales - P...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 704,
+  "dup_title": 302,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 35,
+  "gate2_fail": 39,
+  "passed": 173,
+  "gate2_samples": [
+    "ArcelorMittal Suspends Gijon Long Products Output Until 3 October - News and Statistics - IndexBox",
+    "ArcelorMittal Faces $1 Billion Blow As Missile Strikes Derail Ukraine Operations - Yahoo Finance",
+    "Bridgestone aims for circularity as it targets wider rCB use - Rubber News",
+    "New Nissan, improved Bridgestone discussed at Policy Talks - Williamson Herald",
+    "Saint-Gobain Creates Chief AI Officer Role - USGlass Magazine"
+  ]
+}
