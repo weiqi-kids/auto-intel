@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:35:45.243521Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-02-020",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AG Gold Medal Hero Reverts from Military Early: Pro Basketball Player Lee Woo-seok of Hyundai Mobis to Play in Season Opener - news.sbs.co.kr",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tbjVTNy1nbVNJZUNiSFZxcFNXQUdWMjNNeEpRbkp1ZDNKNkxUWXg0SXpfaGFnaVRPOFZhUHQ5TS1CWEFSNGxIMV9uNExDZWQ4Qmw3TWJ3N2JNemthQjA5NWl3bFlVeEhnbnJpOS13?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-10-02-023",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter - CNBC",
+      "companies": [
+        "ford",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDOFBnX3pZZkY2ZG5XRjhqdURyYzZSTVM2eGYwbFdkX0k1ejE4YnhuUzZtUVhCMS12NW5ybVpSVWZXdnFXMjZKQ3ZPYnRrNFNBeWo4Z25uWVBrbXNzTW1R0gFkQVVfeXFMTi1nRFhaYkdvSXpzdS1ndGRFSFRZU2RTMTQtOHRWa3NsUFI2XzBSeGcwM2FTMThxZmF6bGo5TENDVFhQMkNmWXlUeEFYQ3lXOE1CMDgzZVo2UWRUNXBFdHpDWHd1dg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-10-02-026",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford vs Hyundai Motor Group Q3 2026 U.S. auto sales - Yahoo Finance",
+      "companies": [
+        "ford",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFNhT3ZzUVdZU2w1TmFWdDA2RTFtWUd6V3dCYTJkVHpPWHVJN1NOWE5xLURsNl9kM0tOWU5OY3ZHZnFZQm5fc3NzdkJROHVKSWpPU3lLdEtRYkwyb0NWMU1VZjlwc2hVeWhRMnVpUTRFUnRBQVphX3ZONjdvaHYtVVNqX0xGejgxME0wVnZfOVNidnlxWmRZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-10-02-032",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford vs Hyundai Motor Group Q3 2026 U.S. auto sales - qz.com",
+      "companies": [
+        "ford",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91WDF0V0VodUhTYjRGcUplSlBsZnBER3BXNDI1SnhfYUFDa1dVck5SY1Zna2RtakhSZUZOZTVha2RNbnNueHU2TDBZMHlHMmVaTTdXQXNUajBkUy1SSVZWM0lLLWtva2oz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "honda-2026-10-02-041",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Stellantis, Honda post Q3 sales results as hybrids and key models drive growth - CBT News",
+      "companies": [
+        "honda",
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10T0RubEk2MWZVcGJkTmNLLXQzYzktRmxodUUyQjhyUnpXRFlBbUl5aW1NWmNpS2VNR29KeWZmRGd3OXhkeXlUb0M3Q2xzSmVMdmNOdEFGWm9Lb2V5ZGZ3SERsZkMwV2RyT1FUb2NCdWo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 69,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "hyundai",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "auto_sales"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 94,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 86,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 12
+      },
+      {
+        "id": "toyota",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 69
+      },
+      {
+        "id": "earnings",
+        "count": 38
+      },
+      {
+        "id": "auto_sales",
+        "count": 11
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 698,
+    "dup_title": 305,
+    "too_old": 152,
+    "gate1_blocked": 35,
+    "gate2_blocked": 37,
+    "passed": 169,
+    "pass_rate": "43.0%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "POSCO Sees Path Around U.S. Steel Curbs Through Alaska Gas Pipeline Talks - 인사이트코리아",
+      "ArcelorMittal plans to invest US$1.9 billion in Brazil - bnamericas.com",
+      "MEDWAY’s 300th train for ArcelorMittal in French Dunkirk - RAILMARKET.com",
+      "Dynacor appoints former ArcelorMittal Mines Canada GM as COO - Mining Weekly",
+      "ArcelorMittal Suspends Gijon Long Products Output Until 3 October - News and Statistics - IndexBox"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 94 則事件，焦點為Hyundai Motor、Ford、Toyota相關動態：「AG Gold Medal Hero Reverts from Military Early: Pro Baske...」。主要關注主題為汽車產業通用、財報、汽車銷量，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AG Gold Medal Hero Reverts from Military Early: Pro Basketball Player Lee Woo...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter -...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 698,
+  "dup_title": 305,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 35,
+  "gate2_fail": 37,
+  "passed": 169,
+  "gate2_samples": [
+    "POSCO Sees Path Around U.S. Steel Curbs Through Alaska Gas Pipeline Talks - 인사이트코리아",
+    "ArcelorMittal plans to invest US$1.9 billion in Brazil - bnamericas.com",
+    "MEDWAY’s 300th train for ArcelorMittal in French Dunkirk - RAILMARKET.com",
+    "Dynacor appoints former ArcelorMittal Mines Canada GM as COO - Mining Weekly",
+    "ArcelorMittal Suspends Gijon Long Products Output Until 3 October - News and Statistics - IndexBox"
+  ]
+}

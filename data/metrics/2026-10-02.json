@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-02",
+  "total_events": 94,
+  "by_company": {
+    "arcelormittal": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "bridgestone": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 12,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "honda": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "tesla": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 38,
+      "sentiment_avg": 0.03
+    },
+    "industry_general": {
+      "count": 69,
+      "sentiment_avg": 0.02
+    },
+    "guidance": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "auto_sales": {
+      "count": 11,
+      "sentiment_avg": 0.09
+    },
+    "ev_penetration": {
+      "count": 7,
+      "sentiment_avg": 0.07
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "hyundai",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "auto_sales"
+      ]
+    }
+  ]
+}
