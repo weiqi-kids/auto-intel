@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 349,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 32,
+  "gate2_fail": 43,
+  "passed": 132,
+  "gate2_samples": [
+    "POSCO Sees Path Around U.S. Steel Curbs Through Alaska Gas Pipeline Talks - 인사이트코리아",
+    "Dynacor appoints former ArcelorMittal Mines Canada GM as COO - Mining Weekly",
+    "ArcelorMittal plans to invest US$1.9 billion in Brazil - bnamericas.com",
+    "MEDWAY’s 300th train for ArcelorMittal in French Dunkirk - RAILMARKET.com",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+  ]
+}

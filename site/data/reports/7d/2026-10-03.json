@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-03",
+  "date_range": {
+    "start": "2026-09-27",
+    "end": "2026-10-03"
+  },
+  "generated_at": "2026-10-03T13:11:23.678809Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-09-28-032",
+      "date": "2026-09-28",
+      "title": "Hyundai Motor, Kia Surpass 15 Million Cumulative RV Sales in U.S.; Poised to Overtake Ford in Q3 - finance.biggo.com",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ford",
+      "company_b": "stellantis",
+      "co_mention_count": 8,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "gm",
+      "company_b": "stellantis",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 202,
+      "last_week": 144,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 386,
+      "last_week": 262,
+      "week_over_week_change": "+47%",
+      "sentiment_this_week": 0.02
+    },
+    "ev_penetration": {
+      "this_week": 33,
+      "last_week": 32,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.1
+    },
+    "auto_sales": {
+      "this_week": 31,
+      "last_week": 10,
+      "week_over_week_change": "+210%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.15
+    }
+  },
+  "company_7d_summary": {
+    "continental": {
+      "event_count": 27,
+      "sentiment_avg": 0.05,
+      "rank": 5
+    },
+    "magna": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "ford": {
+      "event_count": 81,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "hyundai": {
+      "event_count": 74,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 36,
+      "sentiment_avg": 0.01,
+      "rank": 4
+    },
+    "stellantis": {
+      "event_count": 39,
+      "sentiment_avg": 0.01,
+      "rank": 3
+    },
+    "arcelormittal": {
+      "event_count": 15,
+      "sentiment_avg": -0.1,
+      "rank": 8
+    },
+    "bridgestone": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "saint_gobain": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "honda": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 11
+    },
+    "byd": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 15
+    },
+    "gm": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 13
+    },
+    "volkswagen": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "toyota": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 7
+    },
+    "nippon_steel": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "posco": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "hyundai_mobis": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 929,
+        "last": 895,
+        "change_pct": 3.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-27",
+      "event_count": 60,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 158,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 148,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 186,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 164,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 176,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 37,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-27 ~ 2026-10-03）共 929 則事件，重點為「Hyundai Motor, Kia Surpass 15 Million Cumulativ...」。Hotai Motor表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 27 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "麥格納",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Ford",
+        "reason": "本週出現 81 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

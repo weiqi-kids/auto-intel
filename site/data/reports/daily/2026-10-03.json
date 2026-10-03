@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T13:11:23.495851Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-03-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Linklaters advises OPmobility on the acquisition of Hyundai Mobis’ lighting activity - legaldesire.com",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjhsamMzSVVjMjJnM1QxOFNwaUstSGtsQ1BYZmsyOFRydjhBMFFlSG1jeTk5RGxMYU5jeTI1YU1qWHo2N3R0bVB5bUNQSUFGYnJPTXIxTjZvM3h0WmJSWl9MdXNmOVlPNmRCZFZjampIcWdISURQUGtaWDFpNkhJTjBOclNSVUVSOVdtRWVGY0pHdTFya1ctTGV5M0pfaHZqWlJUZHM4Mmd4RWd4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "gm-2026-10-03-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford, GM and Stellantis stock prices slide for the week ending Oct. 2 - USA Today",
+      "companies": [
+        "gm",
+        "stellantis",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV3YzUTVEYnZKU2tBS0NQWW1hUEdYbGc2WS1iNGN0R1dKLVZjMDJVLTVWeWo5eV9LOXFwSHRTU0ktMkU4ZEptRlp3WE9CYkZkN2YyWmtrMFNacjdwUXBXM1kwWkFPWjB0OGRhZGJJZXZSUGlFbEw5MlhDa01iSDYzWmU2a3NzYUhMa21DSHBaTUFRa3RGOU9jemZpX0d3T2d6WDhmYTZXUlhYUDRVaE9xa09sRGhCQ1pOTjR0YU12VVRKbjA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "stellantis-2026-10-03-027",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Weekly roundup: Moreno says Mercedes-Benz won't face ban, Ford F-150 supplier issue cuts shipments, Stellantis holds 2026 guidance - CBT News",
+      "companies": [
+        "stellantis",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS3Y4cG9CS0dUR0lkQmpCMVQ4eWtLMGlCVHFZQlNuZ2dpMXJuZmZ4alRUTzdkYVUzdXEwQmRhcjlfXzB6SWJsd2VoLXprOWRwQmpQbnpWSE1XREdLXzFlZDhXQkJuX2pZNDc1Z0trOUdia2xtbHRoRWxqMDA2TzhwQWtxYXlLaWQzc2V5b2I5N1VHZXZNZ1o3ZDd0emJ2M2dsa3Z0ZVpOV3ZhS09QajB6eUp0WFdQQWZrOGJpSTdVMFgwYjJxRG4zQnJBbGFlN3hySVVSNE9xWFZtbUlmWTBxZGtHX1l3Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-10-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal (ENXTAM:MT) Faces A Fresh Valuation Test On Ukraine Missile Damage - Simply Wall Street",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXNtN2J4RU9EOXE0ZHNYMmRURmdVQ3h6STYyd3Ntc2hYZ3hSYjh5V3AxcWR1aW0yYnZ5OWpzMmZVRGhLTGdzd1VQbElUZlRNQU5XN0FheF9hWHVYaU9oNDROQ05JcGIybDNkclBoYUdPUVpsVlkwdnhxRWsza3JiUU0weGZpN2NURFZZUTZCOHpGOElkbkRYdGVkd3RSem1lNlZkaUVsNmJpTEhyYmk2c1dPOGtzSjQ5ZnZ4Z3JkMU5jR19MR216dVlnMjQyeG1M0gHWAUFVX3lxTE1KcmRqamNtVTlIYWdFZmcxOWVlVEs3SUJiZ0MxZEdXYjdGekZ3ZTVTd1hYQms2VG9uSV9uN0lDbVAzaktxb0dOdlZ6YktIT0xpRmpidW91SUZvUkpmV2ZSWlIwVTJjaVM0dW1XVlBpUnhzeENEeGxUamM1SFlaMzhYbU12d2FwQkYwZ1R1bGt0WnZ2VGFUS25CSmhCaThkbzE4R2h1XzFhU2Ywa0VpUFBaRks4ZDR2eDdIaXNrMHVkUmxqVnFfVFRKdmoyZHZQV3owVmJTYUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "saint_gobain-2026-10-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain reports a buyback of Saint-Gobain stock - AD HOC NEWS",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVpMTFJkc1A5dHZZZGpiZ0VLTVhELWVLMmtXLVZGSU1obHhyNC1NQXlQdUoyb01MX2wwbXVSVURHb0xVbjZBQ1V3SVpVdkQtMnpBc1l6WFNMa09heVU5dGZYekRDQnNQT1VMRFFRQWRrNUowbmVpWkc1U1FjaDVnYXI5VE9rQ2QwZHQtaTl4RGtDX21QMG43VkUxM1VVd2YxTF9pTWNsTWVKZ3I4M3kyTEI2U2FEdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "guidance"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 32,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "hyundai",
+        "count": 3
+      },
+      {
+        "id": "gm",
+        "count": 3
+      },
+      {
+        "id": "saint_gobain",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 702,
+    "dup_title": 349,
+    "too_old": 146,
+    "gate1_blocked": 32,
+    "gate2_blocked": 43,
+    "passed": 132,
+    "pass_rate": "37.4%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "POSCO Sees Path Around U.S. Steel Curbs Through Alaska Gas Pipeline Talks - 인사이트코리아",
+      "Dynacor appoints former ArcelorMittal Mines Canada GM as COO - Mining Weekly",
+      "ArcelorMittal plans to invest US$1.9 billion in Brazil - bnamericas.com",
+      "MEDWAY’s 300th train for ArcelorMittal in French Dunkirk - RAILMARKET.com",
+      "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為Ford、特斯拉、Hyundai Motor相關動態：「Linklaters advises OPmobility on the acquisition of Hyund...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Linklaters advises OPmobility on the acquisition of Hyundai Mobis’ lighting a...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Ford, GM and Stellantis stock prices slide for the week ending Oct. 2 - USA T...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
