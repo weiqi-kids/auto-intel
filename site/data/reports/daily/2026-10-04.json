@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:53:58.610768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-10-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ford Says These Nine Cars Define Its Rally Heritage",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/10/ford-says-these-nine-cars-define-its-rally-heritage/"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-10-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Red Bull Has All But Erased 'Second' Ford F1 Car Gap",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/10/red-bull-has-all-but-erased-second-ford-f1-car-gap/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-10-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pro Gamer Takes On NASCAR Ford Driver In Virtual Showdown",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/10/pro-gamer-takes-on-nascar-ford-driver-in-virtual-showdown/"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-10-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cleetus McFarland Buys Greg Biffle's 2004 NASCAR Ford Taurus",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/10/cleetus-mcfarland-buys-greg-biffles-2004-nascar-ford-taurus/"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-10-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2027 Ford Maverick Ditches Mini Spare Tire",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/10/2027-ford-maverick-ditches-mini-spare-tire/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 11
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 142,
+    "dup_title": 66,
+    "too_old": 2,
+    "gate1_blocked": 27,
+    "gate2_blocked": 18,
+    "passed": 29,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "23.7%",
+    "gate2_samples": [
+      "1997 Ford F-150 XL Flareside With 21K Miles Up For Auction",
+      "Ford Explorer May Get Outgunned By Jeep Grand Cherokee For 2028 Model Year",
+      "2027 Ford F-150 XL: Every Available Wheel",
+      "Red Bull Ford F1 Team Already At A Disadvantage In Bahrain",
+      "Ford Racing Returning To WRC Is A No-Brainer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Ford相關動態：「Ford Says These Nine Cars Define Its Rally Heritage」。主要關注主題為汽車產業通用、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ford Says These Nine Cars Define Its Rally Heritage（汽車產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Red Bull Has All But Erased 'Second' Ford F1 Car Gap（汽車產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

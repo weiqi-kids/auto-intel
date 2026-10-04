@@ -1,0 +1,16 @@
+{
+  "total_raw": 142,
+  "dup_title": 66,
+  "no_date": 0,
+  "too_old": 2,
+  "gate1_fail": 27,
+  "gate2_fail": 18,
+  "passed": 29,
+  "gate2_samples": [
+    "1997 Ford F-150 XL Flareside With 21K Miles Up For Auction",
+    "Ford Explorer May Get Outgunned By Jeep Grand Cherokee For 2028 Model Year",
+    "2027 Ford F-150 XL: Every Available Wheel",
+    "Red Bull Ford F1 Team Already At A Disadvantage In Bahrain",
+    "Ford Racing Returning To WRC Is A No-Brainer"
+  ]
+}
