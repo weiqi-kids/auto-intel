@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:58:14.470102Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gm-2026-10-05-038",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Stellantis Sales Tick up 3% in Q3, GM Sales Down 6%, Ford Sales Slip 6.6% - DBusiness Magazine",
+      "companies": [
+        "gm",
+        "stellantis",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkxYUGtJYnlTaHVVb3RWb25qNlhjaGgyeHd5cE5xdXJEaW9hYjV2NmhvdjZJR296YXZLZnQ3QXQtNXI3ZGpnZ2ttOGFfUXg0OGh0VktfRnBZM1VNV0pkN28zbHlvV3VGTmFxaTd0QjBQYmVPQ0FIZXJSM1RrX0NtSFEtNWdONXJDV3JwUktFQVRGQTBsRWNxbnYtd3VTdUxpZGxKNUpnZ1VqZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-05-048",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford Gets Third Place, Narrowly Holds Off Hyundai In Q3 2026 Sales",
+      "companies": [
+        "hyundai",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://fordauthority.com/2026/10/ford-gets-third-place-narrowly-holds-off-hyundai-in-q3-2026-sales/"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-10-05-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ford's EV Sales Plunge 80% Y/Y in Q3: Hold or Fold F Stock? - Yahoo! Finance Canada",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DRDltUzlFUHE2QjN3alVOVHlNLVlGaXJEb1QydXNOVmZDUVJRYWF3Ri15RVF2TGQ5U3BfUmtkTmJ3R3B3ejBaUS1KYy1XbTBMVWIzOWFrM1dta2xZcm9QZGtjSkxDQ0Q0aDJGUVZ5Z0tsVGM0ODhfZkExc2lWdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-05-051",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "New Car Buyers Stretched Thinner Than Ever In Q3 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://fordauthority.com/2026/10/new-car-buyers-stretched-thinner-than-ever-in-q3-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-05-063",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Mexico Auto Sales Hit Record 1.14 Million Units Through Q3 2026 - Mexico Business News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVDU5ejc1ekFqVURTODl5NDgtR1ozTERTMmUyOTZZWDZHaTdONUo1WkE1TmRtU3NjdG5Wbl9yNmhubTNTRUVYY2w5VUZKakJjMTZnU21YSzM3anlFSnZGNDZPM1ZOa0tTWHdHZEFqTXp4WWNlVDNmWGYxX1U0aG5zWlByN252VXFmazFVTDZnRTQ4LS1obTBWdTBKVzNOTnItM0xQY1NpM0xkZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.29,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 86,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 72,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 16
+      },
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 6
+      },
+      {
+        "id": "arcelormittal",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "earnings",
+        "count": 41
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 675,
+    "dup_title": 331,
+    "too_old": 142,
+    "gate1_blocked": 27,
+    "gate2_blocked": 41,
+    "passed": 134,
+    "pass_rate": "39.0%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+      "ArcelorMittal plans to invest US$1.9 billion in Brazil - BNamericas",
+      "Medway’s first French service passes 300 trains to ArcelorMittal Dunkirk - Railway Supply",
+      "Nashville Predators take on Dallas Stars in Nashville - The Tennessean",
+      "Luke Bryan brings country music powerhouses to Bridgestone Arena - The Vanderbilt Hustler"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 86 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「Stellantis Sales Tick up 3% in Q3, GM Sales Down 6%, Ford...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Stellantis Sales Tick up 3% in Q3, GM Sales Down 6%, Ford Sales Slip 6.6% - D...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Ford Gets Third Place, Narrowly Holds Off Hyundai In Q3 2026 Sales（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

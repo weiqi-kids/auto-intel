@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-05",
+  "date_range": {
+    "start": "2026-09-29",
+    "end": "2026-10-05"
+  },
+  "generated_at": "2026-10-05T16:58:14.574212Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_mobis-2026-09-29-009",
+      "date": "2026-09-29",
+      "title": "[Photo] Seo Myeong-jin says, \"This season's Hyundai Mobis keyword is coach ##Ham Ji-hoon##'s weight change\" - CHOSUNBIZ - Chosunbiz",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ford",
+      "company_b": "stellantis",
+      "co_mention_count": 10,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "gm",
+      "company_b": "stellantis",
+      "co_mention_count": 7,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 369,
+      "last_week": 299,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 193,
+      "last_week": 163,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.05
+    },
+    "ev_penetration": {
+      "this_week": 31,
+      "last_week": 35,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.12
+    },
+    "auto_sales": {
+      "this_week": 24,
+      "last_week": 18,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.17
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.06
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "arcelormittal": {
+      "event_count": 19,
+      "sentiment_avg": -0.16,
+      "rank": 7
+    },
+    "continental": {
+      "event_count": 23,
+      "sentiment_avg": 0.02,
+      "rank": 6
+    },
+    "hyundai_mobis": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hyundai": {
+      "event_count": 72,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "toyota": {
+      "event_count": 18,
+      "sentiment_avg": -0.08,
+      "rank": 8
+    },
+    "ford": {
+      "event_count": 87,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "tesla": {
+      "event_count": 29,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "stellantis": {
+      "event_count": 37,
+      "sentiment_avg": 0.01,
+      "rank": 3
+    },
+    "volkswagen": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "bridgestone": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "saint_gobain": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "magna": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "gm": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 11
+    },
+    "honda": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "byd": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 12
+    },
+    "hotai": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 874,
+        "last": 915,
+        "change_pct": -4.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-29",
+      "event_count": 148,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 189,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 168,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 190,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 59,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 34,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 86,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-29 ~ 2026-10-05）共 874 則事件，重點為「[Photo] Seo Myeong-jin says, \"This season's Hyu...」。Hotai Motor表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Nippon Steel",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

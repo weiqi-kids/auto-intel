@@ -1,0 +1,16 @@
+{
+  "total_raw": 675,
+  "dup_title": 331,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 27,
+  "gate2_fail": 41,
+  "passed": 134,
+  "gate2_samples": [
+    "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+    "ArcelorMittal plans to invest US$1.9 billion in Brazil - BNamericas",
+    "Medway’s first French service passes 300 trains to ArcelorMittal Dunkirk - Railway Supply",
+    "Nashville Predators take on Dallas Stars in Nashville - The Tennessean",
+    "Luke Bryan brings country music powerhouses to Bridgestone Arena - The Vanderbilt Hustler"
+  ]
+}
