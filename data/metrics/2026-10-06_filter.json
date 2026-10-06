@@ -1,0 +1,16 @@
+{
+  "total_raw": 678,
+  "dup_title": 305,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 23,
+  "gate2_fail": 51,
+  "passed": 138,
+  "gate2_samples": [
+    "Nippon Steel Selects Tenova for Second Consteel EAF at Hirohata - themachinemaker.com",
+    "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+    "Shinhan keeps target for POSCO Holdings stock at KRW 490,000.00 - ad-hoc-news.de",
+    "ArcelorMittal plans to invest US$1.9 billion in Brazil - BNamericas",
+    "Nashville Predators take on Dallas Stars in Nashville - The Tennessean"
+  ]
+}

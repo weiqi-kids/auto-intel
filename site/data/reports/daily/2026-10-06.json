@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:55:28.771542Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-06-022",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor, Nvidia, LG Forge 2028 Autonomous Driving Alliance, Challenging Tesla's FSD - finance.biggo.com",
+      "companies": [
+        "hyundai",
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14WDNQcFM3bzR4ZHVBdDh5dkc5bVpWX3NSUFItTkpIcUdOaDZmMGNlV0EwLWo5cmxmQXkzSzRfWDVNVENSQ3NmU1pWRkYzaEZfTXNTMG1XY3RSUGJvYUdZODRKTmRySGEyNGFDdHQ2d0RuZWFMbVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-10-06-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "After a 12.5% decline in one month, ArcelorMittal shares recover on Tuesday - Ideal Investisseur",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSXhOR0piNjVUV3h5WlhRNVE3SDNoX2dOOXpOaUxKSEQ2ODdZT25KUnhnOTl0M000b0xCUVd6cWZzc2hwai1aTzhnWkd4ZTZQSWhXdnB4cFVzU1k1WThEX1pFSGZYV3ZtQmVseFJyS0ZaM3lIN0lFRU11c2VOcmNmcm1XYlE5TzFDTVBmQ2JGSlQ2SmlpeVVFZk9FUlJVRlZsSHhtcXBqTFNPWUYyVHc0ZnJZUGw2UEpYbnJSMTAySU5LTWJ3TlBrQktrbWw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-10-06-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Can Bronco and Maverick Records Offset Ford Motor (NYSE:F) Sales Dip? - Kalkine Media",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ2N5Z0l2N1VWaTZMVHFNV1ZheEpaRVB6REEzODF6bXpkYS05VVg3MVdqZ0dGZS11TWVid1NRWnFNOGc2clktNFFqdWxSNF9LVUFsUnM5T2FsLW9ESHp0TnRWZDdSZjZnaUlSUzBXMDZVUkhTeUtOSmVNQ0pPbkxxMXNqckRoTHJjYzFBOTd4TEgwSmZQckpOb0M2Y1pfa1R3dHJJNnBoX040RE4wUDM4cA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-10-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Industeel, part of ArcelorMittal had recently updated its October stai - Shanghai Metals Market",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG83TW10dVh1VzBsVW53OS1XTGdYTEhMdW5NT0h4dnlKZmFMaG9vUzJCdDZKN0NrcHBUaGVlSkRrc0x0QWo0bXRxY2d3Q2QtWlpkcklfSG5Gd2dJZ3o4bG12eGFlcW9VeksxT2w1OU8wb3RvLThhemYtbzE4eU9xcFdUbVZLTEpGRkRySTFaR1p3ZFJGQWk5UTlNTmc5S3JkWXZDMm1qVTQwU3EtYkJwR0pCdXpLdWlVdHBnSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-10-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank keeps Buy on ArcelorMittal stock - ad-hoc-news.de",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYkNPTFF3bDlPc0k5cUw1RXRUMm1heEJ3am1NdWZ2Q3lWTmhpN2FTWnRKT3VBZ1JWQm90Nk83YnRJN0VnMTNpMm1Fb0U4OVJ4ZWJBVzRJZmFoVE12WHNLUGJFamVncml0QURLUm5Lb0JKNmY3ZHhtZmlwWTNZLXMwR21IVm5CUHhhMnRYTWRLZ21vdHRuM21OME5Yc2RCOUpmR1ZFOWJnNFlod0s0eGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 54,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 68,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 59,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 11
+      },
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "tesla",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 54
+      },
+      {
+        "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 678,
+    "dup_title": 305,
+    "too_old": 161,
+    "gate1_blocked": 23,
+    "gate2_blocked": 51,
+    "passed": 138,
+    "pass_rate": "37.0%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Nippon Steel Selects Tenova for Second Consteel EAF at Hirohata - themachinemaker.com",
+      "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+      "Shinhan keeps target for POSCO Holdings stock at KRW 490,000.00 - ad-hoc-news.de",
+      "ArcelorMittal plans to invest US$1.9 billion in Brazil - BNamericas",
+      "Nashville Predators take on Dallas Stars in Nashville - The Tennessean"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 68 則事件，焦點為Ford、斯泰蘭蒂斯、Hyundai Motor相關動態：「Hyundai Motor, Nvidia, LG Forge 2028 Autonomous Driving A...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Motor, Nvidia, LG Forge 2028 Autonomous Driving Alliance, Challenging...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "After a 12.5% decline in one month, ArcelorMittal shares recover on Tuesday -...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
