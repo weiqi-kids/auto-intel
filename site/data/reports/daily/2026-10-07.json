@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:22:27.196301Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-10-07-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Wins Three Global Content Awards - Businesskorea",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vYnE4LUFZdHN2N0MtUzJPcU0xTlA0SXNEMnQ3LUlHVWE0OVhpNlZVWDM1MmJnckJTNGMzQXFfdnZ2NWNVY1I4VG1CYjdheV9iNGtBenBJYmFDTF94dk9ZdkZRS1FNcDJ6eWJNbk9kQ2hDeVJO?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-10-07-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis R&D Documentary Wins Three Global Awards - Seoul Economic Daily",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGtoNEFLTXNtdmZ4VzIySmtlb0ZvM3YtX3NCcndEaTFZWWlaZ1RMM0RtWWRUY2hxcExjMXZsZElEWk40RXpQWU11cXpHcG1iZ21jVXdOTGRJeW5fdVBsdU1icWJtaUFCaEdWWnBTTG9xd0MwLXgzV0JBQmxPRmZjVmp1alFCVnR5V3JybUt0QnphT2VFTi1WdThSSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_mobis-2026-10-07-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis documentary on R&D at its winter test site wins three global content awards - 매일경제",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Tay1JS1l3R20tZC1aVS1VakpGSFZQejNDS05NdE5mODJEeERzQS1RMWU3c3Q5V0UzcGNleC1VTWMzZ2ZfSVpkNW5odHo3aWFINzlz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-07-059",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Higher fuel costs reshape US used-car market as EVs outperform - Anadolu Ajansı",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEZGSExJNk51NGpLd2h1R2dFUWoyTzhLSk9TQ2RnSXdMNEQ0MmFXT201WjhHdjYzeThSMUUyVkdMTG5vbHY4eWd2Vmh5cHVYczdQTXhqQklhWVJXRnhMZVR5eGVNc0lOSnN5eEdwR21HQ1BHSzNFQm9yM0lJcllWQm5BY08zWG5saVR2NnNJTzJrV1BXOHozZFhiekpVMXdPOElBSUtB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-10-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Posco joins K-GX, drives Korea steel decarbonization with HyREX - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMUZiQzl0aTFfNHlDMi1Kc1hBQ2J0QURmVkc3eW43TEpwZlZUSEJyTTRoajBWS2Y5WkF0a012LWtXVTJlenZ3dzRvQUh4WjJlNU5fRWZzZ09SWEtRYU1vSFAtTkVSekF1WG5jblJNNEpKMjBFQlJyNXRpbUhqeDM1aFln0gGWAUFVX3lxTE5vTUN2UmhzU3ptc2owVDZQaGJGMHlRcmJvNTZFa3pJdEV4dXhTSEFxdk40ZEx4REFleUVIMnFfU1NZaGFWNlFJZWFzSHJORXdWR0EyTXRvUkROTFZiS29Pblc1dUVzQVpfbWlCaTV3bDdjZUFMclpTMkRhZXRucW4zNl90aTN4Y2ZPYTcxNTNHRGdtQXA3Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 59,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 86,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 82,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 14
+      },
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "posco",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 59
+      },
+      {
+        "id": "earnings",
+        "count": 29
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 689,
+    "dup_title": 312,
+    "too_old": 142,
+    "gate1_blocked": 35,
+    "gate2_blocked": 51,
+    "passed": 149,
+    "pass_rate": "39.5%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+      "Tenova and GE Vernova selected to supply world's largest electric arc furnace to Nippon Steel's Yawa",
+      "Nippon Steel schedules second-quarter results: what it means for Nippon Steel stock - AD HOC NEWS",
+      "Nippon Steel Selects Tenova for Second Consteel EAF at Hirohata - Machine Maker",
+      "Iberville Parish considering industrial park near RiverPlex MegaPark - Donaldsonville Chief"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 86 則事件，焦點為Ford、Hyundai Motor、斯泰蘭蒂斯相關動態：「Hyundai Mobis Wins Three Global Content Awards - Business...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Wins Three Global Content Awards - Businesskorea（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis R&D Documentary Wins Three Global Awards - Seoul Economic Daily",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
