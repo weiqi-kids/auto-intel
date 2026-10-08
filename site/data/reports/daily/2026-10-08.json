@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:24:58.609693Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "toyota-2026-10-08-022",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Thai floods become 'new normal' for Toyota, Honda and other carmakers - Nikkei Asia",
+      "companies": [
+        "toyota",
+        "honda"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUdRS0RoXzhyMFQ4b1BaWjVCMGhaNkY0VkZNendTbW1XN24ydGFORDdnV0RhWEp5NW1QT2kwTUlIX3Bkc0RQem5uQWttV0Z1bmxJQ28wdEdueVkxSFRwNWg2QTczRmpmZEFJVllvRjdSOHotbTFuajQzdGNBSUh0VUwyU2VJbUZLNkUwNktlb1dXWWl4MVB0WXMwZE9OSmVvRFFmOXZ4RkFvLTBUcVh6LXYxekwwdlU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "toyota-2026-10-08-023",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hybrid-heavy Toyota closes in on GM’s U.S. sales lead - Automotive News",
+      "companies": [
+        "toyota",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMmJWMExYNWFKZThPS3RyQ2Z6dHY0LWdQRHpYNExBTzFaN2ZpTEs0T1RqaVFXVnlSeVQ1YlRyNUFTSEV0TlN4NG94RUhkTUdHTEoyT0gyUXExaXJrT0pMTkhoeU1HNnhSRnN5eFZOOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "arcelormittal-2026-10-08-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal Share: Already Down 20.5% in One Month, Steelmaker Continues to Decline - Ideal Investisseur",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3VkWVdmZC1yQmlCVnhLQjRkMS1ZaE10N08wNWFyMlB0ZmoyaHBpUXlpQUotekNYVk1WVkVtYllGM0QtZEthY3hlMk1jRGFRQjhEaDRlSEtnWmFDbzNaSEZFRmw2dlhKNlR6dTRIaWJ0YVByek9Xejc3MzRobmh1aFluX2U0QVAxU1BaN2dNNnc0LVFaa3dVcWhqY05yaDU0Y0dIRjRPLWZJd21qQm9WWUlkOW5VR2ktMlE3X1dXZDJaWWI3dUxPOU5yem9FZnY1MlBGeHcxREU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-10-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Eisenhüttenstadt restarts BF, long-term future remains uncertain - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2NNRWtlbElvaXd5Qm1VR0RYaTFqWnlaQ21EMGwyc3RIejY5bTJCMm1lb1VKb0NSaTBiWjZpWmJfQmQyUTJnNmdlV0I4UFZOMDBQZW5tbGlVaXB0MHVONG1FS1VfWUpwY1ZXMThWZ05jcDdxN2pmMUlUVTlmZF9RV2VNVFNRWE01alRraFZJb2U1aHg5dnNXQzFfdUVDeUdKd3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-10-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Eisenhüttenstadt has restarted blast furnace 5A after pr - Shanghai Metals Market",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDJ4TXU4YmNic1Q4UFVyMGtESTg1R3NhU1FQX29CdDRILW1ndEIwZVZDZzVaR1NkZmo1U3ZDcEZUR2JTSlZMUzJGMFFqNkt3aTI4cTlBWXN0NmFCZGFkZ2FaWHZIckhHTERtTzgySWQ0RkJZUVk2dWpROVZwMThxeFlpZVdjT0RYT1FCU05VVFpQOTNVQXZTQjBFdDdkRElrZF9VOXgyZFhCeFZkRnZfWlJsRDFhLWxFY29Tc2c4QmdjbG41UlVPZE9mMGNZWmZvdmtzVnNR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 84,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 77,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 8
+      },
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "arcelormittal",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "earnings",
+        "count": 33
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 686,
+    "dup_title": 321,
+    "too_old": 137,
+    "gate1_blocked": 36,
+    "gate2_blocked": 50,
+    "passed": 142,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+      "Nippon Steel stock falls 1.39 percent on October 8 - AD HOC NEWS",
+      "Nippon Steel schedules second-quarter results: what it means for Nippon Steel stock - AD HOC NEWS",
+      "POSCO Steel Walkway Becomes New Landmark in Gwangyang - Seoul Economic Daily",
+      "Iberville Parish considering industrial park near RiverPlex MegaPark - Donaldsonville Chief"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 84 則事件，焦點為大陸集團、斯泰蘭蒂斯、Ford相關動態：「Thai floods become 'new normal' for Toyota, Honda and oth...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Thai floods become 'new normal' for Toyota, Honda and other carmakers - Nikke...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hybrid-heavy Toyota closes in on GM’s U.S. sales lead - Automotive News（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
