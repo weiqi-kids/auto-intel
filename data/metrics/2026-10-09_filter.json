@@ -1,0 +1,16 @@
+{
+  "total_raw": 685,
+  "dup_title": 334,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 29,
+  "gate2_fail": 58,
+  "passed": 125,
+  "gate2_samples": [
+    "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+    "Nippon Steel stock falls 1.39 percent on October 8 - AD HOC NEWS",
+    "White House official accuses S. Korea of flooding US with subsidized steel - The Korea Times",
+    "Iberville Parish considering industrial park near RiverPlex MegaPark - Donaldsonville Chief",
+    "Why is ArcelorMittal stock rallying today? - Investing.com"
+  ]
+}
