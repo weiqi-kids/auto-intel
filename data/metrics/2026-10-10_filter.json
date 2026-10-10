@@ -1,0 +1,16 @@
+{
+  "total_raw": 679,
+  "dup_title": 376,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 33,
+  "gate2_fail": 40,
+  "passed": 84,
+  "gate2_samples": [
+    "Tenova and GE Vernova to supply world's most powerful EAF to Nippon Steel - Steel Orbis",
+    "Iberville Parish considering industrial park near RiverPlex MegaPark - Donaldsonville Chief",
+    "White House official accuses S. Korea of flooding US with subsidized steel - The Korea Times",
+    "Why is ArcelorMittal stock rallying today? - Investing.com",
+    "How Missile Strikes Will Impact ArcelorMittal Stock Investors - Simply Wall Street"
+  ]
+}
