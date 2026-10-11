@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:46:56.779654Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-10-11-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ford registers record number of recalls - PressReader",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHBrSzJZa0t0emtodnNGdlZyR1BtRVBleGJGdXVCS24xWkxJQllpb3d4ZzExOHdzeVp1RWNTTXgwSi1rajZoQ1JqVVA3clk0RGhkXzUzcGF1WTJvenpNWmhJM0VZTFhjYzU0WmdYY000QXJMclhVaGl5bDhJam5CNWthcGg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "continental-2026-10-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Volley Pirates Recap - Continental eNews",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XVmJBdGpHaGNBTC1VV0RES0hRSzE3dU9MeE9iN05rWURpci1ub1k0NUR0VTQ3MzdHQmpJNVhoM1hRY1JBaG1RVVBXYUpkZHZiQU9vTmhza3lHN2kzM1ExazJ5YS16Njk2ZTJsTw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-10-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OHSAA Girls Soccer DV Northwest District C Draw Preview - Continental eNews",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONWMzQ1JxMnlYVkxaQTlob2t5SUtXbG5md2hJbll6MldWWXZ6NXhYckVvQXIyUUZkdXVvaER4dGxyNnFmTUNPcmhnNlBsVzY0TTNfOGhfbE13bWMzeFVObHUzMzV5eDRtNEtaeDNoLXJ6ZEh2QnhadmhxVGdFcnN5enRuTENfbG5sLVRPSWdpX0ZiLXF5aTlVQTlCQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "volkswagen-2026-10-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Volkswagen CEO says transformation is ‘shared responsibility’ in appeal to EU - The Mighty 790 KFGO",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVpTUFR0TGY5S0g0OUtUSzN3OC03dWVvMy1XM09FT3NrWlg0QXVJMTBOSmhWRGlfTkFaOTNsVFB4S2Q0V0VzRlhzek5qcDRGQkZFWlp4TE0xbVpBdUNOSlMtQUhaUkp0c1hPREVwVEhKanV6VDBwQW00WjBBb0NkZ3hSVzVtdzZ1TGpIWlA4Q2lLMUlTejlrWjZCN19YcVl0bi1wRWZsOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ford-2026-10-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ford Ranger Crosspower Trademark Filings Suggest New Electrified Variants Incoming - Ford Authority",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2JIT2dnTXlZUWVscWNkanhrRXQ0c29LUklud2ZmZU9pTUpETEM0WmViWHZfZWhtZVR0dFJwc0N0b0c1Wjd2cklURTBUX3RjeVZKTzFRX2VQWEVDZjhYUURxYVUwSE1vcHRpWjFueFRrbFJHdzczT3QxeVYwVk5PRWFPVFVTbUJkWmhxQ3VSbThGZmRRMVpvM1A3MUhLZExIY3RJT2RFcHp0TWxleG1OZWpnZlMtNmp4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "volkswagen",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 658,
+    "dup_title": 387,
+    "too_old": 148,
+    "gate1_blocked": 28,
+    "gate2_blocked": 47,
+    "passed": 48,
+    "pass_rate": "17.7%",
+    "gate2_block_rate": "17.3%",
+    "gate2_samples": [
+      "White House official accuses S. Korea of flooding US with subsidized steel - The Korea Times",
+      "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+      "ArcelorMittal (ENXTAM:MT) Gains On UBS Upgrade As Fair Value Stays In Focus - Simply Wall Street",
+      "Why is ArcelorMittal stock rallying today? - Investing.com",
+      "Does ArcelorMittal (ENXTAM:MT) Have More Upside After Its Brazil Decision? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「Ford registers record number of recalls - PressReader」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford registers record number of recalls - PressReader（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Volley Pirates Recap - Continental eNews（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

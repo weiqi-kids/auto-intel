@@ -1,0 +1,16 @@
+{
+  "total_raw": 658,
+  "dup_title": 387,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 28,
+  "gate2_fail": 47,
+  "passed": 48,
+  "gate2_samples": [
+    "White House official accuses S. Korea of flooding US with subsidized steel - The Korea Times",
+    "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+    "ArcelorMittal (ENXTAM:MT) Gains On UBS Upgrade As Fair Value Stays In Focus - Simply Wall Street",
+    "Why is ArcelorMittal stock rallying today? - Investing.com",
+    "Does ArcelorMittal (ENXTAM:MT) Have More Upside After Its Brazil Decision? - Yahoo Finance"
+  ]
+}
