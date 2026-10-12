@@ -1,0 +1,16 @@
+{
+  "total_raw": 699,
+  "dup_title": 287,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 35,
+  "gate2_fail": 50,
+  "passed": 179,
+  "gate2_samples": [
+    "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+    "White House official accuses S. Korea of flooding US with subsidized steel - The Korea Times",
+    "ArcelorMittal Kryvyi Rih begins cold shutdown process following Russian missile attacks - SteelOrbis",
+    "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+    "Why is ArcelorMittal stock rallying today? - Investing.com"
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:34:42.494981Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gm-2026-10-12-099",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "GM reshapes workforce, VW reports Q3 deliveries, Compliance is changing dealership valuations - CBT News",
+      "companies": [
+        "gm",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWNDFjX21wSDNXcW1HNy1OSXYzZmIwNWx1WEc5SGpOeGR5ZG1xclRxSTBzUUJCRXJQcTFWb2I0cEhHRllyVjJ0TXBjeWJGRlB5TEM3bzcxcVdiYWk1dUVDbm9fVWk4ZjVHclUxRXhGS19vZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-12-022",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Ulsan Hyundai Mobis Beats Wonju DB for First Win After Opening Three-Game Losing Streak - news.sbs.co.kr",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DOVA2SzZTUXU3VkFpMEhxYUdWNURQSWhyeDNwMW9TcnF1SzRuTzJUQ0xLTUE4SmJGNWRtdkV5ekI4d0hlRW44LWNLNGJvREdWa0hOU2RaOHRPbzB4TzlkZXU3aHBIQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-12-085",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "This electric motorcycle company just hit 10 million battery swaps – and it’s profitable",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/10/12/this-electric-motorcycle-company-just-hit-10-million-battery-swaps-and-its-profitable/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-12-108",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Polestar reports record Q3, YTD global sales as it faces US ban - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWZWUXM5LXJGZ1pib3lCLU9LWFNHb3cxTEdleHpmMWVkemU5bl9ZZ0w1M3dsWWVUbDdEWkx3d1FwWldXRDdQbm1ic2dXWHhKUGhRZUJzQ1BXLW03MURJZjYxY3RqQ2tzVVM1MldFeUtCc2tsRExLWnE3UjVfYnY1bU1Sd2tyaDBic1F6eGVBNEFJaTRBZGZINjg4Yw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-10-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan: Nippon Steel cuts ferro chrome prices by 2.4% for Q4CY'26 - BigMint",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHlJRzB2cTJudV9TY0JrQktGNjVnMUkzOFN4MVRxWDVSOWpFQTZpZmNLdUJJUEhxR19JQWM5VEp6eDlmNHl3YjBFSmVpMlVuVi0xU0lLTi1UakFETS16MmpEc0RCVVREMWdOV3ozOC05eVZaUHFTWWlZLU45b0tYSEtQUTc4TjNEdjdxX2d4WXQzR2Zud0ttX2NtSldPeE15Mm9XbzdLYW9fTFBy?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 94,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 127,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 117,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 16
+      },
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "stellantis",
+        "count": 12
+      },
+      {
+        "id": "volkswagen",
+        "count": 7
+      },
+      {
+        "id": "tesla",
+        "count": 7
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 94
+      },
+      {
+        "id": "earnings",
+        "count": 50
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 699,
+    "dup_title": 287,
+    "too_old": 148,
+    "gate1_blocked": 35,
+    "gate2_blocked": 50,
+    "passed": 179,
+    "pass_rate": "43.4%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+      "White House official accuses S. Korea of flooding US with subsidized steel - The Korea Times",
+      "ArcelorMittal Kryvyi Rih begins cold shutdown process following Russian missile attacks - SteelOrbis",
+      "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+      "Why is ArcelorMittal stock rallying today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 127 則事件，焦點為Ford、Hyundai Motor、斯泰蘭蒂斯相關動態：「GM reshapes workforce, VW reports Q3 deliveries, Complian...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GM reshapes workforce, VW reports Q3 deliveries, Compliance is changing deale...（汽車銷量、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Ulsan Hyundai Mobis Beats Wonju DB for First Win After Opening Three-Game Los...",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
