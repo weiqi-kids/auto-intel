@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:43:55.888289Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "bridgestone-2026-10-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bernstein Sticks to Its Hold Rating for Bridgestone (BRDCF) - The Globe and Mail",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONjJfLWZfMWZ3SzJ3Yk15ZG5XZDg3QzRKanQ2bWZZUXF0RGpFbjI1OHRGci1PNVEtZjItaXFXeVFXbjNRR0pCTE9nQ2Y3aFZ1dHJ4ZFhDbUtnUExQWC00VUpfV1pqM0VULU1yTk5YTzYxbjRvT1Z0RHdXM2FxdGFzRVV2eHBrdUF5MFhFdU9ubl9fdnlSX1dOcE10UzBwWFNIZXBWc2N4UzJ4cjlwbUZJVGpxS0sxZnRQenNuR2p4dVFxcUx5N1V5cnpVemQyLWwtSll6cQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why ‘glass king’ says companies cannot just copy-paste China model overseas - South China Morning Post",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRG94M2piZUV3NVhiY2otYm1TZlViSExwc1pFd1V6ZkpwY2hqWUdpYjVldzQ4NlRFdG00TG5HT3Jrenp1QjdMdjBiMTQ5OFlORDBqM0liRHBoYzN1dE1RUFp1NWRBWFZxVDk1UTBvV09JR3B0RzZCc2JzZlFrbTdUdUlpdVRCODVDM0ZCaFpuYlpVYTFpVFVCWVZsRFZkaElBODY5Ymo1NHVIZGN3LWxIR3BzN2huMkQxMDZ0TDY4VTVFOTlnZUdDaC15QXdzclpTV0d3ZGJR0gHWAUFVX3lxTFBYbmM5aVFiTk5tQWFlOWZVZ3MzMnNGclBxNS1rZENQdkRhdUVIVE4yZkZVTnlKYkZ1REEwRHJKbEtlUW16bE52cTBfazhrdjhjQ0lSUzQ4UWlncTV2cDNOUWRWUGtnRFNlZ1diRnhZSEp4YXFxcl9zal9RazJjQ3lYdUt4ZzE2bEJyVzdUQVNwVC1Ld3BEbkg1T3lDU2xBV1V2Q2NuUmlFTUNKZ0hla3c3Nl9kMXduNGlvTXNsWWsyaUxhMkMyVGVKTE95cFdMNjFuRnZrd0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "fuyao-2026-10-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley: Fuyao Glass Q3 Earnings Likely to Turn Positive, Maintains HK$53.5 Target Price - BigGo Finance",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0MTlOZnBQZzFaYmdGWFNCSERyOVlCLUZqdlZFY3NlNmJCUVowUUF6SVBHbmNVSHZWaE8xbmFaNm0yODNzQ1NWcHFIdUxMUC1uX19MRXJTVWVaVXQ0UVVVMHVKckFlMmlGcFRoQ3F1U1FpU3ZHY2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "fuyao-2026-10-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fuyao Glass sets CNY 1.00 dividend for Fuyao Glass stock - ad-hoc-news.de",
+      "companies": [
+        "fuyao"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVVnaWNka0dTdmhvOWdfaFp1R0lhS1BVaFM2cGJOYmFWTXVBdmhCbGg3OVpjbFZieEJnYzdGRzZ2a2MyZEk1YllfRFVOOS1aZFdrQTBVeFdKVnlXZWlKLTVmYkVfbTlsSjc3U05xWUcwOThmUjJIMGFqRkNwQ0x1WlcwSVloQjhKdnZTbjFQckdVUEc3VEctaTFQV1A1RjV4d2lhZi1mZVQ1TzJNTGRxT1dBTTBMQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-10-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Irish Continental Group (LSE:ICGC) Stock Looks Fully Valued On Current Earnings - Yahoo Finance",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNWZSNUxLUThQRkNyV3ZlaS1zY1pWTjZmbm1WUVR2NzdtaXozVnlhcFlPd0U5LWxPLXVnVWoxTUZwbEEtdmo1aDVUM2dWYW8td240eXdGMTNqTDFNWmVhU3JPRktmLXhBMTlBUlZ5YmpScTAxc0RGWDRhS1kyTXV4ZlJYQ0h4RjZMUHFlS2lMMzhDT2VwcExjQUE4TjVZQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 48,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 83,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 76,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "stellantis",
+        "count": 12
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 48
+      },
+      {
+        "id": "earnings",
+        "count": 38
+      },
+      {
+        "id": "ev_penetration",
+        "count": 11
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 687,
+    "dup_title": 325,
+    "too_old": 154,
+    "gate1_blocked": 31,
+    "gate2_blocked": 54,
+    "passed": 123,
+    "pass_rate": "34.0%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "POSCO may regain Taiwan's steel plate sales after AD duty review - Yieh Corp.",
+      "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+      "Ukraine’s largest steelworks begins cold shutdown after extensive damage from Russian strikes, sayin",
+      "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+      "ArcelorMittal Kryvyi Rih begins cold shutdown process following Russian missile attacks - SteelOrbis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 83 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、大陸集團相關動態：「Bernstein Sticks to Its Hold Rating for Bridgestone (BRDC...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bernstein Sticks to Its Hold Rating for Bridgestone (BRDCF) - The Globe and Mail（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why ‘glass king’ says companies cannot just copy-paste China model overseas -...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

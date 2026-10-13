@@ -1,0 +1,16 @@
+{
+  "total_raw": 687,
+  "dup_title": 325,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 31,
+  "gate2_fail": 54,
+  "passed": 123,
+  "gate2_samples": [
+    "POSCO may regain Taiwan's steel plate sales after AD duty review - Yieh Corp.",
+    "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+    "Ukraine’s largest steelworks begins cold shutdown after extensive damage from Russian strikes, sayin",
+    "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+    "ArcelorMittal Kryvyi Rih begins cold shutdown process following Russian missile attacks - SteelOrbis"
+  ]
+}
