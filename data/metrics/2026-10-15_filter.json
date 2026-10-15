@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 307,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 35,
+  "gate2_fail": 60,
+  "passed": 162,
+  "gate2_samples": [
+    "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+    "JPMorgan turns bullish on European steel, upgrading ArcelorMittal on pullback - Investing.com",
+    "Does ArcelorMittal (ENXTAM:MT) Have More Upside After Its Brazil Decision? - Yahoo Finance",
+    "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+    "ArcelorMittal Kryvyi Rih begins cold shutdown process following Russian missile attacks - SteelOrbis"
+  ]
+}

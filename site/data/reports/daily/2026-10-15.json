@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:12:14.772767Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-10-15-025",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Volkswagen Concept Vehicle Mission Efficiency Sets World Record on Continental Tires - Continental AG",
+      "companies": [
+        "continental",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXBPSGx1bGxXVWZhamQzZGxGV1dLdlh3R2djMFgtSXNqUWFYYVlzLWw2d2dETDluWXZUSGdTWG5lbWRFaEFGbEpQMWdTSUJKQklpY3FUWEJ3LVY1cDZpZmVWa1BoMXdwb1dLUk9nb0xGQnNRU1dBZE5XNlNGS2ZtUnRLVC13RC03bkVBM21vUko4YTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-10-15-032",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Seeks First Robotics Partners in Chinese Market - 조선일보",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFBvc00wN25tUE1RZEVKa2l3WHp1Q21TV0VPYk5MT25XUG16NE8xcGZHSXJCcmxzUzlhdFpCQUZlSEpnekxKWGI1Q25VdW9haV9DbUczRkNOdXB5MU9sMDlpZW5jWGxhaExxdWhST01ZNjRoZm5Rd1dSbFotSkM1QmVHQnktbE1Q?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_mobis-2026-10-15-033",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Expands Open Innovation to Shanghai - Businesskorea",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQS1JpQ0RPTVc5QkVaUkE2RnMtV0szRWw2YkdGUXQ4RnlIYWdWdEpmWGZZMW1FMXBDc215WmtLQVZvSUNSZjlETlltbExvQ0VwTjR2a1lreHk4ZWtNOXFjOXhjQVBnNENNOTk2TVNicVIySEpC?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai_mobis-2026-10-15-036",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Holds First Mobility Day Open Innovation Event in Shanghai - Seoul Economic Daily",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUlzN3BNZ2R3SzhZNjJWSTJTM2VQVlpwc3p3Q1lNd1ZHdkhKeGVtTlRTV3FMTUg5SDBUcUlVM1hzNFh4MURCWGVMelpKOGVlZVNPQzA2eHA0amtnQTZsUXhPUlA5YzU0SnpoYVRSRUU0cU52eG1lTlZUbDFIZGdJTENWdExEdFI1eDgzeWo1WjBIRWNnUUxya0ZtSGw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "gm-2026-10-15-046",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "2 Revolutionary Developments That Should Change Your Investing Thesis on Ford and General Motors - AOL.com",
+      "companies": [
+        "gm",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUQyR0tmQ3FsS0E1bU5tZU5iR1VBdkoxQm04U2haMGJWcDNGOXJDcFRnZVdsMXA4bGtNOFNHVzg4Szd1cE0wVTJSbjhjMFd6M1R3VW1VbzZFTXB4TkpRN0dKUnd4SmszVVpSbWhfUU9zNHA3VFhYTmNCWlJCR0tLbUtKV0RSX2NuZ2QyVnF5OFB0YVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 88,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 76,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "posco",
+        "count": 12
+      },
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "saint_gobain",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "earnings",
+        "count": 39
+      },
+      {
+        "id": "ev_penetration",
+        "count": 3
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 307,
+    "too_old": 142,
+    "gate1_blocked": 35,
+    "gate2_blocked": 60,
+    "passed": 162,
+    "pass_rate": "40.6%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+      "JPMorgan turns bullish on European steel, upgrading ArcelorMittal on pullback - Investing.com",
+      "Does ArcelorMittal (ENXTAM:MT) Have More Upside After Its Brazil Decision? - Yahoo Finance",
+      "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles",
+      "ArcelorMittal Kryvyi Rih begins cold shutdown process following Russian missile attacks - SteelOrbis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 88 則事件，焦點為浦項鋼鐵、Hyundai Motor、Ford相關動態：「Volkswagen Concept Vehicle Mission Efficiency Sets World ...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Volkswagen Concept Vehicle Mission Efficiency Sets World Record on Continenta...（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Seeks First Robotics Partners in Chinese Market - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
