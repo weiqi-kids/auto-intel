@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:06:22.845196Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-16-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "“Self-destruction via 15 turnovers”: Ulsan Hyundai Mobis, which recorded the league’s most turnovers, and Head Coach Yang Dong-geun’s regret: “Errors are more fatal than missed shots” - 스타뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0ODBWOFpmd2U0LVVCYlZaeERkOTV2T1hDc0hFajRESjc0UUc5Wmx2bU8tbWJMQmRSby05ZFlXSXktSnlCbk1YRkREeU9wV0o2eTNvNWlPdGk1X2NZWjlDdnhJLVVPWnhJV1B5RHhqdlpPcFpwMURoUlFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-16-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "'Explosion of 16 three-pointers!' Goyang Sono crushes Ulsan Hyundai Mobis with archery-like precision, winning 95-82 to escape a grueling four-game losing streak [Goyang On-Site Review] - 스타뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHYmlWVXlWNkhfVUlXOWNUWE1kaXlESjgyMlZJeHBTcUFwcVBfaDJ1cDlHRzc3Q2lyWVdKSXpqU3E3Tk4ybjBYNEtwRDl6WC0xS1N0cXBoazJReThNbDdsd1AyWmxocU9RSjEzZTkzTDg2VGNDWmZCc2dB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "byd-2026-10-16-025",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Chinese Automaker BYD Outranks Chevy In JD Power 2026 Mexico Customer Service Index Study - GM Authority",
+      "companies": [
+        "byd",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmpwY0N6NWpqdjZOUjEzd2dxejlfS2g3bkM4Z2xsXy11NTFMdzFtUWFTVFV1bmR2MDZaSmh5ZXotaHh3d25fbTNDYmRrNERXanNCazluMVozdmVMUWVNbU1zLXNlZXdudTQ4RS1vc1dXQlhEcVJBX09UVzYwNXdTdHhFdU12YWhqSWxQd21jQ0dLdkk4VHdtRDVCQjRnYTlZcFQ1dzJfYXhhZ05kelpXUTJnOVpsUU9pWGt2NEp6YzZqaFYtS2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-10-16-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "\"There are too many mistakes.\"Ulsan Hyundai Mobis lost 82-95 to Goyang Sono in the first round of th.. - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOd3JJVzZaWUwxWFQ5alZxTEQzaG1IZmFsWjZPY0ZzcUJYX0VqdThMNlIxcVBEeEVyYmFiRkstb3RpT3RYNmdaMVhVYzF2LU02?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-10-16-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Ulsan Hyundai Mobis to Participate in Ulsan Whale Festival and Run Festa, Launching Localized Marketing Campaign - 스타뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fRnhRdC1hZDFrS2g0dVd1a09LbWwxSDY0RWVSNVdQZ0RSN0lKY3lIRENsSzBUZmpQOEdIQU5HVVBmQlNQSkpaMVk3b0taeHZVeldZX0RXQ0ZhREdjRmtFa1RxdkRHRFFsYnE5RURVMFlDSlp2Y040WUtB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory_days": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 55,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 50,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 11
+      },
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 4
+      },
+      {
+        "id": "toyota",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      },
+      {
+        "id": "inventory_days",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 314,
+    "too_old": 140,
+    "gate1_blocked": 30,
+    "gate2_blocked": 78,
+    "passed": 143,
+    "pass_rate": "36.6%",
+    "gate2_block_rate": "19.9%",
+    "gate2_samples": [
+      "Nomura keeps its JPY 820.00 target for Nippon Steel stock - ad-hoc-news.de",
+      "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+      "JPMorgan turns bullish on European steel, upgrading ArcelorMittal on pullback - Investing.com",
+      "Does ArcelorMittal (ENXTAM:MT) Have More Upside After Its Brazil Decision? - Yahoo Finance",
+      "ArcelorMittal Kryvyi Rih Reportedly Plans Cold Shutdown - FindArticles"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 55 則事件，焦點為特斯拉、Hyundai Motor、Hyundai Mobis相關動態：「“Self-destruction via 15 turnovers”: Ulsan Hyundai Mobis,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "“Self-destruction via 15 turnovers”: Ulsan Hyundai Mobis, which recorded the ...",
+        "level": "red"
+      },
+      {
+        "text": "'Explosion of 16 three-pointers!' Goyang Sono crushes Ulsan Hyundai Mobis wit...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

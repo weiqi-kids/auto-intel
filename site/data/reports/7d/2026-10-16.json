@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-16",
+  "date_range": {
+    "start": "2026-10-10",
+    "end": "2026-10-16"
+  },
+  "generated_at": "2026-10-16T13:06:22.952544Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_mobis-2026-10-10-036",
+      "date": "2026-10-10",
+      "title": "About Hyundai Mobis (Stove Tokenized Stock) - Coinbase",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "hyundai",
+      "company_b": "posco",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 191,
+      "last_week": 172,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 307,
+      "last_week": 312,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.05
+    },
+    "ev_penetration": {
+      "this_week": 34,
+      "last_week": 32,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": 0.03
+    },
+    "auto_sales": {
+      "this_week": 17,
+      "last_week": 16,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": -0.03
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 8,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.25
+    },
+    "auto_tariff_trade": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "inventory_days": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "arcelormittal": {
+      "event_count": 12,
+      "sentiment_avg": -0.08,
+      "rank": 9
+    },
+    "continental": {
+      "event_count": 30,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    },
+    "magna": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 12
+    },
+    "ford": {
+      "event_count": 59,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "stellantis": {
+      "event_count": 37,
+      "sentiment_avg": -0.0,
+      "rank": 3
+    },
+    "honda": {
+      "event_count": 8,
+      "sentiment_avg": 0.13,
+      "rank": 13
+    },
+    "tesla": {
+      "event_count": 32,
+      "sentiment_avg": -0.0,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "volkswagen": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 6
+    },
+    "hyundai": {
+      "event_count": 55,
+      "sentiment_avg": -0.0,
+      "rank": 2
+    },
+    "nippon_steel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "bridgestone": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "saint_gobain": {
+      "event_count": 14,
+      "sentiment_avg": -0.03,
+      "rank": 7
+    },
+    "hyundai_mobis": {
+      "event_count": 11,
+      "sentiment_avg": -0.13,
+      "rank": 10
+    },
+    "hotai": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "toyota": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "gm": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "fuyao": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "posco": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 790,
+        "last": 795,
+        "change_pct": -0.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-10",
+      "event_count": 54,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-11",
+      "event_count": 56,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-12",
+      "event_count": 168,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-13",
+      "event_count": 157,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-14",
+      "event_count": 131,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 169,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 55,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-10 ~ 2026-10-16）共 790 則事件，重點為「About Hyundai Mobis (Stove Tokenized Stock) - C...」。汽車產業通用、財報、電動車滲透率為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "大陸集團",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "麥格納",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
