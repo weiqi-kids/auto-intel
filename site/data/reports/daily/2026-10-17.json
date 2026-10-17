@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:03:21.393585Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gm-2026-10-17-014",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Here's how Ford, GM stocks did for the week ending Oct. 16 - USA Today",
+      "companies": [
+        "gm",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3VXOW9IUE1kSDk4V3l6Snd4NUJOcDg3TE9wT1U3M2dTM2R5blludUNIbXNEdkNielFET0Q1YTJiNERwSzVqcVhGWTlSdlpESU9TUXUwRHE4cVZEZVU4aGJ6T3luMGhUeEJiaGZhUmRYLVV0amRzZkVBX2FSclZIRkhIVDdWNGZxcm5MUjJlVnFaZF93YjNWcjdjODJZVFg3TUtSa19oelZCcGhSNHh1Wmwwdmx4Wm5FYjFtcWU1dFQ0WnFObWxyalptQmxjZjhXQjZfSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "stellantis-2026-10-17-017",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Weekly roundup: Stellantis Q3 shipments slip 1%, UAW Shawn Fain wins re-election, Ford opens Fathom preorder - CBT News",
+      "companies": [
+        "stellantis",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iOU9RMVNZdllNOGx0SVliTTd3b0ZBemx0TTBZazBrQTRQd0lHMTNJY0IwNGN6ckN4dFlmYXBTdGtwd3BzWXlfc3ZVTUluTUVCa1U3NjFkTndHSW9yeTZpaTJrazlqYmRuZThGWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-10-17-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Ulsan Hyundai Mobis to Hold 'Fever Kids Model' Contest... Commemorating Uniform Launch - 스타뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMaEx1SGhDMEdVSXc5VWE0bnJ4QUl1NkxlX0lKd1lRU3ZXQklQLWRNdEhpSWtKT0gwNDdpd3JsSWtCd0dnVUIycmRzWUsyM0g3WUxETWxmS0RZazFsX0N4T0w5TDc4ckdmLTNnWDRab3BHSE5rVndzcUNR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-10-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saint-Gobain announces D.S. Brown deal: what it means for Saint-Gobain stock - ad-hoc-news.de",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZFJlU09JRE91MlhfYkozYnpJbElNZ2hzRTZKNE9rZmpGb0pnQ2RndjFBN2sycnN1UkJ1Wm1JbWhKQl9LNEVxTFlOQXRlNHlDM1lCRGxxRUFMR2NQWW02b0pGR3FWLUJ3cEY5TWd3SHh6Y0pSYWdhQlk2d0h1M0lGazZodE5yVTRiMGlxVnVwN0NzMkJtR3pIeUhUbUp6MFpHbGdqdzV5RnFQMC1PM25YVmtzWHVfRTM3R2JSa01VSGFBR0c1aGN1LUVYTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-10-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental joins the 32″ club with a gravel / XC option - Canadian Cycling Magazine",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFlVelk2MEZnSGJkdk1QeFI0Z0IzaVlSdDZlUFNFX190OXdsVzEyZFlISlNXSzBmMDJyeklJM1kyQ1FRVmFkcExrdkhOSzFFMGJzSEtPUzR2d3p0REpXcm5QNnVGcjdZRlJVcFE5T2dEUV9ieGRZTXA1Q0I5Tm9XUU9raXBwc1k3bnhHZE5R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 12
+      },
+      {
+        "id": "stellantis",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 4
+      },
+      {
+        "id": "saint_gobain",
+        "count": 1
+      },
+      {
+        "id": "hyundai",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "ev_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 700,
+    "dup_title": 355,
+    "too_old": 142,
+    "gate1_blocked": 28,
+    "gate2_blocked": 74,
+    "passed": 101,
+    "pass_rate": "29.3%",
+    "gate2_block_rate": "21.4%",
+    "gate2_samples": [
+      "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+      "POSCO may regain Taiwan's steel plate sales after AD duty review - Yieh Corp.",
+      "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+      "JPMorgan turns bullish on European steel, upgrading ArcelorMittal on pullback - Investing.com",
+      "ArcelorMittal reports filings involving ArcelorMittal stock - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為Ford、斯泰蘭蒂斯、大陸集團相關動態：「Here's how Ford, GM stocks did for the week ending Oct. 1...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Here's how Ford, GM stocks did for the week ending Oct. 16 - USA Today（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Weekly roundup: Stellantis Q3 shipments slip 1%, UAW Shawn Fain wins re-elect...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

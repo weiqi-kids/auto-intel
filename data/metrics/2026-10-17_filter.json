@@ -1,0 +1,16 @@
+{
+  "total_raw": 700,
+  "dup_title": 355,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 28,
+  "gate2_fail": 74,
+  "passed": 101,
+  "gate2_samples": [
+    "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+    "POSCO may regain Taiwan's steel plate sales after AD duty review - Yieh Corp.",
+    "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+    "JPMorgan turns bullish on European steel, upgrading ArcelorMittal on pullback - Investing.com",
+    "ArcelorMittal reports filings involving ArcelorMittal stock - ad-hoc-news.de"
+  ]
+}
