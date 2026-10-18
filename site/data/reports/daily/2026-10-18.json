@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:31:22.293492Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-18-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[On-site interview] The wife who stood by him in tough times was at the arena again... Hyundai Mobis's Seo Myeong-jin explodes for 13 points: \"I am truly grateful\" - 스타뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uZ24ta2daNWdsbnRDR2dONENhNDQ3VnY0MXdaUmg5bkM5ekltX056SE5WLWRBTndGWnlGN3NzUkZPbG5zbXVsWGU1emhVOW9XNXRjODh1TTNBUXNyRTJyNkk2bVRkWUxjMVJuam5mUThwWDN6anVnVHlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-18-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Suwon On-Site Review] It's finally over! Ulsan Hyundai Mobis escapes the agonizing 15-game road losing streak... Seo Myeong-jin explodes in Q1, Lee Woo-seok contributes with 20 points - 스타뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KRkd4cUMtNGgxZDVaWkhORFRkYkpPcUkyVWdaaVdibmdzZjRJZnBXMkd4bGZIVTZPSHR6Unk4QllTellnaEJVczJhUkZXOGN2SDl3NWswdHk3SkFpOEJRQW5jTFdIWHlvSGxnSVdXcUM4Yk1WOVVzUk5B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Shinyaku (TSE:4516) Stock Looks Fairly Valued At Current Levels - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGJKWUZwelVLVUVWUTF4bHpYVW5DUXVNb1UzSWFnVFpUbTU1THd5b2xuWWNlX1lsT1NScUtWd0FNcHhyeC1NaFE1UWdidEJtN3h6TS1RS0lMWkRhZWc3eG9mRzZUQ1RidkpMM1k2OS1YTkRHN2lVeDJaUU9OaGNhTHlhcTI1VzhEbVp4OW9RT3g2TVlWbEE4eng1bw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-10-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental Drift: Encounters, North and South - Good Morning Wilton",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1hfaG9IQlFaTXhGcGphbFdSZnVCVDVKS0FzWGtMUkJLcklvQi1BaHN4cUZ4YVg1X2toTlpBQ2tQU0hFQkxiZU11cUQ4N1pOajJPX1d1cjdFdWstc0p6cERpTUJtUExFVnVjUS1XT0k0cDRuZGJLR0JtSDIzQTRwdmNBdFp5NHJERUFiTHVmdm84Wm5JTVBrQ3B3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-10-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mexican National Team Ready For Elite Pan American Continental Championship In Puebla - FightNews",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0d3YS1ZbFlXRDluempoWXZ1amVhZ0V1S1lXY3BHTl9PMmlZdEdpVGV5UXlObGRWcUlzX0NCSWlvN29uRmZYZXhVYndrdC1tMmdRSlVEeklkZ1hMcUpkekU5ZlhWVjR3Q3NmcWlDbWRFX3hHTE8wdnFUTlF4N3RXbDNtNVlRYWJVSHNvNEF6U2dKcU1GZFVQRzA3RjVMaENPMHMya013SXdLRHVYWjI1YklncDE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 11
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 2
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 2
+      },
+      {
+        "id": "tesla",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 389,
+    "too_old": 148,
+    "gate1_blocked": 27,
+    "gate2_blocked": 72,
+    "passed": 65,
+    "pass_rate": "20.8%",
+    "gate2_block_rate": "23.1%",
+    "gate2_samples": [
+      "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+      "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+      "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+      "Plans for former Bridgestone site in La Vergne revealed - WKRN News 2",
+      "Lizzy McAlpine Brings “The Over Country Tour” to Bridgestone Arena in 2027 - Wilson County Source"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Ford、Hyundai Motor、大陸集團相關動態：「[On-site interview] The wife who stood by him in tough ti...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "[On-site interview] The wife who stood by him in tough times was at the arena...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "[Suwon On-Site Review] It's finally over! Ulsan Hyundai Mobis escapes the ago...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

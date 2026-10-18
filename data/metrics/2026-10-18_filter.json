@@ -1,0 +1,16 @@
+{
+  "total_raw": 701,
+  "dup_title": 389,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 27,
+  "gate2_fail": 72,
+  "passed": 65,
+  "gate2_samples": [
+    "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+    "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+    "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+    "Plans for former Bridgestone site in La Vergne revealed - WKRN News 2",
+    "Lizzy McAlpine Brings “The Over Country Tour” to Bridgestone Arena in 2027 - Wilson County Source"
+  ]
+}
