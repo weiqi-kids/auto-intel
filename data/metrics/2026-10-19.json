@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-19",
+  "total_events": 74,
+  "by_company": {
+    "posco": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 4,
+      "sentiment_avg": 0.5
+    },
+    "volkswagen": {
+      "count": 4,
+      "sentiment_avg": 0.5
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "toyota": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "stellantis": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "yulon": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "hotai": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "gm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 34,
+      "sentiment_avg": 0.1
+    },
+    "industry_general": {
+      "count": 58,
+      "sentiment_avg": 0.03
+    },
+    "ev_penetration": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "continental",
+      "to": "volkswagen",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ]
+}

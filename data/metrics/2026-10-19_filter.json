@@ -1,0 +1,16 @@
+{
+  "total_raw": 701,
+  "dup_title": 355,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 31,
+  "gate2_fail": 63,
+  "passed": 104,
+  "gate2_samples": [
+    "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+    "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+    "ArcelorMittal (MT) call put ratio 5.1 calls to 1 put with a focus on November 65 calls into quarter ",
+    "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+    "ArcelorMittal Graduates 41 Students - The New Dawn Liberia"
+  ]
+}

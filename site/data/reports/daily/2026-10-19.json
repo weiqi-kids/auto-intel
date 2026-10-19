@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:23:26.181672Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-10-19-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Continental Concept Tire Supports VW Mission Efficiency World Record - AftermarketNews",
+      "companies": [
+        "continental",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGdlV2t6eTloNk52YU5UWXcweWdXOFpHbG80eFY3Vk1XaUhxcm1wa19zb212Qm5jSjI5Z1B1bzRyUHZLN0hmeUNXWmRySUEtbkZGeV9tY20wbV9ITDBUNGlSNTdTNHZkb2RLY2tUa3lab2lGdERFVWU4RncyVy1SR21ESzk4WllvM1poVklTRVFiSjBmYjRWV2E5TlBFaURJZ2NHVTFkZ21Jb3otTS0zRjF3T3lwQjJM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "continental-2026-10-19-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Continental tyres contribute to Volkswagen EV record - Tyrepress",
+      "companies": [
+        "continental",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWZTblRrOGxUcUREWUY0RXcwRkVyMm8yUzR4ZGtuMlVaSzVDLURBcDhPLTJlWE9uRHRLb3VLekI5WWl5S2VBU0U3X0p2d3c5UExDU2pnNXItakRVYUJ3QXZ0UkhrSXU3dzA2dHdtSnJaeWNHU3k2U0RXVkdKZEV5eUFEQ3M2TzBlbVhzUmx3MUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-10-19-017",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford sets 2027 goal to dethrone Toyota in certified used cars - TheStreet",
+      "companies": [
+        "ford",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkxka1VvM1RvYWJrZzZxSWxaSy1MT0hjYUp2UDRjbUxVRWQ4bF80YU9iODl5ekNEV0YzMHBnb1JEUWZPZk5ONDRnUXpMZDNjcFNJVHFnb2ZIMnBzXzFzMnFXdGNvaWtNUW1ULVNhRWZiaDAxSlhITldmdEU4V3lvMGFoSlZteWJCYlBBREo0REZRWHZpR0JKdmkwTW5pcms?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-10-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Posco gets final approval for $3bn low-carbon iron plant - Mining Weekly",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWFCNEtfT0FmR1JTWWVkV1dRZWdNWWVNQ1VEVERuazV0T1Y5dkFJNF93ZE1QNm5PZThCODg1X3AzLWw2RzJpQThrMnlXbkZjZ0xWeElhMTVYa1lIOF9EdjVrUVBvTEpsVlQwUDUwamVFUHVvME92a3g3a2xDUFNwaUFVTEd6UWNNdW5LUGdxU01PN2FNM2t5dGIwUHItQVNMM0QydVVR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-10-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Ocean, POSCO Target LNG Tank Costs With New Steel Technology - ChemAnalyst",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYU1hbzlPY3VEeVpsakZJVnltRWRWanFERndqWTVIb0ZqVTZ4Y0lsSGVfU2FkMEtPQ1ZCYkg5T2xRaVIzbWU3UndFd2hvX2w4TzEycFpIOXFNSXF1a0NoUlF3ajcwb3pSQTJwX0pXSVhvUU1uUk4yeTZLSFo3Y3M0RmpGS3NKNmpaY0g4b0NzekdxUG8xRUM1aWdGTE4xT0pTeXlfQmgyRXhDUm5B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "continental",
+      "to": "volkswagen",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 74,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 64,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "stellantis",
+        "count": 11
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      },
+      {
+        "id": "toyota",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "earnings",
+        "count": 34
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 355,
+    "too_old": 148,
+    "gate1_blocked": 31,
+    "gate2_blocked": 63,
+    "passed": 104,
+    "pass_rate": "30.1%",
+    "gate2_block_rate": "18.2%",
+    "gate2_samples": [
+      "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+      "Hyundai-POSCO recruiting New Orleans area workers for 37 jobs - New Orleans CityBusiness",
+      "ArcelorMittal (MT) call put ratio 5.1 calls to 1 put with a focus on November 65 calls into quarter ",
+      "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+      "ArcelorMittal Graduates 41 Students - The New Dawn Liberia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 74 則事件，焦點為斯泰蘭蒂斯、Hyundai Motor、Toyota相關動態：「Continental Concept Tire Supports VW Mission Efficiency W...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Continental Concept Tire Supports VW Mission Efficiency World Record - Afterm...（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Continental tyres contribute to Volkswagen EV record - Tyrepress（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
