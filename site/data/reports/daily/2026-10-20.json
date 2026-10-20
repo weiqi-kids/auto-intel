@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:26:27.412340Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-10-20-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Lawsuit filed over proposed funding for marine terminal near Hyundai-POSCO steel plant - WBRZ",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0dwaWZMRDRBYXVxbkhVeV9LUFhMYlNWYnU1U0k0TWtodGlPTmk4TVRrWHh2TnNtc1haM040RVlGdEowY1BpQ2dzMFhDaUVIZjVRWjF1c1JsY2NRamx6NmxLWXpWdWZJS0VtWWZHQ3pkVUtfZXlFTXUxTmtuQ0lGWmdPcWNzRUhpTVBETVRxcDVCX2tlUnhjNXFBQWNhcENMXzVfSkgxOU1ucmxfZklfR3N3bw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-10-20-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "OPmobility acquires Hyundai Mobis' lighting activity - Interplas Insights",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdEt0XzBiaExFVm9oUVI0VjNPdDBQN1Fpb19OQzVtQ2M2c0wxRHotZFR5Ui13QzMyY1ZaTmRHUXZDSUV4aFJyZ21oYjBGWk8zVURRLWlsNTRkM2ZqazZIdUhjaXgtWGhsbWJlY1ZlZjJyM1BDT25ReXBGZm1KZnUwb1p0SHNON3FyOElyWkZZZ3A3amRHQzZBS0dsRi01aTVFOW9QU1Z3cFhqWGlrdldSdXp1dWcxRGpTc2hlUFlYTU1MU1R2MWQyVEZlUzJGQlEx?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nippon_steel-2026-10-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "U.S. duty ruling sets 13.96 percent margin for Nippon Steel Trading stock - ad-hoc-news.de",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVE1cF8yMElhRWRDRno3TkFyZldJOGlEZUVSd3V3RW9IU1A1Z1VfVjVUQU9nQTVfM0JsN1Utbk0tSXdHdUU4Q2hERGxfOC13amhxajNXMzBlQ3A2TGRJb0lRdGlaWmwzaVNPaVlDbU92R1JlUVhaRlhwWWY4VEtuNVo3RTFfR0ZDLVVtanVybHh3ODZGamFKUzBzN1pQTThuNWhSUTF5aWhQd3dZMzFEd0ZvVGVXTVB5QkZNeWl3dWJfdVVUM1BKOWZfdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-10-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO and Hanwha Ocean to test high-manganese steel in LNG cargo tanks - SteelRadar",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUkd0Q3pkdEZxd2REQTVkTVc1UDljU1dlcU5QU2J4NWQtc2FoNGJ3QnFnLVRZQ0ZKU01BTFdVZllwX1I3c1lCN1FoNlhCMy1LR1BaNGdCSng3RHZubEVMZTRBVTNQQUhsZjF5bmQ3ajFVbjU5NXMtTVJkd2dnTEJtM2ZMSHEwN2lsdGhhQlFnVzNqdEVPcUNuaW1hQ1pBWVNvUlVNSG9heXRMbU0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "posco-2026-10-20-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO-backed Port Hedland HBI project in Australia receives federal environmental approval - SteelOrbis",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdG9RM2VLWndWNTBrTTl2ZWQ3ZGZ1MkZTbDNaSUN5aW52WGFjaEdaQ01WaWRvYkVabFAzdjJPeTg1MUhJbGVFQTJvY2lJVXZfTVNJX2hzSEVHc1hBZ3E0azJaTFZ0ajh5NV9FbnBxcUJXV3dlOGtuc2k1Q3VRclhDV1FuYXRLWE5ObDlMX2dSNTAxa0J5dXZfUUhHNlNlbTJ3TU4wVmhPOFRya2FSMUF6RjRYN2ZzZ1RpdGY1QURoQzFlSk5oRy1Gc2tHNjU1cUk0OGNMRXFqVThfenZaNDJBMFZkbVg2R3M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 53,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 73,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 70,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "posco",
+        "count": 5
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 53
+      },
+      {
+        "id": "earnings",
+        "count": 29
+      },
+      {
+        "id": "ev_penetration",
+        "count": 10
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 702,
+    "dup_title": 332,
+    "too_old": 148,
+    "gate1_blocked": 35,
+    "gate2_blocked": 53,
+    "passed": 134,
+    "pass_rate": "36.2%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+      "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+      "New industrial park coming to La Vergne after $90.7 million sale of Bridgestone site - Main Street M",
+      "Teddy Swims at Bridgestone: A Magical Night That Turned a First-Timer Into a Forever Fan - The Count",
+      "Fuyao Glass Industry Group Co., Ltd. (FIGIF) Stock Price, News, Quote & History - Yahoo! Finance Can"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 73 則事件，焦點為Hyundai Motor、大陸集團、浦項鋼鐵相關動態：「Lawsuit filed over proposed funding for marine terminal n...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lawsuit filed over proposed funding for marine terminal near Hyundai-POSCO st...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "OPmobility acquires Hyundai Mobis' lighting activity - Interplas Insights（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

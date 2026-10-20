@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 332,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 35,
+  "gate2_fail": 53,
+  "passed": 134,
+  "gate2_samples": [
+    "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+    "ArcelorMittal advances Dunkirk EAF, Mardyck electrical steel projects - EUROMETAL",
+    "New industrial park coming to La Vergne after $90.7 million sale of Bridgestone site - Main Street M",
+    "Teddy Swims at Bridgestone: A Magical Night That Turned a First-Timer Into a Forever Fan - The Count",
+    "Fuyao Glass Industry Group Co., Ltd. (FIGIF) Stock Price, News, Quote & History - Yahoo! Finance Can"
+  ]
+}
