@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 324,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 37,
+  "gate2_fail": 51,
+  "passed": 148,
+  "gate2_samples": [
+    "Nippon Steel stock gains 4.27 percent to EUR 3.77 after hours - AD HOC NEWS",
+    "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+    "JPMorgan turns bullish on European steel, upgrading ArcelorMittal on pullback - Investing.com",
+    "Twahyen Accuses Gov’t of ‘Warehousing’ Mineral Resources for ArcelorMittal - liberianobserver.com",
+    "JPMorgan raises ArcelorMittal stock target from EUR 57.00 to EUR 70.00 - AD HOC NEWS"
+  ]
+}

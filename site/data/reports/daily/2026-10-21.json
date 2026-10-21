@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:36:08.758199Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-21-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Accelerates Full-Cycle Collaboration as a \"K-Automotive Semiconductor Korea One Team\" - PR Newswire",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQajdJQjROV1dnWjhzV29BUGNZRm1RUGFVU29QbEdyM012c194ejlNaVRNVmg3VDRjZVJIeVN2cks4aXp5d1hILVlFa1g2Zm8xbks3SERzazQ1Q0dZUmhlZ0w4VTZUb044T2ItZ3hER3Jib0xBRFNPZTBGUEZMRl9TcjVoa0tvTTVINFM1bk44ZmI0VW92VW1FZjVjTG5PWTFXR1ZMY2Frd3pFR3RBR0dCdS1WSkJlRFpBYkZhUHFpTDFtVVY3Q3VJRWRxdnRKWVdsdWxBdk1lQkRMZDd2SWk0TV9ZNC1hQXA3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-21-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Targets 2029 for Hyundai, Kia Semiconductor Integration - 조선일보",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGdwN24wVUVLdkpwUVlicWM1Ym1yQUhmWnFrYlFCNDNVcDk1cXpnWjRkdVJCVXUzaE9GMzdJX2lfM1hqNlhtVl9EU2tSaGlZSWdndzBua0NpUXk2MnlveFQ3NHZueFB5b0h4dklzZ183OU4zWTIwaEVBeXE1R0gwWDJTdHllRVJI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-10-21-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to supply homegrown chips for Hyundai, Kia cars by 2029 - Korea JoongAng Daily",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEhpaEZOSHNoSHpmY0pIS3pheExzelJ1ejBwcGI4b2Z0ay1INHJOSzFYVlFGNFAzcHloN1M0dDBBcy1PYl9HQ3pXVDdHYk9yWkNYM2xaVjc2YXRNaWdjT2Z3OUdfTi12UnlkemNpa2NOQnFaSGMyZW8weXBQeWR6Nk9rUndsMnBBYW9xWVBBc0x5dGpQM2dmVEUxUURrR2U5WFg4bjlCdnRBWm9HZ21qUTR3SHROdTFvSUUwbTZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-10-21-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to test viability of local auto chips - The Korea Times",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnV0Rk9FcUJyNmZhSWl5VjRvVmFlUmJuV1docDFNQVZoNTZHVFFoR2F4UVBhMVczRXI2SkQ3a3dVdFVKcDBkZnZtQ05rU1FaYVMzbHpMNDl6SXM5azdtVWUyMTB1TDRSUzBkTXQ5NXE1Z2ZtWWQ5MVMwcFBpbDRhQXFibXVSZjlScGtaaktyUHhNSnFPajB1ZW9ZV3FLNjlpb1puQW1maVc2VGU2?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-10-21-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Pushes to Commercialize Locally Developed Automotive Chips - www.marketscreener.com",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVNScWRYZ05VcWJPTVlxYmkza2FkWmx1NVRHTWpSdEVsdnBLUU9ETk53NTdKLWdnY1gwNWV6b29wQ3ZoR1h4ekNoQVlqWEd0Ums0aDU3a2g4T2RfVzlkcTdsOGVYdVBKNnhtMDRCX2FPcmhIYTdkalNtWnIwakQ0WnB1R29zWk1KX2tsWnhkUWRKeVJpZ1pBUV9aN2F1RHJORnVWTVgwWmR1X2wxZzNfOEpBQlF3N3g3dHVTQU1reG1Ldmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 15,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 74,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 64,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 23
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 15
+      },
+      {
+        "id": "tesla",
+        "count": 5
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "earnings",
+        "count": 34
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 324,
+    "too_old": 148,
+    "gate1_blocked": 37,
+    "gate2_blocked": 51,
+    "passed": 148,
+    "pass_rate": "38.5%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Nippon Steel stock gains 4.27 percent to EUR 3.77 after hours - AD HOC NEWS",
+      "POSCO, Hanwha Ocean Expand High-Manganese Steel in LNG - 조선일보",
+      "JPMorgan turns bullish on European steel, upgrading ArcelorMittal on pullback - Investing.com",
+      "Twahyen Accuses Gov’t of ‘Warehousing’ Mineral Resources for ArcelorMittal - liberianobserver.com",
+      "JPMorgan raises ArcelorMittal stock target from EUR 57.00 to EUR 70.00 - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 74 則事件，焦點為Hyundai Motor、Hyundai Mobis、特斯拉相關動態：「Hyundai Mobis Accelerates Full-Cycle Collaboration as a \"...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Accelerates Full-Cycle Collaboration as a \"K-Automotive Semicon...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Targets 2029 for Hyundai, Kia Semiconductor Integration - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
