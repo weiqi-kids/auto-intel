@@ -1,0 +1,16 @@
+{
+  "total_raw": 707,
+  "dup_title": 321,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 29,
+  "gate2_fail": 50,
+  "passed": 159,
+  "gate2_samples": [
+    "NIPPON STEEL & SUMITOMO METAL CORP. (5401.F) stock price, news, quote and history - Yahoo Finance UK",
+    "Gear Trials: Bridgestone Tour B XD-7 - GolfWRX",
+    "Plans for former Bridgestone site in La Vergne revealed - WKRN News 2",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+    "JPMorgan Adjusts Fuyao Glass Industry's Price Target to HK$50 - www.marketscreener.com"
+  ]
+}
