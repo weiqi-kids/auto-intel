@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-23",
+  "total_events": 58,
+  "by_company": {
+    "nippon_steel": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "continental": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "magna": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "hyundai": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "volkswagen": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "toyota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aptiv": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 32,
+      "sentiment_avg": 0.06
+    },
+    "industry_general": {
+      "count": 33,
+      "sentiment_avg": 0.06
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "auto_sales": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ]
+}
