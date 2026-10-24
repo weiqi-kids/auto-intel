@@ -1,0 +1,16 @@
+{
+  "total_raw": 707,
+  "dup_title": 365,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 40,
+  "gate2_fail": 64,
+  "passed": 90,
+  "gate2_samples": [
+    "NIPPON STEEL & SUMITOMO METAL CORP. (5401.F) stock price, news, quote and history - Yahoo Finance UK",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "POSCO Steeleon gains quality approval to supply color steel sheets for US General Electric - Yieh Co",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+    "Tickets Now on Sale For espnW Invitational at Bridgestone - Wilson County Source"
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:31:12.056494Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-10-24-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford, GM, Stellantis stock prices fall for week ending Oct. 23 - USA Today",
+      "companies": [
+        "ford",
+        "stellantis",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMWpGZEFlbjlqS21uMDBpYXRaZDBLSEhVS2tlZGQ4VGlsWXI3Y3Jja2YxRXF2OVJ4MHY1QXRURTh3ak90VVE4WHpsejVVcW1NWTFVMU1JSktuVnk4VjJJVFNjdk1yeEd5VmVkZVlaOXBHQzBUQ2lQWXlKTlB3OXcwclZ4Z0lsVjFhdjVGY1BUTVkyeXVhMDllakRMYUdQNFYyWXhudjJJOFRPY2l4SFU0MUhBWXJNMmRMVk05MDNPVUF2SF84?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IEEFA calls for support to decarbonise India’s secondary steel sector - GMK Center",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUE1aMFhlUzdmMzQ1bnk5Qy1QeUotNlgyRUF0Z3N6blNJbEpVaTNQbUZLVEZib015QXFzSTVlSGgycTRod3pjeC1naWpwbWNUWGRNOEtZNEJvT016SXRjVHl4NTFCUkZvODZQYndZX1lPOTdBTEZ4cU91enM3WkY3aHBIeFhINmZCNU9SNGZ6MXdpMVdpS1dJbzVSWnFlZ9IBowFBVV95cUxOMllXd2JQZy1rNFh5TkYwb2ZRb1dGRGhWTzI2MUp2NU5oV1NkOVcxVEV4RktETWNkOXM0cWFzVEpaMmJvSDhwd1BjRk1oWWV3V2FRb3g1Q2tEQTBRajAtWENKNXFDV3ZLR3MtT3gwNUQ4eVJWcVQyZGxybUNhaDh3VmVGejMwZ1NtNUtwNEdTYkJReXhvZjRZMWFndEQ3dlZSM3lR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "GMA Sets 2027 Dove Awards Date Early as Christian and Gospel Music Surge - EEW Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekpoSDV5cDZlY3kwN0hlSFVLNWMxdjl4bHVVdkdtMGFORC1EcXdFcWdJcXhhSWJkQ3hzYTdxYXNFa1dPWjV6YkN1Y3pwMExnSnVhSFB1aWp4VFdMZXpkMWFYOTNtWkEtenV6QzB1MzlYek1aQnZQMDFtalV2TWowTzlObzBGanZWb2lIQ2hfT3V4TC1TejREYkx5bTZCb2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tesla-2026-10-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share - InsideEVs",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qaUZ1ZVpCRTAxRkZCZ3BiNG1pRFN3UFAwOGhPZEh1N1M3d1R2U21FRlpfemlHazFsMzJUQUlIODMwblhWT3h6RDRNbFlabkc5S25iTGxReGhxRXdmVjlBNUE3b1QxenJwZFpmUg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-24-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Mark Dodge sells new cars in all 50 states + Hendrick Automotive Group sells Calif. dealership - Car Dealership Guy News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1ZBd19uNE1HX3JLeWdJSDE4M19mc3NpN0tmdnp5TDdNZDRkek5tTmRYMEVDRm50bHdNVndJUHBDNnZ1dzN3M0VqWHAtTE1YczZ1cFpKM2dxaVdjcnR2bzYtRGJkNDhfRllxMzlXU2U2N1FkYk8zWWhLblRjLW00WDBqbDVtaEk3NDh6T3pqNllUU0ttQ2Z4dVVaUVNHZW44S0dSUG95Vm1NbDFhcU02RVVoT25ya0RTZ3FMaW4wTm1iaG5NM2ZV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "gm",
+      "to": "stellantis",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "gm",
+        "count": 3
+      },
+      {
+        "id": "stellantis",
+        "count": 2
+      },
+      {
+        "id": "posco",
+        "count": 1
+      },
+      {
+        "id": "tesla",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 707,
+    "dup_title": 365,
+    "too_old": 148,
+    "gate1_blocked": 40,
+    "gate2_blocked": 64,
+    "passed": 90,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "18.7%",
+    "gate2_samples": [
+      "NIPPON STEEL & SUMITOMO METAL CORP. (5401.F) stock price, news, quote and history - Yahoo Finance UK",
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "POSCO Steeleon gains quality approval to supply color steel sheets for US General Electric - Yieh Co",
+      "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX",
+      "Tickets Now on Sale For espnW Invitational at Bridgestone - Wilson County Source"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Ford、GM、斯泰蘭蒂斯相關動態：「Ford, GM, Stellantis stock prices fall for week ending Oc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford, GM, Stellantis stock prices fall for week ending Oct. 23 - USA Today（財報）",
+        "level": "red"
+      },
+      {
+        "text": "IEEFA calls for support to decarbonise India’s secondary steel sector - GMK C...（財報、汽車產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
