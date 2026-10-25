@@ -1,5 +1,549 @@
 [
   {
+    "id": "unknown-2026-10-25-001",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "ev_penetration"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Steel Approves $3 Billion Pennsylvania Mill Expansion - MyChesCo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVJHeGMtSDZkRDlBMkVEc2ZnRm45cnBqYXRfNXZXalZvOU91aUQxRGxWenAtRHdOdlpHRkdHQXV1MExNd3dIUk1FTEZMbkNaeGd2WFBXX2NPMFd0OWV5SmYzejVpTU1XTTlneXJiaF",
+    "sources": [
+      {
+        "name": "nippon_steel",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVJHeGMtSDZkRDlBMkVEc2ZnRm45cnBqYXRfNXZXalZvOU91aUQxRGxWenAtRHdOdlpHRkdHQXV1MExNd3dIUk1FTEZMbkNaeGd2WFBXX2NPMFd0OWV5SmYzejVpTU1XTTlneXJiaFkycWFXVTBzTElKR2ZQY24ybmtOZnVvYXQtdE8taHJ5aFNEVk92UDZLb3ZiR2pObWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-25-002",
+    "date": "2026-10-25",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is ArcelorMittal (ENXTAM:MT) Reasonable On Cash Flow After 166% Gains? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUhpLWlJVm9GV1NKRHNRYURSajNxSEdXY3BYNW9TcWtqbGkzTDVVS0RlaERvSmhXTGVVbkZTVHQ3ZmZFYXBWSGRGZUxKQlMzSmprYkFoX1BJMy1PaFZtUUtveGgzNTF5YVpHWFpKQX",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUhpLWlJVm9GV1NKRHNRYURSajNxSEdXY3BYNW9TcWtqbGkzTDVVS0RlaERvSmhXTGVVbkZTVHQ3ZmZFYXBWSGRGZUxKQlMzSmprYkFoX1BJMy1PaFZtUUtveGgzNTF5YVpHWFpKQXFYdUQ2MXU3VDJEbEozMVRvNmE1am9FS2VLOEhfbXdJQUo0QW1JMVJuTjBmeTRfbmdKZEZLYVpCYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saint_gobain-2026-10-25-003",
+    "date": "2026-10-25",
+    "companies": [
+      "saint_gobain"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Compagnie de Saint-Gobain – OTC:CODGF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lWdlVnMlFzaDNhbVNiUnZmd3dCZWYwZVlyd09Jc1FLS0xkbnI1S3pZZGpyeUdpcVVqZHR1bDZKZTB3U2NZTzZDVmQ0ajBVa1dYa0hfdG1tZm5CaW1ySFJoa2dSYmhLLW9fNVZFWm",
+    "sources": [
+      {
+        "name": "saint_gobain",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lWdlVnMlFzaDNhbVNiUnZmd3dCZWYwZVlyd09Jc1FLS0xkbnI1S3pZZGpyeUdpcVVqZHR1bDZKZTB3U2NZTzZDVmQ0ajBVa1dYa0hfdG1tZm5CaW1ySFJoa2dSYmhLLW9fNVZFWmJwRHRRQTY5aWkyY0RXbkgyWXZ5M0xha19haHQ5dmktYmlxMlBsbnNNY3UxWFV5d0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-10-25-004",
+    "date": "2026-10-25",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Former Astana WorldTour sprinter headlines major roster overhaul for Chinese Continental squad - CyclingUpToDate.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1VrSXdXMlY4VW9adzlVRUtmSzBXWFNTMXRwNzM5RmxQazk5TDZtbmFqTFhvdGZBckM5LU9GMmN4Z3ZzVUZ0ZjF5TVcwWHRMWEJmT3Q4MElJYUMtVFJRY01zZUdHQVJvUTBxNzRhM2",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1VrSXdXMlY4VW9adzlVRUtmSzBXWFNTMXRwNzM5RmxQazk5TDZtbmFqTFhvdGZBckM5LU9GMmN4Z3ZzVUZ0ZjF5TVcwWHRMWEJmT3Q4MElJYUMtVFJRY01zZUdHQVJvUTBxNzRhM2U2SUk4VmlhckhPZS0zVHU1S0FVdVNJSTRNbVpjU25Gd2l5Q0otM0Q5QTRUbXdPem40MkZoT25mNHhpd1gySFlWazl4WENnb3ZTRkV0dHlYejFlQ1hBMDI4WTFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-10-25-005",
+    "date": "2026-10-25",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mount Pleasant book another continental date as Whitmore targets continued growth - Caribbean National Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMU5oWERjWnU1ZDlIQmp5bEZHSjBDbjFGNUx3d0dMYnlwd2ktR3BaVUlXQVU1Mm91Yld1azBhQWlEOFltc3J1ZmNDUjhLckFQeTl0RDNCQXY4aVdBUGdsU3NnMXQ1QXY2cUZlcnVkbW",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMU5oWERjWnU1ZDlIQmp5bEZHSjBDbjFGNUx3d0dMYnlwd2ktR3BaVUlXQVU1Mm91Yld1azBhQWlEOFltc3J1ZmNDUjhLckFQeTl0RDNCQXY4aVdBUGdsU3NnMXQ1QXY2cUZlcnVkbWI3QW44YncxaFJXSUd3a2J1ZHhJdGZBamQtUVJZSXVCODgzZDZCd3ZZdVp3Zlc5UXMxLWQ5VHdBU1NKRFltVVplbHVHeW1IVFk2Rkw5TFNwbWpVSmNXblE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-10-25-006",
+    "date": "2026-10-25",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Auction Shocker! A 1990 Jeep Wagoneer Is Worth More Than A Decent W12 Bentley Continental GT - CarBuzz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZENsMmk1SDNUZHRWX1lJWVRTLUxXVzdxQ3JpVmdxT1NsMXNlQ3gtVFgxeVpIVDV4NWhrTzM1d3IxMERiMVprRjNfZWQwU2NCX3BiUXRmOVRwZUp1elQxYzRiVUFfN2p0OFFvaGtIel",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZENsMmk1SDNUZHRWX1lJWVRTLUxXVzdxQ3JpVmdxT1NsMXNlQ3gtVFgxeVpIVDV4NWhrTzM1d3IxMERiMVprRjNfZWQwU2NCX3BiUXRmOVRwZUp1elQxYzRiVUFfN2p0OFFvaGtIelBXVVl4M2hya2VUR19keVJNWVBSVnpFY2VCbGx5UEtuakY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "magna-2026-10-25-007",
+    "date": "2026-10-25",
+    "companies": [
+      "magna"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Magna International And 2 Canadian Dividend Stocks To Watch - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWpxb3hQaExURjFMcWJCamlfSTJzSWZzY1J0TEx0Zl9PdzlxME1BTUxfaXpqeTRMXzFONnFIMDk2VGwwUzg3RlpqQVcyTjhDb1pITmY3cmdiZVNzMHVDd0E1UlBGREpyVXBtamNUYU",
+    "sources": [
+      {
+        "name": "magna",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWpxb3hQaExURjFMcWJCamlfSTJzSWZzY1J0TEx0Zl9PdzlxME1BTUxfaXpqeTRMXzFONnFIMDk2VGwwUzg3RlpqQVcyTjhDb1pITmY3cmdiZVNzMHVDd0E1UlBGREpyVXBtamNUYUs5b3VING5mTkliT053RlpaRUg5Zm84anNoR0lhTFFQYzB0TE5lSTFvNHdiSXVmUW1iaEFmamwxMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-008",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Seoul Samsung Begins Season with Seven Straight Wins, Breaking Record - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTQ1ODlzU0dINHVTcXdXVW9UOUhabnc2Z1pNb2NMYktqZFZPaGdrV012WnhKUkdRWElXLTlmcUpoRUtTMzNLcklmZXhldERiOUcyMDBNbnV4YU9pOTUtVmR4TnFmMGFOQ2dIMnBCem",
+    "sources": [
+      {
+        "name": "hyundai_mobis",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTQ1ODlzU0dINHVTcXdXVW9UOUhabnc2Z1pNb2NMYktqZFZPaGdrV012WnhKUkdRWElXLTlmcUpoRUtTMzNLcklmZXhldERiOUcyMDBNbnV4YU9pOTUtVmR4TnFmMGFOQ2dIMnBCemFVQTE1eTRZOUNXaFFjOS1od0wzYS03UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-10-25-009",
+    "date": "2026-10-25",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen employees are threatening strikes from January 2027 if the automaker does not reverse its decision regarding wage agreements - Informat.ro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeHlBeHNPbW9ZNEdIMUY2UWlDY3ZfMmhoZ1NkRFVkVmg2Qk1fZ3d2MkY5b0hZMXhrQndLd1dqOHFwWDltckZtREJ1eXNXN1JVU2gzcjRSb3VaTmxYVFVCWHIwaDdBWXAzQTR0azFBU0",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeHlBeHNPbW9ZNEdIMUY2UWlDY3ZfMmhoZ1NkRFVkVmg2Qk1fZ3d2MkY5b0hZMXhrQndLd1dqOHFwWDltckZtREJ1eXNXN1JVU2gzcjRSb3VaTmxYVFVCWHIwaDdBWXAzQTR0azFBU0xoLUtBNldzQ0I1NnZhREpRMVNSOHBCeGpWT3NwQ2RCay1KMGg1TE84TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-10-25-010",
+    "date": "2026-10-25",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Volkswagen to axe 12,000 more jobs in Germany by 2030 - Free Malaysia Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkZDcUQybzFGSUYzU01ZaXRxOWNpWGJDWlYwcDZTYUM4WU00V0FJSTV3UTJ3WjV1dUVZdGU4RkUyLTdidTBYQWRPS3dsYjdNQjhXMFFVQjRrckl5c3ZNMjlBc2poUFVhSjdvc05TZF",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkZDcUQybzFGSUYzU01ZaXRxOWNpWGJDWlYwcDZTYUM4WU00V0FJSTV3UTJ3WjV1dUVZdGU4RkUyLTdidTBYQWRPS3dsYjdNQjhXMFFVQjRrckl5c3ZNMjlBc2poUFVhSjdvc05TZFAzT1BkU193SXJ4T1BKM0VveDFlc1RvRjNrMUZYbnA0U3VpcXRxY2xIbU0xVDYwbzg1aHA3eVc3N3cyQjNxM0FGNWppMWZMMlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-25-011",
+    "date": "2026-10-25",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai Motor, Kia's combined China sales fall below 10,000 units in Sept. - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFVUZ3FjYzlXUC12cWpvWFdSdExCV3c3aFZUeWpEeUFURHBPcU5pelVUMWFxTFpPSWFES2Jaa2N4TzNBYnExVXVDVE1ncVZlY2JRMWYzV08tTzkyMWtxNkJ6SUJ1VnhZeERaX3ZTTn",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFVUZ3FjYzlXUC12cWpvWFdSdExCV3c3aFZUeWpEeUFURHBPcU5pelVUMWFxTFpPSWFES2Jaa2N4TzNBYnExVXVDVE1ncVZlY2JRMWYzV08tTzkyMWtxNkJ6SUJ1VnhZeERaX3ZTTnA1R25PVjJvMFJQRDYxbkJOOVVLRmVrQllJSUczcDBCQ05tbUVHRDF0bW81clhaV1BRT0kyUjNnd2tMM1FuTXk1MW9xRWpGYzF0QWZzaXQxcUNrNUZzUGZBSHVDWdIBywFBVV95cUxNeFVUZ3FjYzlXUC12cWpvWFdSdExCV3c3aFZUeWpEeUFURHBPcU5pelVUMWFxTFpPSWFES2Jaa2N4TzNBYnExVXVDVE1ncVZlY2JRMWYzV08tTzkyMWtxNkJ6SUJ1VnhZeERaX3ZTTnA1R25PVjJvMFJQRDYxbkJOOVVLRmVrQllJSUczcDBCQ05tbUVHRDF0bW81clhaV1BRT0kyUjNnd2tMM1FuTXk1MW9xRWpGYzF0QWZzaXQxcUNrNUZzUGZBSHVDWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-25-012",
+    "date": "2026-10-25",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "In the domestic automobile market led by sports utility vehicles (SUVs), Hyundai Motor's Grandeur an.. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZZUw3b3gwaDhJQy1EV0pMVGJnSUJrWkpfT0dLXzZ2V3lUR0haeS10NE5HN3lCOGJhX1FTZm9JSU9FZXhWa1ZXaWZ0aVJxekVybWVJ?oc=5\" target=\"_blank\">In the domestic",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZZUw3b3gwaDhJQy1EV0pMVGJnSUJrWkpfT0dLXzZ2V3lUR0haeS10NE5HN3lCOGJhX1FTZm9JSU9FZXhWa1ZXaWZ0aVJxekVybWVJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-013",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lancia expects boost for new Gamma crossover under Fiat umbrella - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFVSa2FubXhwamxzS3dzZkFTc285S2pSVHRIeDBxbGc4eTgweG1yQmtIZXA3SUF5UFJQMFR5Wm53VUt3RmpoUTlsc2JwaUw1TlpyRHUzTjFIVVpIeHlyUkRTOG5RMFRfcDhpTC1DYV",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFVSa2FubXhwamxzS3dzZkFTc285S2pSVHRIeDBxbGc4eTgweG1yQmtIZXA3SUF5UFJQMFR5Wm53VUt3RmpoUTlsc2JwaUw1TlpyRHUzTjFIVVpIeHlyUkRTOG5RMFRfcDhpTC1DYV9Cb29LWnkxdGhKWXRhQXNPWnpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-014",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dodge Durango taillight warranty extended to 5 years - Pickup Truck +SUV Talk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxORW5yalZPQlZYNE5VVkZJTFZld0tVXzE1V19fZXFjY1Z6dUFJeV9FX0lrWndSYnlRd013VmtyUDBiTkpfMm5JOGtlcUtBb3JueWlGM3JKR3pfN0d3R0lCX2ctRFpSaS1yRHZjOE1Vbk",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORW5yalZPQlZYNE5VVkZJTFZld0tVXzE1V19fZXFjY1Z6dUFJeV9FX0lrWndSYnlRd013VmtyUDBiTkpfMm5JOGtlcUtBb3JueWlGM3JKR3pfN0d3R0lCX2ctRFpSaS1yRHZjOE1VbkpYLXc4NktuSTgwUm5Xbm9kczFMbldDZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-10-25-015",
+    "date": "2026-10-25",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis and Bolt Plan Autonomous Ride-Hailing Services in Paris From 2028 - Electric Cars Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZFNrT3RFa2J3OHBUcnhCdHM5UGlNYmJ2QmYyWGJBZGcxUzQ2cTVFclljaVl3RFlWSXloMFZSMVE5LXZrbmxOS1lHNVVhOTF5Q2pRV1RxN2lKRmJLaTE2eS1YYVJySlF1NXBPNzdyTk",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZFNrT3RFa2J3OHBUcnhCdHM5UGlNYmJ2QmYyWGJBZGcxUzQ2cTVFclljaVl3RFlWSXloMFZSMVE5LXZrbmxOS1lHNVVhOTF5Q2pRV1RxN2lKRmJLaTE2eS1YYVJySlF1NXBPNzdyTkpKSUdaTTl0b2RVaU50V1kwQVRxcWFyc1lVcGs0YkNLRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "yulon-2026-10-25-016",
+    "date": "2026-10-25",
+    "companies": [
+      "yulon"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yulon reports TWD 5.995 billion revenue: what it means for Yulon Motor stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1R6TjlVSzI1di1Ja2xhTlcwUnh0d1B2MFdNN3JKMWJtblhneWdod2VlNjN3ZTFaTnRwNkhSSU1MOVhNQi1nWVdkOVo4SGQ1TlJzdGtldnRkQ0w4bV9QN0ZQemtFU2Q1ajFLSzZUVm",
+    "sources": [
+      {
+        "name": "yulon",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1R6TjlVSzI1di1Ja2xhTlcwUnh0d1B2MFdNN3JKMWJtblhneWdod2VlNjN3ZTFaTnRwNkhSSU1MOVhNQi1nWVdkOVo4SGQ1TlJzdGtldnRkQ0w4bV9QN0ZQemtFU2Q1ajFLSzZUVms1LVQ1R1cxR3NTRkt4NXo4aUdiaFR6dnJKRkJCWVZZM0todUUzTlVDcHV5SmNnN0pyTVBWc0JIblRROXdNdGZBdzNXQ2xCVWZyMGlqLXA2Y1lkOE5Sd1dxLXZMWnhaZHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-10-25-017",
+    "date": "2026-10-25",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RoboCop Ford Taurus Project Car Coming Along Nicely: Video",
+    "summary": "Still some work to do, though.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/10/robocop-ford-taurus-project-car-coming-along-nicely-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-018",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's How A Lincoln Town Car Spare Tire Fares After Two Decades: Video",
+    "summary": "Looks like it might actually hold weight.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/10/heres-how-a-lincoln-town-car-spare-tire-fares-after-two-decades-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-10-25-019",
+    "date": "2026-10-25",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASCAR Ford Veteran First To Be Diagnosed With CTE Postmortem",
+    "summary": "His family made a sizable donation to advance CTE research.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/10/nascar-ford-veteran-first-to-be-diagnosed-with-cte-postmortem/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-10-25-020",
+    "date": "2026-10-25",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford F1 Project Adds New Engineer To Verstappen's Team",
+    "summary": "And he's no stranger to the team.",
+    "sources": [
+      {
+        "name": "ford_authority",
+        "url": "https://fordauthority.com/2026/10/ford-f1-project-adds-new-engineer-to-verstappens-team/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-021",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Named after a car, Kamrie Day was destined for auto retail success - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzFuZG5MYkc2Q3lQbGhhdUsyTmRobmtUMFVxNDJyOFhaLWRRZW9zcnRkTXctenNoSTh3c1k2dzJ3eHdndGhTVUhLeVQ4TlYwbG5IQmFiMWNyRWItdXMzM21ad0NRZ05SSTJTVTFEWk",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzFuZG5MYkc2Q3lQbGhhdUsyTmRobmtUMFVxNDJyOFhaLWRRZW9zcnRkTXctenNoSTh3c1k2dzJ3eHdndGhTVUhLeVQ4TlYwbG5IQmFiMWNyRWItdXMzM21ad0NRZ05SSTJTVTFEWkZUZnNlYVFIencwbjBRaXZ6RV85a3YwYjhIdFVPT29fdTB3cEhVNDd2ci05VWIxUklUSkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-022",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meet the young dealership leaders of our 15th 40 Under 40 class - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSS1IWlhDWDUzSTVXOW82UTRvSHFXU0xDT2JwZjdyeG5XX3NVNUVBWFI3RjJFUzNORnkySEhjQlZDZ3ZXNnFYNU1CYnUxODFCRzFJNGh1Rm1UaTJqaDJ0a1hQNkhXQ3VYaGNtazBCRH",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSS1IWlhDWDUzSTVXOW82UTRvSHFXU0xDT2JwZjdyeG5XX3NVNUVBWFI3RjJFUzNORnkySEhjQlZDZ3ZXNnFYNU1CYnUxODFCRzFJNGh1Rm1UaTJqaDJ0a1hQNkhXQ3VYaGNtazBCRHIzbk0tVEZmek1WNE95bWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-10-25-023",
+    "date": "2026-10-25",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lessons from India helped Akshay Mahajan turbocharge Ohio Ford dealership’s sales - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOck05NFNCYUZKSV9pOFh6OTNpdldfM2lBX2owX2I2TWJmSW1Wb00wTGd0VU5zVVQ3N1RscGhtQTl4RU1mZUhZZWJnd0R5Q3RYNzhnM3hvaUxiRDlTckJTb2JzbUNBY1ZTbmJiMGpJal",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOck05NFNCYUZKSV9pOFh6OTNpdldfM2lBX2owX2I2TWJmSW1Wb00wTGd0VU5zVVQ3N1RscGhtQTl4RU1mZUhZZWJnd0R5Q3RYNzhnM3hvaUxiRDlTckJTb2JzbUNBY1ZTbmJiMGpJalRPRnJkd1R1cUUycXFRcDlWTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-024",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Female service director transforms dealership’s commercial center and technician pipeline - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGFRWjRQRmg0c1VIUXIzZ2RkWTNwVVVUMjNEZDk4NmRVdEx6M0VhY1p0VXc2VDhqTTJqMDZUOHQ3NXZORXhVZGlaZF9EU3ZpaFAzRzM0ZXZDTldOZjFOdGpURGZ2ZWM5ZHRTZ3Y2dn",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGFRWjRQRmg0c1VIUXIzZ2RkWTNwVVVUMjNEZDk4NmRVdEx6M0VhY1p0VXc2VDhqTTJqMDZUOHQ3NXZORXhVZGlaZF9EU3ZpaFAzRzM0ZXZDTldOZjFOdGpURGZ2ZWM5ZHRTZ3Y2dnYyZUFqU1I3N3JTUl9jaEV0Ry1zZTlDSENxNHlN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-025",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "auto_sales",
+      "industry_general",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "US new-vehicle sales forecast to reach 1.33 mn in October 2026 - Beinsure",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWJERUdlT190U2ctZ1djOHVROFFMelYzWmgwalZvemNrQUR5RGFPT3dmdzRxbjNEcXFObGhjUHBmTHJTRHNlalNENWRUQXJtUGtFeXNMc1pGT3pEY29mY0FBdFZQY3FseUMtTVRyZz",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWJERUdlT190U2ctZ1djOHVROFFMelYzWmgwalZvemNrQUR5RGFPT3dmdzRxbjNEcXFObGhjUHBmTHJTRHNlalNENWRUQXJtUGtFeXNMc1pGT3pEY29mY0FBdFZQY3FseUMtTVRyZzdiVkdkTXFleFFaVTh3T2d4dmNRYnhaQkxBeXluMy1Ra3ZQemM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-026",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What The Numbers And \"W\" On Engine Oil Mean",
+    "summary": "Motor oil is marketed with letters and a series of numbers. What does a bottle with a &#34;W&#34; on it mean?",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2294650/what-numbers-and-w-mean-engine-oil/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-027",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Audi Is Spending $4 Billion On A New US Factory For Big SUVs",
+    "summary": "The Georgia site will create 4,500 jobs and kick off production in the early 2030s.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/813154/audi-new-factory-georgia-usa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-028",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Invest in solar and earn $3,000 a day?",
+    "summary": "<p>Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-24-001",
     "date": "2026-10-24",
     "companies": [],
@@ -364,6 +908,453 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/10/23/ron-desantis-statue-melts-in-rising-temperatures-he-spent-8-years-denying-climate-change-non-profit-350-action-art-collective-uncommon-creative-studio-and-m-ss-ng-p-eces-staged-a-striking-midterm-s/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arcelormittal-2026-10-24-020",
+    "date": "2026-10-24",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "South Africa's IDC Nears $610 Million Deal to Take Over ArcelorMittal's Struggling Unit - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9QajNDM05HTUJkZmxvQ3ZLRUlMay1GRG1leDJHZ3ZBMnhYMW5VUmJHTHJfRDBaNnpDZDFCelRuTXU3Y0lFLXR2R0tyUVpZaUVrZ2tuNnNYUHAxTi1NczZ4am9sd3c3bWpCRWdkTWNFdU",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QajNDM05HTUJkZmxvQ3ZLRUlMay1GRG1leDJHZ3ZBMnhYMW5VUmJHTHJfRDBaNnpDZDFCelRuTXU3Y0lFLXR2R0tyUVpZaUVrZ2tuNnNYUHAxTi1NczZ4am9sd3c3bWpCRWdkTWNFdU5XR3BJYlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "toyota-2026-10-24-021",
+    "date": "2026-10-24",
+    "companies": [
+      "toyota"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Not Toyota: This Truck Brand Tops JD Power's Automotive Loyalty Study In 2026 - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTB2OEZxd3BiUm5MWVFuVnZtUVRxUXotQ3pObGRBY19QVDhGS1JMYnBrcHl0OVpoYlpsSWJRb0lURDhwYmtlRjN0YTRvTW1FVGxnQ3Q3N29lNkhVWmNRUktXX01jOTEtLVI1a3ItaE",
+    "sources": [
+      {
+        "name": "toyota",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTB2OEZxd3BiUm5MWVFuVnZtUVRxUXotQ3pObGRBY19QVDhGS1JMYnBrcHl0OVpoYlpsSWJRb0lURDhwYmtlRjN0YTRvTW1FVGxnQ3Q3N29lNkhVWmNRUktXX01jOTEtLVI1a3ItaEFHQ2Y4bmQzV3N4bGRxYmgyLTU4b05BUnVaTnh0WTZFU0E3Zjk5S3M2bEM5Z0pTOWd4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-10-24-022",
+    "date": "2026-10-24",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen freezes India EV investment as JSW partnership talks continue - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMG5kajR2UWtHZDRCR2tOVTN4S2d1UXlWLXEwOU9DLVh1V2tkdzVwNEw2UDFzaEdxZFBhMy1Ud29hS1VpckF6Q3Y4b1hhRW0xT3Bndk4wZFF0cDRDb0d5akpwdExiV0VLMFdUczY4TE",
+    "sources": [
+      {
+        "name": "volkswagen",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMG5kajR2UWtHZDRCR2tOVTN4S2d1UXlWLXEwOU9DLVh1V2tkdzVwNEw2UDFzaEdxZFBhMy1Ud29hS1VpckF6Q3Y4b1hhRW0xT3Bndk4wZFF0cDRDb0d5akpwdExiV0VLMFdUczY4TEZDR0NzQ1ctQ3pIMXFza0M0ZFNvMHEyQXpPR054elpBb0xRT2YyOTQ0N2JyX0M4S3l1STJGODRlTUNPUjFPX0FvODRvMmd5Z0R6c0Q4YjFwc1l0bDNmUEVZOGdQb3RLNW5MX3JGd1pKU0lrdU5rY3REbGFkRzfSAeoBQVVfeXFMTktVY2NqQVJ2aHFfamlpU3NtdFVkRWhaSmhTLVh1d2ZudlBDV19Fd21KV3BHVUZLMnV4VjNFR213WXJEUzRJTlN3MXhCMmd1cWt1WjlxY1JUeEJET2tTWDdHTDFfdEVEU1hCQ1NzMjVmbzhtM241UkVaYkRLcHl2SDYxUllZME1oN2tLalhCRGNFR1NyTEliN3lSa1ItX2FkREw3XzQ2Z1FIS0pQczc2SzRjTFRjUEQtTE9tcW1QTTVFNjEwSWlYWFYtZ1hOY0VaaGpsMlV1QmlKSldTNTBwV3dDX0FkUzFSNDNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-10-24-023",
+    "date": "2026-10-24",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Focus Reliability Took a 25-Point Hit After Its Redesign - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2Nyd3hBckVWOTV1YU9icTc0NU9BS3d5SU8yUElnNEpja08yMkM1Q3A5VmJBRVd2em5mSFJHb2tMQ2VhNW1FZDFnWDh5VjFuT182R2tQa01nT1JQZVptMnBnV253V3J3ay1sYjY0Y2",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2Nyd3hBckVWOTV1YU9icTc0NU9BS3d5SU8yUElnNEpja08yMkM1Q3A5VmJBRVd2em5mSFJHb2tMQ2VhNW1FZDFnWDh5VjFuT182R2tQa01nT1JQZVptMnBnV253V3J3ay1sYjY0Y2VZdndlZWM1QnJCR3dYaFFndkt4ZVFnNjF1WXFaNHUzMWhPbzVuYXBxSlZ2bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-24-024",
+    "date": "2026-10-24",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai’s 2026 Tucson Hybrid Limited — The generous one - Prescott Daily Courier",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWlR0Y25nZmh2aG1tX2ZadnVZQXRrS1BKTDd1TFZGUWZ2N3lNSGFYUENZY0lNTjk4OVRxUlRrNG96UERON29jakgtVmZ5Y1pOQnRpVDRaQjNxMXNNdHV0RThqelJYdlFSQTh6bm92Tm",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWlR0Y25nZmh2aG1tX2ZadnVZQXRrS1BKTDd1TFZGUWZ2N3lNSGFYUENZY0lNTjk4OVRxUlRrNG96UERON29jakgtVmZ5Y1pOQnRpVDRaQjNxMXNNdHV0RThqelJYdlFSQTh6bm92Tm1JZUlZSWZvVTVDT2h2Y0ViWENWbThnazk2MEhYYmV3V2gxYkpsbFFfTzIyVXFEcU9xLWFGODVKZnU3QXFPOEdNa3NmRkNhQ1pDWmdYM1o2a2VZckZ6V3VCNnZNcTFrQTBicVBv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "byd-2026-10-24-025",
+    "date": "2026-10-24",
+    "companies": [
+      "byd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "U.S. Air Base in Japan Turns Away BYD Vehicles Over Security Concerns - MotorBiscuit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0dfRTRCNnRoM0xHbWpjUklleURqa1R4VTJuNk5kQ0FhQnNfbDd6REJQaHFvTUg4MDRPclJOUDV5VTNFOU1uVTMxdVdsTVU4amRDOVNGLWo0cFV3dFZRWHF5eVhnNnJ6a0ZSR3ptcU",
+    "sources": [
+      {
+        "name": "byd",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0dfRTRCNnRoM0xHbWpjUklleURqa1R4VTJuNk5kQ0FhQnNfbDd6REJQaHFvTUg4MDRPclJOUDV5VTNFOU1uVTMxdVdsTVU4amRDOVNGLWo0cFV3dFZRWHF5eVhnNnJ6a0ZSR3ptcUlwczRUbWdrVTY4TGktclBQOGZzZk43MW80N2VKVVdLNEhnams3emtaVXFORlFrLXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-10-24-026",
+    "date": "2026-10-24",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Audi’s New Spotify App Does Something Tesla’s Version Doesn’t - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjNTYi0zQWt4bDF0dW1VT2FwOS1zMVpjSXgyTnRCbE9YbEU5SXBkSTZmQllyeG9yLUkwcUw4cTN6Z1NhZDN2X0hXeHU0ZFN1eWpzOU5nSWM5TTdDUUl3TWdtU1hvMFpCR1VRZ1lZdV",
+    "sources": [
+      {
+        "name": "tesla",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjNTYi0zQWt4bDF0dW1VT2FwOS1zMVpjSXgyTnRCbE9YbEU5SXBkSTZmQllyeG9yLUkwcUw4cTN6Z1NhZDN2X0hXeHU0ZFN1eWpzOU5nSWM5TTdDUUl3TWdtU1hvMFpCR1VRZ1lZdVpvN1dsRU82VW5MbTlsWGtRbmZCRG4wMS1Zc1ZlNV9qbFQwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-10-24-027",
+    "date": "2026-10-24",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Stellantis (STLA) - Portfolio Killers: 10 US stocks that wiped out up to 66% of investors’ wealth in 2026 - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNTDRKcVBlSGh5c1NXNWNKdmpNeWFnNUNYTkhNd3l0RTl6bXp6RnRIalA0LVpXMGtOallIaG1CT0d4bHV6MExDUEJrTmtxcmcwT0duZ29LSEQwZU9zV1daeHYyZUd3cjd1Q2g1YmVzRE",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTDRKcVBlSGh5c1NXNWNKdmpNeWFnNUNYTkhNd3l0RTl6bXp6RnRIalA0LVpXMGtOallIaG1CT0d4bHV6MExDUEJrTmtxcmcwT0duZ29LSEQwZU9zV1daeHYyZUd3cjd1Q2g1YmVzREhjV01KeWtWRlY0clhDSkh6eERfMkJpVFhXcjJkV2hPNXNCcEpSOGI4amtPYkxsMVAtU0N0SjNPMG9DRUxzZHZpZ1NYQTExUkl2alE0QU1hZWpYNEJiZTlGb0ZJckhrcHVjWlVaU3hobFlQZGl3Qnd6VXVWNEZKMmtuUWNvZVd3Z3djbjU1aVNLNEhISS1RQU4wY1Jv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-10-24-028",
+    "date": "2026-10-24",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [
+      "ev_penetration",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Make or Break for Stellantis on Oct. 28: Can FaSTLAne 2030 Help Steer Carmarker From Its 52-Week Low? - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXJJUTBydEwyRlZnVUlOZXRHdnlXcXBUMXpRNUxEeDctVGpMRGpyQzB2Z0N6QURVQlVpNFItbXZnLXl2ZUFwWTh1MEVHTjE5b2lyR1VGaTYzMXdQTkFrZll2TXdyQno4RVVwV29PZE",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXJJUTBydEwyRlZnVUlOZXRHdnlXcXBUMXpRNUxEeDctVGpMRGpyQzB2Z0N6QURVQlVpNFItbXZnLXl2ZUFwWTh1MEVHTjE5b2lyR1VGaTYzMXdQTkFrZll2TXdyQno4RVVwV29PZExkaVB0ZGo3T2dKbGtZUVlsWThJcVkyTE9iNEhoNEViYnl5VHkwV3R2Q1BzLWZnS083OXlWYldNYjJtRmJrWG5yd2RWQmxSZHMwOE9pbWVubDNYTzkxRzJVb0FrVVhoR1EtWElKd3daRjBxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-029",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivian Buys Synthetic Data Startup To Boost Its Autonomy Ambitions",
+    "summary": "The deal could allow Rivian to simluate edge cases before they occur in the real world.",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/813110/rivian-third-dimension-aquisition-autonomous-driving/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-10-24-030",
+    "date": "2026-10-24",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VW's First Car Made With Xpeng Isn't Popular. Here's Why It Matters",
+    "summary": "The ID. Unyx 08 was supposed to help turn around Volkswagen in China. Instead, it struggles to move more than 250 units per month. \n",
+    "sources": [
+      {
+        "name": "insideevs",
+        "url": "https://insideevs.com/news/813123/vw-xpeng-flop-unyx-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-031",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/europeans-discovered-used-evs-from-china-price-40-under-98c7c9.jpg?quality=82&#038;strip=all&#038;w=1600\" /></d",
+    "sources": [
+      {
+        "name": "electrek",
+        "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-032",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "IIHS Put a Bunch of Crossovers Through Its Updated Crash Test. Only One Was ‘Good’",
+    "summary": "<p>The humble Nissan Kicks beat the Audi Q3 thanks to changes made to improve performance in the IIHS's updated moderate overlap front test.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/iihs",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/iihs-put-a-bunch-of-crossovers-through-its-updated-crash-test-only-one-was-good",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-033",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Someone Put 470,000 Miles on a Chevy Bolt EV. Here’s How It’s Holding Up",
+    "summary": "<p>A battery pack replacement will likely get this car past half-a-million miles.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/someone-put-470000-miles-on-a-chevy-bolt-ev-heres-how-its-holdi",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/someone-put-470000-miles-on-a-chevy-bolt-ev-heres-how-its-holding-up",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-10-24-034",
+    "date": "2026-10-24",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Hot Rod Ford Sat for 10 Years. A Lawnmower Carburetor Got the V8 Running Again",
+    "summary": "<p>Who would've thought that an itsy-bitsy carb could feed a supercharged V8? Sure, it doesn't feed it well, but it was enough to hit the road.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/t",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/this-hot-rod-ford-sat-for-10-years-a-lawnmower-carburetor-got-the-v8-running-again",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "honda-2026-10-24-035",
+    "date": "2026-10-24",
+    "companies": [
+      "honda"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Listen to the OG Honda Ridgeline’s Lead Designer Drop Some Crazy Lore",
+    "summary": "<p>Designers weren't planning on making a pickup truck. Supposedly, they were just bored and sketched whatever came to mind.</p>\n<p>The post <a href=\"https://www.thedrive.com/news/listen-to-the-og-hon",
+    "sources": [
+      {
+        "name": "thedrive",
+        "url": "https://www.thedrive.com/news/listen-to-the-og-honda-ridgelines-lead-designer-drop-some-crazy-lore",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-036",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Long Should You Let Your Car Idle After A Jump Start?",
+    "summary": "Is it ok to remove the leads right after the car starts or should you wait?",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2290805/how-long-to-run-car-after-jump-start/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-037",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Microfiber Towels Should Be Thrown Out After Hitting The Ground",
+    "summary": "Microfiber towels are a must have for any serious car care enthusiast, but if you drop one on the ground, you shouldn&#39;t be keeping it around.",
+    "sources": [
+      {
+        "name": "carscoops",
+        "url": "https://www.carscoops.com/2290765/why-microfiber-towel-cloth-throw-away-touch-ground/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tesla-2026-10-24-038",
+    "date": "2026-10-24",
+    "companies": [
+      "tesla"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferrari's CEO Praises The Tesla Roadster: 'We Have To Keep Dreaming'",
+    "summary": "Benedetto Vigna singles out the Roadster’s upside-down stunt, outside design help, and bold staging as a needed jolt for electric supercars.",
+    "sources": [
+      {
+        "name": "motor1",
+        "url": "https://www.motor1.com/news/812902/ferrari-ceo-praises-redesigned-tesla/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-039",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
+    "summary": "<p>J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: &#8220;I will gladly pay you Tuesday for a cheeseburger today.&#8221; As the Earth gets hotter and hotter, ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-2026-10-24-040",
+    "date": "2026-10-24",
+    "companies": [
+      "volkswagen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Unleashes Wicked ID. Unyx 09 in China for $27,000",
+    "summary": "<p>Volkswagen, like pretty much all foreign brands, has really been struggling in China in recent years. The whole German auto industry is basically in crisis because their cash cow in China has shift",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/24/volkswagen-unleashes-wicked-id-unyx-09-in-china-for-27000/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-041",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Energy Transition Plans Keep Freezing Today’s Demand Into Tomorrow",
+    "summary": "<p>Before choosing the replacement technology, forecast the future market. Bad assumptions about demand can make weak solutions and oversized investment opportunities look compelling.</p>\n<p>The post ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/24/energy-transition-assumptions-future-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-042",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals",
+    "summary": "<p>Initiative enables suppliers through renewable energy aggregation and supplier capability building. LAUSANNE, Switzerland &#38; SAN JOSE, California — Logitech International (SIX: LOGN) (Nasdaq: LO",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
         "type": "rss"
       }
     ]
@@ -2608,6 +3599,65 @@
       {
         "name": "motor1",
         "url": "https://www.motor1.com/news/813062/2027-toyota-crown-signia-tech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "continental-2026-10-23-116",
+    "date": "2026-10-23",
+    "companies": [
+      "continental"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Atlético rank 2nd in Brazil for continental finals in the 21st century - Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1LT2pjcVRUOWlTQ1JRX01xalYyRTRiUXd6aDhiZENfbjlfZktLRmdJNE1XYmFZU2FkaEtXc0VEWUk3QlRJcGZSR3pTeU9ONjJpV01RZDFCMmNNaGZBS2FfRUpZX0REdS12TEVJZ3RJeW",
+    "sources": [
+      {
+        "name": "continental",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LT2pjcVRUOWlTQ1JRX01xalYyRTRiUXd6aDhiZENfbjlfZktLRmdJNE1XYmFZU2FkaEtXc0VEWUk3QlRJcGZSR3pTeU9ONjJpV01RZDFCMmNNaGZBS2FfRUpZX0REdS12TEVJZ3RJeWMzYUxfb0dxRjIxTXlGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ford-2026-10-23-117",
+    "date": "2026-10-23",
+    "companies": [
+      "ford"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Motor (F) Faces Fresh Fuel Pump Legal Risk As Undervalued Narrative Holds - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU5QcTRzamhXSnVONDE2UHZTYXdITFQxLVkwX3JGU1pQS0JibXdINERhWHNobFhBbEROQjhWQ1BZTnRwODNCUGFUVjU2VUhsTl9PMlhkazlFd3VVOE1VLTJIWXpPVF9JQ0cxZWpXcj",
+    "sources": [
+      {
+        "name": "ford",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU5QcTRzamhXSnVONDE2UHZTYXdITFQxLVkwX3JGU1pQS0JibXdINERhWHNobFhBbEROQjhWQ1BZTnRwODNCUGFUVjU2VUhsTl9PMlhkazlFd3VVOE1VLTJIWXpPVF9JQ0cxZWpXcjVQMUUxSnR4WklQQzBVa0tpdFRWVEF4eWNSTW5jbXY2bFViYk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-10-23-118",
+    "date": "2026-10-23",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Dakkota Loses Stellantis Work, Will Close Detroit Plant - MoparInsiders",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTC1ZWUpaQkFtanFCMGlhamo4QzNCQW1ONnZTelg3dUt1WlNXMllKRmlwTFdNYjlNa0tlNndYSUZ3OU1wRExhU19PWW1lc1hPZ0R5dXJiZ0xrU2tXbTZZSkVqeFA3OWRWWVNfTVZyN0",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTC1ZWUpaQkFtanFCMGlhamo4QzNCQW1ONnZTelg3dUt1WlNXMllKRmlwTFdNYjlNa0tlNndYSUZ3OU1wRExhU19PWW1lc1hPZ0R5dXJiZ0xrU2tXbTZZSkVqeFA3OWRWWVNfTVZyN0FTcHgtQmFVYkxqWFczeTlWVkhjeDBrSkEy?oc=5",
         "type": "rss"
       }
     ]
@@ -5531,6 +6581,48 @@
       {
         "name": "google_auto_industry",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVElhTE1OenFlWEFrcDZRZzczQTJaQk9YYWtQdk9vaUFPVmRQeWQyd1NFLVlGUmZNLWpVTVZwa3IwYlYyWkhGb214dnZyanZDaFdZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai_mobis-2026-10-22-150",
+    "date": "2026-10-22",
+    "companies": [
+      "hyundai_mobis",
+      "hyundai"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LG's Marey Sets KBL Record with 34 Rebounds vs Hyundai Mobis - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxON3dJWGdoZnJtY2l4RVBoMTMzTlBkVmo0OVFoZGs3Z3prRk9Dc2h0WWxhd3JLb0JhWDVndVBONTlvVU1sdGlERWp6ejFTSjlzYWlLcGd6Q2JYdWdaWjd1NXIySndKTHJEeUJjM1VheF",
+    "sources": [
+      {
+        "name": "hyundai_mobis",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3dJWGdoZnJtY2l4RVBoMTMzTlBkVmo0OVFoZGs3Z3prRk9Dc2h0WWxhd3JLb0JhWDVndVBONTlvVU1sdGlERWp6ejFTSjlzYWlLcGd6Q2JYdWdaWjd1NXIySndKTHJEeUJjM1VheFM5b1VqRV9OVFNpaWExTVdWcWJCV3lLQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "honda-2026-10-22-151",
+    "date": "2026-10-22",
+    "companies": [
+      "honda"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Honda to enter ute market with rebadged Mitsubishi Triton - CarExpert",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1uU3Q0SjgyQ1lNSGJoNlVjaVlaUnhieEVXSDhYcDlaRzZjc0lsd1FMS2VsSDRRRS12R0I5VkloNThGLUdTaFh4bFA4bVZaYmlPTG9WUW9CM1hVRElaYlhqTU5PRWJOVm01MEU4RT",
+    "sources": [
+      {
+        "name": "honda",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1uU3Q0SjgyQ1lNSGJoNlVjaVlaUnhieEVXSDhYcDlaRzZjc0lsd1FMS2VsSDRRRS12R0I5VkloNThGLUdTaFh4bFA4bVZaYmlPTG9WUW9CM1hVRElaYlhqTU5PRWJOVm01MEU4RTRQNDlzMWt0NHY2bDRpSlBfZ3hIS1h1UXpRSjI5eWRGZjZEYlRzRHRWTU4tbw?oc=5",
         "type": "rss"
       }
     ]
@@ -8931,6 +10023,84 @@
     ]
   },
   {
+    "id": "arcelormittal-2026-10-21-173",
+    "date": "2026-10-21",
+    "companies": [
+      "arcelormittal"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IDC Nears $610 Million Deal for ArcelorMittal South Africa - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVFuajNmbFQ2T0pLMG5uTHdaaTNNcDZYZXFTSFFwVEZtaVBzMVJQVnVXbEc5TG9ndzZ1QTBJcXdrM0NkbTNtbks0M2NpNzk2RlZBYkVkLTFuVGs0Yk55NzZzNDlVd2ZVU1NFQnVGM1",
+    "sources": [
+      {
+        "name": "arcelormittal",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVFuajNmbFQ2T0pLMG5uTHdaaTNNcDZYZXFTSFFwVEZtaVBzMVJQVnVXbEc5TG9ndzZ1QTBJcXdrM0NkbTNtbks0M2NpNzk2RlZBYkVkLTFuVGs0Yk55NzZzNDlVd2ZVU1NFQnVGM1dEUllaUkRzRXFBOVZhTDVGcFJOSjRuLXZtd2w5VTI2MFc1d0dOY2p5WDhaNW5PSTM0aVhoU29vNXBLd19NTEpnS0pDeUdaVkFMb2xhZzRLMHdnMFhLRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fuyao-2026-10-21-174",
+    "date": "2026-10-21",
+    "companies": [
+      "fuyao"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why is Fuyao Glass stock tumbling today? By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlNrSm1zc1otc3hVZng5X0tQZnZzRnQzU0NIbjBPbFdXRDUzV0VNaEdiMUdhYVJLc3FhcFMzUmk1em85MnlOanpCUWlPTFVXNzRpVnlzMGl1Y3NlQlA5bS0zSTRHX3hUbFJyZmQ4TX",
+    "sources": [
+      {
+        "name": "fuyao",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlNrSm1zc1otc3hVZng5X0tQZnZzRnQzU0NIbjBPbFdXRDUzV0VNaEdiMUdhYVJLc3FhcFMzUmk1em85MnlOanpCUWlPTFVXNzRpVnlzMGl1Y3NlQlA5bS0zSTRHX3hUbFJyZmQ4TXBmX0pkaGVuRFd5Y18yTTB6cWZHYk1yZjBXaFN1UmFEY0lEbXhncXcyTXpldy1WaWdTWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hyundai-2026-10-21-175",
+    "date": "2026-10-21",
+    "companies": [
+      "hyundai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hyundai Metaplant donates $150K to United Way chapters - WTOC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG1uTnJQZUxqYkdMNTItbFRXdDFtbUFZVHlXU1Q5NklPTENVaFZ4MHdraE5RcDJqbVpVNXExUjQ5MG02X2ZMcmJvTTltYXVXRHduV1lHWjNBUjNXd05nZnBySlF5b2Zlc1M0N1Y2Wn",
+    "sources": [
+      {
+        "name": "hyundai",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG1uTnJQZUxqYkdMNTItbFRXdDFtbUFZVHlXU1Q5NklPTENVaFZ4MHdraE5RcDJqbVpVNXExUjQ5MG02X2ZMcmJvTTltYXVXRHduV1lHWjNBUjNXd05nZnBySlF5b2Zlc1M0N1Y2WnBnLXY5UVY3QUlLNEFJdVphQ0M2cVpYejNfY0NnN2N30gGiAUFVX3lxTFAtRm5ZYjFkMnUtU0hzX2RmaHpWRDM5NVJvUk4ybFRuWXpJTjZlZ29YYUxJWGk4X2N1bzdfY3dtek5WeS1heHBMelAydHBmbzNkS2g2Y3p2TVZtdVd0enlRVUNtYmlQTlpmQmdfUmZCTzlYaGF4N09PWDhDZHdxbUo1RkdmU2tIaU1NWUx3OGY3MVdHSFRjaE9yZzVnX3k4b29OQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hotai-2026-10-21-176",
+    "date": "2026-10-21",
+    "companies": [
+      "hotai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hotai Motor stock: Analyst target reaches TWD 600.00 for Hotai Motor stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGhDd29jc0ZIckhGREtfUWIwalhMVUJqTHBYR2E1d3RpUm9LR0dpbVNyREVZTE5VVFVsUjhoQWloVkNXcXJ6Z1RDNmVoWUR2bUlfRlVYdXY5QXJjYzBrZG9TNnJ4UG9NRmNvZlNRaU",
+    "sources": [
+      {
+        "name": "hotai",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGhDd29jc0ZIckhGREtfUWIwalhMVUJqTHBYR2E1d3RpUm9LR0dpbVNyREVZTE5VVFVsUjhoQWloVkNXcXJ6Z1RDNmVoWUR2bUlfRlVYdXY5QXJjYzBrZG9TNnJ4UG9NRmNvZlNRaURnOVRHLUZfX285SDN2MmNHTlBwVzhsa2pxcFlEcXNyaW9HZnMyX1ptV2t0MEpmSUsyckgwUU9oTHlScUlwS09icEI4ZmJjb2NQMk9LRkc4LTZHLTdncV80TmxiQ054V1JUaGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nippon_steel-2026-10-20-001",
     "date": "2026-10-20",
     "companies": [
@@ -11771,6 +12941,62 @@
       {
         "name": "google_auto_industry",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjg3dmM0bjRrX252MnluRDVVTng4M0FwMHVrMjZzQkNQaVBXQnJSOW4zWktOdFlSd3RJS3dCRHpBRWlVam5WZUtIRFIzWGxBVE9UNzRVYWxnX011SFBMZnBDR09VNFllUGlkQVhINmFiYWhsb3M1YlJhSzRaOWE0RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "stellantis-2026-10-20-147",
+    "date": "2026-10-20",
+    "companies": [
+      "stellantis"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Unifor authorizes Stellantis strike in Canada, supplier Dakkota to shut Detroit plant - CBT News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZHFkYTVFSE9qR3hkOUczb19TbUd3RTczU1lnUUN5Y0ZLMEpXSWl6TnZUOWZyeXp3TGtkbWhnSlBGWVQ0SXdQWTc5QlBwZ2tNVTQxVFVrbHZlaTFvZlY3NGtId240WWlu?oc=5\" tar",
+    "sources": [
+      {
+        "name": "stellantis",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZHFkYTVFSE9qR3hkOUczb19TbUd3RTczU1lnUUN5Y0ZLMEpXSWl6TnZUOWZyeXp3TGtkbWhnSlBGWVQ0SXdQWTc5QlBwZ2tNVTQxVFVrbHZlaTFvZlY3NGtId240WWlu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-148",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "ev_penetration",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Record Chinese turnout puts European carmakers under pressure at Paris show - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGNyYndWNklMOWpwZlJDc19MZWxKLWRYWEpzMnJtYS0zVHpTNXQ4U3ExcWd4Y1p1TjFhZTNiTk8xWmZqYkR1aXRuMlF5dnhXaUV6S0kzUjZKWmhEaEZwNDJZTDl1bTlleE13eUZJa3",
+    "sources": [
+      {
+        "name": "google_auto_industry",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGNyYndWNklMOWpwZlJDc19MZWxKLWRYWEpzMnJtYS0zVHpTNXQ4U3ExcWd4Y1p1TjFhZTNiTk8xWmZqYkR1aXRuMlF5dnhXaUV6S0kzUjZKWmhEaEZwNDJZTDl1bTlleE13eUZJa3phbWVuS1dhekZSMWt1YjVGOEJhd25COUdWWU9zZzgxQVU0WFNXSG1HRXFMM2hyT0JpT0gyTDdvb0RfdDdobWRyZ3ZCZWRwSGZRMlpmeGZBMzNteXlSZUtDMVZJYUNEVjFURE1SVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-149",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "These Are the 10 Bestselling EVs of 2026 - Car and Driver",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE4wb0E5NTBpS2xnUG5VS09LUjgyc3VmaFl5cExZdFk5RkFLbnFCbG9TWWNCT2tsc0RPNmhJeThGZ29CRUk1QkdVSHl3ZEhBTHo4YkVnQXc2S3JPcUp1M3psSG1mZTloYm1SZTgwWTBhMl",
+    "sources": [
+      {
+        "name": "google_ev_market",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wb0E5NTBpS2xnUG5VS09LUjgyc3VmaFl5cExZdFk5RkFLbnFCbG9TWWNCT2tsc0RPNmhJeThGZ29CRUk1QkdVSHl3ZEhBTHo4YkVnQXc2S3JPcUp1M3psSG1mZTloYm1SZTgwWTBhMldDeGs?oc=5",
         "type": "rss"
       }
     ]

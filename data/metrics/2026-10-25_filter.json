@@ -1,0 +1,16 @@
+{
+  "total_raw": 705,
+  "dup_title": 400,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 36,
+  "gate2_fail": 58,
+  "passed": 63,
+  "gate2_samples": [
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "NIPPON STEEL & SUMITOMO METAL CORP. (5401.F) stock price, news, quote and history - Yahoo Finance UK",
+    "POSCO Steeleon gains quality approval to supply color steel sheets for US General Electric - Yieh Co",
+    "ArcelorMittal (ENXTAM:MT) Following Its Pullback The Undervalued Case Is Back In Focus - Yahoo Finan",
+    "ArcelorMittal SA (MT) Stock Down 5.2% but Still Overvalued -- GF Score: 69/100 - GuruFocus"
+  ]
+}

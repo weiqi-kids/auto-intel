@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:31:06.219286Z",
+  "updated_at": "2026-10-25T13:04:05.357977Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -59,12 +59,12 @@
       "ticker": "5108.T",
       "currency": "JPY",
       "ar": 1137735000000,
-      "ar_prev": 1093109000000,
-      "ar_qoq": "+4%",
+      "ar_prev": 1068053000000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
       "inventory": 935234000000,
-      "inv_prev": 885458000000,
-      "inv_qoq": "+6%",
+      "inv_prev": 901321000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
@@ -126,17 +126,17 @@
       "name": "電裝",
       "ticker": "6902.T",
       "currency": "JPY",
-      "ar": 1412240000000,
-      "ar_prev": 1242986000000,
-      "ar_qoq": "+14%",
+      "ar": 1250658000000,
+      "ar_prev": 1412240000000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 1336844000000,
-      "inv_prev": 1203066000000,
-      "inv_qoq": "+11%",
+      "inventory": 1395229000000,
+      "inv_prev": 1336844000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "ford",

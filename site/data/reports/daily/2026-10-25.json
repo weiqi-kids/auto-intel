@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T13:04:12.386911Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-25-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Seoul Samsung Begins Season with Seven Straight Wins, Breaking Record - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTQ1ODlzU0dINHVTcXdXVW9UOUhabnc2Z1pNb2NMYktqZFZPaGdrV012WnhKUkdRWElXLTlmcUpoRUtTMzNLcklmZXhldERiOUcyMDBNbnV4YU9pOTUtVmR4TnFmMGFOQ2dIMnBCemFVQTE1eTRZOUNXaFFjOS1od0wzYS03UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "arcelormittal-2026-10-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is ArcelorMittal (ENXTAM:MT) Reasonable On Cash Flow After 166% Gains? - Yahoo Finance",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUhpLWlJVm9GV1NKRHNRYURSajNxSEdXY3BYNW9TcWtqbGkzTDVVS0RlaERvSmhXTGVVbkZTVHQ3ZmZFYXBWSGRGZUxKQlMzSmprYkFoX1BJMy1PaFZtUUtveGgzNTF5YVpHWFpKQXFYdUQ2MXU3VDJEbEozMVRvNmE1am9FS2VLOEhfbXdJQUo0QW1JMVJuTjBmeTRfbmdKZEZLYVpCYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "saint_gobain-2026-10-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Compagnie de Saint-Gobain – OTC:CODGF - TradingView",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2lWdlVnMlFzaDNhbVNiUnZmd3dCZWYwZVlyd09Jc1FLS0xkbnI1S3pZZGpyeUdpcVVqZHR1bDZKZTB3U2NZTzZDVmQ0ajBVa1dYa0hfdG1tZm5CaW1ySFJoa2dSYmhLLW9fNVZFWmJwRHRRQTY5aWkyY0RXbkgyWXZ5M0xha19haHQ5dmktYmlxMlBsbnNNY3UxWFV5d0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-10-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Former Astana WorldTour sprinter headlines major roster overhaul for Chinese Continental squad - CyclingUpToDate.com",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1VrSXdXMlY4VW9adzlVRUtmSzBXWFNTMXRwNzM5RmxQazk5TDZtbmFqTFhvdGZBckM5LU9GMmN4Z3ZzVUZ0ZjF5TVcwWHRMWEJmT3Q4MElJYUMtVFJRY01zZUdHQVJvUTBxNzRhM2U2SUk4VmlhckhPZS0zVHU1S0FVdVNJSTRNbVpjU25Gd2l5Q0otM0Q5QTRUbXdPem40MkZoT25mNHhpd1gySFlWazl4WENnb3ZTRkV0dHlYejFlQ1hBMDI4WTFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-10-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mount Pleasant book another continental date as Whitmore targets continued growth - Caribbean National Weekly",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMU5oWERjWnU1ZDlIQmp5bEZHSjBDbjFGNUx3d0dMYnlwd2ktR3BaVUlXQVU1Mm91Yld1azBhQWlEOFltc3J1ZmNDUjhLckFQeTl0RDNCQXY4aVdBUGdsU3NnMXQ1QXY2cUZlcnVkbWI3QW44YncxaFJXSUd3a2J1ZHhJdGZBamQtUVJZSXVCODgzZDZCd3ZZdVp3Zlc5UXMxLWQ5VHdBU1NKRFltVVplbHVHeW1IVFk2Rkw5TFNwbWpVSmNXblE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "continental",
+        "count": 3
+      },
+      {
+        "id": "volkswagen",
+        "count": 2
+      },
+      {
+        "id": "hyundai",
+        "count": 2
+      },
+      {
+        "id": "arcelormittal",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 705,
+    "dup_title": 400,
+    "too_old": 148,
+    "gate1_blocked": 36,
+    "gate2_blocked": 58,
+    "passed": 63,
+    "pass_rate": "20.7%",
+    "gate2_block_rate": "19.0%",
+    "gate2_samples": [
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "NIPPON STEEL & SUMITOMO METAL CORP. (5401.F) stock price, news, quote and history - Yahoo Finance UK",
+      "POSCO Steeleon gains quality approval to supply color steel sheets for US General Electric - Yieh Co",
+      "ArcelorMittal (ENXTAM:MT) Following Its Pullback The Undervalued Case Is Back In Focus - Yahoo Finan",
+      "ArcelorMittal SA (MT) Stock Down 5.2% but Still Overvalued -- GF Score: 69/100 - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為Ford、大陸集團、Volkswagen相關動態：「Seoul Samsung Begins Season with Seven Straight Wins, Bre...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Seoul Samsung Begins Season with Seven Straight Wins, Breaking Record - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Is ArcelorMittal (ENXTAM:MT) Reasonable On Cash Flow After 166% Gains? - Yaho...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
