@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-26",
+  "date_range": {
+    "start": "2026-10-20",
+    "end": "2026-10-26"
+  },
+  "generated_at": "2026-10-26T14:58:57.986818Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "posco-2026-10-20-002",
+      "date": "2026-10-20",
+      "title": "Lawsuit filed over proposed funding for marine terminal near Hyundai-POSCO steel plant - WBRZ",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ford",
+      "company_b": "volkswagen",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ev_penetration": {
+      "this_week": 30,
+      "last_week": 35,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.06
+    },
+    "earnings": {
+      "this_week": 183,
+      "last_week": 183,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 269,
+      "last_week": 274,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.01
+    },
+    "auto_sales": {
+      "this_week": 15,
+      "last_week": 11,
+      "week_over_week_change": "+36%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.1
+    }
+  },
+  "company_7d_summary": {
+    "nippon_steel": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "posco": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "hyundai": {
+      "event_count": 71,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "arcelormittal": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "fuyao": {
+      "event_count": 6,
+      "sentiment_avg": -0.25,
+      "rank": 16
+    },
+    "saint_gobain": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 13
+    },
+    "continental": {
+      "event_count": 15,
+      "sentiment_avg": 0.1,
+      "rank": 6
+    },
+    "volkswagen": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hyundai_mobis": {
+      "event_count": 27,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "toyota": {
+      "event_count": 12,
+      "sentiment_avg": -0.04,
+      "rank": 8
+    },
+    "ford": {
+      "event_count": 37,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 18,
+      "sentiment_avg": -0.03,
+      "rank": 5
+    },
+    "stellantis": {
+      "event_count": 27,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hotai": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "gm": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "byd": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "magna": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "honda": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "bridgestone": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 9
+    },
+    "aptiv": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 765,
+        "last": 864,
+        "change_pct": -11.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-20",
+      "event_count": 149,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 176,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 155,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 123,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 42,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 51,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 69,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-20 ~ 2026-10-26）共 765 則事件，重點為「Lawsuit filed over proposed funding for marine ...」。Fuyao Glass情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Fuyao Glass",
+        "reason": "本週情緒偏負面（-0.2），共 6 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Nippon Steel",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

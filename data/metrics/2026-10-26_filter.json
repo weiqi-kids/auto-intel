@@ -1,0 +1,16 @@
+{
+  "total_raw": 699,
+  "dup_title": 361,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 41,
+  "gate2_fail": 50,
+  "passed": 102,
+  "gate2_samples": [
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "POSCO Union Begins Indefinite Strike November 2 - 조선일보",
+    "POSCO Workers Threaten Indefinite Strike as Wage Talks Collapse - Koreabizwire",
+    "ArcelorMittal (ENXTAM:MT) Following Its Pullback The Undervalued Case Is Back In Focus - Yahoo Finan",
+    "Gear Trials 2018: Bridgestone Tour B XD-5 - GolfWRX"
+  ]
+}
