@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:12:04.046295Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-10-27-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Boston Dynamics Orders Atlas Components for 10,000 Units from South Korea — Hyundai Mobis, Samsung SDI, LG Energy Solution All In - BigGo Finance",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Nc2RLX3BSNm40dEJhdTRPdlNGZGMwZ1czS2xaVVdSZnJQNm1IXzEyanNaUklTS1luMmdBOC1tNU9FQlFpNmNGVy1WQ3RzNTBmZXJfT2xCbTZ3Vkc3NFZ0X2J6Mm8zVThoSEtQazV3bnlSS0pEZkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-10-27-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight - KED Global",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iN05zVWw5NkZFNVkwbWpfNTNweWZudDIxdDhoeVo3T190WFphckF1ODBnQTU4SndjQzFYdkNFTGF6d2NjeHdwRzMtLW0yWFlOdURUdmU0YzM3TUJtaHkzN1NuMnV5MTVmQmNF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai_mobis-2026-10-27-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Motor and Hyundai Mobis look to robotics for a new growth engine as shares rise in tandem [Stocks NOW] - 파이낸셜뉴스",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JdExaVFdMaTlKa3BwS25aTWRKUHhoY2hCTjJJRHZ3NGJSemZkQjZoNElidXU5THdfR2pyQU1KNk0tV2pmaVkzV0plc0cxV21ldkp3WnlMUlM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-10-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saurabh Kumar Appointed as Head of Cloud Centre of Excellence at ArcelorMittal Global Business & Technologies - Veloxx media",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdWFLcl8xZnVWQUpRbThaWVMwUU1BVHZnQUg3bVd3ZDBGTFFXU0JtOFRHQjk3TXFlVlFRSk14WFhkTEJ1b29US1ZMVEpoTE1ONTE1bW1iVm8tZ0Q3TzlDMGd4Qml3Sm5vVEllU2NLOXY0Q0FlMmRzaV9EYnB5WkM5dTVHczJpUzVDSzRJTEhLWWFZNmlUdmJyalZCNmszT1pDcGRlUDNPUWlQYUY2d200TVFxcDFkUXd6cXdYZFoweEpwZnV6Z0k0M0duaTg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bridgestone-2026-10-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Brisa Bridgestone Q3 Net Profit Up At 526.7 Mln Lira YoY - TradingView",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVDJtbktQRDV5QXNSSWNZSzhUWUduWTJtUGFPcWgzdFFoZ21kNVhaSVNGNlUtblNTQkI5S3kxT19HWVl2RUYwc0ZmeWotbUpfOGVYR0FIMklYTnRMamFkRGxmQXhBOEhjbGYtWkExTzd1WHhtdFBfY2JzUnZsQ29Kem5veGtuaG9yd1I5SFU1cldJbTY4aUpBWnFUYUFOX2dHMmtUQWZpMTBPS0xaaF9QQjNIc1diTnBoVG52cjk1Yl9aVEN3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory_days": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 44,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 8
+      },
+      {
+        "id": "continental",
+        "count": 6
+      },
+      {
+        "id": "stellantis",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 4
+      },
+      {
+        "id": "bridgestone",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      },
+      {
+        "id": "inventory_days",
+        "count": 1
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 697,
+    "dup_title": 334,
+    "too_old": 160,
+    "gate1_blocked": 53,
+    "gate2_blocked": 46,
+    "passed": 104,
+    "pass_rate": "28.7%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "POSCO Union Begins Indefinite Strike November 2 - 조선일보",
+      "POSCO Workers Threaten Indefinite Strike as Wage Talks Collapse - Koreabizwire",
+      "ArcelorMittal GBT appoints Preethi Panasa as head-HR operations - HR Katha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為Hyundai Motor、大陸集團、斯泰蘭蒂斯相關動態：「Boston Dynamics Orders Atlas Components for 10,000 Units ...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Boston Dynamics Orders Atlas Components for 10,000 Units from South Korea — H...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10...",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

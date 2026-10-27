@@ -1,0 +1,16 @@
+{
+  "total_raw": 697,
+  "dup_title": 334,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 53,
+  "gate2_fail": 46,
+  "passed": 104,
+  "gate2_samples": [
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "POSCO Union Begins Indefinite Strike November 2 - 조선일보",
+    "POSCO Workers Threaten Indefinite Strike as Wage Talks Collapse - Koreabizwire",
+    "ArcelorMittal GBT appoints Preethi Panasa as head-HR operations - HR Katha"
+  ]
+}
