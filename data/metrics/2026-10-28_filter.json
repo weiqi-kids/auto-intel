@@ -1,0 +1,16 @@
+{
+  "total_raw": 689,
+  "dup_title": 284,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 46,
+  "gate2_fail": 46,
+  "passed": 166,
+  "gate2_samples": [
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "POSCO Union Begins Indefinite Strike November 2 - 조선일보",
+    "ArcelorMittal GBT appoints Preethi Panasa as head-HR operations - HR Katha",
+    "ArcelorMittal Global Business & Technologies Appoints Preethi Panasa As Head Of HR Operations - BW P"
+  ]
+}

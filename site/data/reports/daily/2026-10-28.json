@@ -1,0 +1,312 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:58:36.177949Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-10-28-025",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis to Expand Global Hybrid Battery Production Network - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04d2NiR21SR2NudFRhNW01Z3lxWEUxejh4dWNaSVBGa3B3ZDdjdlMtaTZyNFVrbXVraXVlNDVTNURVcTJRNkMyS0M0aWRmbDBjNE1JclpEeEE2UmFjQzB1WUR2T0w0Yk0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-10-28-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Company Limited (Hyundai Mobis) hosts ‘Mobility App Hackathon’ for employees... ‘Mobidic,’ an AI vehicle diagnostics app, wins - 파이낸셜뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5icHlkOTZNam1ZNk81ekIyWkdkSVpWMEJmbG1henBoY3dPZDhxQW01QzlEVDBPcWw0YzNYZWQwQld6Z0JqS0s5TWNMUnFsN3ZhMFExMlRJc2s?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "stellantis-2026-10-28-049",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stellantis narrows Q3 loss as revenue rises and turnaround plan advances - CBT News",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nOVpuQnRzZ1RESVF5QnR4UE5TSzN5ZjdqTFJub2hSYTVhVzZHbXREdjJhbHpyRWo3S2NhX1VLWktGd0hjWmdqUW5OQTJzdS1ocWJvczR6ZEMwclBqd05scA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "stellantis-2026-10-28-052",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stellantis narrows quarterly loss but struggles with EV shift - Yahoo Finance",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNE5QbHdrdllBc2JRT2pWN0VQc0M3d1FzaUE1akJNbXBjNENHY1J0VDJ1QXBkdlNITnA0VUF4alNzUFRMZVB5MXpMRFhSVmtET1BlNWliUFR1LTVBLXRraHRLSTZaQ1lKOW5IdnE0YnVHZllTMzdEM2dtX3BabGFYUDR3LTJLNjF2WndiWlZVU2JSeHVodjJNcktHUFhaUXl5SG56dmtGNTN0d2Q0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-28-076",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Half of auto executives see China leading global auto industry by 2035 - Automotive News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01S2k2WWR1QlVMT1VSbTJBTUt1eDlQSVppb0tKSU1Id1MzWHRoZnhwN0FLMWhXU1R6M05DbjJGb3NkTEdXTnVuY1VzSnhMcHdybE56aEpMenpJdjJPLTVmN1JscTlFNXRiRzJ5Q3lrSFo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 60,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "parts_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ford",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "guidance",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 98,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 91,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "stellantis",
+        "count": 18
+      },
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "saint_gobain",
+        "count": 8
+      },
+      {
+        "id": "arcelormittal",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 60
+      },
+      {
+        "id": "earnings",
+        "count": 49
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 689,
+    "dup_title": 284,
+    "too_old": 147,
+    "gate1_blocked": 46,
+    "gate2_blocked": 46,
+    "passed": 166,
+    "pass_rate": "41.0%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+      "POSCO Union Begins Indefinite Strike November 2 - 조선일보",
+      "ArcelorMittal GBT appoints Preethi Panasa as head-HR operations - HR Katha",
+      "ArcelorMittal Global Business & Technologies Appoints Preethi Panasa As Head Of HR Operations - BW P"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 98 則事件，焦點為斯泰蘭蒂斯、Hyundai Motor、Ford相關動態：「Hyundai Mobis to Expand Global Hybrid Battery Production ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis to Expand Global Hybrid Battery Production Network - THE ELEC, ...（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Company Limited (Hyundai Mobis) hosts ‘Mobility App Hackathon’ ...（汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "零件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
