@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-29",
+  "total_events": 79,
+  "by_company": {
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 16,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "hyundai_mobis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "volkswagen": {
+      "count": 4,
+      "sentiment_avg": -0.88
+    },
+    "ford": {
+      "count": 15,
+      "sentiment_avg": -0.07
+    },
+    "tesla": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 8,
+      "sentiment_avg": -0.25
+    },
+    "byd": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "gm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 49,
+      "sentiment_avg": -0.14
+    },
+    "industry_general": {
+      "count": 49,
+      "sentiment_avg": -0.03
+    },
+    "guidance": {
+      "count": 6,
+      "sentiment_avg": -0.17
+    },
+    "ev_penetration": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "auto_sales": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ford",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ]
+}

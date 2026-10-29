@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T15:03:03.157828Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-10-29-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Beats KCC 96-89 to Snap Losing Streak - Seoul Economic Daily",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbU1hcFZyallrUUpTMGhQUDdrQmFRME1ZNGduOHhXb0RaelR6bV9SUVVENmhfNlBhMEttRnVUMjRLY1pCY01xQ3I3T2JYUGhqeDRPRVdXWFJxOUxwdy1taU1JLTA0Q2c1NXBhR0hQcWRMbi1xNTdfa05LZ0tJYVhTeVcyQVIyZXJnQVR6dzluWHM5ZU5mN3FF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tesla-2026-10-29-024",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Jim Farley's Ford Takes a Leaf Out of Elon Musk-Led Tesla's Book, Produces Over 5,000 Massive Aluminum Pa - Benzinga",
+      "companies": [
+        "tesla",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQY24yd1BieGlDSlZmMDlremRpQ1lhVEx3WEpEM3UtZTNoZ1Q5bDF1Tm5GZGpQWlBTTk9kc1RlX2VSODVPSFNGUE9Db3BCaVpBbXRzMXZiRm82NmJZWUJYT3lkMVBqOWZHa2JOT0tJWHRxY3FOemlGR0RWSXJJWjN4SjgwUXNoX0dnLVNxTklLbkdHMFRoeXFZMm9DUklJUlByU3gyZXNxbTdkNFU5NXJ4OEh0YVFfZHNHbmlkZ2x2V1hwUjR2YWFtVXZOUkVVM1BTcDE0dHlaNnFMOTZONXEtLUdzZnltM1luaFo3X0lfM0JvcWxhRG9FeDEtLVdzMVBUa2VaSVdESmowTFhaTk1GWU10cXBIdmxfYnlMZXU1MWxxNHVi?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-10-29-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai-POSCO Louisiana Steel receives air permit for steel mill - Gonzales Weekly Citizen",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUjVBT2ZHQVFFNU1lOFA2Ui13bTlURkhBTVVHMXJKZDF2ZHV3a19VRmN3UWZ1QVctVnIybnhWMGlkWWR3c28wb3p0Y0tVM0czblhZeTEyd2FTdmRTZnVpUkxDdlVFdDZ3QzVNWTkwMm5BRm00YWdVSFRCa29fQlRsNm5QVXM0bmpCaG5WOFZ6R1QyR1JiaDRpSzY4N1BPM3h1YU94bnJza1o5cFVER2pyQ0lhT21VOFZmTWdBcWRYdlhUTEplX09vbDA3QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "volkswagen-2026-10-29-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "VW loss widens in Q3, raising restructuring stakes - Automotive News",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11UnpjN1VTMXFsN0c5cVdpOG4zZ2xad1U2U0MyR2xvNmVtcU1aUHJpcmt3b1ZKZkF5eUJiX3h3aExuMlFwelRSR3Z6MW1xMGRRUUdOcTRMbEh3QTE5TjAtd2kya1NZT0JSbzJCZUxqX3lTdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "volkswagen-2026-10-29-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Volkswagen posts $6.5 billion quarterly loss as China slump, Porsche writedown weigh on bottom line - WRAL",
+      "companies": [
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUZnSHJRaDN5NDM3SGlIUEsxVUlVTzIxaVVRR3ZpSFUzQ2s1VHQ0QUN0VEpFcnIwc3NyakR3QXpVN01jc25LV0dlUEFlUmVDRHR5NHdJT1A5aWhFZnYyU21XcTh4WHBOOFdhakJ5Q2s0WnJkeHNaNWJwc3JZXzRwaTBKbTNBbmNpTnlnRDR3NEg2VXZuRGVTOExHR2tkcU5XTll4clBENkpTVTBscUxXYmNXNXMzRGlrSkItaUVJU2RRR0d4WTZRZGpNbnlhQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 49,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ford",
+      "to": "tesla",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 79,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 68,
+      "negative": 9
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 16
+      },
+      {
+        "id": "ford",
+        "count": 15
+      },
+      {
+        "id": "toyota",
+        "count": 8
+      },
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 49
+      },
+      {
+        "id": "industry_general",
+        "count": 49
+      },
+      {
+        "id": "guidance",
+        "count": 6
+      },
+      {
+        "id": "ev_penetration",
+        "count": 5
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 708,
+    "dup_title": 302,
+    "too_old": 153,
+    "gate1_blocked": 50,
+    "gate2_blocked": 59,
+    "passed": 144,
+    "pass_rate": "35.5%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+      "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+      "State approves Hyundai’s air permit for $5.8 billion steel mill in Ascension Parish - The Advocate",
+      "Notifications of transaction in ArcelorMittal shares – BlackRock - Yahoo Finance Singapore",
+      "BlackRock reached a potential voting-rights threshold at ArcelorMittal (MT) on October 15. - Stock T"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 79 則事件，焦點為Hyundai Motor、Ford、Toyota相關動態：「Hyundai Mobis Beats KCC 96-89 to Snap Losing Streak - Seo...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Beats KCC 96-89 to Snap Losing Streak - Seoul Economic Daily（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Jim Farley's Ford Takes a Leaf Out of Elon Musk-Led Tesla's Book, Produces Ov...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 708,
+  "dup_title": 302,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 50,
+  "gate2_fail": 59,
+  "passed": 144,
+  "gate2_samples": [
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "State approves Hyundai’s air permit for $5.8 billion steel mill in Ascension Parish - The Advocate",
+    "Notifications of transaction in ArcelorMittal shares – BlackRock - Yahoo Finance Singapore",
+    "BlackRock reached a potential voting-rights threshold at ArcelorMittal (MT) on October 15. - Stock T"
+  ]
+}
