@@ -1,0 +1,16 @@
+{
+  "total_raw": 705,
+  "dup_title": 288,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 42,
+  "gate2_fail": 62,
+  "passed": 166,
+  "gate2_samples": [
+    "Nippon Steel hopes to expand cooperation with Azerbaijan (Exclusive) - Trend News Agency",
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "Nippon Steel's US Steel to Build $3 Billion Hot Strip Mill in Pennsylvania - marketscreener.com",
+    "State approves Hyundai’s air permit for $5.8 billion steel mill in Ascension Parish - The Advocate",
+    "POSCO Union Begins Indefinite Strike November 2 - 조선일보"
+  ]
+}

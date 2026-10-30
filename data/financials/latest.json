@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:02:56.864807Z",
+  "updated_at": "2026-10-30T14:55:59.550258Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -364,17 +364,17 @@
       "name": "斯泰蘭蒂斯",
       "ticker": "STLA",
       "currency": "USD",
-      "ar": 7291000000,
-      "ar_prev": 6563000000,
-      "ar_qoq": "+11%",
+      "ar": 6063000000,
+      "ar_prev": 7291000000,
+      "ar_qoq": "-17%",
       "ar_period": "QoQ",
-      "inventory": 23987000000,
-      "inv_prev": 24960000000,
-      "inv_qoq": "-4%",
+      "inventory": 25289000000,
+      "inv_prev": 23987000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "tesla",
