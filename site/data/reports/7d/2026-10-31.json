@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-31",
+  "date_range": {
+    "start": "2026-10-25",
+    "end": "2026-10-31"
+  },
+  "generated_at": "2026-10-31T14:25:23.277199Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_mobis-2026-10-26-013",
+      "date": "2026-10-26",
+      "title": "Connected Car News: OmniAir, Arbe, MapQuest, State Farm, MIT, Google, Apple, NXP, Mobileye, TÜV SÜD, Audi, Spotify, Mercedes-Benz, Hyundai Mobis & Samsung | auto connected car news - AUTO Connected Car News",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "3m",
+      "company_b": "bridgestone",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "ford",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ev_penetration": {
+      "this_week": 32,
+      "last_week": 32,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.05
+    },
+    "earnings": {
+      "this_week": 224,
+      "last_week": 179,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": -0.03
+    },
+    "industry_general": {
+      "this_week": 285,
+      "last_week": 275,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.02
+    },
+    "auto_sales": {
+      "this_week": 9,
+      "last_week": 12,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 23,
+      "last_week": 1,
+      "week_over_week_change": "+2200%",
+      "sentiment_this_week": -0.06
+    },
+    "inventory_days": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "parts_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "arcelormittal": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "saint_gobain": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "continental": {
+      "event_count": 19,
+      "sentiment_avg": 0.03,
+      "rank": 8
+    },
+    "magna": {
+      "event_count": 21,
+      "sentiment_avg": 0.02,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 19,
+      "sentiment_avg": -0.24,
+      "rank": 9
+    },
+    "hyundai": {
+      "event_count": 75,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "stellantis": {
+      "event_count": 43,
+      "sentiment_avg": -0.09,
+      "rank": 3
+    },
+    "yulon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "ford": {
+      "event_count": 58,
+      "sentiment_avg": -0.02,
+      "rank": 2
+    },
+    "nippon_steel": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "posco": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "bridgestone": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hyundai_mobis": {
+      "event_count": 20,
+      "sentiment_avg": 0.02,
+      "rank": 7
+    },
+    "toyota": {
+      "event_count": 22,
+      "sentiment_avg": -0.02,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 8,
+      "sentiment_avg": -0.0,
+      "rank": 13
+    },
+    "tesla": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 20
+    },
+    "gm": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "3m": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "honda": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 804,
+        "last": 854,
+        "change_pct": -5.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-25",
+      "event_count": 56,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 124,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 116,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 172,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 134,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-10-30",
+      "event_count": 172,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 30,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-25 ~ 2026-10-31）共 804 則事件，重點為「Connected Car News: OmniAir, Arbe, MapQuest, St...」。Volkswagen、Fuyao Glass情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Volkswagen",
+        "reason": "本週情緒偏負面（-0.2），共 19 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Fuyao Glass",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "安賽樂米塔爾",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

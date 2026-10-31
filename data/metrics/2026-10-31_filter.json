@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 354,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 38,
+  "gate2_fail": 53,
+  "passed": 115,
+  "gate2_samples": [
+    "Nippon Steel hopes to expand cooperation with Azerbaijan (Exclusive) - Trend News Agency",
+    "Hyundai-POSCO Louisiana Steel receives air permit for steel mill - Yahoo",
+    "State approves Hyundai’s air permit for $5.8 billion steel mill in Ascension Parish - The Advocate",
+    "Kryvyi Rih urges ArcelorMittal to reconsider its decision to shut down its Ukrainian asset - GMK Cen",
+    "Short-Term Headwinds Facing the Construction Sector Overshadow Saint-Gobain's Growth Prospects - Mor"
+  ]
+}

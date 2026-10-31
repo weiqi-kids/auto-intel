@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:55:59.550258Z",
+  "updated_at": "2026-10-31T14:25:17.774112Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "比亚迪",
       "ticker": "1211.HK",
       "currency": "HKD",
-      "ar": 50126342000,
-      "ar_prev": 44222213000,
+      "ar": 56472621000,
+      "ar_prev": 50126342000,
       "ar_qoq": "+13%",
       "ar_period": "QoQ",
-      "inventory": 189990772000,
-      "inv_prev": 160413531000,
-      "inv_qoq": "+18%",
+      "inventory": 221577509000,
+      "inv_prev": 189990772000,
+      "inv_qoq": "+17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "cheng_shin",
@@ -143,17 +143,17 @@
       "name": "福特",
       "ticker": "F",
       "currency": "USD",
-      "ar": 63331000000,
-      "ar_prev": 63412000000,
-      "ar_qoq": "-0%",
+      "ar": 65619000000,
+      "ar_prev": 63331000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 16946000000,
-      "inv_prev": 16537000000,
-      "inv_qoq": "+2%",
+      "inventory": 16232000000,
+      "inv_prev": 16946000000,
+      "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "fuyao",
@@ -449,17 +449,17 @@
       "name": "大眾",
       "ticker": "VOW3.DE",
       "currency": "EUR",
-      "ar": 94739000000,
-      "ar_prev": 92324000000,
-      "ar_qoq": "+3%",
+      "ar": 94028000000,
+      "ar_prev": 94739000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 57363000000,
-      "inv_prev": 58158000000,
-      "inv_qoq": "-1%",
+      "inventory": 59015000000,
+      "inv_prev": 57363000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "yulon",
