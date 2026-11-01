@@ -1,0 +1,16 @@
+{
+  "total_raw": 699,
+  "dup_title": 399,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 35,
+  "gate2_fail": 54,
+  "passed": 56,
+  "gate2_samples": [
+    "Nippon Steel to spend $3B on subsidiary US Steel's mill - NHKニュース",
+    "POSCO Union Begins Indefinite Strike November 2 - 조선일보",
+    "The Most Important Lineup at Bridgestone Might Be the Food - Sports Illustrated",
+    "Fuyao Glass: Leading Global Market Top Position, 4 Key Inspirations for Chinese Enterprises - 36Kr",
+    "Short-Term Headwinds Facing the Construction Sector Overshadow Saint-Gobain's Growth Prospects - Mor"
+  ]
+}
