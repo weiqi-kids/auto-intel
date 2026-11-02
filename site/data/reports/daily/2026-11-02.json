@@ -1,0 +1,304 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T18:01:15.624680Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-11-02-044",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford vows transparency on data sharing after GM’s $220 million settlement - Automotive News",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZWV4OURubTRFQ1p5aUlNSHVJTG1NNG1pQm9NVmp4YU1QN1VUR2NfTWdnM1kxNE9jRTgyQVMzZkJtc3RicTh6LTdDZTBiT3ZuTTRWTERrUFJIU3pNeVJhX3FDcnR6cXBUUDdz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-11-02-045",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford and GM Are Taking Different Roads, but 1 Stock Races Ahead - Barchart.com",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1Vhc0dRelZhdVlfZnpKN0F1bmI0eGFDX3l4TmR1M2pseGxNS0NQM3RLc2g1NEpQRzBOc2NieUZCajQxXzFGWFRUeDg1c2lBcmZmaDhxNEh5Vlp0cTBjM05mbWtRV1RQMmFQVjBUQ2lBN3JBaGd3eEQ5Y3V1eHpIbnY5bHZHMl9vSkg3a3o1ZEpsUFdNbG0ydG9EdGVLbDZ3N3kyS1FudGVoUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "toyota-2026-11-02-048",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford, Toyota, BMW, GM and Dodge Vehicles Recalled - Franklin County Free Press",
+      "companies": [
+        "toyota",
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12TmxsQWJmYjJIZE9NOEVNY1k2UTc3c3VsNHFTZDBCLWlhOFlUd3FlQnVvZFFzellUZE45UW1aMDd1NlplcU5FRDBCLWhJeHFIV3ZZT3NNTUMxQl9sWWlFSzJlWmQ3bGlfeGhRQ2NPWWJlYmJYSk5rZXR4VlR5UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-11-02-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "POSCO Holdings: Steel lifted Q3 profit, while lithium losses and volatility persisted - TradingView",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOXNmWVdKQVpSNlE5LUMyMGtnTFFNVjhfVFlkZWgtSHBtaExfcXRwbHdDOHlsV0ZOQUZtYW5OOEwtMG1tQTFfai0xZFlJMXNTX2JkX25DRWFubERXQUtJSUdJU1JETW5qNXhnTzNsVm5QVUZpR24zT2tZVXhXNURLc2t2cldLcXlNQUtEWFFMTm9DNjdNblFBS0xkNkVvdmV5MC1KM19NY1p5NXItVkYxVGxSX080N3hIMzJKUzRUaTFic2lTRUFnWndueGJLWHVoU2lDN0wtcmdMOE9SUlpxcy1OcHNncURHbTMxYTJUU0dFb3BoWDd2Vm5zcVpHQ2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-02-056",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor October Global Sales Decline 6.3% - marketscreener.com",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdE1aV3BrMUVtX0ZoTEs5SWtpRHptS1RJVGtSN0U3VVY5Q1FGU0JwYV9zUzA1aktESGtua2pSYVN3OFlISVlmZGRCU3FjcGN3SHlPOUQ0Tnlya3QzV1ZIeW5Zay15ejZlbzA4X2d2eTQ4UURvTFNVOV93LS1pRklwNnBidi0yODZTWTVFQzltY0RqeWpkY2hIc2Izd09Ic0c1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 60,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "parts_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "industry_general",
+        "earnings",
+        "ev_penetration",
+        "guidance"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 112,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 101,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "posco",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 13
+      },
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "stellantis",
+        "count": 9
+      },
+      {
+        "id": "arcelormittal",
+        "count": 8
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 60
+      },
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "ev_penetration",
+        "count": 11
+      },
+      {
+        "id": "parts_price",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 697,
+    "dup_title": 334,
+    "too_old": 146,
+    "gate1_blocked": 26,
+    "gate2_blocked": 57,
+    "passed": 134,
+    "pass_rate": "36.9%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Nippon Steel Trading to acquire CLN Slovakia to expand European steel processing operations - SteelO",
+      "Košice steelworks set to become Nippon Steel’s European hub - The Slovak Spectator",
+      "South Korean steel giant POSCO to expand rare earths operations in Malaysia - Mining Magazine",
+      "Posco Holdings admits it failed to anticipate lithium price drop, sees gradual recovery ahead - 헤럴드경",
+      "Kryvyi Rih urges ArcelorMittal to reconsider its decision to shut down its Ukrainian asset - GMK Cen"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 112 則事件，焦點為浦項鋼鐵、Ford、Hyundai Motor相關動態：「Ford vows transparency on data sharing after GM’s $220 mi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Ford vows transparency on data sharing after GM’s $220 million settlement - A...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Ford and GM Are Taking Different Roads, but 1 Stock Races Ahead - Barchart.com（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
