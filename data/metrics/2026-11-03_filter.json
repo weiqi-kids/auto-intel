@@ -1,0 +1,16 @@
+{
+  "total_raw": 695,
+  "dup_title": 315,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 33,
+  "gate2_fail": 59,
+  "passed": 143,
+  "gate2_samples": [
+    "Košice steelworks set to become Nippon Steel’s European hub - The Slovak Spectator",
+    "South Korean steel giant POSCO to expand rare earths operations in Malaysia - Mining Magazine",
+    "ArcelorMittal Achieves 90% CO2 Capture in Belgium Steel Trial - ChemAnalyst",
+    "ArcelorMittal shares fall 2% and remain below their three moving averages - Idéal Investisseur",
+    "Zach Top Wraps ‘Cold Beer & Country Music Tour’ With Sold-Out Bridgestone Arena Finale - MusicRow.co"
+  ]
+}

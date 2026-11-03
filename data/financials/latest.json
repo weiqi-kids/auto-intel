@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T18:01:10.309173Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-11-03T15:59:46.166237Z",
+  "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "3m",
@@ -296,34 +296,34 @@
       "name": "麥格納",
       "ticker": "MGA",
       "currency": "USD",
-      "ar": 8376000000,
-      "ar_prev": 8215000000,
-      "ar_qoq": "+2%",
+      "ar": 8298000000,
+      "ar_prev": 8376000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 4009000000,
-      "inv_prev": 3964000000,
-      "inv_qoq": "+1%",
+      "inventory": 4161000000,
+      "inv_prev": 4009000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "nippon_steel",
       "name": "新日鐵",
       "ticker": "5401.T",
       "currency": "JPY",
-      "ar": 1768226000000,
-      "ar_prev": 1685993000000,
-      "ar_qoq": "+5%",
+      "ar": 1830920000000,
+      "ar_prev": 1768226000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 2776012000000,
-      "inv_prev": 2695034000000,
-      "inv_qoq": "+3%",
+      "inventory": 2915392000000,
+      "inv_prev": 2776012000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "posco",

@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:59:51.685850Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-11-03-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Continental Concept Tire Supports Volkswagen EV Records - The Buzz - Electric Vehicle News",
+      "companies": [
+        "volkswagen",
+        "continental"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWk8ycEI1aF9hbTlPOExDek1QMWt4a3dKSk5IenBXNDlaVzhyUWdPaVhCVFhOUDRVMndMQl92NmdhS2QxdUVTQm1PTHRmTVlNVlJJNTJBd0Z5SEdETkQ1aVlOcHhheEFfZGxnM2J4eHZMRWlJNlZhWWgtdnV1X2Vjb3RrMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-11-03-025",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis accelerates full-cycle collaboration as K-Automotive Semiconductor Korea One Team - DQ",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTnR1WjU1QjNaN24td2dYRzc3ZTVIb3JORzBsQnZrZnZMVnRzeENLaXFNWDRVcHNlZk8yckhfMHZlWEd0dnBrV3FVU0tVMzVDZ2doczFfVGxzVE9QWUZyengtQm16eDNac1VhMWltSEhtRGlNX0dXOHVsTkVrQ0NmamNnTWJGOVktTEdmYXptM013Y0ZaZ1QyMkdFc29ybW5zaHBWWmVVTXRCWlZtZ01TQnZlbHMwbVRfaGRJVThVWGpxWWNLdmhENXlUWDdTSS1xSGVIWnlhdG55cG_SAdsBQVVfeXFMT050dVo1NUIzWjduLXdnWEc3N2U1SG9yTkcwbEJ2a2Z2TFZ0c3hDS2lxTVg0VXBzZWZPMnJIXzB2ZVhHdHZwa1dxVVNLVTM1Q2dnaHMxX1Rsc1RPUFlGcnp4LUJtengzWnNVYTFpbUhIbURpTV9HVzh1bE5Fa0NDZmpjZ01iRjlZLUxHZmF6bTNNd2NGWmdUMjJHRXNvcm1uc2hwVlplVU10QlpWbWdNU0J2ZWxzMG1UX2hkSVU4VVhqcVljS3ZoRDV5VFg3U0ktcUhlSFp5YXRueXBv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-03-042",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "POSCO Future M, Hyundai Motor Group explore Vietnam anode investment - The Korea Times",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek1UZk4zSk9ycWFGaEpLaDlNY3oybE01MWpRaEFoMVNOVWlRZUpIU2ZyNWEzMWZtRndWUk85ekl1SGU5UGJobnNoRzdNeWo5YWlqSHVoMmZDdjdSSmIxZ0FBbl9PRGlUcTBjX1huZ0doVzNtdWt5ZVZ2SnhvSHZpVkdtOUE3c2hnZGtIcXdTOS1OenZNdl9ZRTZoeFBrWGpIbFlPSEMwWERsNzF5bkhiRTNnbUI3WVpqcFhMeF8yOVNId9IBxwFBVV95cUxOVy1pYzlKRWgwcXRFR1ZzT0ctdjBPdmpjTW1TNlNkVDR1U2l1WXBtOVA5aTVaZzhyQ3VTcmRlM0p2NUw2eHh4cV9zY1ZpblJwQnJfbF9pY3kweDJXZmotXzRnVHlobUFIb09KM1JJQ2NqcjFkUVlVYl9LSHZNcy1vNFItRTgwQkdLdnI0Zy1VRTh4dEc2R25lX3lJMHN6bkJXOGlMbmwxd2lWZWJRS000aWxidjNrbkFheDl3QUU2T2hXaVBmRVVB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-03-038",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Hyundai Motor Group takes third, BYD breaks into global top five in Q3 sales - The Korea Herald",
+      "companies": [
+        "hyundai",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2TmQ4d0prV1VhUUltajFDRDkzSzREMFlPWDJ6V1U0VzJEcVFSOWRZX19NSW1DY20tNDlSb0pwbDNqQkxPaHBfcWc4Y1lUZnRvaVZISEItaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-03-033",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor America posts record October sales - Breakingthenews.net",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcTRNWE0weHFNalR1ZTJTU2RHVUozWEVvZU5PTmNyc2d0NEZpal9iZDdtQ0VONXNiNGI5MU03djk0YlUwMm1DZjNUSTVvdWw2Y2h2X1ZkbGgwbDdoYnI3bVVWRXNrMlVSZGl0NFhfSE0tamtTVDNWNGRZdGFWVGdseXQ4dmlHUDNvOFpGVDNzT0pWX1VHTWJ0Uw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "parts_price": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 64,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 95,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 78,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 15
+      },
+      {
+        "id": "continental",
+        "count": 9
+      },
+      {
+        "id": "ford",
+        "count": 9
+      },
+      {
+        "id": "arcelormittal",
+        "count": 6
+      },
+      {
+        "id": "tesla",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 64
+      },
+      {
+        "id": "earnings",
+        "count": 40
+      },
+      {
+        "id": "ev_penetration",
+        "count": 11
+      },
+      {
+        "id": "parts_price",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 695,
+    "dup_title": 315,
+    "too_old": 145,
+    "gate1_blocked": 33,
+    "gate2_blocked": 59,
+    "passed": 143,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Košice steelworks set to become Nippon Steel’s European hub - The Slovak Spectator",
+      "South Korean steel giant POSCO to expand rare earths operations in Malaysia - Mining Magazine",
+      "ArcelorMittal Achieves 90% CO2 Capture in Belgium Steel Trial - ChemAnalyst",
+      "ArcelorMittal shares fall 2% and remain below their three moving averages - Idéal Investisseur",
+      "Zach Top Wraps ‘Cold Beer & Country Music Tour’ With Sold-Out Bridgestone Arena Finale - MusicRow.co"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 95 則事件，焦點為Hyundai Motor、大陸集團、Ford相關動態：「Continental Concept Tire Supports Volkswagen EV Records -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Continental Concept Tire Supports Volkswagen EV Records - The Buzz - Electric...（電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis accelerates full-cycle collaboration as K-Automotive Semiconduc...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
