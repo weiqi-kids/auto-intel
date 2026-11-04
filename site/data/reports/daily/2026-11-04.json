@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T16:04:04.223767Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "volkswagen-2026-11-04-044",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Volkswagen and Stellantis advance self-driving car plans in China and France - The Driven",
+      "companies": [
+        "volkswagen",
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTZzTkZlT2Y2ZU5IZzdjYkxHVHp4WE5XdDRUVTkxcWJqVlZfa180M1Z6ZjNSNFlTSElxZTg1UHlYbnZKZ3ZmMWMxdTg5dTdXY2JFYTZENWpuMWV6UXNRbjlIdVJLVW9oTmdMTExsTGRQNzVINzFYbm9rVFJlMDNiTWQ3cUlzcG1YVExLUnYtbWVITWxHRG4zb0ktVVdMOS01OGhlbjhjZV9ha2VENkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-04-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hyundai Motor America posts record October sales on hybrid, SUV demand - Korea JoongAng Daily",
+      "companies": [
+        "hyundai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3hpQ2FjRnhnT2FTSHhXTGk0c2l4Zmh6TF9yQnZQaG9Eb1FhTVg1d3pmeXdTM0ZDNkNmUW1WSDRjbTM2YTc3dW9HakRHdllZTFRqV2laSnNqZ0luZ3hYb1R0eHhUZXQzVHpLRVdwMmpaQXpCcXBoV3hhM0ZVcWV6SXlYVXlkMWhnUnd5UkFzYXZjeGJhd2duTHU5OFE4bmlBdk1WZXpHdmdUSkozbWNFR2Z0Nk9NVFlzbF9yVGh6dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tesla-2026-11-04-059",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Used EVs Now Cost More Than Gas Cars, But Tesla Isn’t Leading the Fastest-Selling Rankings - Electric Cars Report",
+      "companies": [
+        "tesla"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnpVeUxkREZ2QjVlNEdkMDZlcTZuZGxsSzYxM3hCdHh3QzNkTTFmMnk2WTdQMXhveENLWF9KTU9mSTl2aWdmbHliSjVDaW91T2JtMVpzaE16YnpjWUN6TW5tWUxXS2MwNE5yVVJRMXZjYTI4dl94U3JSUFZVX24yWE5oSlpnVElieU9JYUZ6SnhSdHo3Q2pfWkpkRFZfaExOQXdjQUVPWHBxaXdISDUzNVBzYm1VaVNxdEppell2U1d4TmZoeUJj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-04-060",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Belarus car market stabilizes as EV imports decline after quota expiry - Belsat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2I0VmpnTjhvWGZzRzhUWWZIcFJ6N2NJZ3hoVG95RGJMQVJBT05ya1lNaFpSRjhtR2ZWYkpOcXhkUjhzcjFxeEJLeWhzTG8zMnFNc1hfT1laZm4zWXE1T29YODYzbzg0RENSdXNhcTFLQWpmZGUyaHNObkVvWnJPZGtnZWNwRUxTczY4XzUwN25MQ2ZxaE9LZ3hMN2MzMHpSb0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-04-076",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "BMW Is Reportedly Cutting 1,800 Jobs In China",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.motor1.com/news/814323/bmw-china-reportedly-cutting-1/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 48,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 81,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 71,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "continental",
+        "count": 15
+      },
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "ford",
+        "count": 9
+      },
+      {
+        "id": "stellantis",
+        "count": 5
+      },
+      {
+        "id": "nippon_steel",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "earnings",
+        "count": 48
+      },
+      {
+        "id": "guidance",
+        "count": 7
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 321,
+    "too_old": 164,
+    "gate1_blocked": 40,
+    "gate2_blocked": 49,
+    "passed": 127,
+    "pass_rate": "33.4%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Košice steelworks set to become Nippon Steel’s European hub - The Slovak Spectator",
+      "ArcelorMittal Achieves 90% CO2 Capture in Belgium Steel Trial - ChemAnalyst",
+      "Cheng Shin Rubber Ind. Co., Ltd. (2105.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si",
+      "Citi Cuts Fuyao Glass Price Target: Hong Kong Shares to HK$66, A-Shares Lowered in Tandem - BigGo Fi",
+      "Saint-Gobain Finalises Divestment Dahl Distribution Business In Sweden, Norway, Denmark - TradingVie"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 81 則事件，焦點為大陸集團、Hyundai Motor、Ford相關動態：「Volkswagen and Stellantis advance self-driving car plans ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Volkswagen and Stellantis advance self-driving car plans in China and France ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Motor America posts record October sales on hybrid, SUV demand - Kore...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

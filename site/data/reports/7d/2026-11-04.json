@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-04",
+  "date_range": {
+    "start": "2026-10-29",
+    "end": "2026-11-04"
+  },
+  "generated_at": "2026-11-04T16:04:04.350322Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai_mobis-2026-10-29-011",
+      "date": "2026-10-29",
+      "title": "Hyundai Mobis Beats KCC 96-89 to Snap Losing Streak - Seoul Economic Daily",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "3m",
+      "company_b": "bridgestone",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "byd",
+      "company_b": "ford",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 272,
+      "last_week": 185,
+      "week_over_week_change": "+47%",
+      "sentiment_this_week": -0.02
+    },
+    "industry_general": {
+      "this_week": 309,
+      "last_week": 255,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 23,
+      "last_week": 11,
+      "week_over_week_change": "+109%",
+      "sentiment_this_week": -0.09
+    },
+    "ev_penetration": {
+      "this_week": 49,
+      "last_week": 22,
+      "week_over_week_change": "+123%",
+      "sentiment_this_week": 0.01
+    },
+    "auto_sales": {
+      "this_week": 9,
+      "last_week": 15,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": -0.05
+    },
+    "parts_price": {
+      "this_week": 7,
+      "last_week": 1,
+      "week_over_week_change": "+600%",
+      "sentiment_this_week": -0.14
+    }
+  },
+  "company_7d_summary": {
+    "posco": {
+      "event_count": 19,
+      "sentiment_avg": -0.05,
+      "rank": 9
+    },
+    "hyundai": {
+      "event_count": 83,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "arcelormittal": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "bridgestone": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "saint_gobain": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "continental": {
+      "event_count": 37,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "hyundai_mobis": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 13
+    },
+    "toyota": {
+      "event_count": 24,
+      "sentiment_avg": 0.02,
+      "rank": 6
+    },
+    "honda": {
+      "event_count": 16,
+      "sentiment_avg": 0.13,
+      "rank": 11
+    },
+    "volkswagen": {
+      "event_count": 17,
+      "sentiment_avg": -0.3,
+      "rank": 10
+    },
+    "ford": {
+      "event_count": 70,
+      "sentiment_avg": -0.03,
+      "rank": 2
+    },
+    "tesla": {
+      "event_count": 20,
+      "sentiment_avg": 0.07,
+      "rank": 8
+    },
+    "stellantis": {
+      "event_count": 33,
+      "sentiment_avg": -0.11,
+      "rank": 4
+    },
+    "byd": {
+      "event_count": 10,
+      "sentiment_avg": -0.0,
+      "rank": 14
+    },
+    "gm": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nippon_steel": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 16
+    },
+    "3m": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "magna": {
+      "event_count": 30,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "yulon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "kenda": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "cheng_shin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 789,
+        "last": 805,
+        "change_pct": -2.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-29",
+      "event_count": 138,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-10-30",
+      "event_count": 184,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 44,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-01",
+      "event_count": 48,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 159,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 135,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 81,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-29 ~ 2026-11-04）共 789 則事件，重點為「Hyundai Mobis Beats KCC 96-89 to Snap Losing St...」。Volkswagen情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Volkswagen",
+        "reason": "本週情緒偏負面（-0.3），共 17 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Hyundai Motor",
+        "reason": "本週出現 83 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

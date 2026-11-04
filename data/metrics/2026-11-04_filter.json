@@ -1,0 +1,16 @@
+{
+  "total_raw": 701,
+  "dup_title": 321,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 40,
+  "gate2_fail": 49,
+  "passed": 127,
+  "gate2_samples": [
+    "Košice steelworks set to become Nippon Steel’s European hub - The Slovak Spectator",
+    "ArcelorMittal Achieves 90% CO2 Capture in Belgium Steel Trial - ChemAnalyst",
+    "Cheng Shin Rubber Ind. Co., Ltd. (2105.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si",
+    "Citi Cuts Fuyao Glass Price Target: Hong Kong Shares to HK$66, A-Shares Lowered in Tandem - BigGo Fi",
+    "Saint-Gobain Finalises Divestment Dahl Distribution Business In Sweden, Norway, Denmark - TradingVie"
+  ]
+}
