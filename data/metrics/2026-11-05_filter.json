@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 279,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 43,
+  "gate2_fail": 64,
+  "passed": 171,
+  "gate2_samples": [
+    "Nippon Steel Produces 1,000 Tonnes DRI With 100% Hydrogen - Fuel Cells Works",
+    "Nippon Steel CFO: Our Business In Thailand Is Struggling As Margins Have Deteriorated Due To An Infl",
+    "POSCO's Steel Flame Sculpture Becomes Gwangyang Landmark - Seoul Economic Daily",
+    "South Korean steel giant POSCO to expand rare earths operations in Malaysia - Mining Magazine",
+    "Chang In-hwa wins top metals honor as POSCO drives Korea’s materials push - Chosunbiz"
+  ]
+}

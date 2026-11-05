@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-05",
+  "total_events": 119,
+  "by_company": {
+    "nippon_steel": {
+      "count": 11,
+      "sentiment_avg": -0.05
+    },
+    "arcelormittal": {
+      "count": 19,
+      "sentiment_avg": -0.16
+    },
+    "bridgestone": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "saint_gobain": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "valeo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hota": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "toyota": {
+      "count": 13,
+      "sentiment_avg": -0.08
+    },
+    "ford": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "gm": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "posco": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "stellantis": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "tesla": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 79,
+      "sentiment_avg": -0.04
+    },
+    "guidance": {
+      "count": 13,
+      "sentiment_avg": -0.12
+    },
+    "ev_penetration": {
+      "count": 13,
+      "sentiment_avg": 0.08
+    },
+    "industry_general": {
+      "count": 59,
+      "sentiment_avg": -0.03
+    },
+    "auto_sales": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "continental",
+      "to": "volkswagen",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ]
+}
