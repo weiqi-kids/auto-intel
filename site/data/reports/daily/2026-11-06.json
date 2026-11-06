@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:47:27.700771Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "continental-2026-11-06-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Continental Chosen as OE Supplier for Volkswagen ID - Modern Tire Dealer",
+      "companies": [
+        "continental",
+        "volkswagen"
+      ],
+      "related": {
+        "customers": [
+          "volkswagen"
+        ],
+        "suppliers": [
+          "continental"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDVsYmhfbmRITlpkZW9jcWN0TkNHX25lckN5N0NYZVE3SmJkWmpmdkltellRRjJ6T3dJZHM1Y1RnYklTOVd2b01nYXBnVVlRTGJxclVmcHVXSE5aNldfQkQ4QVB0amtXUEdkNF96SS1iMmgyV013UmVTQ3ZtVjZhMWkycHBhNTRoYUtnWmFCaXE0VGdDeVF2UDJWcGZOcGhjWHY1dXRuUU5RYU1qS0JiMDdicw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-11-06-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Just because the 9th-game winning streak ended, did you think the Samsung surge was over? They beat Hyundai Mobis and bounced back immediately... 10 wins in 11 games, tying the all-time shortest record - 스타뉴스",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NRUlFTUQ1Z2ZoSS13bkROWGVBdy1MYnNDWmxEMHNKb1RudHVDdnBtUkx5cjF5RWJhSkpPMXlyRFRWcUhBTGZ4T0o0QlZSZk5sVTZrTFBoU0VONzdPNFN2RHVJVzVPczl4R0Z3UjZ2VGNrTUI5RWlFRnJB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-11-06-017",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "GM and Ford warned in Q3 results that costs could curb 2027 earnings - Quartz",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNVE3MDFnY1I5Njlid0xtQldZTGFrZ1h2NDNaclpRSDdrN0xfRGxfeEtxaDhZZVo2TjExZy1jNkNBWDVLMS1sZzJrdjNZbEdGb1VMSlBtZHRzYnFFd3U2SHF4eUJVN3NBTTV1c0l4VHF6OTVYZmFz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-11-06-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ArcelorMittal Posts $0.52 Reported Basic Loss in Third Quarter - www.tokenpost.com",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5Mm4zazZieS1fbEFGY2ZlT3dSd0psWnU3Y3NGRDFLLUswTWx1UURlZHNwOWducnRQVU1UQWpQXzRwR1ZYLS1fX0xPSHQ3RW5ZNVpDUld0WXY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-11-06-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Billionaire Lakshmi Mittal's ArcelorMittal posts $391m loss - Billionaires.Africa",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQkVaZTJvc05wOFg0N1Azb0l3ZFo2OWk0RjhZR3ZrcGN3eU5YWHJ5ZXU4MnE3WnRTOExfT2QzYzdvRUN4WTdxX1pPbERVQngyZWhDNmQtdGg0WDEyWWFrTk1COVU4UXBySXlKU3g3by1JQ19TT1ZuSWxWSEk1cGFBQmZtSTFXWGs5XzAyRHNLR3QzcTlqRmQ1bGxxLW1Fa1hCLUQ3RWNHUUdBYUQ4Rm1WcGdCRFZld1RMR1JYM1VGZnItODRNbGFQTzd2QnE1cXFhTnowZTdyNHhGX1J6?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 53,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "continental",
+      "to": "volkswagen",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 71,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 60,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "tesla",
+        "count": 14
+      },
+      {
+        "id": "hyundai",
+        "count": 6
+      },
+      {
+        "id": "ford",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 5
+      },
+      {
+        "id": "byd",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 53
+      },
+      {
+        "id": "earnings",
+        "count": 28
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      },
+      {
+        "id": "ev_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 701,
+    "dup_title": 323,
+    "too_old": 162,
+    "gate1_blocked": 36,
+    "gate2_blocked": 50,
+    "passed": 130,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Nippon Steel Produces 1,000 Tonnes DRI With 100% Hydrogen - Fuel Cells Works",
+      "POSCO's Steel Flame Sculpture Becomes Gwangyang Landmark - Seoul Economic Daily",
+      "ArcelorMittal : UBS keeps its Buy rating - www.marketscreener.com",
+      "From Brazil Superstar to Bridgestone - Nashville Lifestyles",
+      "Cheng Shin Rubber Ind. Co., Ltd. (2105.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Si"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 71 則事件，焦點為特斯拉、Hyundai Motor、Ford相關動態：「Continental Chosen as OE Supplier for Volkswagen ID - Mod...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Continental Chosen as OE Supplier for Volkswagen ID - Modern Tire Dealer（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Just because the 9th-game winning streak ended, did you think the Samsung sur...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:18:05.223626Z",
+  "updated_at": "2026-11-06T15:47:20.414896Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "安波福",
       "ticker": "APTV",
       "currency": "USD",
-      "ar": 2434000000,
-      "ar_prev": 3798000000,
-      "ar_qoq": "-36%",
+      "ar": 2509000000,
+      "ar_prev": 2434000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 2038000000,
-      "inv_prev": 2746000000,
-      "inv_qoq": "-26%",
+      "inventory": 2202000000,
+      "inv_prev": 2038000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "arcelormittal",
@@ -330,17 +330,17 @@
       "name": "浦項鋼鐵",
       "ticker": "005490.KS",
       "currency": "KRW",
-      "ar": 12402069000000,
-      "ar_prev": 11205569000000,
-      "ar_qoq": "+11%",
+      "ar": 12285000000000,
+      "ar_prev": 12402069000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 13967774000000,
-      "inv_prev": 14144103000000,
-      "inv_qoq": "-1%",
+      "inventory": 13642000000000,
+      "inv_prev": 13967774000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "saint_gobain",
