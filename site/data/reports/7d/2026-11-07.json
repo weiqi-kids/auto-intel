@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-07",
+  "date_range": {
+    "start": "2026-11-01",
+    "end": "2026-11-07"
+  },
+  "generated_at": "2026-11-07T14:47:01.097012Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hyundai-2026-11-01-028",
+      "date": "2026-11-01",
+      "title": "Hyundai Mobis expected to post 1 trillion won in operating profit in Q4 - 파이낸셜뉴스",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "continental",
+      "company_b": "volkswagen",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "honda",
+      "company_b": "toyota",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 276,
+      "last_week": 224,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": -0.0
+    },
+    "ev_penetration": {
+      "this_week": 49,
+      "last_week": 32,
+      "week_over_week_change": "+53%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 323,
+      "last_week": 285,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": 0.02
+    },
+    "auto_sales": {
+      "this_week": 13,
+      "last_week": 9,
+      "week_over_week_change": "+44%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 24,
+      "last_week": 23,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": -0.07
+    },
+    "parts_price": {
+      "this_week": 7,
+      "last_week": 1,
+      "week_over_week_change": "+600%",
+      "sentiment_this_week": -0.14
+    }
+  },
+  "company_7d_summary": {
+    "posco": {
+      "event_count": 19,
+      "sentiment_avg": -0.05,
+      "rank": 9
+    },
+    "bridgestone": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "kenda": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "ford": {
+      "event_count": 59,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hyundai": {
+      "event_count": 56,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "stellantis": {
+      "event_count": 32,
+      "sentiment_avg": -0.05,
+      "rank": 5
+    },
+    "volkswagen": {
+      "event_count": 12,
+      "sentiment_avg": -0.04,
+      "rank": 13
+    },
+    "honda": {
+      "event_count": 13,
+      "sentiment_avg": 0.15,
+      "rank": 11
+    },
+    "byd": {
+      "event_count": 13,
+      "sentiment_avg": 0.27,
+      "rank": 12
+    },
+    "arcelormittal": {
+      "event_count": 37,
+      "sentiment_avg": -0.11,
+      "rank": 4
+    },
+    "saint_gobain": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "continental": {
+      "event_count": 42,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "magna": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "toyota": {
+      "event_count": 24,
+      "sentiment_avg": -0.02,
+      "rank": 7
+    },
+    "gm": {
+      "event_count": 12,
+      "sentiment_avg": -0.08,
+      "rank": 14
+    },
+    "tesla": {
+      "event_count": 32,
+      "sentiment_avg": 0.03,
+      "rank": 6
+    },
+    "nippon_steel": {
+      "event_count": 22,
+      "sentiment_avg": -0.0,
+      "rank": 8
+    },
+    "hyundai_mobis": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 17
+    },
+    "cheng_shin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "valeo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "hota": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "fuyao": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 809,
+        "last": 842,
+        "change_pct": -3.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-01",
+      "event_count": 48,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-02",
+      "event_count": 164,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 141,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 133,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 176,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 120,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 27,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-01 ~ 2026-11-07）共 809 則事件，重點為「Hyundai Mobis expected to post 1 trillion won i...」。BYD、Hyundai Mobis表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "浦項鋼鐵",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Bridgestone",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Ford",
+        "reason": "本週出現 59 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
