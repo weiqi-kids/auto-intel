@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-08",
+  "total_events": 33,
+  "by_company": {
+    "posco": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 3,
+      "sentiment_avg": -0.67
+    },
+    "bridgestone": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ford": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "hyundai": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "byd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": -0.1
+    },
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.05
+    },
+    "ev_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
