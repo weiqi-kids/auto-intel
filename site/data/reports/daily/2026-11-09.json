@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:31:23.223146Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-09-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Holds Engineering Competition for High School Students - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2V0ZHZWFvZXhxX0x0bm1QSXIxSlFZTlpQRF9ZRzJrdE5razU5Q1lESkoyaEJTRkR4TG5jeHUwbDdUYWFXU2M0aEFZN3loZXJIYXRDT3FIM2Z6UHJNT0Nsam9EZFhXT0U?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-09-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis holds youth engineering festival featuring autonomous driving algorithm competition - 머니투데이",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1waTZsR0UwWEl3bmlLUzBveUFlV2U0cjVSVkhiMmFuemZiZzlGUElRYllNcHQ1Q2dUVzNpYWtCMDVtNHVtSTR4ZWg4UWYwRVItLWhSSF9YMl9rLUE0VzUzV05rNXU0YVZuYXZidHpYMXE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-09-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "POSCO Partners With Hyundai Motor Group to Advance Vietnam Business - Yahoo Finance",
+      "companies": [
+        "hyundai",
+        "posco"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeWN3YnJpNUU0ekxxQndfb2Via3ZvWGpyWTAybXRkaE1nVjZLYUw0QzNyNTRkTko0dVVjVTFQTmNHV2RoWEVkNlFUanpEZzFmUHhvalNIV2JfOE5kMGpibGx0ZDFGWlJpTnRpME5mODh0V0FEUDhlbnZIMlFIOGpoMXhnUUVGUlAzRGRaTk1uTTZEUlRBMnE2a1Z3d3RwR21K?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "toyota-2026-11-09-100",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Philadelphia Carjacking Crew Targeted New Toyota SUVs For African Export",
+      "companies": [
+        "toyota",
+        "aptiv"
+      ],
+      "related": {
+        "customers": [
+          "toyota"
+        ],
+        "suppliers": [
+          "aptiv"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.carscoops.com/2310677/philadelphia-carjacking-toyota-suvs/"
+    },
+    {
+      "rank": 5,
+      "event_id": "nippon_steel-2026-11-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Steel Kosice: Lower Output, Stronger Earnings in First Nine Months - News and Statistics - IndexBox",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2tVRWpGWFVHVnhhRWRieEg2a3BhcVFuZkNVdl90QUFlWjJoTm9wMV9fTy1QVmItUlhkQlM0b3h4Y1QxSHQ3UHNCeThnd2RHcHp1UTBzM0lROHF4WExIQnF4Y0x4V0tvSE5FOEJjX2hfUjhpSjRFczI3bUk2WFFONzluVzRPOWt5UlYzZlBjOS1FRjkyejh5UE5VMTJwOUYxMnFXbWhGSXpnT25pYmR6eTFnYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 44,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 90,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 114,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 111,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 21
+      },
+      {
+        "id": "ford",
+        "count": 14
+      },
+      {
+        "id": "tesla",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 7
+      },
+      {
+        "id": "honda",
+        "count": 7
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 90
+      },
+      {
+        "id": "earnings",
+        "count": 44
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 703,
+    "dup_title": 309,
+    "too_old": 168,
+    "gate1_blocked": 26,
+    "gate2_blocked": 59,
+    "passed": 141,
+    "pass_rate": "35.8%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Nippon Steel Produces More Than 1,000 Tonnes of DRI From Low-Grade Ore Using 100% Hydrogen - https:/",
+      "ArcelorMittal reports third quarter 2026 results - Yahoo Finance",
+      "ArcelorMittal’s third-quarter EBITDA increases 34% year on year to USD 2.02 billion - EUROMETAL",
+      "Environmental groups eye whether ArcelorMittal Dofasco reinvests in aging coal-powered furnaces - CB",
+      "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 114 則事件，焦點為Hyundai Motor、Ford、特斯拉相關動態：「Hyundai Mobis Holds Engineering Competition for High Scho...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Holds Engineering Competition for High School Students - THE EL...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis holds youth engineering festival featuring autonomous driving a...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
