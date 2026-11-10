@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T16:16:09.903577Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-11-10-027",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "'Lee Jung-hyun's 26-point explosion' — Sonok finally escapes 5-game losing streak... Hyundai Mobis sinks into 4-game losing slump - 스타뉴스",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QV2phc0N2cVVQc3JjUzNKUXQ1WEc5OTl2YUtNdEIycmpyTDVGcDdSNm1pNklka2ZFdUhTT2JvMjlPNS10U1NTYmFZMk9PRXdWSUJRYmo3SDhOeDVEbzlGM0dmYzhrTDdvQXF1R2YzT2pJb1RxNjZzMEpR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai_mobis-2026-11-10-028",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Sono Snaps Five-Game Skid, Defeats Hyundai Mobis - 조선일보",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkVINDdlMDZ4eUdFSUE2T0ZuRnJzWXBnb29SM0pjZjNsc1dpSXRRd1ZaTlZndHVpQ1NJTzZvcW5ITHMtWHUzWGNyU2FUZUVDUnNiNXkweEhVc3p2ZzltQzFjVV81emgtUnhQeDJJMUNyWG9vYWwyenQ3QmRnYjl1UXViUzFSUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "stellantis-2026-11-10-053",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Stellantis Sells Brampton Assembly Plant In Ontario - GM Authority",
+      "companies": [
+        "stellantis",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzcxWDBGZEtpc3Rzb3ZULTNmMW9BR2ZFSnBSU3ZCeG5pbFB2NUw2dncxUE1Bb1NnRjdpVml6V09JT1oyX1FNMlVzV1ZTOURiNGlCVVc0b2Q3SkJKZGtsaWJMeXQwSHI4VlpzQk9sQTZkNGFEbEZpTEZxWWkzckM5YlMyUlRVWjYzZjhMU1kya2VTUXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "saint_gobain-2026-11-10-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain upbeat on Brazil despite Latin American sales decline - Valor International",
+      "companies": [
+        "saint_gobain"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHdsNzlRUFkwXzlxMHpNNjUxQV9oZUpYbUlDSE5jMXZJQW1faHZzSEhqMk5aM1plTlpMWG94VjhaVUx4SlpUUHhPWFJUN0gwbTVObUdwOG5wQ1FfNzB2TkVFLXZWUWl0R19PMFBxVE5kMEtkMUFnd2hhakJNVEVTblBVdU1xbFZmX1NKTGQ1WUEwWU1nVUlCOVZfYV93U0xsWUR5THFVNDgtaFlna21xUHppV3k5eEJHZ0EtWWtpTHVzc0NQd010NTkwem54dVHSAd4BQVVfeXFMT3NvZ013RURPR2FxOTBWdExlSTlKOVBSZXVFY2JnS2RCRXVUaUZzMlVCcUgyUWxDUGdvZFd4UjAwUEVPZnVlOUlNdWxDc1FSNmZQRlBHU3NJTE1QcTFISmxtU05BR1lHMmphaVFlbFVHekpnbi0xemFWVmkwOE94WUFtSmdHTVdTRmJNY0RqdkNFN25NazI2bk5FaXRDZnVld1NPd2xfekdiRGNyNDdFcHktdEMzcEJnVVJsQVNiclM0V1A2dFk0eTJ5Z2lNQ0Z4b2ZEME1aMTFwRnZnT0h3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "stellantis-2026-11-10-050",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Supplier Dakkota Closing Detroit Plant, Cutting 397 Jobs Following Stellantis Contract Loss - MotorBiscuit",
+      "companies": [
+        "stellantis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNanR0WU5BRWRjYjRnakpzMEhPNXNKMDZERkRKY1NCWEV4MV9PZ1FtTnlDSDVBTHh0a3VwYlZHRWk4YnN4UlR3cUNhWTE1dlFYN19LMlk4bXZ4ekhybnhwUEM2SkswZXZMa0xRRkFGSjFOLWlVelUwR2hsZVBTY01zcDZvWUJwNVBPYU9xZnlyMFFfenNYVldyaUlUTTFJRkZuU0loZ1lCcDZ0UHJ0NFl6Q1hCSTFsWmxtWXFhYQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 47,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 70,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 106,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 91,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "honda",
+        "count": 11
+      },
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "stellantis",
+        "count": 10
+      },
+      {
+        "id": "posco",
+        "count": 8
+      },
+      {
+        "id": "hyundai",
+        "count": 8
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 70
+      },
+      {
+        "id": "earnings",
+        "count": 47
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 308,
+    "too_old": 154,
+    "gate1_blocked": 32,
+    "gate2_blocked": 64,
+    "passed": 148,
+    "pass_rate": "37.2%",
+    "gate2_block_rate": "16.1%",
+    "gate2_samples": [
+      "Nippon Steel Produces More Than 1,000 Tonnes of DRI From Low-Grade Ore Using 100% Hydrogen - https:/",
+      "Inside Posco's $474m bet on greener steel - The Korea Herald",
+      "Posco completes construction of $474 million electric arc furnace — Korea Herald - UA.NEWS",
+      "POSCO, GS join forces to tap $2.1tn AI infrastructure market - 매일경제",
+      "Environmental groups eye whether ArcelorMittal Dofasco reinvests in aging coal-powered furnaces - CB"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 106 則事件，焦點為Honda、Ford、斯泰蘭蒂斯相關動態：「'Lee Jung-hyun's 26-point explosion' — Sonok finally esca...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "'Lee Jung-hyun's 26-point explosion' — Sonok finally escapes 5-game losing st...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Sono Snaps Five-Game Skid, Defeats Hyundai Mobis - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

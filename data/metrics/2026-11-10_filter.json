@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 308,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 32,
+  "gate2_fail": 64,
+  "passed": 148,
+  "gate2_samples": [
+    "Nippon Steel Produces More Than 1,000 Tonnes of DRI From Low-Grade Ore Using 100% Hydrogen - https:/",
+    "Inside Posco's $474m bet on greener steel - The Korea Herald",
+    "Posco completes construction of $474 million electric arc furnace — Korea Herald - UA.NEWS",
+    "POSCO, GS join forces to tap $2.1tn AI infrastructure market - 매일경제",
+    "Environmental groups eye whether ArcelorMittal Dofasco reinvests in aging coal-powered furnaces - CB"
+  ]
+}
