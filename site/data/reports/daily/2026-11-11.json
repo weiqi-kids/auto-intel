@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:57:59.822859Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-11-11-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Lamp Business Sale: 230 Billion Won in Appraisal Rights Emerges as Key Variable as Minority Shareholders Rally in Opposition - BigGo Finance",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UR2U1SGIyVHNrcVlCek82dkRRa3JwT3ZMaWhLZ2tCNVlHZmtoMkNTNVgxRmlSLTlXYVdxS0p0TDgxZW94M3dnZ2lGendTQU9TeDQ1T09wY1VlVndTZEdsVjRGNkw0X3Zvc09YN1BrUTJwMWZ0ZFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ford-2026-11-11-023",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Marissa West joins Ford, formerly led GM North America - The Detroit News",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGlZQ0huek9qNDhydTZxVVR0LXFPdk9WWlA0cWpuOHFDb2l4azhlYlpHQ190T182d2RfcGlVLWhWcWFkbndKVE9oYlVVOHhtTFp6Y0xDdDJ4Y2NscExXMUpBWXJwb2htYmJFNFF0YmdyQUlEaFZOR1NHVEQ1d1hSTS0zMDZ6Nndib2tLckFBSEpQcTAxNDZVVURfandRWUNsa2RtZkIwTHNUb1JiYTFHQ2FaREYycXU2M0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ford-2026-11-11-025",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford hires a former GM exec as it preps for big product launch - Detroit Free Press",
+      "companies": [
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZzdiMnpJUjg1TW5mWThwTUh5eXFVM3FZTTQyWldGVVd4NkYwSWxRWWw5REJPNG9iRVpqWjJzNjc4VTEzNmRlYndweEhMMUttZjJvWmREUHRsdzBLbXd6bS0ya3ZPWWlpOHdRLXU0ZVBDOVpDckt4YWlMRFdua1U3ZWJsSHNubFZXMXgyelg0eHlDalhYSldTb3hsNTJwcWtiQTdMdW5Ea3JUWU9TU0ZSRkpCLVhQaHZ2Q2ZlOGlncU55aFJXNEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "honda-2026-11-11-067",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Subaru, Honda and Toyota clock big October sales gains as lots fill - Automotive News",
+      "companies": [
+        "honda",
+        "toyota"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXlyQmhkU2oxZzBYVG1zbnl2WDk5Q19tZmFZcHBLRXRrRlNLUW9ONWctOWdIQ3RvOWotbFpfOGhhanRNemlnaVZhR0oyaDRHUGI3NWFYRFEtdmg0YnNKay1pWUZ0Snd2MTlqUExVVGtnaGRFY3d3dXZXNDJqa21lRlNn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Public sounds off on U.S. Steel’s proposed hot strip mill in Braddock - The Allegheny Front",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1RRblpvWElRTS0yLXdJaHJvMWZScUVqTjNWbW1IM2JDeVd3TXRQZUNuYVE5MTVfeGVzN0M2ajF0aHlwMWw1cmdOMzVTTUt6MWd4WGF6a2lYQ1BOZFU1REQwdnc3c0treEJpRnhxWEtUR0pfRi1qSnZLcHJnS0hOMHdMeXlibmhmbDNHd29jNjVSdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 89,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 85,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "ford",
+        "count": 13
+      },
+      {
+        "id": "stellantis",
+        "count": 8
+      },
+      {
+        "id": "posco",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "earnings",
+        "count": 41
+      },
+      {
+        "id": "ev_penetration",
+        "count": 10
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 711,
+    "dup_title": 297,
+    "too_old": 152,
+    "gate1_blocked": 48,
+    "gate2_blocked": 55,
+    "passed": 159,
+    "pass_rate": "38.4%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+      "Posco completes construction of $474 million electric arc furnace — Korea Herald - UA.NEWS",
+      "GS, POSCO Join Forces on Large-Scale AI Data Centers - Seoul Economic Daily",
+      "Inside Posco's $474m bet on greener steel - The Korea Herald",
+      "GS, POSCO to partner on AI data centers to pursue global market - Chosunbiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 89 則事件，焦點為Hyundai Motor、Ford、斯泰蘭蒂斯相關動態：「Hyundai Mobis Lamp Business Sale: 230 Billion Won in Appr...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Lamp Business Sale: 230 Billion Won in Appraisal Rights Emerges...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Marissa West joins Ford, formerly led GM North America - The Detroit News（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

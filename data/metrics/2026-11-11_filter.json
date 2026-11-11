@@ -1,0 +1,16 @@
+{
+  "total_raw": 711,
+  "dup_title": 297,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 48,
+  "gate2_fail": 55,
+  "passed": 159,
+  "gate2_samples": [
+    "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+    "Posco completes construction of $474 million electric arc furnace — Korea Herald - UA.NEWS",
+    "GS, POSCO Join Forces on Large-Scale AI Data Centers - Seoul Economic Daily",
+    "Inside Posco's $474m bet on greener steel - The Korea Herald",
+    "GS, POSCO to partner on AI data centers to pursue global market - Chosunbiz"
+  ]
+}
