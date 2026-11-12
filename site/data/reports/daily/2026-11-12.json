@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:41:06.247346Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ford-2026-11-12-035",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ford’s Jim Farley Isn’t the Only One Worried About BYD, Geely and Chinese Automakers: UAW Sends Warning t - Benzinga",
+      "companies": [
+        "ford",
+        "byd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUV9rQlo0SUNOaXk1YlF6c0x2emlPalRTblJ3SWQtck5vd3hSUkhJTEczQlRZS242c2pFTkkwYndqaWp0R3NkX1hXQjJWblp0STcyNGo5WWhhek9HQlVsb1oxejN6ZVMxcHZ6dGpkQ0pBemtXYXBjYnlVeXh1NmI5Z3hlVnp2eTJHTU9TUGpPaGFjOVZ0NkJjbHMyd0R5TDY4U0VNMzRxWkZaQ2hnc1BpZENxSGNXdEp1UnhscXA4eUlBSGRNRGFVWUxZSnNfNW9IWTRzM096MGV3N1BpQnl4ZnJ2dkhQZ0NhaE9MUkNWTmdWSWp0RkpETkRZRmwxdmRpVUJIcktjZEY2VXBXSUFiOTBmWW5yMnowd3pkaHB3dzNHaDdrWlY4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "stellantis-2026-11-12-038",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "New Stellantis captive financing ‘huge’ for Canadian dealers - Automotive News",
+      "companies": [
+        "stellantis",
+        "aptiv"
+      ],
+      "related": {
+        "customers": [
+          "stellantis"
+        ],
+        "suppliers": [
+          "aptiv"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zblRSbHRycUNtaUxkYlBlZU1CamlPdThuemE4ZHlsY1BOT25xQzNzR2FzZ1lOd1IwTE1KMUJVN1hPQ19fOVZmdmxfNlNYTnFxQ2J5RTFkQzM2QUw0Ti1oV3lXeTdGaEphRHgyN2ttUDI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "bridgestone-2026-11-12-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Bridgestone Ups Sales Estimate, Flags Profit Guidance Upside After Record Nine-Month Results - www.marketscreener.com",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZmtsUTdtYzVZNGg4OGtJOUYtMTVfVUgyTFFNSlpJazFvUkVkeHFhek1vUHFfWnBGWlJCVlhPR0hTazR2T3NUNlpFcmloOGlROXpTMl9Kb1RKaDFZWmRKWUNKcmNaNnUta1VQZkR4SHZrZ0lhOGtjQmRINHZCRE52cHU3eFJvRWduN0tEQzhOQlBGRjRiMW1QOFNEZEhaZVhCN0xKS3BTZ255bDdlekp4aWFTLThHMlNxUncxWFBxbWtqdndKNmo3SWNDZnlNQ1I3SEQ0MlFYNnVjRFoy?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ford-2026-11-12-027",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ford Proud to Honor Veterans Day Classic - dailyrecordnews.com",
+      "companies": [
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeVJSOGhIc0h4QmZ4d1JSZXhkdExiREpuWG9TMU1uVjNqTWUwdkpmN3MtcDNQRkZTcUhvVjlyR3dHSEpyVktzTjdSNl9wbW1GcklpeXpkeFNnbERwNXVYQ2tOd25Gc29CVzkySV9EdVc1ZmZHU0IwRzY1OEpoVUNIYUxyMHE5LXVYcldJaVFJTGZjd1hPNE9vQ3FvMDBQMG1nbXI4QVlVNXY0MkliZDM5SnZLY3l3Vl8wNUQ2S2RJc1AxSms1a1YtWkNZNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hotai-2026-11-12-049",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan's Hotai Motor Posts NT$31.86 EPS for First Three Quarters as Japan Dealer Consolidation Lifts Profit to Second-Highest on Record for Period - BigGo Finance",
+      "companies": [
+        "hotai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Yc0p1bmdKSXE3bEx5SmQtRjVvT0lPck9MU1hPX0ltek5PNmd1cWc3akJlUTludC11T2ladHVYZVhQTWo0c19lYUFYZDRWdmQxc3dZdVdHUUh5dEUwbHlTdDVYRGRlVWNrTThTNjVBVEpXN3BfSGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "parts_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 56,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 86,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 70,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 15
+      },
+      {
+        "id": "stellantis",
+        "count": 11
+      },
+      {
+        "id": "bridgestone",
+        "count": 6
+      },
+      {
+        "id": "magna",
+        "count": 6
+      },
+      {
+        "id": "hyundai",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 56
+      },
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 706,
+    "dup_title": 310,
+    "too_old": 155,
+    "gate1_blocked": 36,
+    "gate2_blocked": 42,
+    "passed": 163,
+    "pass_rate": "41.2%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+      "Environmental groups eye whether ArcelorMittal Dofasco reinvests in aging coal-powered furnaces - CB",
+      "ArcelorMittal’s third-quarter EBITDA increases 34% year on year to USD 2.02 billion - EUROMETAL",
+      "ArcelorMittal reports third quarter 2026 results - Yahoo Finance",
+      "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 86 則事件，焦點為Ford、斯泰蘭蒂斯、Bridgestone相關動態：「Ford’s Jim Farley Isn’t the Only One Worried About BYD, G...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ford’s Jim Farley Isn’t the Only One Worried About BYD, Geely and Chinese Aut...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "New Stellantis captive financing ‘huge’ for Canadian dealers - Automotive News（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "零件價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

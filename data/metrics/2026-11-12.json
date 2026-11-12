@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-12",
+  "total_events": 86,
+  "by_company": {
+    "nippon_steel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arcelormittal": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "bridgestone": {
+      "count": 6,
+      "sentiment_avg": 0.33
+    },
+    "saint_gobain": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "continental": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "magna": {
+      "count": 6,
+      "sentiment_avg": 0.33
+    },
+    "ford": {
+      "count": 15,
+      "sentiment_avg": -0.27
+    },
+    "hyundai": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "byd": {
+      "count": 4,
+      "sentiment_avg": -0.38
+    },
+    "stellantis": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "aptiv": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "honda": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "hotai": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "tesla": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "volkswagen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "parts_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    },
+    "ev_penetration": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 32,
+      "sentiment_avg": 0.08
+    },
+    "industry_general": {
+      "count": 56,
+      "sentiment_avg": -0.01
+    },
+    "auto_sales": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:57:54.513390Z",
+  "updated_at": "2026-11-12T16:40:59.306640Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "正新",
       "ticker": "2105.TW",
       "currency": "TWD",
-      "ar": 10399415000,
-      "ar_prev": 9822105000,
-      "ar_qoq": "+6%",
+      "ar": 10269334000,
+      "ar_prev": 10399415000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 17891574000,
-      "inv_prev": 16123357000,
-      "inv_qoq": "+11%",
+      "inventory": 18402945000,
+      "inv_prev": 17891574000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "continental",

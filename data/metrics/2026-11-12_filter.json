@@ -1,0 +1,16 @@
+{
+  "total_raw": 706,
+  "dup_title": 310,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 36,
+  "gate2_fail": 42,
+  "passed": 163,
+  "gate2_samples": [
+    "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+    "Environmental groups eye whether ArcelorMittal Dofasco reinvests in aging coal-powered furnaces - CB",
+    "ArcelorMittal’s third-quarter EBITDA increases 34% year on year to USD 2.02 billion - EUROMETAL",
+    "ArcelorMittal reports third quarter 2026 results - Yahoo Finance",
+    "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf"
+  ]
+}
