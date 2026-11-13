@@ -1,0 +1,16 @@
+{
+  "total_raw": 700,
+  "dup_title": 316,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 40,
+  "gate2_fail": 49,
+  "passed": 140,
+  "gate2_samples": [
+    "Nippon Steel Corporation (5401.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "EU Clears Posco Holdings, JSW Steel's Takeover of Saffron Resources, Posco Maharashtra - www.markets",
+    "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+    "From steel to rare gases… POSCO Group’s dream of a ‘Triple Core’ taking shape in Gwangyang - 경향신문",
+    "Environmental groups eye whether ArcelorMittal Dofasco reinvests in aging coal-powered furnaces - CB"
+  ]
+}

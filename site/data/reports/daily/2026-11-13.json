@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T16:00:09.563978Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-11-13-030",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai explores investment in Posco graphite project in Vietnam - electrive.com",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWc5S3U1U1JYV3gtU1hYamRrTXdoc0ZEMzhrN2pFeXlkYVg5YnVPXzFqRXU5TTl6djlmd0lTUVB5cXpuNFE2cVBMWUNIUUY3bDFpV0NSeGFJaDJkWWJYYThBS041cldIeDVKdExiRWhyWmNSQ2ZkVzF3R0ZIZGVVWElWQzhsT2RGMndIcjVmRkVJZ2VFSjJfcmtKZ2RWLVdTRWdHTA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-13-065",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "‘Retail on the Record’ recap: John Bergstrom talks customer satisfaction and the only thing U.S. dealers need to beat Chinese automakers - Automotive News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQW5WTHRrSXlmMnV5M0RiMEhmM1hscVowVnZVRW9oLXl1Q2NrelRmRmRhVlRqcnU4STlucmJxc09WeTEtaENDYXRxeFEyVDExVnlRTmJJb1N1bHpuN042bnpheXpWRXBvbThldnFVU2FEQ29jbndqcnBORTg1eWc1YVp1TXpoR3lFZTVIRVlNMFc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-13-067",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Dealership buyers scrutinize sellers’ advertising practices after FTC warnings - Automotive News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNalRtM0lBelB4YzU0d0tmU1lWNnFfM2lXVDRfcVFQdjM1WTQzVFoyYktJQ1g4OG9Cc0trRWtUd3JoZzU3SGI0cFVQWDJkc2NlUHJza2Yzc3FrQVdsMmhLSXRHdkk0VkQzdm9qeUx2ZHdmdUYyMmUtMTZCYTZLY3J1Q3JySUpteG9nelVQNWtXMWdoMDR1cWpHelJ0OTdxZFFuTGs1QTVENm8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-11-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Steel prices in Europe to increase in Q4, outlook stays positive: ArcelorMittal - EUROMETAL",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "parts_price",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa01tN1dqdGs0MGN1RFpGOTE4aUVnS2tCR0I2TlBsT2JxckdrS2pGVFZsRGRLcnpSdXdYZktqWEZiYmdpSE0xYzhGbURubnB6N0tEUlZJa0lNMlc4OFg5WXZhRXZqSmRCVDJEY0Z5X2ttSzMyaXBPTnFmNGdSQ3dEMjZiWC1BcFVXMzNJT05CcnVSM3RNakNoQmdVWjl2cUpvbUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-11-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal shares, CAC 40 laggard, erase part of their +6% gain - Idéal Investisseur",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTW9oMnEyYzloMmR1NDhNQlVKSUJzM0JqOVh0RzVwQ1o3NmNKejNDRVNtZTFGNTVYX213MWNNbXJHXzNSRjFxbWh3Q1J5ODdsWS0wcVBrSkpaby1ka0xfM0NGOEMwblFBVkxuQWdJM2duUFF3aVZhOG1VdXJLOTlDQUdNX09vZ0Nndy1EbURXMGh3S2hGSXotd0xDLTNpR2tHandCTFVpRWtCVS1LWkdTMmVTY01lSF9Qd3liLWhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "parts_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 64,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "auto_tariff_trade": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 88,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 77,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 13
+      },
+      {
+        "id": "stellantis",
+        "count": 12
+      },
+      {
+        "id": "continental",
+        "count": 8
+      },
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "volkswagen",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 64
+      },
+      {
+        "id": "earnings",
+        "count": 43
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "parts_price",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 700,
+    "dup_title": 316,
+    "too_old": 155,
+    "gate1_blocked": 40,
+    "gate2_blocked": 49,
+    "passed": 140,
+    "pass_rate": "36.5%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Nippon Steel Corporation (5401.T) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "EU Clears Posco Holdings, JSW Steel's Takeover of Saffron Resources, Posco Maharashtra - www.markets",
+      "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+      "From steel to rare gases… POSCO Group’s dream of a ‘Triple Core’ taking shape in Gwangyang - 경향신문",
+      "Environmental groups eye whether ArcelorMittal Dofasco reinvests in aging coal-powered furnaces - CB"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 88 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、大陸集團相關動態：「Hyundai explores investment in Posco graphite project in ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai explores investment in Posco graphite project in Vietnam - electrive.com（財報）",
+        "level": "red"
+      },
+      {
+        "text": "‘Retail on the Record’ recap: John Bergstrom talks customer satisfaction and ...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "零件價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
