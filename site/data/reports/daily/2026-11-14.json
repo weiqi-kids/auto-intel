@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:53:27.569900Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-11-14-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Ends Losing Streak as Spellman Shines in LG Clash - 조선일보",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVlDckdIOXIxTURCUW5ZdnVwQS1HZDN4TXcxbHFoeEtkUjA1MGo4Y1ZrWVVsNHBmc0xBQ18teXk0NFlVdXg5NnpNVVJ5VFFVemZKMk05eW03QnBuVUlob0oyYlJYaXJfdkhIMWE2OHJQYnhnbmhJYk9YdllsRVZ4VTR4MDhYUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "stellantis-2026-11-14-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford, GM, Stellantis stocks had this in common for week ending Nov. 13 - Yahoo Finance",
+      "companies": [
+        "stellantis",
+        "gm",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDBkQXZFVnNWaXpXeWFsa1UyVE9reXVJUGJNOHg5NzFKbDhYeWFwdS02VFhLdldwTm5oV2Y0Z3NVOEprcHpHbzlWcS0wbVRxQ3hMQ0VLaV9PU3ExblRNeGUyMHBpeGFlalJyUGlNbHRMUVRSMlBkM2d4TzY2b0JqQ1ln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "stellantis-2026-11-14-014",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Big week for Ontario auto: Stellantis sells, Honda invests, Silverado reborn - Inside Halton",
+      "companies": [
+        "stellantis",
+        "honda"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFNabmhhbXgxSHJTRkhOOGFEMmcwR1VxeVpNSk5EMmNmQzBvUXJpSEZWY1J1YlhQUnNQdW91NTBDZ2JXRUVpejJSa3B2S3FZN0JNTjhNWEF1RlFEc2Y0emJzZE5ud01FTEY0SFpickpndUpQWm13WWduSjJvYVdXWEljT0hqUm04aXRmaWZxVktSb2NYQ2JBRE5meHUtX3JqNnY4a0JqNTRpeVRL?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "posco-2026-11-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU Commission clears acquisition of Saffron and PMH by POSCO and JSW - INSIGHT EU MONITORING",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ0xxYjRxYWZ1TkhnVFlTSFNzVzVXcTlkVXFCXy03RkFmbGwzR0xsUFJGTkx1cGNnUHgtZUNmbnhHcGE2QWdMNmxaZGhTUTRLcEl6Nmlrd0JHdFRUSlEyNDhKdHY2dk05VTBMb3dWdFZ2NmJpRXpEemUtOXNjSmQ3NW5rbm1FUUJxNlZvcHRTQjNvUFFnS01Mcy1YOUh2SzVBYzlTRnlpOFdkc1BrMjdMbmlYTkE5dTNaZHdsY3ZVVzNYT3JnNlpfajQwSnZ5NzVt?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU clears steel merger, citing limited economic impact across Europe - The Brussels Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnRQX250eG0tb2hhdlJ1MTg2aUl3SGlKeEtSd0NXc2hfcFROdVk2U3NCQzZSSnFqZHRTS2tsQ2YtZTdvTkxJVHJMUVhORldNeGQta2RDM0Q2eHhMS28zZ2tmWDhsNWdnQUEtMm5OZVpiM1dONG14Y0d4UlQ5LWpORUhqSm9mbE9RWE5hQlJJVkVJUF9YczJJRGFSUk42dl83RFYzbldzZDFpR0pQdGx0bVZLRFU5V00?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ford",
+      "to": "gm",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 7
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "gm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 698,
+    "dup_title": 346,
+    "too_old": 162,
+    "gate1_blocked": 41,
+    "gate2_blocked": 56,
+    "passed": 93,
+    "pass_rate": "26.4%",
+    "gate2_block_rate": "15.9%",
+    "gate2_samples": [
+      "EU Clears Posco Holdings, JSW Steel's Takeover of Saffron Resources, Posco Maharashtra - marketscree",
+      "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+      "OUTA warns IDC takeover of ArcelorMittal South Africa risks making the country pay twice for steel -",
+      "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf",
+      "Music City Milestone, Smashville Solidified: Bridgestone Arena Celebrates 30th Anniversary - Pollsta"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為Ford、Hyundai Motor、斯泰蘭蒂斯相關動態：「Hyundai Mobis Ends Losing Streak as Spellman Shines in LG...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Ends Losing Streak as Spellman Shines in LG Clash - 조선일보（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Ford, GM, Stellantis stocks had this in common for week ending Nov. 13 - Yaho...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "汽車銷量持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

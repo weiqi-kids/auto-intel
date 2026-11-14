@@ -1,0 +1,16 @@
+{
+  "total_raw": 698,
+  "dup_title": 346,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 41,
+  "gate2_fail": 56,
+  "passed": 93,
+  "gate2_samples": [
+    "EU Clears Posco Holdings, JSW Steel's Takeover of Saffron Resources, Posco Maharashtra - marketscree",
+    "GS, POSCO join hands for future large-scale AI data center projects - The Korea Times",
+    "OUTA warns IDC takeover of ArcelorMittal South Africa risks making the country pay twice for steel -",
+    "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf",
+    "Music City Milestone, Smashville Solidified: Bridgestone Arena Celebrates 30th Anniversary - Pollsta"
+  ]
+}
