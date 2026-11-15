@@ -1,0 +1,16 @@
+{
+  "total_raw": 700,
+  "dup_title": 364,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 37,
+  "gate2_fail": 51,
+  "passed": 68,
+  "gate2_samples": [
+    "ArcelorMittal takeover could make SA pay twice for its steel - Daily Maverick",
+    "Music City Milestone, Smashville Solidified: Bridgestone Arena Celebrates 30th Anniversary - Pollsta",
+    "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf",
+    "DENSO Corporation (DNZOY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "2012 Bentley Continental GT W12 for Sale With 58,000 Miles - Road Ethos"
+  ]
+}
