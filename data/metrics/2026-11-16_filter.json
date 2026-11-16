@@ -1,0 +1,16 @@
+{
+  "total_raw": 702,
+  "dup_title": 318,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 42,
+  "gate2_fail": 50,
+  "passed": 117,
+  "gate2_samples": [
+    "ArcelorMittal takeover could make SA pay twice for its steel - Daily Maverick",
+    "Music City Milestone, Smashville Solidified: Bridgestone Arena Celebrates 30th Anniversary - Pollsta",
+    "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf",
+    "Saint-Gobain : Jefferies maintains a Buy rating - marketscreener.com",
+    "Price target changes: Saint-Gobain, Orange, BNP Paribas... - Idéal Investisseur"
+  ]
+}

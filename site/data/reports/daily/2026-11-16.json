@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T18:08:42.947003Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-16-027",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Photo] Kim Nak-hyeon sinks 3-pointer to break Ulsan Hyundai Mobis comeback - Chosunbiz",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHBiN3FGWERSSk9nc19rTHpBQTF4aXJoYmQ2bjFKMk1Vd3dyU1FqekJZeVdYX21EQ1h5SjVDeGdxLS1NSUtTYy1QVEprV3VEQmdzYXdvZW5iZ1QwSm5YdHRSc2xPYWE2eDluTV9mV24wRzhsR0RDc25yOENld2dia0prUdIBlwFBVV95cUxOcERRdGlsSGpYTlU4dEY0NVl1N1g2XzVha28zRHB3MFBCUWVjWTVFVXZyc2tWZno1WTA3aTg0TUl5bDA5RUU1TjZXYThmdW5mVi1uMHl6bmI5Rkc0ZFc0SnZOb3Rpa2FGN3B4bTBKV05tYXVUS1otWjRGV2dVUk5SNG9xUDNxYXJwcE1CVWVlamZOeGlrT1p3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-16-028",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Photo] Seoul SK beats Ulsan Hyundai Mobis to snap 2-game losing streak - Chosunbiz",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQenY1X2V1cmNiZ0J1bk1YdlQ1b0hJRDNmZElkZXVkcUJxNmFKUWpSYWxoNDhCdkZ4Umx3MzY4Q3M3VzlJTEUwaExsSDZIVlg5UVNLcGpXRmdyajFvZWprTU96LWg4X3BNOVN6UTFKb0E1empnZEpDTUtHMWdLRFY4MlVkUdIBlwFBVV95cUxPSzlXd2h2dlB4cUJtVWRmS3NPUnhLN2Q5Y3Uyb2xUYVc1eFpVWXFhY21vcXNkNk1uc0U2aGlWblpmQjRQRFZNeDdmcjZYbkVMLUh0OGF6YVZQdUQ1d3dHLUFpUWkybmdtV19BNzB4d0lOcXcxQTRJUlJRWHlkLXFPYmoza0hvM1IwMVR5eTJ3MzJIeHY0cmd3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "continental-2026-11-16-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sinopec sets Chinese drilling record for deep continental shale oil wells at Shengli Oilfield - Global Times",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sRHAwaUZjYWNxX2hKR2FZM0xaaFRJSGpBTThDR1U4S2FrbDI4c29sajRHbk41bk5rcDItV1BhUFFFQVB5Mm1CQ1ZNeFRBbS0tV0tKWnJMcGxUYzhRMGgzeE1B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "continental-2026-11-16-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Continental Realty Corp. acquires Fla. residential complex - Maryland Daily Record",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX1hOVHQyTDRvWkxYSUFlbnhYbTNMY3dJUm9HTHc0SEpseTVfTjY4OW5sZHN3LTlRdEppNm9oMnlad0pGUUU3ZVRNazUxbzhMRTFrcE1IYTRUbEZXWkxvckQ3YXIxRFZFYnVoTWtiSU90SDZrWVg1STMxWFRrOWhPcVhCZFAyY1I1NDZGdEE2OGxTZ2xIVFp5bWdWQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-16-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Seoul SK Ends Losing Streak, Beats Ulsan Hyundai Mobis - 조선일보",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajVBVjl4TDBjVlAwZUk3MjR5NTVQa2JBZ0ZoZEZFRC1LOG9iOFloLVlTUkpLMUxMV29od0hCZEl5YmFNaEsxRzhTVXJBemxMRFAwRTd5SlJ4RlVHdU9aQk54YVZyOU1fVXhVdEFsaGlGaDRNX2RIT3RIU3RTLVBYWTIzcE9TQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 50,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 57,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "earnings",
+        "ev_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 95,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 84,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 15
+      },
+      {
+        "id": "continental",
+        "count": 9
+      },
+      {
+        "id": "tesla",
+        "count": 9
+      },
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 57
+      },
+      {
+        "id": "earnings",
+        "count": 50
+      },
+      {
+        "id": "ev_penetration",
+        "count": 7
+      },
+      {
+        "id": "auto_sales",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 702,
+    "dup_title": 318,
+    "too_old": 175,
+    "gate1_blocked": 42,
+    "gate2_blocked": 50,
+    "passed": 117,
+    "pass_rate": "30.5%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "ArcelorMittal takeover could make SA pay twice for its steel - Daily Maverick",
+      "Music City Milestone, Smashville Solidified: Bridgestone Arena Celebrates 30th Anniversary - Pollsta",
+      "Bridgestone Arena Selects JE Dunn Construction to Lead Smashville's Next Stage: Broadway 2030 Transf",
+      "Saint-Gobain : Jefferies maintains a Buy rating - marketscreener.com",
+      "Price target changes: Saint-Gobain, Orange, BNP Paribas... - Idéal Investisseur"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 95 則事件，焦點為Hyundai Motor、大陸集團、特斯拉相關動態：「[Photo] Kim Nak-hyeon sinks 3-pointer to break Ulsan Hyun...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "[Photo] Kim Nak-hyeon sinks 3-pointer to break Ulsan Hyundai Mobis comeback -...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "[Photo] Seoul SK beats Ulsan Hyundai Mobis to snap 2-game losing streak - Cho...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
