@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:08:38.672644Z",
+  "updated_at": "2026-11-17T17:29:24.211914Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "建大",
       "ticker": "2106.TW",
       "currency": "TWD",
-      "ar": 4723816000,
-      "ar_prev": 4326105000,
-      "ar_qoq": "+9%",
+      "ar": 4208927000,
+      "ar_prev": 4723816000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 10191213000,
-      "inv_prev": 10125043000,
-      "inv_qoq": "+1%",
+      "inventory": 10836010000,
+      "inv_prev": 10191213000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "magna",
@@ -466,17 +466,17 @@
       "name": "裕隆",
       "ticker": "2201.TW",
       "currency": "TWD",
-      "ar": 163183082000,
-      "ar_prev": 1415789000,
-      "ar_qoq": "+11426%",
+      "ar": 163506678000,
+      "ar_prev": 163183082000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 9987897000,
-      "inv_prev": 10463029000,
-      "inv_qoq": "-5%",
+      "inventory": 9773494000,
+      "inv_prev": 9987897000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     }
   ]
 }

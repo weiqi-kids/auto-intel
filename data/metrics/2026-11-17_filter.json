@@ -1,0 +1,16 @@
+{
+  "total_raw": 693,
+  "dup_title": 287,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 46,
+  "gate2_fail": 49,
+  "passed": 146,
+  "gate2_samples": [
+    "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+    "EU Imposes 16% Anti-Dumping Duties on Vietnamese Cold-Rolled Steel... POSCO Also Included - 파이낸셜뉴스",
+    "POSCO’s Chang calls for software-driven tech commercialization to expand business - Chosunbiz",
+    "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+    "Who Will Take Over Brad Davey's Roles at ArcelorMittal (NYSE:MT)? - Kalkine Media"
+  ]
+}

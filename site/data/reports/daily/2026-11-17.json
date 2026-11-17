@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:29:29.384778Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai_mobis-2026-11-17-025",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Motor, Hyundai Mobis Inject approximately $190 Million Emergency Funding into Motional in Q3 Despite 427.6 Billion Won Loss - BigGo Finance",
+      "companies": [
+        "hyundai_mobis",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jNlg3QzBvLVh0bXVKVnNtSE92bHl3eUxfaW5zSDlfWHBJdGROdENHZEo0VTNpa2tINVVMbnlicmNudnh1RDE4b05fdkJMWmx2bnRJMFJOZTE4MHk0bmRlUFp0YkNsWXBPN0pOWFdiYzNUekJUSFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "posco-2026-11-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO hosts sustainable materials forum to lead transformation of steel industry - 머니투데이",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HTzBzOS1kcUVKWS1OVzdWd1d0d2lhaDc1U3gyTE5yTzEzbU5IVXh5b2JiZDdWX2luaFRDMTRTYXhxSTc2RVFybExTQ0RrNTUtaS1oLVplQ2lsSmJIZEZ0NnQ2MDlaRy1kclEwTVAtdm8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-11-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "POSCO Pushes Steel Overhaul With AI and Green Transition - Seoul Economic Daily",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXZMRUViT3lqaXNtYzlGUFhnR0FrT2VEWWppeWtiNFNyU0QyUWdMVTJVYnNOclh4RlFqRG9GMlo0cDRsbTlMZUNmZWRmMl9OamxZUTEzM2NBR3JFRG1fZ0dtRTNmWHBoX0dmMEZ5b1FJOXVCZlQ4U1RDNGNqQWlRdkpfVjhYTWhkUzRwYlUxamJGNHRBVWpZdng5bm50akhX?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-11-17-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal: A 2027 Earnings Inflection Is Taking Shape (NYSE:MT) - Seeking Alpha",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZHlWQTlPWG9oel81Y2JTZW51VGNVSmpUVWo4TjlrMTZSQnIxWDdHQ3FMUHFuMVBMa0RCc0tvUWdYVzRvNnktaTRiUTk5UnJJV25rTURUa0xxRjgybWdJd0hvTngxVlRIcHRwcExac0JRNEFNX2JYeUd1VWFpbjBCdWFwSnR5MmNDUkdXQWVDa1NvOVlzM0FxZWVVeDFNZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-11-17-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Arcelormittal South Africa rises 3.23% in Tuesday's session - Global Banking & Finance Review",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnJlUTB5SWRNU19SOFlCU2NGS2pHSjl6c3JqU0ZhemNlWGlmeS1aWmhKU2ZUTk8zMDZZYjBCRFU2bW9hNHFiZzd4eFFLYWFhZ01sZ2ZDRUNRaWlMN2xpdXlDc1ZSTGpnNjRlX2h0RFNFc0dDbnQ1dWd0cnozY19UMHhSbFBhOXZCUzBNcEE4X3A4eHp3Mnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 68,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 99,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 90,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 21
+      },
+      {
+        "id": "continental",
+        "count": 11
+      },
+      {
+        "id": "hyundai",
+        "count": 11
+      },
+      {
+        "id": "posco",
+        "count": 7
+      },
+      {
+        "id": "toyota",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 68
+      },
+      {
+        "id": "earnings",
+        "count": 38
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 693,
+    "dup_title": 287,
+    "too_old": 165,
+    "gate1_blocked": 46,
+    "gate2_blocked": 49,
+    "passed": 146,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+      "EU Imposes 16% Anti-Dumping Duties on Vietnamese Cold-Rolled Steel... POSCO Also Included - 파이낸셜뉴스",
+      "POSCO’s Chang calls for software-driven tech commercialization to expand business - Chosunbiz",
+      "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+      "Who Will Take Over Brad Davey's Roles at ArcelorMittal (NYSE:MT)? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 99 則事件，焦點為Ford、大陸集團、Hyundai Motor相關動態：「Hyundai Motor, Hyundai Mobis Inject approximately $190 Mi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Motor, Hyundai Mobis Inject approximately $190 Million Emergency Fund...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "POSCO hosts sustainable materials forum to lead transformation of steel indus...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
