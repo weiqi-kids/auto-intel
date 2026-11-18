@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T17:02:42.786436Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-18-016",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Moves Forward With 4,100 Suppliers, Offering Full Technology and Financial Support - 매일경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QQ2pja00yVXhSSmRKb1ZDbTJNYU03aTcySEhBbHBNb1dNNjlEMTZ4UTJka25lU0lQRmFhSDJWTmxWS1ZXRFFXMDl0dkZ6U2lvUW9z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-18-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Files 860 Joint Patents With 4,100 Suppliers - Seoul Economic Daily",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWkyXzRSZm5rMjhjR2h2MDJCZlBDY1ZSdWlsN1E5eDQ2SnZNeTBMcFJ0SUcydWltTTFDNFNOelpBbU1qQlRZQmZVN095MFJubGhORXEyUzRLcnByMmZfZzN2eUZuMmlYVFRHUjFmc2RySTZZMWxJV0hNZ3JhZ1pTTnVCUjQwb3U5bDFxN2p3U1N3MjVNcy1MMmNtMDBrdnZa?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-18-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea's Hyundai Mobis Extends 526 Billion Won in Financial Support to 4,100 Suppliers Over 3 Years; 860 Joint Patents Filed - BigGo Finance",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zTVdBa3E3cWltcFY5dXY4dWY2S1FmMzNMdFNhT09sclVCWFpHa0t4N0ZDMWF0dEVOZFJRWjMxSmdQNmwxT1ZFUkZCYm5TVTVJVFJndjJ4a0R4YUdIVzNuNEN3Ql9qZHdCdDRWMkZweE5ZZENCdVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hyundai-2026-11-18-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Publishes Shared Growth Guidebook... Pursues Mutual Growth with 4,100 Partners - 아시아경제",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRDZBVUd2NHN6eVBDOHhwcnQ5UWhkbzBEeERkYWtDT3B4V3RCU3VyeEtZU3QyUjVIbXZtNmJ5QkRmM3RzWHp3MlhfUDU3RWNxWUJRWEp5M0s5NWs1Ni1PRWNySmY4Uko4RnBiOWpLNHdrMUk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hyundai-2026-11-18-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis invests 156 billion won in supplier technology development, secures 860 joint patents in 3 years - 머니투데이",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MW84T3pxc2dyVUN5alVpQzdLM1oxVUJGMzJvWFlTMnFiU0wza3dPaDU2dXgxS0NpRXY1ZXJnSUlWT3hQYlpZLWNRc2d2LVZWMF9faklUWDB5R3RRWHRibEpwd1lfTGwxS0RGOW8xNFA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 93,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 86,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 17
+      },
+      {
+        "id": "ford",
+        "count": 14
+      },
+      {
+        "id": "tesla",
+        "count": 7
+      },
+      {
+        "id": "hyundai_mobis",
+        "count": 6
+      },
+      {
+        "id": "continental",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "earnings",
+        "count": 35
+      },
+      {
+        "id": "ev_penetration",
+        "count": 12
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 664,
+    "dup_title": 264,
+    "too_old": 166,
+    "gate1_blocked": 43,
+    "gate2_blocked": 45,
+    "passed": 146,
+    "pass_rate": "36.5%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+      "ArcelorMittal Steps Up Rail Safety Campaign in Nimba - The New Dawn Liberia",
+      "Kenda Rubber Industrial Co. Ltd. (2106.TW) Seasonal returns chart - Yahoo Finance UK",
+      "The 2026 Continental Classic By the Numbers - AEW",
+      "IIHF Continental Cup 2027 finalists confirmed - IIHF"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 93 則事件，焦點為Hyundai Motor、Ford、特斯拉相關動態：「Hyundai Mobis Moves Forward With 4,100 Suppliers, Offerin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Moves Forward With 4,100 Suppliers, Offering Full Technology an...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Files 860 Joint Patents With 4,100 Suppliers - Seoul Economic D...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

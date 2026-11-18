@@ -1,0 +1,16 @@
+{
+  "total_raw": 664,
+  "dup_title": 264,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 43,
+  "gate2_fail": 45,
+  "passed": 146,
+  "gate2_samples": [
+    "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+    "ArcelorMittal Steps Up Rail Safety Campaign in Nimba - The New Dawn Liberia",
+    "Kenda Rubber Industrial Co. Ltd. (2106.TW) Seasonal returns chart - Yahoo Finance UK",
+    "The 2026 Continental Classic By the Numbers - AEW",
+    "IIHF Continental Cup 2027 finalists confirmed - IIHF"
+  ]
+}
