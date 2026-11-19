@@ -1,0 +1,16 @@
+{
+  "total_raw": 625,
+  "dup_title": 255,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 42,
+  "gate2_fail": 44,
+  "passed": 143,
+  "gate2_samples": [
+    "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+    "ArcelorMittal Belgium shuts down blast furnace B for scheduled maintenance - GMK Center",
+    "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+    "Arcelormittal Nippon Steel India Exec Says Reviewing Latest EU Duty Through Steel Body - TradingView",
+    "AEW Dynamite Preview: The 2026 Continental Classic Begins With Three Matches, MJF Speaks, TBS Title "
+  ]
+}

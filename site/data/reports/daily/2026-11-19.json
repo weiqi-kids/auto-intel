@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:11:45.046503Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hyundai-2026-11-19-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Co falls 4.42% in Thursday's session - Global Banking & Finance Review",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDI5ck02MTVUa2R3dGt2Wi0wWW81V1FhZ2VrbmVVcGp2eUpIWlNDSE5EeUdzRVBIYm9lTGgybVRLcGlrTWZrTnFick5ES3JwWEJnUjRlWXQ4eVNQeUtoS2F0WjJrX0FvQlF5Q2IydVp3cEhtTV9OY2s2Z3liazlBWF90MDF3R1VjRWh1NQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hyundai-2026-11-19-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai Mobis Sets Sights on Future Mobility Leadership... R&D Spending Nears 2 Trillion Won - 파이낸셜뉴스",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zSS05UEM0RGFuanI4N3ZyVE9kazRSSDJKZ2NkYl96N1U1U2RXYWpXRzNJMXBNdGQ4dGtNNUpsYjU4Mm5YOENmaG9LOHRGclZobDZ0emtNVnM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-11-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "48 years of steel...Sewoon Steel, POSCO Steel Purchases 20 Million T in Accumulated Purchase of Steel Materials - 매일경제",
+      "companies": [
+        "posco"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUVVh2eTVDVWJMWUlyY1FBQ3pQM05Yc0stOVlsU1llU0lTcy1Cb0RzYTYxYVZNTlVnUjJsdDBxR1o1Zy1EeU1qQ2tWSmlCRlpmdENZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-11-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ArcelorMittal Liberia Invests in Liberia’s Future as 40 Railway Personnel Earn Certification - The New Dawn Liberia",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnZjOXBaRUNoQ1ZPRlQ3ckJ5d0hveWc2MFVsSlIzYmhRbUZqSVZnMG5PaUVJY0tLUXFhcUxGbDNZOXlKWmdCM2FpaklLRTNWUHQ2bUxlbzUxVmtUcmgxa0NhdzFaY0tfQmJFdEEyRG5fZHVSWXlaZVhOc2tmUElkU3BZdldhWDFRUm80N1Njc044SndCU2puNlA0Vmc1N2NmQzlBQi1ldEs0bm8wQ1BKNDFzN2xsYXlGYk9RZHcyZXFYYUVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "continental-2026-11-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Continental SportContact 7 Selected for Electric Mercedes-AMG CLA - Modern Tire Dealer",
+      "companies": [
+        "continental"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXpLWE1TV3FkMEQ1V0VkRHpmeFVLZ1NLUXNHYW5ZQlFIQWN6RFRmT1BfXzA2djdIbnNjeUUydHNCbXluSXlwWG9mMVZ0RGtwMHJOWV9RMzhXMEM2M2xPYXRpdmFhd1R5NDN0bGNTdGRqd0dNRnpybGRIbXV1ZGJpRVNkLUhmQ0FUQ2lqMzYzdV9tX2tiM3Z0d2NVSW8wRUswOXVpTENfSmU2RTVoYlY4aXhVZWlUUWxlY01XY1JtVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 72,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hyundai",
+      "to": "hyundai_mobis",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 87,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 80,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 19
+      },
+      {
+        "id": "ford",
+        "count": 10
+      },
+      {
+        "id": "continental",
+        "count": 8
+      },
+      {
+        "id": "tesla",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 72
+      },
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "ev_penetration",
+        "count": 8
+      },
+      {
+        "id": "auto_sales",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 625,
+    "dup_title": 255,
+    "too_old": 141,
+    "gate1_blocked": 42,
+    "gate2_blocked": 44,
+    "passed": 143,
+    "pass_rate": "38.6%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+      "ArcelorMittal Belgium shuts down blast furnace B for scheduled maintenance - GMK Center",
+      "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+      "Arcelormittal Nippon Steel India Exec Says Reviewing Latest EU Duty Through Steel Body - TradingView",
+      "AEW Dynamite Preview: The 2026 Continental Classic Begins With Three Matches, MJF Speaks, TBS Title "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 87 則事件，焦點為Hyundai Motor、Ford、大陸集團相關動態：「Hyundai Mobis Co falls 4.42% in Thursday's session - Glob...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai Mobis Co falls 4.42% in Thursday's session - Global Banking & Finance...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hyundai Mobis Sets Sights on Future Mobility Leadership... R&D Spending Nears...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
