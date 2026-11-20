@@ -1,0 +1,16 @@
+{
+  "total_raw": 722,
+  "dup_title": 286,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 48,
+  "gate2_fail": 61,
+  "passed": 157,
+  "gate2_samples": [
+    "Nippon Steel sets coupons of 2.324% to 2.840% on ¥60bn of bonds to refinance debt - Tokyo Brief",
+    "Arcelormittal Nippon Steel India Exec Says Reviewing Latest EU Duty Through Steel Body - TradingView",
+    "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+    "$57M ArcelorMittal facility to bring up to 70 jobs to Macon-Bibb, opening eyed for 2027 - WGXA",
+    "ArcelorMittal breaks ground on $57 million Macon headquarters - 41NBC News"
+  ]
+}

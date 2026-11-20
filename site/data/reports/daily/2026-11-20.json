@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:49:42.155980Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "posco-2026-11-20-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hyundai-POSCO Louisiana Steel wins Energy Deal of the Year Award - Donaldsonville Chief",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdnRLdFY5WDM3NmVEaTZWdlhWMXQ3RXFyenhfVTF5bUhnT2pzN3lUMWg3eDN2NWozZDg4Tk8wR1Z3emVDMmMxc1RLY2pzcUlGOUE5cFplYmxibl9CcFd0eVRUSzhxYWZRMUZINzh5cXBKWFNGck5FZ3pBYXJ6OGNMRnZQQkU4ZlFOM1owbDBjZEI0X2Vvc0JIeUFib2t3VWt2ajJnOHd6M0RhM0c4UUgzSC1jRUJWWDFOREFIMjFuOGtWMExxZGswM0w1WkNWOUduTE50bklNeUc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "stellantis-2026-11-20-046",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Ford vs GM vs Stellantis: how the three Detroit automakers compare - Investing.com",
+      "companies": [
+        "stellantis",
+        "ford",
+        "gm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjdsS3o3eTk3dERjUGhPRzJlQU9NYkFhUFdlVXNVVm51bWlmQXNFbDVCZjZrS3BaU1pVOEdVWVFRWTJvcVVrQ1dfY21iZGk3eGNzYUtVamx5a0pJcGlld3dIWEotV3JKMDVoNGJvNDdwNnJuTWJoTFVjNmV6TTk2WmkzMDA4RGtfOEJ4M2puVXJud3ZjdFhiY0hfcEg1QTVZc0JCdWdFMnFhMElwNW1OZVhvdjcwUkRKcDZfYlZ5NmwxYzdKX3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hyundai-2026-11-20-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Kim Seung-woo: Hyundai Mobis Draft, National Team Selection - 조선일보",
+      "companies": [
+        "hyundai",
+        "hyundai_mobis"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "hyundai_mobis"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdE51M2lQSXl4dTJGeUhJYlRTd0RpVHJYU1NENHBiYkZMcnc0NmI0NDFMMWtudFhydGpLc0swbDBYdjM3Z1lNamVKdlRpeUx4d21jVFEtNHhfbGtOd2c5dE9YY05QQWNYWmJDbVFycEl6ZHpTOE8tRHU1RFh4M3VsSHUwMVRUdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nippon_steel-2026-11-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US Steel, Nippon Steel Subsidiary, Reaches Tentative Contract Deal with United Steelworkers - marketscreener.com",
+      "companies": [
+        "nippon_steel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcm9fYVZPNGlfYmVfOFo3dXRMOE4xNm9xMzVFcGpMVHlOWWE2MWR5dXBaRmp3T2llWUJpV3hQazUydndDYW03T2poQjMyaHFsc0lxUGdJRGFBZ01IQmphUnZfdTZ1VWJ3WlFhM2dEOUp6UURKRE5aQVRZdlRmVTFuNTBUS3lmQ2p1dGdDTmI1TjJkZjMwNG9hNlZSNDN2dTRWMm1xUVFveE5oR3Y5T2lqT2dTdG41MXNwMVE0VlJNYWdneGw3NTlSX2ExN01mb1N1aUFlaUZOMW1nQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "bridgestone-2026-11-20-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bridgestone Extends Lamborghini Partnership as Exclusive Tire Partner for New Temerario Spyder - Motor Sports Newswire",
+      "companies": [
+        "bridgestone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLW9PTFFxMFpQMzJyZkM4RVZiQVlhX1BTVXZXdXNrb0NTNnlLZ3UtdDd2LVhuQ2k5SFE5cUF0SjB5MlRBb3R3ajBwM3BqODdzVVhQNVFOTURLdllsN3Q0WGw0bkhzVGI0T1VOT2tOMHBfNURIOXEwWnYxYUhMREFybGFHcm9DNDBodmx2QXRVd2FlbVo2R2lLV2NmUXRkUHBZMFAzRlVkVU43V2YybThUaGs4ZlM0Q3Zud1JlME0taVpqOE5ETEpXQ1pOMXViNUN4bHBIOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 79,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ev_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 94,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 85,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "hyundai",
+        "count": 12
+      },
+      {
+        "id": "stellantis",
+        "count": 12
+      },
+      {
+        "id": "ford",
+        "count": 8
+      },
+      {
+        "id": "saint_gobain",
+        "count": 5
+      },
+      {
+        "id": "continental",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 79
+      },
+      {
+        "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "ev_penetration",
+        "count": 6
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 722,
+    "dup_title": 286,
+    "too_old": 170,
+    "gate1_blocked": 48,
+    "gate2_blocked": 61,
+    "passed": 157,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Nippon Steel sets coupons of 2.324% to 2.840% on ¥60bn of bonds to refinance debt - Tokyo Brief",
+      "Arcelormittal Nippon Steel India Exec Says Reviewing Latest EU Duty Through Steel Body - TradingView",
+      "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+      "$57M ArcelorMittal facility to bring up to 70 jobs to Macon-Bibb, opening eyed for 2027 - WGXA",
+      "ArcelorMittal breaks ground on $57 million Macon headquarters - 41NBC News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 94 則事件，焦點為Hyundai Motor、斯泰蘭蒂斯、Ford相關動態：「Hyundai-POSCO Louisiana Steel wins Energy Deal of the Yea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hyundai-POSCO Louisiana Steel wins Energy Deal of the Year Award - Donaldsonv...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Ford vs GM vs Stellantis: how the three Detroit automakers compare - Investin...（財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
