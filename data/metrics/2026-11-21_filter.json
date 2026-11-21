@@ -1,0 +1,16 @@
+{
+  "total_raw": 710,
+  "dup_title": 334,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 45,
+  "gate2_fail": 60,
+  "passed": 109,
+  "gate2_samples": [
+    "Hyundai-POSCO recognized at 2026 Louisiana Energy Awards - AOL.com",
+    "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+    "ArcelorMittal breaks ground on $57 million Macon headquarters - 41NBC News",
+    "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+    "\"Russia has been trying to destroy ArcelorMittal for months,\" - Zelenskyy - Цензор.НЕТ"
+  ]
+}

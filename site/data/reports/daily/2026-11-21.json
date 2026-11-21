@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:59:16.941920Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "stellantis-2026-11-21-019",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "$222M in federal funds and 2,200 jobs at stake as Ottawa, Doug Ford meet Stellantis CEO to block Brampton plant sale - Yahoo! Finance Canada",
+      "companies": [
+        "stellantis",
+        "ford"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1teVB1OFVwNVFseFQ0NVpxaGpoWnh6NG9hTFpORS1HTFAwNy01d2NMUWQwOEY4NVRvN2FoZDUxZndnQjZzNkQtVzAxWGR0LVB6QXpWdXVTZ0RLempaVGVuTXB4alEwT3Q4TFlaZWpPNjdKQVBPMExwNmU3eEZ5UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-21-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "China’s EV penetration expected to cross 70% in November as petrol car sales decline - BioEnergy Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "auto_sales",
+        "ev_penetration",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbndTYWdpeHB6czRqa042QWIyenhsYnZLbmhlaTlRTC1yVFJsZXpPQzIxcmZpc0Itc25FOGpWQVVKUTFPUVN2dnVoc1ptQlhSbURkclhEc0NHU05mUzBxQUNPSHg4SlhOY0J4QU5LOUx2VFdES2RidGhBWjZDQ2UwVDFCRVprWEI2WHpMRFZBQXctV1hNVUh0UXFjVnZqbGtjVG9fNW1NRjgtN2ZsbTNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "posco-2026-11-21-045",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "RISE St. James, Sierra Club Sue LDEQ to Vacate Hyundai Steel Air Permit",
+      "companies": [
+        "posco",
+        "hyundai"
+      ],
+      "related": {
+        "customers": [
+          "hyundai"
+        ],
+        "suppliers": [
+          "posco"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://cleantechnica.com/2026/11/20/rise-st-james-sierra-club-sue-ldeq-to-vacate-hyundai-steel-air-permit/"
+    },
+    {
+      "rank": 4,
+      "event_id": "arcelormittal-2026-11-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zelensky: India must respond to Russian strikes on ArcelorMittal Kryvyi Rih - Mezha.net",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ev_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmczN1FWM1hTMVBpWW9wYURkdG1wdjNMeG9VdlM2SHN3V2ZJbmtENzB4SUxOWHNCSHhDNEFCNVR1SVhISjFad0dqMHF2aFFHSlFzMkVVNEVUbnRCbUZBRFpiT1pxbzQ3clNOS1FqN0k5anI4Y01IQUpCQ2MxQ0xpdHJSTnVZZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "arcelormittal-2026-11-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zelenskyy called on Modi to respond to Russian strikes on ArcelorMittal Kryvyi Rih - UA.NEWS",
+      "companies": [
+        "arcelormittal"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHdjVnREUmRtUE5tYTZMX1FnVTZqZnFwa2prVFp5NXVYb0FNSDdNZTd3M2N3ZGQyeDhJSUdGMjkyYWItR093WlpxZVU1blA3eXJkakVRdVR1aHlhRXY0N1VERThQb0h4Q3RESHBESnhoTDk4b1Bsd3pKM0RWckFqWHlTN3BTUXpiWUFzWGt2UW5fbW5lbllVVmJ0VFF3T2dJYkFPVGYxWXlYcUp5S1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ev_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "auto_sales": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 43,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ford",
+        "count": 11
+      },
+      {
+        "id": "hyundai",
+        "count": 4
+      },
+      {
+        "id": "stellantis",
+        "count": 4
+      },
+      {
+        "id": "arcelormittal",
+        "count": 3
+      },
+      {
+        "id": "continental",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "ev_penetration",
+        "count": 4
+      },
+      {
+        "id": "auto_sales",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 710,
+    "dup_title": 334,
+    "too_old": 162,
+    "gate1_blocked": 45,
+    "gate2_blocked": 60,
+    "passed": 109,
+    "pass_rate": "29.0%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Hyundai-POSCO recognized at 2026 Louisiana Energy Awards - AOL.com",
+      "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+      "ArcelorMittal breaks ground on $57 million Macon headquarters - 41NBC News",
+      "ArcelorMittal halts mills on energy costs, Italians follow - EUROMETAL",
+      "\"Russia has been trying to destroy ArcelorMittal for months,\" - Zelenskyy - Цензор.НЕТ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為Ford、Hyundai Motor、斯泰蘭蒂斯相關動態：「$222M in federal funds and 2,200 jobs at stake as Ottawa,...」。主要關注主題為汽車產業通用、財報、電動車滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "$222M in federal funds and 2,200 jobs at stake as Ottawa, Doug Ford meet Stel...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "China’s EV penetration expected to cross 70% in November as petrol car sales ...（汽車銷量、電動車滲透率、財報、汽車產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "電動車滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
